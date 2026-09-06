@@ -1,4 +1,4 @@
-"""Tests for JSON and HTML artifact builders and build CLI."""
+"""Tests for JSON and HTML artifact builders, historical archiving, and build CLI."""
 
 import json
 import os
@@ -114,19 +114,70 @@ def test_build_html_rendering_and_escaping(tmp_path, sample_aggregated_data):
     assert "No new submissions tracked for this pillar" in content
 
 
-def test_build_cli_pipeline_and_nojekyll(tmp_path, sample_aggregated_data):
-    """Verify build.py CLI execution generates latest.json, index.html, and .nojekyll."""
+def test_build_html_date_picker_dropdown():
+    """Verify <select id='date-picker'> renders available dates and respects selection/archive mode."""
+    dates = ["2026-09-06", "2026-09-05", "2026-09-04"]
+    mock_data = {
+        "updated_at": "2026-09-06T12:00:00Z",
+        "pillars": {"results": [], "architecture": [], "education": []},
+    }
+
+    # 1. Main index.html view
+    html_index = render_html_page(
+        mock_data, available_dates=dates, current_date="2026-09-06", is_archive=False
+    )
+    assert '<select id="date-picker"' in html_index
+    assert '<option value="./index.html" selected>Latest (2026-09-06)</option>' in html_index
+    assert '<option value="archive/2026-09-05.html">2026-09-05</option>' in html_index
+    assert '<option value="archive/2026-09-04.html">2026-09-04</option>' in html_index
+    assert 'href="./latest.json"' in html_index
+    assert "addEventListener('change'" in html_index
+
+    # 2. Archive view
+    html_archive = render_html_page(
+        mock_data, available_dates=dates, current_date="2026-09-05", is_archive=True
+    )
+    assert '<option value="../index.html">Latest (2026-09-06)</option>' in html_archive
+    assert '<option value="./2026-09-05.html" selected>2026-09-05</option>' in html_archive
+    assert '<option value="./2026-09-04.html">2026-09-04</option>' in html_archive
+    assert 'href="./2026-09-05.json"' in html_archive
+
+
+def test_build_cli_pipeline_and_archiving(tmp_path, sample_aggregated_data):
+    """Verify build.py CLI generates historical archives in data/ and public/archive/."""
+    tmp_data_dir = tmp_path / "data"
+    tmp_public_dir = tmp_path / "public"
+    tmp_data_dir.mkdir()
+
+    # Pre-populate historical run
+    hist_payload = {
+        "updated_at": "2026-09-05T12:00:00Z",
+        "pillars": {"results": [], "architecture": [], "education": []},
+    }
+    with open(tmp_data_dir / "2026-09-05.json", "w", encoding="utf-8") as f:
+        json.dump(hist_payload, f)
+
     with patch("src.aggregator.run", return_value=sample_aggregated_data):
-        build_main(output_dir=str(tmp_path))
+        build_main(output_dir=str(tmp_public_dir), data_dir=str(tmp_data_dir))
 
-    json_file = tmp_path / "latest.json"
-    html_file = tmp_path / "index.html"
-    nojekyll_file = tmp_path / ".nojekyll"
+    # Check data/ contains snapshots for both dates
+    assert (tmp_data_dir / "2026-09-06.json").is_file()
+    assert (tmp_data_dir / "2026-09-05.json").is_file()
 
-    assert json_file.is_file()
-    assert html_file.is_file()
-    assert nojekyll_file.is_file()
+    # Check public/ artifacts
+    assert (tmp_public_dir / "latest.json").is_file()
+    assert (tmp_public_dir / "index.html").is_file()
+    assert (tmp_public_dir / ".nojekyll").is_file()
 
-    assert json_file.stat().st_size > 0
-    assert html_file.stat().st_size > 0
-    assert nojekyll_file.stat().st_size == 0
+    # Check public/archive/ contains JSON and HTML for both dates
+    archive_dir = tmp_public_dir / "archive"
+    assert (archive_dir / "2026-09-06.json").is_file()
+    assert (archive_dir / "2026-09-06.html").is_file()
+    assert (archive_dir / "2026-09-05.json").is_file()
+    assert (archive_dir / "2026-09-05.html").is_file()
+
+    # Verify date picker in public/index.html has latest selected
+    index_content = (tmp_public_dir / "index.html").read_text(encoding="utf-8")
+    assert '<select id="date-picker"' in index_content
+    assert '<option value="./index.html" selected>Latest (2026-09-06)</option>' in index_content
+    assert '<option value="archive/2026-09-05.html">2026-09-05</option>' in index_content
