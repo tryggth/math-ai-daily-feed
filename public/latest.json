@@ -1,0 +1,652 @@
+{
+  "updated_at": "2026-09-06T22:14:45Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2609.04170v1",
+        "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+        "url": "https://arxiv.org/abs/2609.04170v1",
+        "authors": [
+          "Davide Paglieri",
+          "Logan Cross",
+          "Tim Genewein",
+          "Joel Z. Leibo",
+          "Nenad Tomasev",
+          "Alexander Sasha Vezhnevets"
+        ],
+        "published": "2026-09-03",
+        "summary": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. We report a case study on a research collective of 100 autonomous LLM agents tasked with proving formal mathematical conjectures. Within the swarm, cheating spontaneously emerged and was later challenged by whistleblowers - both without any external intervention. When a single agent discovered an exploit in the evaluation system, it propagated across the collective via a shared knowledge library and later through peer-to-peer messages. Despite early reluctance, a cohort of agents adopted the exploit in response to competitive pressure. A separate group of agents produced an emergent counter-response: auditing fraudulent proofs, alerting peers across broadcast and private channels, staging boycotts, lodging formal complaints, and proposing validation patches. In recent incidents, agent swarms coordinated covertly through improvised side-channels (Dalton and Wallace, 2026; Greenblatt et al., 2026). Our setting differs: the same transparent channels that carried the exploit also gave non-cheating agents the visibility they needed to detect fraud, organize resistance, and enforce norms. We cast the problem of managing the agents' shared infrastructure as the knowledge commons governance problem (Ostrom, 1990). To protect the commons from exploits, we propose to adopt institutional mechanisms, such as graduated sanctioning and collective-choice rules, to support decentralized self-governance in autonomous swarms.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04155v1",
+        "title": "The subconvexity problem for symmetric square $L$-functions in level aspect",
+        "url": "https://arxiv.org/abs/2609.04155v1",
+        "authors": [
+          "Pratim Mitra"
+        ],
+        "published": "2026-09-03",
+        "summary": "In this paper, we address the subconvexity problem in level aspect for symmetric square $L$-functions for cuspidal automorphic representation of $\\mathrm{GL}_2(\\mathbb{Q})$ with a prescribed local ramification at prime $p$. To be more precise, let $π$ be a tempered cuspidal automorphic representation of conductor $q(π)=p^2$ with a non-quadratic central character of conductor $p$. We prove that if the corresponding local representation $π_p$ belongs to a suitable class of representations $\\mathcal S$, then \\[ L\\left(\\frac{1}{2},\\,\\mathrm{Sym}^2π\\right)\\ll_{\\varepsilon, π_\\infty} q(\\mathrm{Sym}^2π)^{\\frac{1}{4}-\\frac{1}{168}+o(1)}, \\] where implied constant depends polynomially on the spectral parameters of $π_\\infty$. This is the first instance of level-aspect subconvex bound for $L$-functions of a $\\mathrm{GL}_3(\\mathbb Q)$ automorphic representation. Our approach is based on the delta-symbol method. Apart from some standard analytic number theoretic tools, Katz's theory of hypergeometric sums, and Deligne's proof of Weil-conjectures play an important role in the proof.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04095v1",
+        "title": "Log-concavity and unimodality of Hodge numbers of Hilbert schemes of points over a surface",
+        "url": "https://arxiv.org/abs/2609.04095v1",
+        "authors": [
+          "Anubhab Pahari"
+        ],
+        "published": "2026-09-03",
+        "summary": "Let \\(S\\) be a smooth projective complex surface with irregularity \\(q=h^{1,0}(S)\\) and geometric genus \\(g=h^{2,0}(S)\\), and let \\(S^{[n]}\\) denote its Hilbert scheme of \\(n\\) points. We prove that, for every \\(n\\ge0\\), the sequence \\[ \\left(h^{p,0}\\bigl(S^{[n]}\\bigr)\\right)_{p=0}^{2n} \\] is log-concave if and only if \\(g\\le\\binom{q+1}{2}\\). Moreover, log-concavity of all these sequences is already equivalent to log-concavity of the sequence for \\(n=2\\). We also prove that these sequences are unimodal for every \\(n\\ge0\\) if and only if \\(q\\ge1\\) or \\(g=0\\), and that this condition is already detected by the sequence for \\(n=1\\).",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04092v1",
+        "title": "Short character sums of inhomogeneous polynomials",
+        "url": "https://arxiv.org/abs/2609.04092v1",
+        "authors": [
+          "Rena Chu"
+        ],
+        "published": "2026-09-03",
+        "summary": "Let $p$ be a prime. We prove nontrivial bounds on short sums of Dirichlet characters mod $p$ evaluated at a class of polynomials, not necessarily homogeneous, in $n$ variables and of degree $k$. For large $n$, we further achieve nontrivial bounds for sums over boxes with side-lengths as short as $p^{1/(k-1)+\\varepsilon}$, which breaks past the Burgess barrier of $p^{1/4+\\varepsilon}$ as soon as $k\\geq 6$. In the proof, we develop a new variation of the Burgess amplification method that reduces the problem to bounding additive character sums. This is the first case in which a Burgess-type method succeeds in the inhomogeneous setting.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04079v1",
+        "title": "Diffuse Gaussian Truncation For Deterministic Approximate Counting",
+        "url": "https://arxiv.org/abs/2609.04079v1",
+        "authors": [
+          "Zihong Yi"
+        ],
+        "published": "2026-09-03",
+        "summary": "We give deterministic FPTASes for two dense counting problems on which the known deterministic algorithms, based on zero-free interpolation, run in quasipolynomial time. For fixed $0<γ<1/2$ and $0<θ\\leq1$, the first approximates $\\mathrm{haf}(A)$ for a symmetric matrix $A$ when its support graph $G$ has minimum degree at least $(1/2+γ)n$ and its nonzero entries lie in $[θ,1]$. It also approximates permanents under the analogous bipartite condition, including full-support matrices in $[θ,1]$. For fixed $β>0$ and $0<κ\\leq1$, the second approximates the zero-field Ising partition function $Z(J)$ for zero-diagonal real symmetric matrices $J$ satisfying $\\max_{i,j}|J_{ij}|\\leqβ/n$ and $λ_{\\max}(J)\\leq1-κ$. No separate lower-eigenvalue condition is imposed. We further prove $\\log\\mathrm{haf}(A)=h_A(G)-n/2+O_{γ,θ}(1)$ and $Z(J)=2^n\\det(I-J)^{-1/2}(1+O_{β,κ}(1/n))$. Here $h_A(G)$ is the maximum weighted fractional-matching entropy. For unweighted graphs, the first formula improves the Cuckler--Kahn error from $o(n)$ to $O_γ(1)$ on the fixed-margin class and extends it to weights in $[θ,1]$. Both algorithms use a common Gaussian truncation principle. Each problem becomes an integral of a product of a fixed entire function over Gaussian coordinates, with possibly indefinite moment matrix entries of order $1/n$. Cancelling the linear term and exactly resumming the quadratic term leaves a coordinate remainder vanishing to order at least three. Complex dilation handles small supports. For large supports, we bound the recombined tail by a large-deviation rate that beats the entropy of the subsets. The truncation error is at most $(CR/n)^{R/2}+e^{-cn}$. This faster-than-geometric decay permits $R\\log(en/R)=O(\\log n+\\log(1/ε))$ and hence polynomial enumeration.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04072v1",
+        "title": "Oort's conjecture for split unitary Shimura varieties",
+        "url": "https://arxiv.org/abs/2609.04072v1",
+        "authors": [
+          "Paul Philippe",
+          "Fabian Schnelle",
+          "Eva Viehmann"
+        ],
+        "published": "2026-09-03",
+        "summary": "We prove that generically on the basic stratum of split unitary Shimura varieties, the universal abelian variety with endomorphism structure and polarization has automorphism group $\\{\\pm 1\\}$, except for a few degenerate cases. This is a direct analogue of Oort's conjecture on automorphisms of supersingular abelian varieties. On the way, we explicitly compute the generic automorphism group of the universal $p$-divisible group in a given basic isogeny class.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04069v1",
+        "title": "Positive and Negative Square Energies of $2$-Connected Graphs",
+        "url": "https://arxiv.org/abs/2609.04069v1",
+        "authors": [
+          "S. Akbari",
+          "Fu-Tao Hu",
+          "Ya-Yang Liu"
+        ],
+        "published": "2026-09-03",
+        "summary": "Let $G$ be a graph of order $n$, and let $s^+(G)$ and $s^-(G)$ denote the sums of the squares of the positive and negative adjacency eigenvalues of $G$, respectively. Recently, Liu, Tang, and Zhang proved the conjecture of Elphick, Farber, Goldberg, and Wocjan that every connected graph $G$ of order $n$ satisfies $ \\min\\{s^+(G), s^-(G)\\} \\ge n-1. $ For positive square energy, we strengthen this result by showing that every $2$-connected graph $G$ of order $n$ which is not a cycle satisfies $s^+(G)\\ge n$. The formally analogous assertion for $s^-$ is false: the complete graph $K_n$ satisfies $s^-(K_n)=n-1$. We prove a natural counterpart in the triangle-free class: every triangle-free $2$-connected noncycle $G$ satisfies $ \\min\\{s^+(G),s^-(G)\\}>n. $ More generally, it is enough that some maximum-degree vertex of $G$ belongs to no triangle. Together with the exact square energies of cycles, this characterizes the triangle-free $2$-connected graphs for which $s^-(G)\\ge n$; the only exceptions are the cycles $C_{4k+3}$ with $k\\geq1$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04057v1",
+        "title": "Limits of Stochastic Semigroups and Block-Triangular Majorisation",
+        "url": "https://arxiv.org/abs/2609.04057v1",
+        "authors": [
+          "Fabio Deelan Cunden",
+          "Jakub Czartowski",
+          "Giovanni Gramegna",
+          "Marilena Ligabò"
+        ],
+        "published": "2026-09-03",
+        "summary": "We investigate limits of semigroups of stochastic matrices defined by their invariant distribution. Given probability vectors $γ(β)$ depending on a parameter $β$, we introduce a notion of convergence as $β\\to\\infty$ for the corresponding semigroups of $γ(β)$-preserving stochastic matrices and investigate the structure of the resulting limit. In general, the limiting semigroup differs from the semigroup preserving the limiting distribution, showing that these two operations do not commute. We develop a general framework for such limiting semigroups and study in detail the case in which the invariant distributions are Gibbs vectors at the inverse temperature $β$. We show that the limiting semigroup consists of block-upper-triangular stochastic matrices subject to additional substochasticity constraints. We characterise and enumerate their extremal elements and determine the preorder on probability vectors induced by the action of the semigroup. The resulting notion of Block-Triangular majorisation interpolates between ordinary majorisation and upper triangular (aka unordered) majorisation. We show that it is completely characterised by a finite family of monotones and analyse the corresponding behaviour of Rényi $α$-entropies as $β\\to\\infty$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04054v1",
+        "title": "An obstruction to the maximal singularity of the Hilbert scheme of points on threefolds",
+        "url": "https://arxiv.org/abs/2609.04054v1",
+        "authors": [
+          "Fatemeh Rezaee",
+          "Parsa Saberi"
+        ],
+        "published": "2026-09-03",
+        "summary": "We prove a necessary condition conjecture ([27, Conjecture B]) for the maximal singularity of the Hilbert scheme of points in 3D for a large class of degrees, which in particular implies the 1978 Briançon-Iarrobino Conjecture for a tetrahedral degree, and vastly generalises the result in [19]. The novelty lies in introducing a new upper bound on the dimensions of the tangent spaces of the claimed non-maximally singular ideals, constructing canonical ideals that satisfy the claimed maximal singularity condition, providing a lower bound on the dimension of their tangent spaces, and finally comparing the two cases.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04000v1",
+        "title": "The type and cardinality of minimal presentations of numerical semigroups with embedding dimension four",
+        "url": "https://arxiv.org/abs/2609.04000v1",
+        "authors": [
+          "Kazimierz Chomicz"
+        ],
+        "published": "2026-09-03",
+        "summary": "For a numerical semigroup $S$ with embedding dimension four, we study the relationship between its type $t(S)$ and the cardinality of its minimal presentations $η(S)$. Using an approach based on the geometry of the Apéry set, we prove that $4t(S) + 5 \\geq η(S) \\geq t(S)-11$. This resolves a problem of Moscariello and Sammartano asking whether $t(S)$ is bounded by a function of $η(S)$, and improves the previously known bound $9t(S) + 4 \\geq η(S)$ due to Bresinsky.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03961v1",
+        "title": "On the exponential sum over squarefree integers",
+        "url": "https://arxiv.org/abs/2609.03961v1",
+        "authors": [
+          "Nicolas Robles",
+          "Alexandru Zaharescu",
+          "Dirk Zeindler"
+        ],
+        "published": "2026-09-03",
+        "summary": "Let $μ$ be the Möbius function and $e(t)=e^{2πit}$. We prove that if $N\\ge2$, $α\\in\\mathbb{R}$, $(a,q)=1$, and $|α-a/q|\\le q^{-2}$, then \\[\\bigg|\\sum_{n\\le N}μ^2(n)e(αn)\\bigg|\\ll\\left(\\frac Nq+q\\right)(\\log 2N)^5, \\] with an absolute implied constant, and we deduce the corresponding estimate on the minor arcs of the Hardy--Littlewood dissection throughout the range $Q\\le N^{1/2}$. The estimates of Schlage-Puchta [SP] and of Tolev [T] have the same dependence on $q$ and $Q$ but carry a factor $N^{\\varepsilon}$. The proof uses Heath-Brown's square sieve with sieving primes confined to an interval $(P,2P]$, where $P$ may be as small as a multiple of $\\log N$; a finite Fejér majorant in place of a truncated Fourier series; and, after completion of the character sums, a count of representations that exploits the restriction on the primes in place of the divisor function.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03959v1",
+        "title": "The combinatorial Hopf algebra of signed graphs",
+        "url": "https://arxiv.org/abs/2609.03959v1",
+        "authors": [
+          "Jean-Christophe Aval",
+          "Raquel Melgar"
+        ],
+        "published": "2026-09-03",
+        "summary": "The theory of combinatorial Hopf algebras is a powerful framework for studying algebraic invariants of combinatorial objects. The aim of this work is to incorporate chromatic invariants of signed graphs into this context. We define the combinatorial Hopf algebra of signed graphs. Through this definition, algebraic invariants already known in the literature arise naturally. Using the antipode, we find new proofs of combinatorial reciprocity results for these invariants. We also study bivariate polynomial invariants, both for classical graphs and for signed graphs.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03954v1",
+        "title": "Galois representations ramified at one prime via relative deformation theory",
+        "url": "https://arxiv.org/abs/2609.03954v1",
+        "authors": [
+          "Anwesh Ray"
+        ],
+        "published": "2026-09-03",
+        "summary": "Let $p$ be an odd prime and let $\\mathbf{G}/\\mathbb Z$ be a split connected reductive group with $\\operatorname{dim} Z(\\mathbf{G})\\leq1$. Assume that a split maximal torus of $\\mathbf{G}$ admits a cocharacter whose pairing with every simple root is odd, and impose an explicit root-theoretic condition on the reduction of $\\mathrm{Lie}(\\mathbf{G}^{\\mathrm{der}})$ modulo $p$. We construct infinitely many continuous representations $ρ:G_{\\{p\\}}\\longrightarrow\\mathbf{G}(\\mathbb{Z}_p)$ which are unramified at every finite prime different from $p$ and whose images contain a principal congruence subgroup of $\\mathbf G^{\\mathrm{der}}(\\mathbb{Z}_p)$. When the center has dimension one, the representations may be chosen to have open image in $\\mathbf{G}(\\mathbb{Z}_p)$. The construction continues the author's earlier work on $\\mathrm{GL}_n$-valued representations ramified at one prime, but replaces the residual unobstructedness used there by a relative lifting argument. For $\\mathbf{G}=\\mathrm{GL}_n$ all the required root-theoretic conditions are automatic for every odd prime. We therefore obtain, for every odd $p$ and every $n>1$, infinitely many representations $G_{\\{p\\}}\\to\\mathrm{GL}_n(\\mathbb{Z}_p)$ with open image. In particular, this removes the weak Vandiver-type hypothesis occurring in the author's previous work, as well as the restriction $p\\geq7$ in that construction.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03946v1",
+        "title": "The groups $\\operatorname{SL}_2(\\mathbb{F}_{13})$ and $\\operatorname{SL}_2(\\mathbb{F}_{19})$ are Galois over $\\mathbb{Q}$",
+        "url": "https://arxiv.org/abs/2609.03946v1",
+        "authors": [
+          "Emir Eray Karabiyik"
+        ],
+        "published": "2026-09-03",
+        "summary": "In this paper, we show that $\\operatorname{SL}_2(\\mathbb{F}_{13})$ and $\\operatorname{SL}_2(\\mathbb{F}_{19})$ are Galois groups of totally real extensions of $\\mathbb{Q}$. For each of these primes $\\ell$, we find a polynomial of degree $\\ell+1$ whose splitting field has Galois group $\\operatorname{PSL}_2(\\mathbb{F}_\\ell)$. These fields satisfy Böge's criterion and the associated central embedding problem has a proper solution with Galois group $\\operatorname{SL}_2(\\mathbb{F}_\\ell)$. One can choose the resulting fields totally real via a quadratic twist. The degree $14$ polynomial is found through a genus one Hurwitz family of degree 14 covers. The degree 20 polynomial is found using Yang's modular equations for the Shimura curve $X_6^*(1)$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03939v1",
+        "title": "Arithmetic probability measures",
+        "url": "https://arxiv.org/abs/2609.03939v1",
+        "authors": [
+          "Mayuresh Londhe"
+        ],
+        "published": "2026-09-03",
+        "summary": "We consider probability measures on compact subsets of the complex plane arising as limiting distributions of Galois conjugates of certain algebraic integers. These measures are characterized by infinitely many integral inequalities, one for each nonzero integer polynomial. We study a broad family of measures given by particular convex combinations of harmonic and equilibrium measures. We then show that, for measures in this family, it suffices to verify two conditions to guarantee all the required inequalities. Under additional arithmetic constraints on the underlying compact sets, we further show that the infinite collection of inequalities is equivalent to checking the inequalities associated with two explicitly specified integer polynomials.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2609.04189v1",
+        "title": "Robust PAC Learning of Concurrent Stochastic Games",
+        "url": "https://arxiv.org/abs/2609.04189v1",
+        "authors": [
+          "Angel Y. He",
+          "David Parker"
+        ],
+        "published": "2026-09-03",
+        "summary": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust MDP-based exploration mechanism to drive joint state-action coverage. Crucially, we introduce a Nash margin characterisation that enables principled reasoning about equilibrium existence: the framework either returns an $\\varepsilon$-approximate NE whose social-welfare value is $\\varepsilon$-close to optimal, or provides a sound certificate that no exact NE exists. Under a minimum reachability condition $p_{\\mathrm{reach}}>0$ over relevant state-action pairs, the algorithm terminates after a polynomial number of trajectory samples, with sample complexity $\\widetilde{O}\\left( {R_{\\max}^2 H^4 |S|^2 |A| / (p_{\\mathrm{reach}} \\varepsilon^2)} \\right)$. Empirical results on benchmark CSGs demonstrate near-optimal performance, correct handling of equilibrium (non-)existence, and sample complexity consistent with theory.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04086v1",
+        "title": "A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI",
+        "url": "https://arxiv.org/abs/2609.04086v1",
+        "authors": [
+          "Fabio F. G. Buono"
+        ],
+        "published": "2026-09-03",
+        "summary": "For every coherent and sufficiently expressive finite syntactic system S, we prove the existence of at least one theorem that S cannot produce autonomously. The result is a metatheorem: it proves the existence of a theorem, and applies to every finite syntactic system - security mechanisms, AI systems, formal verifiers, legal systems, economic models, and the formal system in which it is itself proved.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04043v1",
+        "title": "Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents",
+        "url": "https://arxiv.org/abs/2609.04043v1",
+        "authors": [
+          "M. Frans Kaashoek",
+          "Nickolai Zeldovich"
+        ],
+        "published": "2026-09-03",
+        "summary": "MachCSL is a framework for verifying systems software, such as an OS kernel, on top of low-level semantics of a RISC-V computer, based on the Sail RISC-V semantics. The key idea behind MachCSL is to adapt concurrent separation logic, based on Iris, to reasoning about low-level hardware execution at the sub-instruction level: page-table translation, TLB, privilege levels, configuration registers, instruction fetch/decode/execute, traps and interrupts, DMA, shared memory, power failures, etc. Reasoning at this level of detail ensures that the system software correctly manages all of the hardware details. Verifying software at this low level of abstraction is tedious, but LLM-based agents are capable of reasoning about such low-level details. As a case study, we verify the xv6 OS kernel (6,593 lines of C and assembly code), which provides a traditional Unix system call interface (processes, file system, file descriptors, and preemptive scheduling) and has substantial internal concurrency (multi-core support with fine-grained locking, shared memory, interrupts, DMA, etc.). In the verification process, we uncovered nine bugs in the xv6 implementation, as well as one bug in the Sail RISC-V semantics. The verification effort took us 77 days, including the time to develop the MachCSL framework.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03998v1",
+        "title": "Typed Flexible-Arity Slotted E-Graphs: A Soundness Construction and an Alloy Case Study",
+        "url": "https://arxiv.org/abs/2609.03998v1",
+        "authors": [
+          "Guanxuan Wu",
+          "Allison Sullivan"
+        ],
+        "published": "2026-09-03",
+        "summary": "Slotted e-graphs represent open terms modulo consistent renaming, while algebraic operators benefit from canonical sequence, bag, or set children. We compose the two at a specification level: typed slot-mapped invocations inhabit operator-declared ports whose sibling quotient and recursive flattening licenses are certified separately. A generic finite quotient presentation proves exactness of its least-orbit normal form, while certified records specify effective-support kernel extraction and collision. For abstract obligation traces carrying local endpoint certificates, we prove finite-unfolding equational soundness. An Alloy case study compares seven related pipeline arms on a frozen corpus and a controlled transformation suite. Its measurements characterize bounded capability and structural consolidation; they do not establish refinement of the Java artifact or experimental replay against the formal model.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03908v1",
+        "title": "Property Testing for Recursive Query Languages",
+        "url": "https://arxiv.org/abs/2609.03908v1",
+        "authors": [
+          "Isolde Adler",
+          "Carsten Lutz",
+          "Quentin Manière",
+          "Marcin Przybyłko",
+          "Lukas Schulze"
+        ],
+        "published": "2026-09-03",
+        "summary": "In the context of database querying, property testing provides a framework for testing query answers with high confidence while inspecting only a sublinear part of the database, through completion queries and size queries. A fundamental result of Chen and Yoshida (2019) states that non-satisfaction of a Boolean conjunctive query $q$ is testable with a constant number of such queries and one-sided error if and only if $q$ is equivalent to an $α$-acyclic query. In this article, we initiate the study of property testing for recursive query languages, focusing on two-way regular path queries (2RPQs) and monadic Datalog. One of our main results is positive: non-answers to any 2RPQ are constant query testable with one-sided error. We extend this slightly to a certain class of monadic Datalog programs in which recursion is restricted to be linear and rule bodies must be $α$-acyclic. Turning towards unrestricted monadic Datalog, we next show that if a monadic Datalog program $Π$ is not equivalent to an $α$-acyclic program, then falsity of $Π$ is not constant query testable with one-sided error. This is under the assumption that all rule-bodies are self-join free. We leave open the case of monadic Datalog programs with $α$-acyclic rule bodies that are not restricted to linear recursion, but observe as a first step that there exist $α$-acyclic programs that are mildly non-linear and constant query testable with one-sided error.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03699v1",
+        "title": "Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty",
+        "url": "https://arxiv.org/abs/2609.03699v1",
+        "authors": [
+          "Vladimir Krsmanovic",
+          "Florian Kohn",
+          "Bernd Finkbeiner",
+          "Milan Simovic"
+        ],
+        "published": "2026-09-03",
+        "summary": "Robots operating in physical environments make control decisions based on uncertain sensor measurements, which can lead to unsafe or suboptimal actions. Runtime monitors that check their behavior against safety specifications must represent this uncertainty soundly. Zonotopes are a widely used representation, but continuously incorporating new measurements grows their order unboundedly, so monitors must periodically apply an over-approximating reduction. The choice of the reduction method substantially affects the zonotope's precision, yet existing approaches typically utilize a fixed method throughout the run, even though the optimal choice depends on the current state. This paper presents a Predictive Zonotope Reduction (PZR) approach, which frames reducer selection as an optimal control problem and solves it using beam-search model predictive control. Policy distillation into a small neural policy further provides substantially higher execution speed than model predictive control while maintaining improved performance, enabling uncertainty-aware runtime monitoring on resource-constrained real-time systems. We implement our approach in the RLola runtime monitoring framework and evaluate it on a 5-degree-of-freedom robotic arm simulated in MuJoCo, with sensor uncertainty modeled according to ISO 5725. Experiments on a Raspberry Pi 5 show that dynamic reduction significantly lowers false-positive rates in monitoring compared with static reduction strategies.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03670v1",
+        "title": "Target Discounted Sum Problem on Markov Chains with Applications to Markov Decision Processes",
+        "url": "https://arxiv.org/abs/2609.03670v1",
+        "authors": [
+          "Nathalie Bertrand",
+          "Pranav Ghorpade",
+          "Senthil Rajasekaran",
+          "Sasha Rubin",
+          "Moshe Y. Vardi"
+        ],
+        "published": "2026-09-03",
+        "summary": "The discounted sum is a way to aggregate a sequence of weights from a finite alphabet $Σ$, i.e., for a discount factor $λ$, the discounted sum of a sequence $w_0 w_1 w_2 \\cdots$ over $Σ$ is $\\sum_{i \\in \\mathbb{N}} w_i λ^i$. The target discounted-sum problem, which is currently open, asks, given $λ,Σ$ and a target $t$, whether there exists an infinite sequence over $Σ$ whose discounted sum is equal to $t$. We study and solve a probabilistic variant of this problem, i.e., the target discounted-sum problem on Markov chains. To do this, we prove that the event consisting of paths whose discounted sum is equal to the target and has infinitely many distinct suffix sums has probability zero. This structural property allows us to solve the target discounted-sum problem on Markov chains using an automata-theoretic technique. We apply our technical results to Markov decision processes with target discounted-sum objectives: we show that the infimum value and the finite-memory supremum value are computable in pseudo-polynomial time and are attained by deterministic finite-memory strategies.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03478v1",
+        "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+        "url": "https://arxiv.org/abs/2609.03478v1",
+        "authors": [
+          "Ján Pastorek"
+        ],
+        "published": "2026-09-03",
+        "summary": "We report on our ongoing project to develop a computational pipeline, AutoGraphForge, for an automated graph-theoretic conjecturing-refuting-formalizing-proving system. Conjecture generation is counterexample-guided and runs in rounds: a Graffiti3 generator proposes conjectures over a small, evolving snapshot table $T$ (initially a few hundred graphs with their computed invariants) that grows only by counterexamples to its own conjectures. A novelty filter of $559$ classical and folklore relations, closed under transitive composition and linear identity substitution, decides via a linear program whether a candidate is already implied by known results. Surviving candidates are tested against a dataset of about $348,000$ graphs, unioning the complete House of Graphs invariant export, the exhaustive census of all connected graphs on at most nine vertices, several extremal families (strongly regular, minimal Ramsey, Cayley, cages, barbells, lollipops, spiders), and random models. Counterexample-search algorithms then attack the remainder. Run for several rounds on an HPC cluster, the loop yields $6,522$ conjectures that survived the refutation dataset, the novelty filter and every active-search run -- among them nontrivial relations between the annihilation number and the edge-cover number for bipartite and regular graphs, which we prove by hand. A subsequent formalization and proving stage deterministically translates each surviving conjecture into a Lean 4 statement skeleton; every candidate proof is kernel-verified against a pinned mathlib4 and our custom invariant preamble. This stage integrates two neural provers -- DeepSeek-Prover-V2-671B (served with vLLM) and the Lean-specialised OProver-32B -- behind the independent kernel check. It is implemented end-to-end and passes initial sanity checks, with the full pipeline currently running on the cluster.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03472v1",
+        "title": "Override and Update in Restriction Categories",
+        "url": "https://arxiv.org/abs/2609.03472v1",
+        "authors": [
+          "Jean-Simon Pacaud Lemay",
+          "Chad Nester"
+        ],
+        "published": "2026-09-03",
+        "summary": "We study the override and update operators on partial functions from the perspective of restriction categories. We propose a definition of override restriction categories, in which both of the operators in question exist. We prove a number of results concerning these operators and their relationship to the structure of the ambient restriction category, as well as relating them to the existing literature on the override and update operators. We provide various examples of override restriction categories and in particular show that every classical restriction category is an override restriction category.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03366v1",
+        "title": "Accountable AI with Grounded, Faithful, Consistent, Actionable Rationales: A Case Study in Clinical Trial Matching with VERDICT",
+        "url": "https://arxiv.org/abs/2609.03366v1",
+        "authors": [
+          "Zikai Zhou",
+          "Yufei Jin",
+          "Yilin Xu",
+          "Yu-Chiang Wang",
+          "Chieh-Ju Chao",
+          "Monica S. Lam"
+        ],
+        "published": "2026-09-03",
+        "summary": "Accountability means a decision can be examined, justified, and contested. LLMs make this hard: fluent output may be ungrounded, incomplete, or unfaithful to the decision process. Achieving accountability requires verified rationales (how was the decision reached), assumptions (what was assumed rather than known), policy consistency (the same treatment for the same facts), and pivotal conditions (what would change the outcome). We introduce self-faithfulness as an automatic test of accountability: changing the pivotal conditions should change the decision. We examine accountable AI through clinical trial matching, a high-stakes task central to evidence-based medicine. Although LLM-based matchers match patients to trials reasonably accurately, they apply decision policies inconsistently and produce rationales that are unfaithful to their own decisions. We introduce VERDICT, an LLM-based agent that translates a decision task, its constraints, and its policy into Satisfiability Modulo Theories (SMT), then derives the decision with SMT and MaxSMT solvers -- so policies are applied consistently and decisions are accountable by construction. Across a SIGIR 2016-derived dataset and TREC 2021, VERDICT achieves the strongest decision accuracy among LLM-only and neurosymbolic baselines, applies policies with perfect consistency, and produces clinician-preferred rationales grounded in explicit assumptions and pivotal conditions, with improved counterfactual self-faithfulness.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03127v1",
+        "title": "Skolem-Mahler-Lech in rings of positive characteristic: a shorter proof and a multi-dimensional generalization",
+        "url": "https://arxiv.org/abs/2609.03127v1",
+        "authors": [
+          "Ruiwen Dong",
+          "Doron Shafrir"
+        ],
+        "published": "2026-09-02",
+        "summary": "Let $R$ be a commutative ring and $f(a_1, \\ldots, a_n) = \\sum_{i=1}^k r_{i1}^{a_1} \\cdots r_{in}^{a_n} m_i$ be a linear-exponential map over an $R$-module $M$. Dong and Shafrir (2026) showed that, when $\\ell M = 0$ for some $\\ell \\in \\mathbb{N}_{>0}$, the zero set of $f$ is the intersection of effectively computable $p$-normal sets, where $p$ ranges over the prime divisors of $\\ell$. This generalizes an earlier theorem of Derksen and Masser (2012) on the solution set of $S$-unit equations over fields of positive characteristic. The purpose of this paper is twofold. First, we give a shorter proof of Dong and Shafrir's result, using the theorem of Derksen-Masser as a blackbox. Our proof also yields a decomposition of the zero set as a positive Boolean combination of affine transformations of zero sets of linear-exponential equations over fields. Second, we prove a multi-dimensional generalization of the Skolem-Mahler-Lech theorem over rings of finite characteristic. Specifically, we show that the zero set of every $n$-dimensional linear recurrence sequence over an $R$-module $M$ satisfying $\\ell M = 0$ is the intersection of effectively computable $p$-normal sets (in $\\mathbb{N}^n$), where $p$ ranges over the prime divisors of $\\ell$. For example, this gives a decision procedure for whether two classical linear recurrence sequences have a common value over a ring of characteristic $p^a$ or $p^a q^b$, where $p$ and $q$ are primes.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.02873v1",
+        "title": "Causal Probabilistic Programming via Magmadic Do-Notation",
+        "url": "https://arxiv.org/abs/2609.02873v1",
+        "authors": [
+          "Mario Román"
+        ],
+        "published": "2026-09-02",
+        "summary": "We introduce a do-notation metalanguage for causal probabilistic programming. The metalanguage is based on magmads: non-associative monads. We derive causal probabilistic programming constructs from non-associativity and the primitives of probabilistic programming.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.02661v1",
+        "title": "Intuitionistic Unitary Linear Logic: A Proof-Theoretical Approach to Purely Quantum Higher-Order",
+        "url": "https://arxiv.org/abs/2609.02661v1",
+        "authors": [
+          "Julien Lamiroy",
+          "Benoît Valiron",
+          "Renaud Vilmart"
+        ],
+        "published": "2026-09-02",
+        "summary": "Although the circuit model for quantum computation is well established, it is incapable of representing non-causal higher-order quantum processes such as the quantum switch. If several models of non-causal quantum computation have been considered in the literature, the approaches have so far only been focusing on the physicality of such processes, using matrices and other techniques from linear algebra. If these approaches are expressive, they however only provide a static and monolithic understanding of these processes. In this article, we propose a new formalism for non-causal, higher-order quantum processes. Based on a Curry-Howard interpetation, our proposal offers a computational interpretation that is both compositional and modular. In particular, we present Intuitionistic Unitary Linear Logic (IULL), a logic based on linear logic focusing on conservation of unitarity for higher order terms. We prove the coherence of IULLL, its completeness with regard to unitaries, and the admissibility of its cut rules. We finally discuss the validity of our approach by revisiting known non-causal quantum processes with IULL.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.02598v1",
+        "title": "Metrization of Quasi-Uniformities, Powerset Monads, and Qualitative Robustness Analysis",
+        "url": "https://arxiv.org/abs/2609.02598v1",
+        "authors": [
+          "Francesco Dagnino",
+          "Amin Farjudian",
+          "Eugenio Moggi"
+        ],
+        "published": "2026-09-02",
+        "summary": "We study the relationship between quasi-uniform spaces, topological spaces, and quantale-valued metric spaces. Our main result is a metrization theorem establishing an equivalence between the category of quasi-uniform spaces and a category of quantale-valued metric spaces. We also obtain a quantale-based metrization theorem for arbitrary topological spaces that refines existing constructions. These results identify quasi-uniformities as the appropriate qualitative counterpart of quantale-valued metrics. Building on this correspondence, we show that the Hausdorff-Smyth monad on quantale-valued metric spaces, which is used in quantitative robustness analysis, arises as a lifting of a corresponding monad on quasi-uniform spaces along the equivalence. This provides a unified categorical framework connecting topology, quasi-uniformity, and quantitative robustness analysis.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.02457v1",
+        "title": "Specification-Guided Path Shortcutting for Efficient Probabilistic Model Checking",
+        "url": "https://arxiv.org/abs/2609.02457v1",
+        "authors": [
+          "Tsubasa Matsumoto",
+          "Kazuki Watanabe",
+          "Masaki Waga"
+        ],
+        "published": "2026-09-02",
+        "summary": "Given the safety-critical nature of many embedded systems, their safety assurance is essential. Because such systems are typically stochastic, probabilistic model checking is a particularly important technique. However, there is a well-known scalability issue due to state-space explosion, especially when verifying complex properties. To mitigate this issue, we propose specification-guided path shortcutting for probabilistic systems, focusing on Markov chains (MCs) and $ω$-regular properties. The key idea is that, when the verified property is fixed, certain sequences of transitions in an MC can be replaced with a single transition without changing the satisfaction probability, and thus, we can reduce the state space of the MC. We implement the proposed path shortcutting and evaluate its contribution to the performance of probabilistic model checking, using Storm as the baseline model checker. The results suggest that our approach often outperforms the baseline, particularly on benchmark instances with complex specifications.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2609.04125v1",
+        "title": "Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised Data Mining Approaches",
+        "url": "https://arxiv.org/abs/2609.04125v1",
+        "authors": [
+          "Hui Shi",
+          "Ran Bi",
+          "Xi Lin",
+          "Yan Dai"
+        ],
+        "published": "2026-09-03",
+        "summary": "The proliferation of digital tools in education offers numerous benefits but also introduces significant challenges, notably digital distractions that hinder academic performance, especially in online learning contexts. This study employed unsupervised data mining techniques, specifically association rule mining and clustering analysis, to identify effective learning strategies associated with lower levels of digital distractions among college students. Data from 530 participants revealed that self-regulated learning strategies (i.e., goal setting, environment structuring, and time management) co-occurred most consistently with lower digital distractions. Additionally, learner-instructor and learner-content engagement strategies, as well as technical competencies, also tended to appear in the same profiles as lower distraction. Interestingly, reliance on peer help-seeking and learner-learner engagement strategies appeared less often in those lower distraction profiles. These findings offer actionable implications for educators to design targeted interventions that foster focused and productive online learning environments.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03999v1",
+        "title": "Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond",
+        "url": "https://arxiv.org/abs/2609.03999v1",
+        "authors": [
+          "Nivedita Singh",
+          "Alsharif Abuadbba",
+          "Yansong Gao",
+          "Surya Nepal",
+          "Hyoungshick Kim"
+        ],
+        "published": "2026-09-03",
+        "summary": "Large language models (LLMs) are becoming integral to web applications and browser agents, transforming online interactions while introducing new attack vectors and reshaping longstanding web vulnerabilities. Classical threats such as cross-site scripting (XSS) can be amplified through LLM-mediated interactions, while LLM-specific vulnerabilities can propagate across web applications, introducing attacks such as prompt injection. Securing modern web systems therefore requires understanding interactions between traditional and LLM-specific threats across the system lifecycle. Unlike prior surveys treating web and LLM security separately, this survey provides a unified analysis of how LLMs amplify web vulnerabilities across client-side, server-side, and pipeline layers while evaluating defenses and their limitations. The analysis examines extending NIST and ISO/IEC AI security frameworks to the security needs of LLM-enabled web environments. Three unresolved challenges are identified: adversarial natural-language instructions, autonomous agent security, and post-deployment security through continuous monitoring and adaptation. An LLM-aware monitoring and control framework is proposed, integrating semantic input validation, prompt integrity protection, output isolation, agent governance, and runtime monitoring. This unified perspective characterizes the evolving threat landscape and outlines future directions for secure AI-enabled web systems.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03936v1",
+        "title": "Making Gender-Inclusive Practices Actionable: Evaluating a Research-Informed Computing Education Toolkit",
+        "url": "https://arxiv.org/abs/2609.03936v1",
+        "authors": [
+          "Alina Berry",
+          "Susan McKeever",
+          "Brenda Murphy",
+          "Sarah Jane Delany"
+        ],
+        "published": "2026-09-03",
+        "summary": "The persistent gender imbalance in computing remains a global concern, and universities offer a key part of the pipeline to address it. Although research has identified practices that support under-represented student groups, translating this evidence into actionable guidance remains challenging. This paper first presents a novel web- based toolkit (TechMate) designed to address this gap by helping computing educators implement gender- inclusive initiatives through practical research-informed guidance. The toolkit defines over 25 actions, ranging from operational to strategic, and provides case studies and implementation resources. Second, this work reports on the evaluation of TechMate, capturing educators first impressions of its usefulness and usability through authentic tasks, and eliciting unanticipated insights about structural barriers to gender-inclusive practice in computing higher education. Eighteen computing educators of varying seniority from eight universities in Ireland assessed the toolkit using nine research-driven attributes: four usefulness measures (novelty, relevance, trustworthiness, actionability) and five usability measures (effectiveness, aesthetics, navigation, terminology, user satisfaction). Data was analysed using mixed methods: deductive coding, quantitative sentiment scoring, and inductive thematic analysis. Educators rated TechMate highly for user satisfaction and praised its novelty and trustworthiness, with over 60% of participants reporting positively on all attributes, suggesting that research -informed tools can be designed for real-world use. Thematic analysis highlighted other challenges, including women students isolation, institutional resistance to change, and the scarcity of women role models, while also surfacing proposed solutions such as leveraging student ambassadors and fostering supportive learning environments.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03853v1",
+        "title": "Bridging Formal and Perceived Fairness: Development of an Interdisciplinary Framework in Algorithmic Decision-Making",
+        "url": "https://arxiv.org/abs/2609.03853v1",
+        "authors": [
+          "Maike Lindermayr",
+          "Mattia Cerrato",
+          "Luisa Hübner",
+          "Johannes Kraus"
+        ],
+        "published": "2026-09-03",
+        "summary": "While fairness has become a central concern in research on algorithmic systems, the field remains predominantly shaped by Computer Science, resulting in a strong emphasis on formal fairness metrics and bias mitigation strategies. Nevertheless, this focus may obscure a fundamental challenge: fairness is not merely a technical property, but a subjective, context-sensitive human judgment shaped by cognitive heuristics, mental models, normative expectations, and sociotechnical factors. Crucially, users' perceptions of fairness may diverge substantially from the fairness criteria an algorithm formally satisfies; a system may meet predefined technical fairness requirements yet still be perceived as unjust by decision-affected stakeholders. In such cases, the system fails on a fundamental dimension: it will not be trusted, accepted, or considered legitimate. Taking a user-centered design perspective, this paper presents a work-in-progress conceptual framework that bridges Computer Science approaches to formal algorithmic fairness with normative and Social Science fairness approaches regarding perceived fairness, trust, and technology acceptance, embedding both within the sociotechnical conditions that shape human judgment. Through (1) theoretical literature synthesis, (2) interdisciplinary workshops, and (3) stakeholder interviews, the project aims to inform evaluation approaches that integrate computational fairness audits with user-centered assessments and guide the design of fairness-aware, human-centered algorithmic systems that support informed, well-calibrated fairness judgments by those affected.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03770v1",
+        "title": "OBER+: Continuity-Aware Reporting and Traceable Continuous Improvement in Outcome-Based Education",
+        "url": "https://arxiv.org/abs/2609.03770v1",
+        "authors": [
+          "Elakkiya Rajasekar"
+        ],
+        "published": "2026-09-03",
+        "summary": "Institutions practising outcome-based education compute learning outcome attainment routinely, while reviews of curriculum analytics report an absence of evidence on how that computation informs decisions. This paper presents OBER+, an extension of a deployed institutional attainment platform that computes the step from a measured shortfall to an evaluated corrective action. Five connected stages accumulate attainment across deliveries of a course, signal a shortfall and a persistent shortfall, grade it on cutoffs the regulator already uses, record the decision against a catalogue of practices annotated with their evidence, log the change, and quantify the subsequent movement in the shortfall. A further rule compares successive statements of an outcome, so attainment is never read as a series across a point at which the outcome changed. Applying the rules to the live record of two real courses produced three results. Every outcome of a core course was substantively redefined between consecutive deliveries, with subject matter moving between outcome numbers, so a naive reading would have reported a twenty-five point collapse between quantities that do not refer to the same learning. Recomputing the platform's figures from its documented rule showed six of ten differing by more than rounding explains, in a pattern that identified a defect since reported to the institution. Across fifteen statement pairs from three transitions, five were identical character for character, and among the ten that were not, the outcome carrying a given number was nearest to a differently numbered earlier outcome in six, a result resting on an ordering of similarities and requiring no threshold and no labelling. The contribution is a computational design for outcome-based reporting, stated as rules any attainment platform can implement, with evidence of what they make visible in a live institutional record.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03666v1",
+        "title": "Open WebXR versus Commercial Game Engines: A Socio-Technical Position Analysis for an Open, Sustainable, and Interoperable Metaverse",
+        "url": "https://arxiv.org/abs/2609.03666v1",
+        "authors": [
+          "Luca Turchet",
+          "Michel Buffa"
+        ],
+        "published": "2026-09-03",
+        "summary": "The Metaverse is often framed as a persistent, interoperable, and embodied network of virtual and augmented environments. Yet, most contemporary XR applications are developed through commercial game engines and distributed through proprietary app stores, creating tensions between openness and platform dependency. This paper critically examines open WebXR technologies with conventional commercial game-engine pipelines, with particular attention to XR hardware, software architectures, developer workflows, governance, ethics, and sustainability. We argue that WebXR may provide a viable route toward a more accessible, device-independent, and institutionally sustainable Metaverse, especially for education, research, cultural heritage, prototyping, and public-interest applications. At the same time, commercial engines remain advantageous for graphically intensive, low-latency, deeply integrated, and large-scale XR products. The paper concludes that the choice should not be framed as WebXR versus engines, but as a continuum: WebXR is preferable when accessibility, interoperability, low-friction deployment, and long-term maintainability are primary goals, whereas native engines remain preferable when performance, platform-specific hardware access, and production-grade tooling dominate.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03553v1",
+        "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
+        "url": "https://arxiv.org/abs/2609.03553v1",
+        "authors": [
+          "Linh Le",
+          "Melanie Bui",
+          "My Chiffon Nguyen",
+          "Zachary Schlosser",
+          "David Williams-King"
+        ],
+        "published": "2026-09-03",
+        "summary": "Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-grounded benchmark for governance policy simulation that links policies to relevant actors, actor actions and downstream impacts using legislative records, lobbying disclosures, regulatory documents, corporate filings, economic data and other public evidence. Actors are reconstructed from the dated record rather than prompted as archetypes, so a persona is an evidence object with provenance; a human-annotated pool forms the Gold evaluation set, while cases labelled by a separate LLM from retrieved evidence are treated as Silver supervision and never as test labels. Because every inference mode reads the same grounded state and emits the same schema, GPS-Bench turns \"does multi-agent simulation help?\" into a controlled comparison: we contrast joint reasoning, independent and communicating actor agents, graph-based methods and weight-level fine-tuning over one policy state. Fine-tuning on the grounded record gives the strongest actor-level impact prediction, and decomposition does not beat it; what decomposition adds is mechanism. Agents hold private, non-identical evidence, each seeing its own exposure clause, and address named partners with concrete joint proposals, what they offer, what they need in return, and why acting together beats acting alone, so the coalitions that form can be checked against the commitments the record holds. GPS-Bench therefore gives a common empirical setting for studying when evidence, actor modelling and multi-agent interaction improve the prediction and interpretation of policy outcomes.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03413v1",
+        "title": "The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era",
+        "url": "https://arxiv.org/abs/2609.03413v1",
+        "authors": [
+          "Rajan Kadel",
+          "Samar Shailendra",
+          "Islam Mohammad Tahidul",
+          "Urvashi Rahul Saxena",
+          "Aakanksha Sharma",
+          "Sabitra Kaphle"
+        ],
+        "published": "2026-09-03",
+        "summary": "Contributions: A reflection model suitable for the era of Generative Artificial Intelligence (GenAI) is introduced. The proposed model is an integrated model that extracts features from various existing models and also incorporates technological aspects of GenAI. Background: Universities worldwide are facing challenges in adopting GenAI into their curricula, as it has impacted academic integrity and the scholarship of teaching and research. Traditional reflection models are struggling to authenticate student reflection as GenAI is incorporated in education. This requires a GenAI-aware model to enable the opportunities that address the associated challenges with GenAI. Research Questions: Does the academic ecosystem require a GenAI-aware reflection model to adopt GenAI into education? How to make a reflection model structured to ensure student authenticity and cognitive engagement within a GenAI-aware learning environment? Methodology: This study employs a design-based research methodology, assisted by a critical inquiry approach, to analyse existing reflection models in the era of GenAI and examine the technological aspects of GenAI. Additionally, it identifies a gap and the absence of a comprehensive reflection model that enhances reflection in the era of GenAI and supports the effective integration of GenAI in education. Findings: The literature survey indicates there is a greater need for reflection in the era of GenAI to ensure learning, but the existing reflection models lack proper strategies to manage the problem introduced by GenAI. A standard GenAI-aware reflection model, called 5P (Purpose, Process, Product, Pitfalls and Plan), is proposed i) to manage greater demand for reflection, ii) to address the limitations of the existing reflection models, iii) to consider technological aspects of GenAI.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03344v1",
+        "title": "Large-Language Models as a Cognitive Virus",
+        "url": "https://arxiv.org/abs/2609.03344v1",
+        "authors": [
+          "Ricard Solé",
+          "Giulio Ruffini",
+          "Francesca Castaldo",
+          "Marco Tuccio",
+          "Luis F. Seoane",
+          "Manlio de Domenico",
+          "Santiago F. Elena",
+          "David C. Krakauer",
+          "Michael Levin"
+        ],
+        "published": "2026-09-03",
+        "summary": "Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a viral analogy, with LLM use spreading through populations, becoming embedded in cognitive and cultural practices. We model transitions among uncoupled, coupled, and persistently dependent users, and show that the interplay between social transmission, recovery, and collective reinforcement can generate tipping points and technological lock-in. A central consequence is the possibility of runaway dynamics: once a critical threshold is crossed, small increases in adoption can trigger rapid population-level shifts toward persistent dependence, with abrupt losses in cognitive competence. The same framework, however, identifies conditions for cognitive immunization, based on reducing transmission and facilitating reversibility. Our results highlight how LLM adoption may involve nonlinear collective transitions with important consequences for cognitive autonomy.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03330v1",
+        "title": "Less Is Moral: A CHARMing Framework for Moral Foundations Detection in Endorsement Behaviour",
+        "url": "https://arxiv.org/abs/2609.03330v1",
+        "authors": [
+          "Huixiang Fu",
+          "Marian-Andrei Rizoiu"
+        ],
+        "published": "2026-09-03",
+        "summary": "Moral language plays a central role in shaping online endorsement and the diffusion of information, yet existing moral foundation detection systems often suffer from poor cross-domain generalization, weak rationale grounding, and reliance on costly prompting-based large language models (LLMs). We introduce CHARM, a MA\\textbf{C}- and \\textbf{H}ate-speech-\\textbf{A}ware \\textbf{R}ationale-aligned \\textbf{M}oral foundation detection framework built on a lightweight fine-tuned LLM, which integrates complementary moral grounding, rationale alignment, and polarity-aware hate speech signals to support more robust and faithful moral prediction. Unlike prior dictionary-, fine-tune-, or prompt-based detectors, which decouple computation from psychological theory, CHARM is built so that each component -- MAC cross-attention, rationale alignment, and hate-speech modulation -- operationalizes a distinct psychological construct. Using a 30\\% subsample of the MFTC, MFRC, and News training pools together with the richer supervision in MFTCXplain, CHARM improves AUC by up to 15.3\\% in-domain, surpasses the supervised baselines on every out-of-domain dataset in both AUC and F1, and offers a scalable, low-cost alternative to prompting-based LLM detectors. We further apply CHARM to large-scale COVID-19 discourse on Twitter and show that moral value alignment is strongly associated with online endorsement behavior. By making moral framing measurable at scale, CHARM offers a practical tool for studying the spread of morally charged misinformation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03301v1",
+        "title": "Multilingual Agent System for Inclusive Wildfire Evacuation Guidance",
+        "url": "https://arxiv.org/abs/2609.03301v1",
+        "authors": [
+          "Shruti Kulkarni",
+          "Lynn Tong",
+          "Aditi Namboodiripad",
+          "Chelyah Miller",
+          "Helen Lin",
+          "Peeyush Patel",
+          "Bogdan Bistriceanu",
+          "Diane Myung-kyung Woodbridge"
+        ],
+        "published": "2026-09-03",
+        "summary": "Wildfire seasons have become 84 days longer in the current days than in the 1970s, causing enormous threats to one's financial status and short- and long-term health. During the fire, public agencies send out emergency messages to provide warnings and orders. Although 26 million people in the US have limited English proficiency, over 80% of those messages are only delivered in English, which can cause disproportionate information distribution and awareness. In order to better serve marginalized communities during emergencies, the authors developed BEACON, a service that provides comprehensive and personalized evacuation guidance, including navigation routes, personalized checklists, and a chatbot in the language that a user uses. Our current system ingests data including fire perimeter information, evacuation order status, and shelter information from Watch Duty. When a user is within a certain proximity from the fire, the system utilizes real-time GPS locations and nearby weather data from the National Oceanic and Atmospheric Administration (NOAA) to predict fire danger levels. The assessment model refreshment are dynamically scheduled based on fire progress and trends using XGBoost. If the location has a likelihood of fire danger, the system sends alerts with evacuation routes outputted from a polygon-avoidant routing pipeline. The application provides a context-aware multilingual agent that users can communicate with and is tightly connected to other features of the application. In addition, based on data that the user entered, the system dynamically generates and checks off personalized reminder items to provide an organized evacuation plan. The system's user interface dynamically changes its language settings based on the language the user most recently used in either setting or chatbot conversation for all the application elements.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03269v1",
+        "title": "Affective publics in Arabic YouTube",
+        "url": "https://arxiv.org/abs/2609.03269v1",
+        "authors": [
+          "Lynnette Hui Xian Ng",
+          "Craig Douglas Albert",
+          "Abdullah Melhem",
+          "Ahmed Aleroud",
+          "Lance Y. Hunter"
+        ],
+        "published": "2026-09-03",
+        "summary": "What is the emotional register of Arabic YouTube's affective publics? To investigate this, we analyzed 67,725 YouTube comments collected around socio-political topics associated with Yemen, Saudi Arabia, Iraq, Jordan, and Syria using a unified sentiment-and-emotion pipeline. Our results profile a single regional affective public rather than five separate national ones. Sentiment is overwhelmingly negative across all five country-oriented corpora, and the country-level emotion profiles are structurally similar. This shared register still accommodates some regional variations: discourse is organized around country-level political actors and cross-border historical trauma figures, and grief singularizes Iraq from the other countries. The differences in emotional register also tracks lived political causes rather than fixed categories, which we observe from patterns of the valence of US-related content, that tracks the presence or absence of direct US military engagement. Our work shows that the emotional register of Arabic YouTube's affective publics is a shared one that is historically layered and geographically conditioned, which has implications for public diplomacy in the MENA region.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03189v1",
+        "title": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
+        "url": "https://arxiv.org/abs/2609.03189v1",
+        "authors": [
+          "T. Bauer",
+          "W. P. Kegelmeyer",
+          "E. Begoli",
+          "A. Sadovnik",
+          "T. Emerson",
+          "C. Corley",
+          "N. Generous",
+          "J. Moore",
+          "B. Bartoldson",
+          "R. Goldhan",
+          "M. Goldman",
+          "M. Greaves",
+          "M. J. D. Vermeer",
+          "B. MacLennan",
+          "D. Schulker",
+          "N. VanHoudnos",
+          "J. Bansemer",
+          "Y. Bengio"
+        ],
+        "published": "2026-09-02",
+        "summary": "This article presents a structured framework of behavioral indicators that may signal progression toward potentially catastrophic threats from artificial intelligence systems. We adopt a pragmatic approach, inspired by established methodologies in cybersecurity and national security. By establishing clear metrics, indicators, and thresholds across multiple dimensions of AI capability and behavior, this framework enables researchers and policymakers to implement evidence-based monitoring protocols.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03178v1",
+        "title": "Open Problems in AI Risk Modeling: Insights from a Workshop on the Technical Foundations of AI Risk Modeling",
+        "url": "https://arxiv.org/abs/2609.03178v1",
+        "authors": [
+          "Krystal Jackson",
+          "Deepika Raman",
+          "Jakub Kryś",
+          "Sean P. Fillingham",
+          "Jack Kengott",
+          "Andrew J. Lohn",
+          "Nada Madkour",
+          "Henry Papadatos",
+          "James Sykes",
+          "Anna Katariina Wisakanto",
+          "Malcolm Murray"
+        ],
+        "published": "2026-09-02",
+        "summary": "We investigate the design of robust risk models to assess societal risks posed by advanced AI systems, an emerging area in AI governance. Many regulatory proposals increasingly require systemic risk assessment, but in the absence of rigorous quantitative methods, the question remains what state of the art risk modeling should look like in practice. We identify the key methodological and institutional challenges that currently limit the adoption of risk modeling. We review five research traditions that inform this problem: probabilistic risk assessment, catastrophic AI risk analysis, cybersecurity risk quantification, Bayesian causal inference, and threshold-based governance. We compare two leading proposals, scenario-based risk estimation and Bayesian network-based threshold setting. Drawing on a workshop with 22 experts and subsequent analysis, we identify a structured agenda of open questions concerning model structure, scope, evidence integration, validation, and governance. We close by outlining priorities for progress, arguing that it will depend on integrating quantitative modeling with independent evaluation, transparent and tiered disclosure, and institutions capable of maintaining and updating risk models over time.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  }
+}
