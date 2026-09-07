@@ -43,8 +43,10 @@ def main(
 
     # 3. Generate daily AI editorial brief using Gemini API
     logger.info("Synthesizing daily editorial brief via Gemini API...")
-    brief_md = synthesize_brief(data)
+    brief_md, model_name = synthesize_brief(data)
     data["editorial_brief"] = brief_md
+    today_iso = datetime.now(timezone.utc).isoformat()
+    data["synthesis_metadata"] = {"model": model_name, "generated_at": today_iso}
 
     # Save public/brief.md and data/brief-{date}.md
     today_brief_path = os.path.join(data_dir, f"brief-{today_str}.md")
@@ -84,6 +86,7 @@ def main(
             edition_data = json.load(f)
 
         edition_brief = edition_data.get("editorial_brief", "")
+        edition_model = edition_data.get("synthesis_metadata", {}).get("model", "")
         if not edition_brief:
             archived_brief_file = os.path.join(data_dir, f"brief-{date_str}.md")
             if os.path.isfile(archived_brief_file):
@@ -101,6 +104,7 @@ def main(
             current_date=date_str,
             is_archive=True,
             brief_md=edition_brief,
+            model_name=edition_model,
         )
 
     # 8. The newest date is exported as public/latest.json and public/index.html
@@ -110,6 +114,7 @@ def main(
         latest_data = json.load(f)
 
     latest_brief = latest_data.get("editorial_brief", "")
+    latest_model = latest_data.get("synthesis_metadata", {}).get("model", "")
     if not latest_brief:
         latest_brief_file = os.path.join(data_dir, f"brief-{latest_date}.md")
         if os.path.isfile(latest_brief_file):
@@ -117,6 +122,8 @@ def main(
                 latest_brief = bf.read()
     if not latest_brief and latest_date == today_str:
         latest_brief = brief_md
+    if not latest_model and latest_date == today_str:
+        latest_model = model_name
 
     latest_json_path = os.path.join(output_dir, "latest.json")
     latest_html_path = os.path.join(output_dir, "index.html")
@@ -129,6 +136,7 @@ def main(
         current_date=latest_date,
         is_archive=False,
         brief_md=latest_brief,
+        model_name=latest_model,
     )
 
     # 9. Create empty public/.nojekyll

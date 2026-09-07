@@ -92,6 +92,7 @@ def render_html_page(
     current_date: Optional[str] = None,
     is_archive: bool = False,
     brief_md: str = "",
+    model_name: str = "",
 ) -> str:
     """Generate complete self-contained HTML5 string with historical date selector."""
     updated_at = str(aggregated_data.get("updated_at", "Just now"))
@@ -131,13 +132,23 @@ def render_html_page(
 
     # Render AI Editorial Brief if present
     raw_brief = brief_md if brief_md else str(aggregated_data.get("editorial_brief", ""))
+    actual_model = (
+        model_name
+        or aggregated_data.get("synthesis_metadata", {}).get("model", "")
+    )
     brief_section_html = ""
     if raw_brief.strip():
         rendered_md = markdown.markdown(raw_brief.strip(), extensions=["extra"])
+        model_badge_html = (
+            f'<span class="model-badge">Model: {html.escape(actual_model)}</span>'
+            if actual_model and str(actual_model).lower() != "none"
+            else ""
+        )
         brief_section_html = f"""    <section class="editorial-brief" aria-label="Daily AI Editorial Brief">
       <div class="brief-header">
         <span class="brief-badge">AI Synthesis</span>
-        <span class="brief-meta">Editorial Evaluation &bull; Gemini 2.5</span>
+        <span class="brief-meta">Editorial Evaluation</span>
+        {model_badge_html}
       </div>
       <div class="brief-content">
 {rendered_md}
@@ -372,6 +383,19 @@ def render_html_page(
       font-size: 0.85rem;
       color: var(--text-muted);
       font-weight: 500;
+    }}
+
+    .model-badge {{
+      margin-left: auto;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      background: var(--bg-surface-elevated);
+      border: 1px solid var(--border-subtle);
+      border-radius: 6px;
+      padding: 0.2rem 0.55rem;
+      letter-spacing: -0.01em;
     }}
 
     .brief-content {{
@@ -656,6 +680,7 @@ def build_html(
     current_date: Optional[str] = None,
     is_archive: bool = False,
     brief_md: str = "",
+    model_name: str = "",
 ) -> None:
     """Build and write single-page HTML artifact atomically."""
     output_dir = os.path.dirname(os.path.abspath(output_path))
@@ -667,6 +692,7 @@ def build_html(
         current_date=current_date,
         is_archive=is_archive,
         brief_md=brief_md,
+        model_name=model_name,
     )
 
     tmp_file = tempfile.NamedTemporaryFile(
