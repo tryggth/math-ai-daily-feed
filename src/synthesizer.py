@@ -126,15 +126,32 @@ def synthesize_brief(aggregated_data: dict[str, Any]) -> str:
             system_instruction=SYSTEM_INSTRUCTION,
             temperature=0.2,
         )
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt,
-            config=config,
-        )
-        if response and response.text:
-            brief = response.text.strip()
-            logger.info("Successfully synthesized daily brief via Gemini API (%d chars).", len(brief))
-            return brief
+
+        model_candidates = ["gemini-3.6-flash", "gemini-2.5-flash", "gemini-3.7-flash"]
+        last_exc: Optional[Exception] = None
+        for model_name in model_candidates:
+            try:
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config=config,
+                )
+                if response and response.text:
+                    brief = response.text.strip()
+                    logger.info(
+                        "Successfully synthesized daily brief via %s (%d chars).",
+                        model_name,
+                        len(brief),
+                    )
+                    return brief
+            except Exception as model_err:
+                last_exc = model_err
+                logger.warning("Model %s failed: %s. Attempting fallback model...", model_name, model_err)
+                continue
+
+        if last_exc:
+            raise last_exc
+
         logger.warning("Gemini API returned an empty response.")
         return FALLBACK_API_ERROR
     except Exception as exc:
