@@ -193,6 +193,19 @@
       font-weight: 500;
     }
 
+    .model-badge {
+      margin-left: auto;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      background: var(--bg-surface-elevated);
+      border: 1px solid var(--border-subtle);
+      border-radius: 6px;
+      padding: 0.2rem 0.55rem;
+      letter-spacing: -0.01em;
+    }
+
     .brief-content {
       color: var(--text-main);
       font-size: 0.95rem;
@@ -443,7 +456,7 @@
             <span>&lt;/&gt;</span> 2026-09-07.json
           </a>
         </div>
-        <span class="timestamp-badge">Updated: 2026-09-07T17:19:00Z</span>
+        <span class="timestamp-badge">Updated: 2026-09-07T18:20:53Z</span>
       </div>
     </header>
 
@@ -451,10 +464,33 @@
     <section class="editorial-brief" aria-label="Daily AI Editorial Brief">
       <div class="brief-header">
         <span class="brief-badge">AI Synthesis</span>
-        <span class="brief-meta">Editorial Evaluation &bull; Gemini 2.5</span>
+        <span class="brief-meta">Editorial Evaluation</span>
+        <span class="model-badge">Model: gemini-3.7-flash</span>
       </div>
       <div class="brief-content">
-<p><em>API key not provided. Brief could not be synthesized.</em></p>
+<h1>☕ Daily Math-AI Brief — 2026-09-07</h1>
+<p>Today's candidate pool is characterized by significant pure mathematical contributions that do not employ AI methodologies, alongside notable advances in formal interactive theorem proving benchmarks and self-distillation reasoning architectures. Theorem proving efforts highlight formal verification scaling in Lean for finite-dimensional quantum mechanics and recursive self-extrapolation for mathematical reasoning post-training.</p>
+<h3>1. Mathematical Results via AI</h3>
+<p>No qualifying submissions met the threshold today.</p>
+<h3>2. Theorem Proving &amp; Reasoning Architectures</h3>
+<ul>
+<li><strong>[AxQM: Formal Proof Synthesis Benchmark for Quantum Mechanics in Lean]</strong>
+  <a href="https://arxiv.org/abs/2609.05157v1">AxQM: A Textbook-Scale Benchmark for Formal Proof Synthesis in a Library of Finite-Dimensional Quantum Mechanics</a> — Weichen Winston Yin, Jacob M. Taylor, Dirk R. Englund, Frank H. L. Koppens</li>
+<li><strong>Mathematical Impact:</strong> (Score: 3 — Notable Methodology / Rigorous Tool). Introduces a formalized Lean library of finite-dimensional quantum mechanics derived from Nielsen and Chuang's standard textbook, establishing 1,019 kernel-checkable proof-synthesis tasks across 479 mathematical items without admitting unproved axioms or <code>sorry</code> placeholders.</li>
+<li>
+<p><strong>AI Connection:</strong> Designed as an automated benchmark to evaluate LLM autoformalization and proof-synthesis capabilities, utilizing deterministic verification by the Lean kernel for correctness checking.</p>
+</li>
+<li>
+<p><strong>[RISE: Recursive Improvement via Self-Extrapolating Policy Distillation]</strong>
+  <a href="https://huggingface.co/papers/2609.05295">RISE: Recursive Improvement via Self-Extrapolating Policy Distillation</a> — Yang Li, Semih Yavuz, Shafiq Joty</p>
+</li>
+<li><strong>Mathematical Impact:</strong> (Score: 3 — Notable Methodology / Rigorous Tool). Develops an on-policy distillation framework that couples reinforcement learning with verifiable reward (RLVR) to iteratively advance token-level reasoning policies on complex mathematical and STEM benchmarks.</li>
+<li><strong>AI Connection:</strong> Constructs synthetic dense token-level distillation targets by extrapolating parameter-space or logit-space displacements between the active policy checkpoint and a trailing anchor across RLVR training trajectories.</li>
+</ul>
+<h3>3. AI in Mathematics Education</h3>
+<p>No qualifying submissions met the threshold today.</p>
+<hr />
+<p><em>Synthesized with <code>gemini-3.7-flash</code> on 2026-09-07 17:33:58 UTC</em></p>
       </div>
     </section>
 
@@ -969,6 +1005,25 @@
         </article>
       </div>
     </section>
+
+      <section class="comments-section" style="margin-top: 3rem; border-top: 1px solid #334155; padding-top: 2rem;">
+        <h2 style="color: var(--accent, #38bdf8); margin-bottom: 1.5rem;">Discussion & Comments</h2>
+        <script src="https://giscus.app/client.js"
+                data-repo="tryggth/math-ai-daily-feed"
+                data-repo-id="R_kgDOUQjzFw"
+                data-category="General"
+                data-category-id="DIC_kwDOUQjzF84DFFma"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="top"
+                data-theme="dark"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+      </section>
     </main>
 
     <footer class="main-footer">

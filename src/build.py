@@ -44,12 +44,30 @@ def main(
     # 3. Generate daily AI editorial brief using Gemini API
     logger.info("Synthesizing daily editorial brief via Gemini API...")
     brief_md, model_name = synthesize_brief(data)
+
+    today_brief_path = os.path.join(data_dir, f"brief-{today_str}.md")
+    today_data_path = os.path.join(data_dir, f"{today_str}.json")
+
+    # Preserve existing brief if synthesis was skipped due to missing API key locally
+    if model_name == "none" and os.path.isfile(today_brief_path):
+        with open(today_brief_path, "r", encoding="utf-8") as f:
+            existing_brief = f.read().strip()
+        if existing_brief and not existing_brief.startswith("_API key not provided"):
+            logger.info("Preserving existing synthesized brief from %s", today_brief_path)
+            brief_md = existing_brief
+            if os.path.isfile(today_data_path):
+                try:
+                    with open(today_data_path, "r", encoding="utf-8") as f:
+                        prev_json = json.load(f)
+                    model_name = prev_json.get("synthesis_metadata", {}).get("model", "none")
+                except Exception:
+                    pass
+
     data["editorial_brief"] = brief_md
     today_iso = datetime.now(timezone.utc).isoformat()
     data["synthesis_metadata"] = {"model": model_name, "generated_at": today_iso}
 
     # Save public/brief.md and data/brief-{date}.md
-    today_brief_path = os.path.join(data_dir, f"brief-{today_str}.md")
     with open(today_brief_path, "w", encoding="utf-8") as f:
         f.write(brief_md)
 
@@ -58,7 +76,6 @@ def main(
         f.write(brief_md)
 
     # 4. Save today's snapshot to data/{YYYY-MM-DD}.json
-    today_data_path = os.path.join(data_dir, f"{today_str}.json")
     logger.info("Archiving current run snapshot to %s...", today_data_path)
     build_json(data, output_path=today_data_path)
 

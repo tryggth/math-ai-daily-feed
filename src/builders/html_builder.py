@@ -653,6 +653,25 @@ def render_html_page(
 
     <main>
 {brief_section_html}{all_sections}
+
+      <section class="comments-section" style="margin-top: 3rem; border-top: 1px solid #334155; padding-top: 2rem;">
+        <h2 style="color: var(--accent, #38bdf8); margin-bottom: 1.5rem;">Discussion & Comments</h2>
+        <script src="https://giscus.app/client.js"
+                data-repo="tryggth/math-ai-daily-feed"
+                data-repo-id="R_kgDOUQjzFw"
+                data-category="General"
+                data-category-id="DIC_kwDOUQjzF84DFFma"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="top"
+                data-theme="dark"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+      </section>
     </main>
 
     <footer class="main-footer">

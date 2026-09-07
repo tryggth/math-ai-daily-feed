@@ -113,6 +113,11 @@ def test_build_html_rendering_and_escaping(tmp_path, sample_aggregated_data):
     # Verify empty state for education pillar
     assert "No new submissions tracked for this pillar" in content
 
+    # Verify comments section with Giscus embed
+    assert '<section class="comments-section"' in content
+    assert 'data-repo="tryggth/math-ai-daily-feed"' in content
+    assert 'data-mapping="pathname"' in content
+
 
 def test_build_html_date_picker_dropdown():
     """Verify <select id='date-picker'> renders available dates and respects selection/archive mode."""
