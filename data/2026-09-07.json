@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:19:00Z",
+  "updated_at": "2026-09-07T17:20:27Z",
   "pillars": {
     "results": [
       {
@@ -475,5 +475,5 @@
       }
     ]
   },
-  "editorial_brief": "_API key not provided. Brief could not be synthesized._"
+  "editorial_brief": "_Brief could not be synthesized due to an API error._ (404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}})"
 }
