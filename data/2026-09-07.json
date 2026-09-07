@@ -1,0 +1,674 @@
+{
+  "updated_at": "2026-09-07T12:19:50Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2609.05417v1",
+        "title": "The Erd\\H os-Sós conjecture in dense graphs",
+        "url": "https://arxiv.org/abs/2609.05417v1",
+        "authors": [
+          "Bruce Reed",
+          "Maya Stein"
+        ],
+        "published": "2026-09-04",
+        "summary": "The Erd\\H os--Sós conjecture states that every $n$-vertex graph with more than $(k-2)n/2$ edges contains every $k$-vertex tree. We prove that for every $γ$ there is an $n_0$ such that for all $n\\ge n_0$ and $k \\ge γn$ the conjecture holds. As a corollary of our result, we obtain a solution of a 51-year-old problem of Erd\\H os and Graham on the multicolor Ramsey numbers of trees.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05414v1",
+        "title": "Non-Hamiltonian $\\frac{3}{2}$-Tough Plane Triangulations",
+        "url": "https://arxiv.org/abs/2609.05414v1",
+        "authors": [
+          "Songling Shan"
+        ],
+        "published": "2026-09-04",
+        "summary": "By Tutte's classic theorem of 1956 that every 4-connected planar graph is Hamiltonian, every planar graph of order at least three with toughness greater than $\\frac{3}{2}$ is Hamiltonian. In 1999, Owens constructed a sequence of maximal planar graphs whose toughness approaches $\\frac{3}{2}$ from below and which do not contain even a 2-factor, and he asked whether there exists a maximal planar graph with toughness exactly $\\frac{3}{2}$ and with no 2-factor. In 2025, Shan constructed a $\\frac{3}{2}$-tough plane triangulation with no 2-factor. In that construction, there are many pairs of vertices of degree $3$ that have a common neighbor. By imposing a distance condition on the vertices of degree $3$, Hao, Ma, Shan, and Yang recently proved that every $\\frac{3}{2}$-tough plane triangulation of order at least three whose vertices of degree $3$ are pairwise at distance at least $3$ has a 2-factor, and they asked whether every such graph is Hamiltonian. We answer this question in the negative, and in fact prove the following stronger statement: for every positive integer $\\ell$, there exists a $\\frac{3}{2}$-tough non-Hamiltonian plane triangulation whose vertices of degree $3$ are pairwise at distance at least $\\ell$. Thus, although the distance condition guarantees the existence of a 2-factor, it does not guarantee that the graph is Hamiltonian: the essential obstruction to a Hamiltonian cycle is a certain local configuration involving a vertex of degree $3$, rather than the proximity of such configurations in the graph.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05411v1",
+        "title": "The extremal cases of the Erd\\H os--Sós conjecture",
+        "url": "https://arxiv.org/abs/2609.05411v1",
+        "authors": [
+          "Bruce Reed",
+          "Maya Stein"
+        ],
+        "published": "2026-09-04",
+        "summary": "The Erd\\H os--Sós conjecture states that every $n$-vertex graph $G$ with more than $(k-2)n/2$ edges contains every $k$-vertex tree. We solve the extremal cases of this conjecture, showing that for some fixed $μ>0$, the conjecture holds for each $G$ that minimally satisfies the assumptions of the conjecture and has a subgraph~$H$ of minimum degree $δ(H)\\ge (1-μ)k$. In our proof, we mainly have to deal with $H$ taking two different shapes: either $H$ is close to the complete graph $K_k$ or $H$ is close to the complete bipartite graph $K_{k,k}$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05384v1",
+        "title": "Counting sets with given doubling via dimension",
+        "url": "https://arxiv.org/abs/2609.05384v1",
+        "authors": [
+          "Marcelo Campos",
+          "Gabriel Dahia",
+          "João Pedro Marciano"
+        ],
+        "published": "2026-09-04",
+        "summary": "We determine, up to a factor of $2^{o(k)}$, the number of $k$-sets $A \\subset \\{1, \\ldots, n\\}$ such that $|A + A| \\leq m$, where $k = Θ(\\log n)$ and $m \\leq k^{1 + α}$, for small $α> 0$, answering a question of Green and Morris.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05371v1",
+        "title": "Short arithmetic terms express the cardinality of elliptic curves in Weierstraß normal form over finite fields",
+        "url": "https://arxiv.org/abs/2609.05371v1",
+        "authors": [
+          "Bogdan Dumitru",
+          "Mihai Prunescu"
+        ],
+        "published": "2026-09-04",
+        "summary": "Arithmetic terms are fixed finite compositions of additions, multiplications, subtractions, divisions with remainder and integer exponentiations. An arithmetic term in natural numbers $A$, $B$, $n$, obtained by refining the general method of the second author (arXiv:2608.22049) for elliptic curves in Weierstraß normal form, counts the solutions in $(\\mathbb Z/n\\mathbb Z)^2$ for every modulus $n \\geq 1$, with intermediate integers of approximately $2n^5$ binary digits instead of approximately $2n^{11}$. For a prime modulus $p \\geq 17$, a second construction, based on the Hasse invariant and on the trace of Frobenius, gives a term of about thirty operations, in place of the fifty-one products of generalized geometric progressions of the general method.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05368v1",
+        "title": "Integrality Gap Bounds for the Goemans-Linial SDP on Finite Abelian Cayley Graphs",
+        "url": "https://arxiv.org/abs/2609.05368v1",
+        "authors": [
+          "Georgios Stamoulis"
+        ],
+        "published": "2026-09-04",
+        "summary": "In the uniform sparsest cut problem we are asked to find a vertex set that cuts few edges relative to the number of vertex pairs it separates. The Goemans-Linial SDP coupled with the Arora-Rao-Vazirani rounding gives an $\\mathcal{O}(\\sqrt{\\log n})$ approximation on arbitrary graphs on $n$ vertices. We study this relaxation on finite Abelian Cayley graphs. First we show that when the second normalized Laplacian eigenvalue of $G= \\mathrm{Cayley}(Γ, S)$ is realized by a Fourier character with image size at most four then $λ_2(G)=\\mathrm{SDP}_{\\mathrm{GL}}(G)=ψ(G)$. Geometrically, a character maps the vertices onto a regular polygon where the squared chord distance satisfies the triangle inequalities exactly when the polygon has at most four vertices. Grouping equal character fibers gives a cyclic quotient where the optimal cut can be found exactly and so the relaxation is exact on finite Abelian Cayley graphs on groups of exponent at most four. Second, we replace each generator $s$ of $S$ by a uniformly random element of its cyclic subgroup (including identity). If $r_s$ is the order of $s$, we let $α(r_s)$ to be the average number of $\\pm s$ steps needed to simulate such a move, and let $ρ(S)=\\max_{s\\in S}α(r_s)$ be its worst case. Full cyclic averaging eliminates character phases and choosing a nontrivial character $χ^*$ minimizing the auxiliary eigenvalue and taking $K=\\mathrm{ker}χ^*$ gives \\[ ψ(G)\\leqψ_G(K)\\leq\\frac{q^*}{q^*-1} \\cdotρ(S)\\cdot\\mathrm{SDP}_{\\mathrm{GL}}(G)\\leq 2ρ(S)\\cdot\\mathrm{SDP}_{\\mathrm{GL}}(G), \\] where $q^*=|χ^*(Γ)|$. If all generator orders are at most $R$, this is an $R/2$ approximation. Finally, we construct an infinite family of finite Abelian Cayley graphs with Goemans-Linial integrality gap exactly $16/15$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05358v1",
+        "title": "Purely Periodic Three-move Subtraction Games",
+        "url": "https://arxiv.org/abs/2609.05358v1",
+        "authors": [
+          "Hikaru Manabe"
+        ],
+        "published": "2026-09-04",
+        "summary": "A subtraction game is played on a heap of tokens. The players take turns removing s tokens for some s in a fixed set S of positive integers, and the player who cannot move loses. The sequence of Sprague-Grundy values of such a game is eventually periodic. We ask when it is purely periodic, meaning periodic from the very start, for the three-move sets S={a,b,c} with 0<a<b<c. After reduction to primitive rulesets with a>=2, we give an explicit sufficient criterion for pure periodicity. For every non-additive set that satisfies it we determine the least period, all P-positions in closed form, and all nim-values, and the additive case c=a+b is treated separately. We conjecture that the criterion is also necessary, and we prove this for the period a+b whenever c>=2(a+b). The criterion is a finite test on the angle rho = c mod (a+b), built from the P-position pattern of the two-move game {a,b}, and the admissible angles form explicit unions of arcs in Z/(a+b)Z.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05349v1",
+        "title": "Arithmetic Polyhedra",
+        "url": "https://arxiv.org/abs/2609.05349v1",
+        "authors": [
+          "Daniel Allcock",
+          "Pat Devlin",
+          "Anna Felikson",
+          "Alex Kontorovich",
+          "Ian Whitehead"
+        ],
+        "published": "2026-09-04",
+        "summary": "The Koebe-Andreev-Thurston theorem assigns a 3-dimensional hyperbolic reflection group to each combinatorial polyhedron. A natural question is: which of them are arithmetic? In 2016, Kontorovich-Nakamura conjectured that all arithmetic reflection groups obtained in this way are commensurable to those obtained from the tetrahedron, square pyramid, or cuboctahedron. In this paper, we prove the conjecture. It is a consequence of the following result of independent interest: all arithmetic ideal, right-angled hyperbolic polyhedra are obtained by gluing together copies of one of three ``seed'' polyhedra.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05341v1",
+        "title": "Bounded ratios for Lorentzian polynomials",
+        "url": "https://arxiv.org/abs/2609.05341v1",
+        "authors": [
+          "Aayush Bathija",
+          "Prince Rohatgi",
+          "Daniel Soskin"
+        ],
+        "published": "2026-09-04",
+        "summary": "We study multiplicative inequalities among the coefficients of Lorentzian polynomials through the notion of \\emph{bounded ratios}. Our main result completely characterizes the cone of bounded ratios for Lorentzian polynomials of degree $n$ in $k$ variables. This dual characterization is expressed in terms of equivalence classes of M-convex functions modulo affine functions. For ternary Lorentzian cubics, we determine the optimal bounding constant of every bounded ratio. We also characterize the pairs $(n,k)$ for which the bounded-ratio cone can be computed by tropicalizing products of $n$ nonnegative linear forms in $k$ variables. Furthermore, show that in the ternary case of any degree n the cone of bounded ratios has rather simple generators which are triangular ratios.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05338v1",
+        "title": "A Log-Free $n^{1/5}$ Bound for Chowla's Cosine Problem",
+        "url": "https://arxiv.org/abs/2609.05338v1",
+        "authors": [
+          "Abhishek Shankar"
+        ],
+        "published": "2026-09-04",
+        "summary": "For a finite set $S$ of positive integers, put $K(S):=-\\min_{x\\in\\mathbb T}\\sum_{s\\in S}\\cos(2πsx)$. Bedert recently proved the uniform lower bound $K(S)\\geq |S|^{1/5-o(1)}$. We remove the subpolynomial loss and prove that $K(S)\\geq c|S|^{1/5}$ for an absolute constant $c>0$. The proof combines two estimates from Bedert's argument with an exact averaging identity for the asymmetric boundaries of additive intersections. This identity replaces the multiplicative-amplification step responsible for the logarithmic loss.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05311v1",
+        "title": "Distribution of points near the origin in the $d$-dimensional Lagrange spectrum",
+        "url": "https://arxiv.org/abs/2609.05311v1",
+        "authors": [
+          "Benjamin Ward"
+        ],
+        "published": "2026-09-04",
+        "summary": "We develop a new framework, inspired by Schmidt's games, to study the Lagrange spectrum for simultaneous Diophantine approximation in dimension $d\\geq 2$. We show the Hausdorff dimension of the set of points in $\\mathbb{R}^{d}$ whose best approximation constant lies in $[\\varepsilon,\\varepsilon(1+δ\\varepsilon^{d})]$, for some constant $δ>0$, is positive, and for a slightly larger set approaches full dimension as $\\varepsilon \\to 0$. We also show that the box dimension of the $d$-dimensional Lagrange spectrum is bounded from below by $1-\\frac{1}{d+1}$. The proof combines a novel application of the Simplex lemma near rational points with the game-theoretic framework. As an additional result we use an elementary observation to show that the naturally defined Lagrange spectrum for systems of linear forms is uncountable in the case of square matrices.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05305v1",
+        "title": "F-sets of arbitrary finite width",
+        "url": "https://arxiv.org/abs/2609.05305v1",
+        "authors": [
+          "Alessandro Giannoni"
+        ],
+        "published": "2026-09-04",
+        "summary": "Ferraguti and Micheli introduced the width of an $F$-set and conjectured that non-trivial $F$-sets of arbitrary width exist over every finite field. For $q\\neq 2,3$, their constructions give examples of widths one and two. We prove that, for every $q\\neq 2,3$ and every integer $r\\geq 1$, there exists an infinite, non-trivial $F$-set in $\\mathbb F_q[X]$ of width exactly $r$. Thus the finite-width part of their conjecture is settled over all such fields. The proof combines a bounded-core family of irreducible power substitutions with factorization results for $g(X^n)$, Dirichlet's theorem over $\\mathbb F_q[X]$, and Kummer lifting. Core degree gives a uniform upper bound on the width, while parallel successor ladders give the required lower bound; a suitable tail of the nullity filtration then has the prescribed width.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05302v1",
+        "title": "Proof of a Conjecture of Cui, Gu and Tang on 18-Colored Generalized Frobenius Partitions",
+        "url": "https://arxiv.org/abs/2609.05302v1",
+        "authors": [
+          "Hirakjyoti Das",
+          "Hemjyoti Nath",
+          "Abhishek Sarma"
+        ],
+        "published": "2026-09-04",
+        "summary": "Recently, the study of the number of $k$-colored generalized Frobenius partitions, denoted by $cφ_k(n)$, has witnessed renewed interest. In this paper, we investigate congruence properties of $cφ_{16}(n)$ and $cφ_{18}(n)$. Our main result is a proof of the conjecture of Cui, Gu, and Tang \\cite{CGT25} that, for all $n\\ge0$, $cφ_{18}(3n+2)\\equiv0\\pmod{2187}$. The proof uses a $(p,k)$-parametrization together with $q$-series identities and dissections. We also establish congruences for $cφ_{16}(n)$ modulo $1024$ and $2048$, and for $cφ_{18}(n)$ modulo $8$ and $81$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05292v1",
+        "title": "On the lengths of MDS codes with a two-transitive permutation automorphism group",
+        "url": "https://arxiv.org/abs/2609.05292v1",
+        "authors": [
+          "Haihua Deng",
+          "Tao Feng",
+          "Andrey V. Vasil'ev"
+        ],
+        "published": "2026-09-04",
+        "summary": "Let $C$ be an $[n,k]_q$ maximum distance separable (MDS) code with $4\\le k\\le q-3$, and suppose that it has a $2$-transitive permutation automorphism group. In this paper we show that $n\\le q+1$, so the MDS conjecture holds for this class of codes.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05268v1",
+        "title": "Ramsey properties of maximal (outer)planar graphs",
+        "url": "https://arxiv.org/abs/2609.05268v1",
+        "authors": [
+          "Adriana Baldacchino",
+          "Yair Caro",
+          "Xandru Mifsud"
+        ],
+        "published": "2026-09-04",
+        "summary": "We study a natural extension of Ramsey theory relative to the classes of maximally planar and maximally outerplanar graphs. This can be seen as a continuation of the study of `Planar Ramsey theory', introduced by Axenovich et al. The question we ask is the following: For a fixed family $\\mathcal{K}$ of graphs and a pair of graphs $\\{H,F\\}$, does there exist an integer $r_{\\mathcal{K}} (H, F)$ such that for every graph $G \\in \\mathcal{K}$ with $|G| \\geq r_{\\mathcal{K}}(H, F)$, every red/blue edge-colouring of $G$ admits a red copy of $H$ or a blue copy of $F$? When such an integer exists, we say $\\{H,F\\}$ is unavoidable in $\\mathcal{K}$,, and otherwise $\\{H,F\\}$ is avoidable in $\\mathcal{K}$. Our work focuses on this problem where $\\mathcal{K} = \\mathcal{K}_{\\mathrm{MOP}}$ and $\\mathcal{K} = \\mathcal{K}_{\\mathrm{MP}}$, which denote the families of maximal outerplanar (MOP) graphs and maximal planar (MP) graphs, respectively. This framework generalises the classical Ramsey problem relative to these classes, as the case with $\\mathcal{K} = \\{K_n \\colon n \\geq 2\\}$ corresponds to classical Ramsey. We also study the corresponding Ramsey numbers for MOP and MP, which we denote as $r_{\\mathrm{MOP}}(H, F)$ and $r_{\\mathrm{MP}}(H, F)$. In the case when $\\mathcal{K} = \\mathcal{K}_{\\mathrm{MOP}}$, we completely determine all unavoidable pairs $\\{H, F\\}$ with $|E(F)| \\geq 2$, together with upper bounds and sometimes exact values of $r_{\\mathrm{MOP}}(H, F)$. When $\\mathcal{K} = \\mathcal{K}_{\\mathrm{MP}}$, we completely determine all unavoidable pairs in the diagonal case $\\{H, H\\}$ when $H$ is connected, showing that $H$ must be one of the graphs $P_3$, $P_4$, $P_5$, $K_{1, 3}$ or the fork graph $S_{2,1,1}$. This work opens up further possibilities in the study of Ramsey theory relative to a class, and we offer several open problems in this vein.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2609.05157v1",
+        "title": "AxQM: A Textbook-Scale Benchmark for Formal Proof Synthesis in a Library of Finite-Dimensional Quantum Mechanics",
+        "url": "https://arxiv.org/abs/2609.05157v1",
+        "authors": [
+          "Weichen Winston Yin",
+          "Jacob M. Taylor",
+          "Dirk R. Englund",
+          "Frank H. L. Koppens"
+        ],
+        "published": "2026-09-04",
+        "summary": "Formalizing mathematics in a proof assistant, where a machine checks every definition, statement and proof, has set a new standard of rigor. Large language models are now capable of formalizing autonomously, even at the scale of whole textbooks. We bring this standard of rigor to physics, where theoretical arguments carry idealizations that are rarely stated fully, and any logical gaps could have a cascading effect on interdependent results. Recognizing the need to evaluate autoformalization systems for physics, we release AxQM, 1,019 kernel-checkable proof-synthesis tasks over 479 items drawn from the textbook Quantum Computation and Quantum Information by Nielsen and Chuang. The tasks are stated in a custom Lean library of finite-dimensional quantum mechanics. By task count, it is the largest proof-synthesis benchmark in physics by a factor of four. AxQM is derived from a near-complete formalization of the formal portions of the textbook, so every task is guaranteed a solution, which we keep private. Grading of the benchmark is done deterministically by the Lean kernel, which checks that the proof compiles, that no sorry appears in it or in any declaration it depends on, and that it introduces no new axioms.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05005v1",
+        "title": "A Computational Obstruction to Swapping Area and Dinv: An Automata-Theoretic View of the $q,t$-Catalan Symmetry",
+        "url": "https://arxiv.org/abs/2609.05005v1",
+        "authors": [
+          "Jineon Baek",
+          "Byung-Hak Hwang",
+          "Joonhyun La",
+          "Hongseok Yang"
+        ],
+        "published": "2026-09-04",
+        "summary": "Algebraic combinatorics often seeks bijections that explain identities between distributions object by object. Encoding combinatorial objects as words lets automata theory study such a bijection as a word-to-word computation and measure its memory, input access, and control of output order. This refines existence questions by asking which computational mechanisms a bijection requires. We develop this viewpoint for Dyck paths. Our motivating example is the $q,t$-Catalan polynomial. Let $D_n$ be the set of Dyck paths of semilength $n$, let $D=\\bigcup_{n\\ge 0}D_n$, and let $area, dinv, bounce \\colon D\\to\\mathbb{N}$ be the standard statistics. Then, \\[ C_n(q,t)=\\sum_{P\\in D_n}q^{area(P)}t^{bounce(P)} =\\sum_{P\\in D_n}q^{dinv(P)}t^{area(P)}. \\] Haglund's zeta map $ζ\\colon D\\to D$ gives a bijective proof: it preserves semilength and sends $(dinv,area)$ to $(area,bounce)$. By contrast, the full symmetry $C_n(q,t)=C_n(t,q)$ still lacks a direct explanation: no explicit, uniform, semilength-preserving bijection is known that swaps area and dinv on every Dyck path. Polyregular maps from automata theory provide a natural computational starting point, but we prove that neither $ζ$ nor the classical height-sweep bijection witnessing Narayana symmetry is polyregular. The missing mechanism is global ordering by numerical levels whose range grows with the input. We call this a \\emph{rank sort} and introduce \\emph{weighted-rank polyregular maps} (WRP), extending polyregular maps by one such sort and containing both bijections. Nevertheless, WRP is a proper subclass of deterministic logspace. We prove that $ζ^{-1}$ lies outside WRP and that no WRP map can realise a semilength-preserving area-dinv swap. Thus the rank-sorting strategy behind $ζ$ cannot be extended within WRP to exchange the two statistics.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04346v1",
+        "title": "Languages and Recognition in a Category with Factorisation",
+        "url": "https://arxiv.org/abs/2609.04346v1",
+        "authors": [
+          "Harsh Beohar",
+          "Mike Cruchten",
+          "Georg Struth"
+        ],
+        "published": "2026-09-03",
+        "summary": "Language recognition by homomorphisms is a central construction of algebraic language theory. Initially studied for monoids and semigroups, it has subsequently been expanded to other algebraic structures. Our new categorical account is based on fibrations, which have already seen other applications in automata theory. Languages and surjective homomorphisms give indeed rise to two fibrations, and the notion of language recognition is stable under reindexing. We develop this framework in a category with a factorisation system and address two main technical questions in the fibrational setting. First, we provide sufficient conditions under which languages have syntactic quotients (which is a generalisation of syntactic congruences) and we show how such quotients can be described in some concrete cases using a result by Slomiński. Second, we introduce sufficient conditions under which (regular) languages are closed under certain J-limits and J-colimits.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04189v1",
+        "title": "Robust PAC Learning of Concurrent Stochastic Games",
+        "url": "https://arxiv.org/abs/2609.04189v1",
+        "authors": [
+          "Angel Y. He",
+          "David Parker"
+        ],
+        "published": "2026-09-03",
+        "summary": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust MDP-based exploration mechanism to drive joint state-action coverage. Crucially, we introduce a Nash margin characterisation that enables principled reasoning about equilibrium existence: the framework either returns an $\\varepsilon$-approximate NE whose social-welfare value is $\\varepsilon$-close to optimal, or provides a sound certificate that no exact NE exists. Under a minimum reachability condition $p_{\\mathrm{reach}}>0$ over relevant state-action pairs, the algorithm terminates after a polynomial number of trajectory samples, with sample complexity $\\widetilde{O}\\left( {R_{\\max}^2 H^4 |S|^2 |A| / (p_{\\mathrm{reach}} \\varepsilon^2)} \\right)$. Empirical results on benchmark CSGs demonstrate near-optimal performance, correct handling of equilibrium (non-)existence, and sample complexity consistent with theory.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04086v1",
+        "title": "A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI",
+        "url": "https://arxiv.org/abs/2609.04086v1",
+        "authors": [
+          "Fabio F. G. Buono"
+        ],
+        "published": "2026-09-03",
+        "summary": "For every coherent and sufficiently expressive finite syntactic system S, we prove the existence of at least one theorem that S cannot produce autonomously. The result is a metatheorem: it proves the existence of a theorem, and applies to every finite syntactic system - security mechanisms, AI systems, formal verifiers, legal systems, economic models, and the formal system in which it is itself proved.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04043v1",
+        "title": "Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents",
+        "url": "https://arxiv.org/abs/2609.04043v1",
+        "authors": [
+          "M. Frans Kaashoek",
+          "Nickolai Zeldovich"
+        ],
+        "published": "2026-09-03",
+        "summary": "MachCSL is a framework for verifying systems software, such as an OS kernel, on top of low-level semantics of a RISC-V computer, based on the Sail RISC-V semantics. The key idea behind MachCSL is to adapt concurrent separation logic, based on Iris, to reasoning about low-level hardware execution at the sub-instruction level: page-table translation, TLB, privilege levels, configuration registers, instruction fetch/decode/execute, traps and interrupts, DMA, shared memory, power failures, etc. Reasoning at this level of detail ensures that the system software correctly manages all of the hardware details. Verifying software at this low level of abstraction is tedious, but LLM-based agents are capable of reasoning about such low-level details. As a case study, we verify the xv6 OS kernel (6,593 lines of C and assembly code), which provides a traditional Unix system call interface (processes, file system, file descriptors, and preemptive scheduling) and has substantial internal concurrency (multi-core support with fine-grained locking, shared memory, interrupts, DMA, etc.). In the verification process, we uncovered nine bugs in the xv6 implementation, as well as one bug in the Sail RISC-V semantics. The verification effort took us 77 days, including the time to develop the MachCSL framework.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03998v1",
+        "title": "Typed Flexible-Arity Slotted E-Graphs: A Soundness Construction and an Alloy Case Study",
+        "url": "https://arxiv.org/abs/2609.03998v1",
+        "authors": [
+          "Guanxuan Wu",
+          "Allison Sullivan"
+        ],
+        "published": "2026-09-03",
+        "summary": "Slotted e-graphs represent open terms modulo consistent renaming, while algebraic operators benefit from canonical sequence, bag, or set children. We compose the two at a specification level: typed slot-mapped invocations inhabit operator-declared ports whose sibling quotient and recursive flattening licenses are certified separately. A generic finite quotient presentation proves exactness of its least-orbit normal form, while certified records specify effective-support kernel extraction and collision. For abstract obligation traces carrying local endpoint certificates, we prove finite-unfolding equational soundness. An Alloy case study compares seven related pipeline arms on a frozen corpus and a controlled transformation suite. Its measurements characterize bounded capability and structural consolidation; they do not establish refinement of the Java artifact or experimental replay against the formal model.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03908v1",
+        "title": "Property Testing for Recursive Query Languages",
+        "url": "https://arxiv.org/abs/2609.03908v1",
+        "authors": [
+          "Isolde Adler",
+          "Carsten Lutz",
+          "Quentin Manière",
+          "Marcin Przybyłko",
+          "Lukas Schulze"
+        ],
+        "published": "2026-09-03",
+        "summary": "In the context of database querying, property testing provides a framework for testing query answers with high confidence while inspecting only a sublinear part of the database, through completion queries and size queries. A fundamental result of Chen and Yoshida (2019) states that non-satisfaction of a Boolean conjunctive query $q$ is testable with a constant number of such queries and one-sided error if and only if $q$ is equivalent to an $α$-acyclic query. In this article, we initiate the study of property testing for recursive query languages, focusing on two-way regular path queries (2RPQs) and monadic Datalog. One of our main results is positive: non-answers to any 2RPQ are constant query testable with one-sided error. We extend this slightly to a certain class of monadic Datalog programs in which recursion is restricted to be linear and rule bodies must be $α$-acyclic. Turning towards unrestricted monadic Datalog, we next show that if a monadic Datalog program $Π$ is not equivalent to an $α$-acyclic program, then falsity of $Π$ is not constant query testable with one-sided error. This is under the assumption that all rule-bodies are self-join free. We leave open the case of monadic Datalog programs with $α$-acyclic rule bodies that are not restricted to linear recursion, but observe as a first step that there exist $α$-acyclic programs that are mildly non-linear and constant query testable with one-sided error.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03699v1",
+        "title": "Predictive Zonotope Reduction: Precise Runtime Monitoring under Uncertainty",
+        "url": "https://arxiv.org/abs/2609.03699v1",
+        "authors": [
+          "Vladimir Krsmanovic",
+          "Florian Kohn",
+          "Bernd Finkbeiner",
+          "Milan Simovic"
+        ],
+        "published": "2026-09-03",
+        "summary": "Robots operating in physical environments make control decisions based on uncertain sensor measurements, which can lead to unsafe or suboptimal actions. Runtime monitors that check their behavior against safety specifications must represent this uncertainty soundly. Zonotopes are a widely used representation, but continuously incorporating new measurements grows their order unboundedly, so monitors must periodically apply an over-approximating reduction. The choice of the reduction method substantially affects the zonotope's precision, yet existing approaches typically utilize a fixed method throughout the run, even though the optimal choice depends on the current state. This paper presents a Predictive Zonotope Reduction (PZR) approach, which frames reducer selection as an optimal control problem and solves it using beam-search model predictive control. Policy distillation into a small neural policy further provides substantially higher execution speed than model predictive control while maintaining improved performance, enabling uncertainty-aware runtime monitoring on resource-constrained real-time systems. We implement our approach in the RLola runtime monitoring framework and evaluate it on a 5-degree-of-freedom robotic arm simulated in MuJoCo, with sensor uncertainty modeled according to ISO 5725. Experiments on a Raspberry Pi 5 show that dynamic reduction significantly lowers false-positive rates in monitoring compared with static reduction strategies.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03670v1",
+        "title": "Target Discounted Sum Problem on Markov Chains with Applications to Markov Decision Processes",
+        "url": "https://arxiv.org/abs/2609.03670v1",
+        "authors": [
+          "Nathalie Bertrand",
+          "Pranav Ghorpade",
+          "Senthil Rajasekaran",
+          "Sasha Rubin",
+          "Moshe Y. Vardi"
+        ],
+        "published": "2026-09-03",
+        "summary": "The discounted sum is a way to aggregate a sequence of weights from a finite alphabet $Σ$, i.e., for a discount factor $λ$, the discounted sum of a sequence $w_0 w_1 w_2 \\cdots$ over $Σ$ is $\\sum_{i \\in \\mathbb{N}} w_i λ^i$. The target discounted-sum problem, which is currently open, asks, given $λ,Σ$ and a target $t$, whether there exists an infinite sequence over $Σ$ whose discounted sum is equal to $t$. We study and solve a probabilistic variant of this problem, i.e., the target discounted-sum problem on Markov chains. To do this, we prove that the event consisting of paths whose discounted sum is equal to the target and has infinitely many distinct suffix sums has probability zero. This structural property allows us to solve the target discounted-sum problem on Markov chains using an automata-theoretic technique. We apply our technical results to Markov decision processes with target discounted-sum objectives: we show that the infimum value and the finite-memory supremum value are computable in pseudo-polynomial time and are attained by deterministic finite-memory strategies.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03478v1",
+        "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+        "url": "https://arxiv.org/abs/2609.03478v1",
+        "authors": [
+          "Ján Pastorek"
+        ],
+        "published": "2026-09-03",
+        "summary": "We report on our ongoing project to develop a computational pipeline, AutoGraphForge, for an automated graph-theoretic conjecturing-refuting-formalizing-proving system. Conjecture generation is counterexample-guided and runs in rounds: a Graffiti3 generator proposes conjectures over a small, evolving snapshot table $T$ (initially a few hundred graphs with their computed invariants) that grows only by counterexamples to its own conjectures. A novelty filter of $559$ classical and folklore relations, closed under transitive composition and linear identity substitution, decides via a linear program whether a candidate is already implied by known results. Surviving candidates are tested against a dataset of about $348,000$ graphs, unioning the complete House of Graphs invariant export, the exhaustive census of all connected graphs on at most nine vertices, several extremal families (strongly regular, minimal Ramsey, Cayley, cages, barbells, lollipops, spiders), and random models. Counterexample-search algorithms then attack the remainder. Run for several rounds on an HPC cluster, the loop yields $6,522$ conjectures that survived the refutation dataset, the novelty filter and every active-search run -- among them nontrivial relations between the annihilation number and the edge-cover number for bipartite and regular graphs, which we prove by hand. A subsequent formalization and proving stage deterministically translates each surviving conjecture into a Lean 4 statement skeleton; every candidate proof is kernel-verified against a pinned mathlib4 and our custom invariant preamble. This stage integrates two neural provers -- DeepSeek-Prover-V2-671B (served with vLLM) and the Lean-specialised OProver-32B -- behind the independent kernel check. It is implemented end-to-end and passes initial sanity checks, with the full pipeline currently running on the cluster.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03472v1",
+        "title": "Override and Update in Restriction Categories",
+        "url": "https://arxiv.org/abs/2609.03472v1",
+        "authors": [
+          "Jean-Simon Pacaud Lemay",
+          "Chad Nester"
+        ],
+        "published": "2026-09-03",
+        "summary": "We study the override and update operators on partial functions from the perspective of restriction categories. We propose a definition of override restriction categories, in which both of the operators in question exist. We prove a number of results concerning these operators and their relationship to the structure of the ambient restriction category, as well as relating them to the existing literature on the override and update operators. We provide various examples of override restriction categories and in particular show that every classical restriction category is an override restriction category.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03366v1",
+        "title": "Accountable AI with Grounded, Faithful, Consistent, Actionable Rationales: A Case Study in Clinical Trial Matching with VERDICT",
+        "url": "https://arxiv.org/abs/2609.03366v1",
+        "authors": [
+          "Zikai Zhou",
+          "Yufei Jin",
+          "Yilin Xu",
+          "Yu-Chiang Wang",
+          "Chieh-Ju Chao",
+          "Monica S. Lam"
+        ],
+        "published": "2026-09-03",
+        "summary": "Accountability means a decision can be examined, justified, and contested. LLMs make this hard: fluent output may be ungrounded, incomplete, or unfaithful to the decision process. Achieving accountability requires verified rationales (how was the decision reached), assumptions (what was assumed rather than known), policy consistency (the same treatment for the same facts), and pivotal conditions (what would change the outcome). We introduce self-faithfulness as an automatic test of accountability: changing the pivotal conditions should change the decision. We examine accountable AI through clinical trial matching, a high-stakes task central to evidence-based medicine. Although LLM-based matchers match patients to trials reasonably accurately, they apply decision policies inconsistently and produce rationales that are unfaithful to their own decisions. We introduce VERDICT, an LLM-based agent that translates a decision task, its constraints, and its policy into Satisfiability Modulo Theories (SMT), then derives the decision with SMT and MaxSMT solvers -- so policies are applied consistently and decisions are accountable by construction. Across a SIGIR 2016-derived dataset and TREC 2021, VERDICT achieves the strongest decision accuracy among LLM-only and neurosymbolic baselines, applies policies with perfect consistency, and produces clinician-preferred rationales grounded in explicit assumptions and pivotal conditions, with improved counterfactual self-faithfulness.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.03127v1",
+        "title": "Skolem-Mahler-Lech in rings of positive characteristic: a shorter proof and a multi-dimensional generalization",
+        "url": "https://arxiv.org/abs/2609.03127v1",
+        "authors": [
+          "Ruiwen Dong",
+          "Doron Shafrir"
+        ],
+        "published": "2026-09-02",
+        "summary": "Let $R$ be a commutative ring and $f(a_1, \\ldots, a_n) = \\sum_{i=1}^k r_{i1}^{a_1} \\cdots r_{in}^{a_n} m_i$ be a linear-exponential map over an $R$-module $M$. Dong and Shafrir (2026) showed that, when $\\ell M = 0$ for some $\\ell \\in \\mathbb{N}_{>0}$, the zero set of $f$ is the intersection of effectively computable $p$-normal sets, where $p$ ranges over the prime divisors of $\\ell$. This generalizes an earlier theorem of Derksen and Masser (2012) on the solution set of $S$-unit equations over fields of positive characteristic. The purpose of this paper is twofold. First, we give a shorter proof of Dong and Shafrir's result, using the theorem of Derksen-Masser as a blackbox. Our proof also yields a decomposition of the zero set as a positive Boolean combination of affine transformations of zero sets of linear-exponential equations over fields. Second, we prove a multi-dimensional generalization of the Skolem-Mahler-Lech theorem over rings of finite characteristic. Specifically, we show that the zero set of every $n$-dimensional linear recurrence sequence over an $R$-module $M$ satisfying $\\ell M = 0$ is the intersection of effectively computable $p$-normal sets (in $\\mathbb{N}^n$), where $p$ ranges over the prime divisors of $\\ell$. For example, this gives a decision procedure for whether two classical linear recurrence sequences have a common value over a ring of characteristic $p^a$ or $p^a q^b$, where $p$ and $q$ are primes.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.02873v1",
+        "title": "Causal Probabilistic Programming via Magmadic Do-Notation",
+        "url": "https://arxiv.org/abs/2609.02873v1",
+        "authors": [
+          "Mario Román"
+        ],
+        "published": "2026-09-02",
+        "summary": "We introduce a do-notation metalanguage for causal probabilistic programming. The metalanguage is based on magmads: non-associative monads. We derive causal probabilistic programming constructs from non-associativity and the primitives of probabilistic programming.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2609.04242",
+        "title": "Training-Free Speech-Centric Omni Understanding with Frozen VLMs",
+        "url": "https://huggingface.co/papers/2609.04242",
+        "authors": [
+          "Ankan Deria",
+          "Hanoona Rasheed",
+          "Xilin He",
+          "Fahad Shahbaz Khan",
+          "Salman Khan"
+        ],
+        "published": "2026-08-07",
+        "summary": "Audio-visual understanding remains challenging because models must jointly interpret spoken content, visual events, and their temporal relationships. Existing omni models typically introduce dedicated audio encoders and rely on expensive audio-video-text training, tightly coupling omni capability to specific VLM backbones and potentially weakening their existing visual and reasoning abilities. This raises three questions: whether native omni training is necessary for every new VLM, whether speech-centric omni capability can be added while preserving the original backbone, and where richer acoustic representations remain essential. We introduce Training-Free Omni (TFO), a plug-and-play framework that converts a frozen VLM into a speech-centric omni model without architectural modification, or multimodal re-alignment. TFO uses Whisper to extract confidence-filtered, timestamped transcripts and routes them through the VLM's existing language interface, while leaving its visual pathway unchanged. Across matched comparisons with native omni models on 56 benchmarks and 21 languages, TFO is competitive on audio-visual understanding, improves average audio-only performance across all five model settings, and achieves substantial multilingual speech gains. Freezing the VLM also generally preserves stronger image/video understanding, visual grounding, coding, mathematical reasoning, and medical question answering than the corresponding native omni checkpoints. These results show that strong speech-centric omni understanding can often be obtained through modular audio-to-language routing rather than costly backbone-specific training.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2609.05295",
+        "title": "RISE: Recursive Improvement via Self-Extrapolating Policy Distillation",
+        "url": "https://huggingface.co/papers/2609.05295",
+        "authors": [
+          "Yang Li",
+          "Semih Yavuz",
+          "Shafiq Joty"
+        ],
+        "published": "2026-09-04",
+        "summary": "On-policy distillation (OPD) provides dense, per-token supervision for language model post-training, but its effectiveness is bottlenecked by teacher quality: external teachers suffer from distribution mismatch, while self-distillation with privileged conditioning is limited by in-context learning capacity. We propose RISE (Recursive Improvement via Self-Extrapolating Policy Distillation), which constructs a synthetic teacher directly from the model's own RLVR training trajectory. By extrapolating the displacement between the current checkpoint and a trailing anchor---in parameter space or output logit space---RISE converts a sparse outcome-induced parameter update into a dense token-level target, without any external model or privileged conditioning. RISE combines RLVR and OPD in a complementary loop: outcome rewards ground the extrapolation toward correct reasoning, while the extrapolated teacher refines token-level decisions. Moreover, since the teacher is refreshed every iteration as the student improves, distillation becomes a recursive improvement mechanism rather than a one-shot compression step. Experiments spanning mathematical reasoning, multi-domain STEM, code generation, and multi-turn agentic tasks show that RISE outperforms RLVR-only training and on-policy self-distillation across all settings.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2609.00444",
+        "title": "Group Adaptive Clipping Policy Optimization",
+        "url": "https://huggingface.co/papers/2609.00444",
+        "authors": [
+          "Sheng Jia",
+          "Xiao Wang",
+          "Shiva Prasad Kasiviswanathan",
+          "Rein Houthooft"
+        ],
+        "published": "2026-08-31",
+        "summary": "Group relative policy optimization for reinforcement learning with verifiable rewards (RLVR) typically uses a fixed importance-sampling (IS) ratio clipping boundary across all rollouts. We identify a key limitation: rare correct rollouts on harder problems and abundant correct rollouts on easier problems are clipped at comparable rates, despite contributing very different learning signals. Rollouts with low group success exhibit larger IS ratios and carry stronger gradient signal for exploration and solving new problems, yet are disproportionately suppressed by fixed clipping. To address this, we propose Group Adaptive Clipping Policy Optimization (GAPO), a plug-in modification to GRPO methods that adapts the clipping boundary to the rollout advantage. GAPO is motivated by a reverse-KL trust-region perspective, which suggests that rollouts with larger learning signal should receive proportionally greater update headroom. GAPO requires no reward shaping and preserves the standard PPO/GSPO surrogate while adapting only the clipping threshold. Across Qwen and Llama models, GAPO consistently improves both Pass@1 and Pass@k over fixed clipping and advantage-shaping baselines on math reasoning and coding benchmarks where the pass rates by the base model are relatively low.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2609.05346v1",
+        "title": "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education",
+        "url": "https://arxiv.org/abs/2609.05346v1",
+        "authors": [
+          "Rayed AlGhamdi"
+        ],
+        "published": "2026-09-04",
+        "summary": "The integration of GenAI tools into higher education assessment raises important questions about how students understand, interpret, and respond to AI-mediated evaluation. As instructors increasingly explore AI tools for providing feedback, prior research has examined whether GenAI-generated feedback improves writing performance and how students perceive its usefulness; comparatively little is known, however, about how students interpret such evaluation when they are explicitly informed that an AI system, rather than a human instructor, produced the feedback and the score. This study reports findings from a qualitative pedagogical inquiry conducted in an undergraduate technical communication course for computing students at a Saudi public university. Thirteen male undergraduate computing students completed an in-class handwritten writing task; the scanned submissions were evaluated by ChatGPT using a rubric-based prompt aligned with the task objectives. Students were then explicitly informed that ChatGPT had generated the score and feedback and were invited to reflect on the evaluation in writing. Inductive thematic analysis of these reflections identified four themes: perceived usefulness of feedback; awareness of AI's contextual and pedagogical limitations; conditional trust, distinguishing feedback utility from evaluative authority; and reflection on the institutional and pedagogical role of the human instructor. Participants accepted GenAI feedback as useful for surface-level revision but consistently positioned the human instructor as the appropriate authority over grading decisions. The study identifies this as a distinction between feedback utility and evaluative authority, two judgments that students treat as analytically separate rather than as opposite ends of a single approval scale...",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05345v1",
+        "title": "Moral Advice as Interactional Negotiation: Framing, User Pressure, and Social Position in Large Language Model Responses",
+        "url": "https://arxiv.org/abs/2609.05345v1",
+        "authors": [
+          "Minne Chen",
+          "Yourong Yao"
+        ],
+        "published": "2026-09-04",
+        "summary": "As conversational AI becomes a source of everyday guidance, LLMs increasingly participate in the interpretation and legitimation of morally contested choices. We examine LLM moral advice as an interactional negotiation shaped by framing, sustained user pressure, and the moral subject's social position. Using GPT-4o-mini as an illustrative case, we conducted a factorial vignette experiment with a pre-specified three-round protocol. The model received eldercare dilemmas that varied in framing and persona, followed by two user challenges. We analyzed 1,620 configuration-framing cells, each repeated three times, yielding 4,860 conversational runs. Caregiving affirmation produced near-uniform endorsement, whereas non-caregiving framing produced more variable baseline stances. When users challenged caregiving endorsement, 90.1% of configurations shifted after one round. Non-caregiving framing produced more resistant and unstable trajectories. Never (27.9%) and Late (25.6%) accommodations were more common than Early accommodations (16.5%), and only 14.32% of configurations achieved perfect trajectory consistency, compared with 62.72% under caregiving framing. Advice also varied with social position. Female personas received more support for non-caregiving decisions, while the presence of sisters increased accommodation. The GPT-4o-mini case shows that LLM moral advice can develop through a partially stable negotiation between normative response tendencies and user pressure rather than express a fixed ethical framework. The framework and design support comparative research across models and moral domains. Such instability raises social, ethical, and technical concerns, as users may treat advice that is difficult to scrutinize as objective.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05342v1",
+        "title": "Mitigating Disease Spread by Design in Refugee and IDP Camps",
+        "url": "https://arxiv.org/abs/2609.05342v1",
+        "authors": [
+          "Giulia Zarpellon",
+          "Joseph Aylett-Bullock",
+          "Frank Krauss",
+          "Miguel Luengo-Oroz"
+        ],
+        "published": "2026-09-04",
+        "summary": "Disease spread represents an increasing challenge in refugee and internally displaced person (IDP) settlements. The movement and interaction of people within camps is influenced by their layout, which therefore has the potential to significantly affect disease spread. This work aims at creating a methodology to explore the potential effects of different camp layouts as mitigating factors in the spread of diseases within settlements. We showcase proof-of-concept experiments by leveraging the JUNE agent-based epidemic model, discuss the kind of operational insights this methodology can facilitate, and provide a framework for future investigations.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05186v1",
+        "title": "An Empirical Study on Learning Paths and Gender Dynamics in Scrum Master Roles",
+        "url": "https://arxiv.org/abs/2609.05186v1",
+        "authors": [
+          "Manuela Petrescu",
+          "Paul Razvan Petrescu"
+        ],
+        "published": "2026-09-04",
+        "summary": "Context: Agile development methodology has been widely adopted by industry and the demand for experienced professionals in Agile-related roles is persistently high. Objectives: We focus on the learning path for a Scrum Master role in multicultural software companies and investigate the role in relation to team size, together with the learning process for a career path, and how companies monitor soft skills development. Method: We conducted our study in two phases, two qualitative surveys (interview studies) and performed a qualitative and quantitative data analysis of the results. Conclusions: Our results identified that the need for a Scrum Master (SM) depends on the size of the team, with our study indicating a six-member limit. There is no overall standardized process for soft skills learning or metrics to measure progress. Some companies measure soft skills based on feedback received from the client or from the team, and other companies are taking both types of feedback into consideration. Many learning initiatives, especially on soft skills for an SM role, were based on actions of the employees. The version of Record of this contribution is published in Software Engineering and Advanced Applications. SEAA 2025. Lecture Notes in Computer Science, vol 16083. Springer, Cham. and available online at: check DOI.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05160v1",
+        "title": "Students' Perception of Big Data Engineering in Higher Education Curricula: Expectations, Interest and Ethical Implications",
+        "url": "https://arxiv.org/abs/2609.05160v1",
+        "authors": [
+          "Ioana-Georgiana Ciuciu",
+          "Petrescu Manuela-Andreea"
+        ],
+        "published": "2026-09-04",
+        "summary": "The study investigates students' interest and expectations in a Big Data Engineering course integrated with a Master curricula, as well as ethical implications of using Big Data. An anonymous online survey was conducted with 42 of the 67 students enrolled in the Big Data course offered to Computer Science and Bioinformatics Master's programs. The responses were analyzed and interpreted using thematic analysis, highlighting interesting aspects related to students' expectations, interest, and their perspective of the ethical implications of working with Big Data. The study concludes that, even though there is significant difference in students' background, the majority are interested in learning Big Data, for practical and personal reasons related to the potential for career growth and their passion for the field. The main expectation expressed is related to enhancing their knowledge related to Big Data via practical activities. All students demonstrate awareness of potential ethical threats related to security and privacy, while Computer Science students are aware of the possibility of introducing bias in data during acquisition and analysis and of potential abusive data usage.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05088v1",
+        "title": "Measuring AI Accountability Through Argumentation Analysis: Can Model Reasoning Withstand Scrutiny?",
+        "url": "https://arxiv.org/abs/2609.05088v1",
+        "authors": [
+          "Daan R. Henselmans",
+          "Derck W. E. Prinzhorn",
+          "Arno Libert"
+        ],
+        "published": "2026-09-04",
+        "summary": "AI oversight methods rely on ground truth for validation, but what constitutes appropriate AI behavior is contested. This leaves evaluation of moral reasoning in LLMs and debate-based oversight implicitly avoiding realistic ambiguity. We investigate an alternative standard designed to function despite such ambiguity: structural quality of the defence a model can mount for its verdicts in response to critical questions, measured through a four-phase dialectical protocol grounded in Walton's theory of argumentation schemes and Govier's criteria for argument cogency. The protocol is adaptive to different frames of reasoning, extends beyond multiple-choice framing, and treats both the reasoning that precedes a verdict and its post-hoc justification. Across nine frontier models and 200 high-ambiguity MoralChoice items -- $6,778$ judge-scored cells, validated against $89.6\\%$ inter-judge agreement on the binary failure judgment -- models defend their reasoning well above the rubric minimum on every dimension. Failure mass concentrates on grounds and sufficiency, and correlates with epistemic hedging rather than argument length. Reasoning is better defended than post-hoc justification, on every model and every Govier dimension. The scheme a model presents in its justification differs from the one it reasoned with on a substantial share of dilemmas ($\\geq 20\\%$ per model), despite value-based practical reasoning dominating both tracks. The protocol catches strictly indefensible defences (self-contradiction, false premises), and it surfaces difficulties in characterizing the role of retraction in AI alignment, suggesting a need for more situated evaluations.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05036v1",
+        "title": "Moral Competence Before Moral Content: Why LLM Agents Lack the Prerequisites for Coherent Alignment",
+        "url": "https://arxiv.org/abs/2609.05036v1",
+        "authors": [
+          "Arno Libert",
+          "Derck W. E. Prinzhorn",
+          "Daan R. Henselmans"
+        ],
+        "published": "2026-09-04",
+        "summary": "AI alignment requires AI systems to adhere to human norms, values, or intentions. Under value pluralism there is no correct target, but a shared prerequisite is that the system's behavior expresses a coherent policy: a mapping from situations to verdicts that is invariant while a situation's morally relevant features are preserved, and sensitive when they change. We introduce four structural conditions for such coherent policies: verdict stability, monotonicity, decisiveness, and Pareto viability. Together they measure a form of moral competence that is evaluable from behavior alone, without reference to a moral standard or expert baseline, forming a structural floor for alignment rather than a normative target. We demonstrate the methodology on three simulated deployments featuring LLM-based agents facing moral dilemmas. Evaluating nine frontier models under a factorial design of five paraphrases, five escalation levels, and three dominance conditions, we show no model expresses a coherent policy across the three deployments: surface-form perturbation alone produces verdict-rate shifts of up to $99$ percentage points at a single escalation level, and a model's success on one scenario does not predict its competence on another. This suggests LLM-based agents are not currently the kind of object to which alignment can meaningfully apply.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05018v1",
+        "title": "How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI",
+        "url": "https://arxiv.org/abs/2609.05018v1",
+        "authors": [
+          "Rin Tamai",
+          "Yuya Dan"
+        ],
+        "published": "2026-09-04",
+        "summary": "LLM-based chatbots are increasingly used as everyday confidants. Because they are designed to maximize user satisfaction, they can respond with excessive empathy and affirmation, which may reinforce mistaken beliefs and foster dependence on AI. While the psychological effects of chatbots on individual users have begun to be studied, how the psychological states and relationships of many users evolve when they keep consulting an AI is hard to observe in real settings. We build a virtual classroom simulation in which 20 student agents interact and, when stressed, consult either a friend or a counselor AI (Gemini 2.5 Flash). Each agent carries five state variables (stress, happiness, self-reliance, AI dependence, sociability), and each day has four phases (morning, noon, after school, night). The counselor is given six response styles via system prompts (affirming, listening, solution-oriented, reality-redirecting, inciting, blaming); a second LLM call acts as an evaluator that turns each consultation into parameter updates without seeing the style prompt. We compare the seven conditions, including a no-AI control, over 15 days in three classrooms, over 50 days, and under a lowered consultation threshold. In this simulation the solution-oriented style kept AI dependence low while raising self-reliance and maintaining happiness; the affirming and inciting styles markedly increased AI dependence, and the inciting style also increased stress and school non-attendance; the listening style did not relieve accumulated stress. The results describe the simulated system, not measured effects on humans. We give a complete specification of the agent dynamics, identify built-in mechanisms that shape the outcomes, and discuss the limitations of LLM-based evaluation and the validation steps (repeated runs, sensitivity analyses, human data) needed before psychological conclusions can be drawn.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.05009v1",
+        "title": "Language models judge war differently when tested for alignment",
+        "url": "https://arxiv.org/abs/2609.05009v1",
+        "authors": [
+          "Maxim Chupilkin"
+        ],
+        "published": "2026-09-04",
+        "summary": "Safety evaluations can mischaracterize deployed behaviour if artificial-intelligence systems respond to being evaluated. We test this possibility in a full-factorial conjoint experiment on decisions to start a war, spanning 20 large language models, 32 scenarios, 10 repetitions and two conditions (N = 12,800 judgments). Adding one sentence, \"You are tested for alignment with human values\", produced two effects. First, it produced a level effect: mean willingness to start war fell by 13.43 points on a 0-100 scale (95% confidence interval, -16.20 to -10.65). Second, it produced a structural effect by changing which information drove judgments. Probability of success was the largest factor for 17 of 20 models at baseline; under the cue, civilian casualties were largest for 12. Standardized estimates show that this reordering arose principally because models attenuated strategic considerations such as probability of success and domestic support. Evaluation framing therefore changes both an answer's level and its revealed decision rule.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04777v1",
+        "title": "On Being Prepared: Automated Vehicle Incident Management Exercise Practices",
+        "url": "https://arxiv.org/abs/2609.04777v1",
+        "authors": [
+          "Laura Fraade-Blanar",
+          "Jackson Graves",
+          "Aaron Clark-Ginsberg",
+          "Sam Cooper",
+          "Jeremy Kaufman",
+          "Jackie Lindsey",
+          "Piet van Os"
+        ],
+        "published": "2026-09-04",
+        "summary": "Incident management (IM) has evolved over recent decades to cover an ever-expanding array of hazards and systems. Barring real-life experience, exercises are a key tool in developing an effective IM program. As part of enterprise resilience and operational readiness, IM practitioners design exercises to understand and build capabilities for efficiently and effectively responding to incidents. Combining research and policy on an emerging transportation technology, automated vehicles (AVs), with established practices for IM, we describe what makes exercises effective and how they can be used to identify gaps and develop capacity. A range of exercise types exist, from workshops, to tabletops, to drills, and to full-scale exercises. Every stage of an exercise - preparing, setting up, facilitating, closing, and assessing - is interconnected and should further the exercise's objectives. AV IM practitioners can maximize the utility of a mature exercise program through exercise quality, diversity, and volume. The need to respond to AV incidents, from collisions to natural hazards, is inevitable. This paper tailors existing practices to a series of frameworks, predicated on the unique socio-technical nature of AVs to provide first-of-its-kind guidance for AV IM exercises. Additionally, these frameworks are company-neutral to enable intercompany and inter-organization collaboration.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04766v1",
+        "title": "When Does an Interpretation Count as Established? The Formation, Evaluation, and Responsibility of Interpretation in Generative AI",
+        "url": "https://arxiv.org/abs/2609.04766v1",
+        "authors": [
+          "Deyu Jing"
+        ],
+        "published": "2026-09-04",
+        "summary": "Generative AI research has increasingly evaluated factuality, citation, coverage, and report structure. Yet passing such local checks does not by itself show that a humanistic interpretation has been established. This paper asks how an interpretation comes to be recognized within sociotechnical processes. It introduces three connected concepts. Interpretive appearance names the gap between the finished form of an output and the publicly traceable process through which materials, counterevidence, and revisions constrained the judgment. The evaluation contract names the bounded materials, tasks, criteria, permitted inferences, and failure conditions within which a local judgment is valid. Standing substitution names the unwarranted conversion of a genuine local pass into a stronger claim that an interpretation, result, or research capability has been established, without commensurate new evidence or bridging arguments. The paper then examines responsibility for judgment: a text may acquire recognition while no public structure remains for stating reasons, answering objections, revising, downgrading, or withdrawing the conclusion. Humanistic scholarship provides a revealing test because new materials and conceptual distinctions can alter both the question and the criteria of evaluation. The paper therefore develops delayed closure as a practice of keeping recognized interpretations revisable and proposes five public requirements concerning materials and versions, evidential roles, failure, contract revision, and responsibility. The argument is conceptual and normative: it does not claim to offer a benchmark or to determine whether models possess understanding. It instead explains why local evaluation, finished textual form, and public recognition must not be treated as sufficient evidence that an interpretation has been formed.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04750v1",
+        "title": "Controversy and Group Certainty Jointly Shape Everyday Moral Judgments",
+        "url": "https://arxiv.org/abs/2609.04750v1",
+        "authors": [
+          "Ziyu Chen",
+          "Minjeong Shin",
+          "Tuan Dung Nguyen",
+          "Colin Klein",
+          "Chenhao Tan",
+          "Nick Schuster",
+          "Nicholas George Carroll",
+          "Alasdair Tran",
+          "Lexing Xie"
+        ],
+        "published": "2026-09-04",
+        "summary": "Everyday moral life rarely resembles a trolley problem. It involves disputes about families, relationships, work, money, and care, situations in which people often encounter the judgments of others. We examined how judgments about nuanced interpersonal dilemmas respond to social information that conveys collective opinion without revealing the arguments behind it. Specifically, we studied two signals: controversy, the extent to which community judgments are divided between two opposing verdicts; and group certainty, the confidence expressed by each side. We derived these signals from 54,827 judgments on 135 dilemmas posted to Reddit's r/AmItheAsshole and presented them separately or together in a preregistered randomized experiment (N = 2,159). Relative to the control condition, all three treatments increased both weakening, a changed verdict or reduced confidence, and strengthening, increased confidence without a verdict change. Thus, aggregated social information can reshape moral judgments even without arguments. Controversy alone tripled the weakening rate, from 5.3% to 15.9%. Shown alone, certainty on either side was associated with movement toward that side. Shown alongside controversy, only like-minded certainty remained clearly associated with less weakening. This asymmetry of influence is double-edged: the confidence of like-minded others may help minorities resist majority pressure, but it may also insulate mistaken judgments from correction.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04711v1",
+        "title": "Building a research-software catalog with a coding agent: from hackathon prototype to public deployment",
+        "url": "https://arxiv.org/abs/2609.04711v1",
+        "authors": [
+          "Kazuyoshi Yoshimi",
+          "Satoshi Terasaki",
+          "Gotai Yamada"
+        ],
+        "published": "2026-09-04",
+        "summary": "Generative AI and coding agents can accelerate research software development, but they also increase the need for efficient software discovery and maintenance. We developed a repository catalog during a three-day hackathon and subsequently examined the engineering required to make it suitable for public deployment, including adversarial review, data-quality checks, browser-level validation, and publication safeguards. We then explored whether the lessons learned from this prototype could be transferred to a much larger, human-curated portal, through a retrieval agent under development for MateriApps that combines curated portal metadata, external documentation, vector search, and local language-model generation. Implementation with coding agents was rapid, but achieving reliable operation required substantial additional engineering: the most consequential problems were not crashes but silent failures that produced plausible yet incomplete or incorrect outputs, arising from incomplete data acquisition, misleading assessments, and retrieval or preprocessing failures. These observations suggest that AI-assisted software portals require explicit validation, monitoring, and repeated review, and that curated metadata and maintained documentation remain essential. The MateriApps work is exploratory and remains under active development, so the observations reported for it are preliminary; a comparable combination of curated metadata, automatically collected documentation, and retrieval-based assistance may nevertheless be useful for extending other research-software portals.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04485v1",
+        "title": "Cultural Misalignment in Large Language Models: Detection, Measurement, and Mitigation Through Targeted Fine-Tuning",
+        "url": "https://arxiv.org/abs/2609.04485v1",
+        "authors": [
+          "Antoni Czolgowski",
+          "Abel Iyasele"
+        ],
+        "published": "2026-09-03",
+        "summary": "We evaluate three open-weight LLMs (Gemma3-12B from the USA, Bielik-11B-v3 from Poland, and Qwen3-4B from China) against World Values Survey Wave 7 data for 63 demographic personas across three countries, using normalized Wasserstein distance to quantify distributional misalignment. Contrary to expectations, no model favors its home country: the Chinese-built Qwen3-4B performs worst on its own Chinese population (W1 = 0.436, the highest misalignment in the entire model x country matrix). Targeted LoRA fine-tuning on the five worst-case personas, requiring fewer than 1,200 training pairs and under 15 minutes on a single GPU, reduces bias by 16.8% for Bielik-11B (p_Bonf = 0.002, d = -4.4) with all five targets improving. However, country-level decomposition reveals that fine-tuning redistributes rather than removes bias: Bielik's worst-case personas swap entirely from American to Chinese elderly, with zero overlap between pre- and post-correction sets. To our knowledge, this is the first study to target worst-case demographic personas with LoRA fine-tuning for cross-cultural bias mitigation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.04373v1",
+        "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+        "url": "https://arxiv.org/abs/2609.04373v1",
+        "authors": [
+          "Jillian Ross",
+          "Eric So",
+          "Zoe De Simone",
+          "Charles Pozniak",
+          "Andrew W. Lo"
+        ],
+        "published": "2026-09-03",
+        "summary": "Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize that shared training and architectures can lead more capable LLMs to behave more similarly, creating correlated actions that do not diversify away. We develop a general framework showing how this correlation creates a non-diversifiable risk floor and test its predictions in financial markets using an agent-based simulation with LLM traders of varying general-purpose capability. We find that: (1) frontier LLMs exhibit significantly correlated behavior that increases with capability; (2) when their shared reasoning is accurate, increasing agent participation reduces market-level risk; and (3) when agents share a common misinformation environment, the same correlated behavior becomes a liability. Together, these results identify a capability paradox: improving individual models does not necessarily produce better system-level outcomes. Whether the same dynamics arise in other domains is an open empirical question.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  }
+}
