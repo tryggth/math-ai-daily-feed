@@ -1,16 +1,7 @@
 name: Deploy GitHub Pages
 
 on:
-  schedule:
-    - cron: '30 11 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - 'src/**'
-      - 'requirements.txt'
-      - '.github/workflows/deploy_pages.yml'
 
 permissions:
   contents: write
