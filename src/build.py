@@ -10,6 +10,7 @@ from typing import Optional
 from src import aggregator
 from src.builders.html_builder import build_html
 from src.builders.json_builder import build_json
+from src.synthesizer import synthesize_brief
 
 logging.basicConfig(
     level=logging.INFO,
@@ -40,12 +41,26 @@ def main(
     else:
         today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    # 3. Save today's snapshot to data/{YYYY-MM-DD}.json
+    # 3. Generate daily AI editorial brief using Gemini API
+    logger.info("Synthesizing daily editorial brief via Gemini API...")
+    brief_md = synthesize_brief(data)
+    data["editorial_brief"] = brief_md
+
+    # Save public/brief.md and data/brief-{date}.md
+    today_brief_path = os.path.join(data_dir, f"brief-{today_str}.md")
+    with open(today_brief_path, "w", encoding="utf-8") as f:
+        f.write(brief_md)
+
+    public_brief_path = os.path.join(output_dir, "brief.md")
+    with open(public_brief_path, "w", encoding="utf-8") as f:
+        f.write(brief_md)
+
+    # 4. Save today's snapshot to data/{YYYY-MM-DD}.json
     today_data_path = os.path.join(data_dir, f"{today_str}.json")
     logger.info("Archiving current run snapshot to %s...", today_data_path)
     build_json(data, output_path=today_data_path)
 
-    # 4. Scan data/ for all *.json files to create a sorted date index (newest first)
+    # 5. Scan data/ for all *.json files to create a sorted date index (newest first)
     all_json_files = [f for f in os.listdir(data_dir) if f.endswith(".json")]
     available_dates = sorted(
         [f[:-5] for f in all_json_files if re.match(r"^\d{4}-\d{2}-\d{2}$", f[:-5])],
@@ -56,17 +71,24 @@ def main(
 
     logger.info("Found %d archived editions: %s", len(available_dates), available_dates)
 
-    # 5. Create public/archive/ directory
+    # 6. Create public/archive/ directory
     archive_dir = os.path.join(output_dir, "archive")
     os.makedirs(archive_dir, exist_ok=True)
 
-    # 6. For every historical date in data/:
+    # 7. For every historical date in data/:
     #    - Export public/archive/{date}.json
     #    - Render public/archive/{date}.html
     for date_str in available_dates:
         source_file = os.path.join(data_dir, f"{date_str}.json")
         with open(source_file, "r", encoding="utf-8") as f:
             edition_data = json.load(f)
+
+        edition_brief = edition_data.get("editorial_brief", "")
+        if not edition_brief:
+            archived_brief_file = os.path.join(data_dir, f"brief-{date_str}.md")
+            if os.path.isfile(archived_brief_file):
+                with open(archived_brief_file, "r", encoding="utf-8") as bf:
+                    edition_brief = bf.read()
 
         archive_json_path = os.path.join(archive_dir, f"{date_str}.json")
         archive_html_path = os.path.join(archive_dir, f"{date_str}.html")
@@ -78,13 +100,23 @@ def main(
             available_dates=available_dates,
             current_date=date_str,
             is_archive=True,
+            brief_md=edition_brief,
         )
 
-    # 7. The newest date is exported as public/latest.json and public/index.html
+    # 8. The newest date is exported as public/latest.json and public/index.html
     latest_date = available_dates[0]
     latest_source_file = os.path.join(data_dir, f"{latest_date}.json")
     with open(latest_source_file, "r", encoding="utf-8") as f:
         latest_data = json.load(f)
+
+    latest_brief = latest_data.get("editorial_brief", "")
+    if not latest_brief:
+        latest_brief_file = os.path.join(data_dir, f"brief-{latest_date}.md")
+        if os.path.isfile(latest_brief_file):
+            with open(latest_brief_file, "r", encoding="utf-8") as bf:
+                latest_brief = bf.read()
+    if not latest_brief and latest_date == today_str:
+        latest_brief = brief_md
 
     latest_json_path = os.path.join(output_dir, "latest.json")
     latest_html_path = os.path.join(output_dir, "index.html")
@@ -96,14 +128,15 @@ def main(
         available_dates=available_dates,
         current_date=latest_date,
         is_archive=False,
+        brief_md=latest_brief,
     )
 
-    # 8. Create empty public/.nojekyll
+    # 9. Create empty public/.nojekyll
     nojekyll_path = os.path.join(output_dir, ".nojekyll")
     with open(nojekyll_path, "w", encoding="utf-8") as f:
         pass
 
-    # 9. Print summary metrics
+    # 10. Print summary metrics
     pillars = latest_data.get("pillars", {})
     results_count = len(pillars.get("results", []))
     arch_count = len(pillars.get("architecture", []))
@@ -124,6 +157,8 @@ def main(
     print("Generated Artifacts:")
     print(f"  • {latest_json_path}")
     print(f"  • {latest_html_path}")
+    print(f"  • {public_brief_path}")
+    print(f"  • {today_brief_path}")
     print(f"  • {archive_dir}/* ({len(available_dates) * 2} files)")
     print(f"  • {nojekyll_path}")
     print("=" * 60 + "\n")

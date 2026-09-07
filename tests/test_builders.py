@@ -167,6 +167,8 @@ def test_build_cli_pipeline_and_archiving(tmp_path, sample_aggregated_data):
     # Check public/ artifacts
     assert (tmp_public_dir / "latest.json").is_file()
     assert (tmp_public_dir / "index.html").is_file()
+    assert (tmp_public_dir / "brief.md").is_file()
+    assert (tmp_data_dir / "brief-2026-09-06.md").is_file()
     assert (tmp_public_dir / ".nojekyll").is_file()
 
     # Check public/archive/ contains JSON and HTML for both dates

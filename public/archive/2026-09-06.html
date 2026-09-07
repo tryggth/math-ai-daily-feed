@@ -154,6 +154,104 @@
       transform: translateY(-1px);
     }
 
+    .editorial-brief {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-left: 4px solid var(--border-focus);
+      border-radius: 12px;
+      padding: 1.75rem 2rem;
+      margin-bottom: 2.5rem;
+      box-shadow: var(--shadow-card);
+    }
+
+    .brief-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .brief-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: linear-gradient(135deg, #0284c7 0%, #6366f1 100%);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.25rem 0.65rem;
+      border-radius: 9999px;
+    }
+
+    .brief-meta {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .brief-content {
+      color: var(--text-main);
+      font-size: 0.95rem;
+      line-height: 1.7;
+    }
+
+    .brief-content h1 {
+      font-size: 1.45rem;
+      font-weight: 700;
+      margin-bottom: 0.85rem;
+      color: var(--text-main);
+      letter-spacing: -0.02em;
+    }
+
+    .brief-content h2,
+    .brief-content h3 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin-top: 1.25rem;
+      margin-bottom: 0.5rem;
+      color: var(--accent-primary);
+    }
+
+    .brief-content p {
+      margin-bottom: 0.85rem;
+    }
+
+    .brief-content a {
+      color: var(--accent-primary);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    .brief-content a:hover {
+      color: var(--accent-hover);
+    }
+
+    .brief-content ul,
+    .brief-content ol {
+      margin-left: 1.5rem;
+      margin-bottom: 0.85rem;
+    }
+
+    .brief-content li {
+      margin-bottom: 0.35rem;
+    }
+
+    .brief-content blockquote {
+      border-left: 3px solid var(--accent-primary);
+      padding-left: 1rem;
+      margin: 1rem 0;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .brief-content em {
+      color: var(--text-muted);
+    }
+
     .pillar-section {
       margin-bottom: 3rem;
     }

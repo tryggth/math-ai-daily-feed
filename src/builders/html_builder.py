@@ -6,6 +6,8 @@ import os
 import tempfile
 from typing import Any, Optional
 
+import markdown
+
 logger = logging.getLogger(__name__)
 
 PILLARS_METADATA = [
@@ -89,6 +91,7 @@ def render_html_page(
     available_dates: Optional[list[str]] = None,
     current_date: Optional[str] = None,
     is_archive: bool = False,
+    brief_md: str = "",
 ) -> str:
     """Generate complete self-contained HTML5 string with historical date selector."""
     updated_at = str(aggregated_data.get("updated_at", "Just now"))
@@ -125,6 +128,21 @@ def render_html_page(
     else:
         json_url = "./latest.json"
         json_label = "latest.json"
+
+    # Render AI Editorial Brief if present
+    raw_brief = brief_md if brief_md else str(aggregated_data.get("editorial_brief", ""))
+    brief_section_html = ""
+    if raw_brief.strip():
+        rendered_md = markdown.markdown(raw_brief.strip(), extensions=["extra"])
+        brief_section_html = f"""    <section class="editorial-brief" aria-label="Daily AI Editorial Brief">
+      <div class="brief-header">
+        <span class="brief-badge">AI Synthesis</span>
+        <span class="brief-meta">Editorial Evaluation &bull; Gemini 2.5</span>
+      </div>
+      <div class="brief-content">
+{rendered_md}
+      </div>
+    </section>\n\n"""
 
     sections_html = []
     total_papers = 0
@@ -315,6 +333,104 @@ def render_html_page(
     .api-pill:hover {{
       background: var(--accent-hover);
       transform: translateY(-1px);
+    }}
+
+    .editorial-brief {{
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-left: 4px solid var(--border-focus);
+      border-radius: 12px;
+      padding: 1.75rem 2rem;
+      margin-bottom: 2.5rem;
+      box-shadow: var(--shadow-card);
+    }}
+
+    .brief-header {{
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border-subtle);
+    }}
+
+    .brief-badge {{
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: linear-gradient(135deg, #0284c7 0%, #6366f1 100%);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.25rem 0.65rem;
+      border-radius: 9999px;
+    }}
+
+    .brief-meta {{
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }}
+
+    .brief-content {{
+      color: var(--text-main);
+      font-size: 0.95rem;
+      line-height: 1.7;
+    }}
+
+    .brief-content h1 {{
+      font-size: 1.45rem;
+      font-weight: 700;
+      margin-bottom: 0.85rem;
+      color: var(--text-main);
+      letter-spacing: -0.02em;
+    }}
+
+    .brief-content h2,
+    .brief-content h3 {{
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin-top: 1.25rem;
+      margin-bottom: 0.5rem;
+      color: var(--accent-primary);
+    }}
+
+    .brief-content p {{
+      margin-bottom: 0.85rem;
+    }}
+
+    .brief-content a {{
+      color: var(--accent-primary);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }}
+
+    .brief-content a:hover {{
+      color: var(--accent-hover);
+    }}
+
+    .brief-content ul,
+    .brief-content ol {{
+      margin-left: 1.5rem;
+      margin-bottom: 0.85rem;
+    }}
+
+    .brief-content li {{
+      margin-bottom: 0.35rem;
+    }}
+
+    .brief-content blockquote {{
+      border-left: 3px solid var(--accent-primary);
+      padding-left: 1rem;
+      margin: 1rem 0;
+      color: var(--text-muted);
+      font-style: italic;
+    }}
+
+    .brief-content em {{
+      color: var(--text-muted);
     }}
 
     .pillar-section {{
@@ -512,7 +628,7 @@ def render_html_page(
     </header>
 
     <main>
-{all_sections}
+{brief_section_html}{all_sections}
     </main>
 
     <footer class="main-footer">
@@ -539,6 +655,7 @@ def build_html(
     available_dates: Optional[list[str]] = None,
     current_date: Optional[str] = None,
     is_archive: bool = False,
+    brief_md: str = "",
 ) -> None:
     """Build and write single-page HTML artifact atomically."""
     output_dir = os.path.dirname(os.path.abspath(output_path))
@@ -549,6 +666,7 @@ def build_html(
         available_dates=available_dates,
         current_date=current_date,
         is_archive=is_archive,
+        brief_md=brief_md,
     )
 
     tmp_file = tempfile.NamedTemporaryFile(

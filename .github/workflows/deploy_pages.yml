@@ -33,9 +33,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run build generator
-        run: |
-          python -m src.build
+      - name: Build Feed & HTML
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -m src.build
 
       - name: Commit Daily Data Snapshot
         run: |

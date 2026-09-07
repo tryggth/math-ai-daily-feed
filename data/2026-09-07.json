@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:51:16Z",
+  "updated_at": "2026-09-07T17:19:00Z",
   "pillars": {
     "results": [
       {
@@ -474,5 +474,6 @@
         "pillar": "education"
       }
     ]
-  }
+  },
+  "editorial_brief": "_API key not provided. Brief could not be synthesized._"
 }
