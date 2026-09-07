@@ -215,7 +215,7 @@ def test_aggregator_deduplication():
         title="Automated Conjecture Generation with Ramanujan Machines",
         url="https://arxiv.org/abs/2609.00001v1",
         authors=["Alice Lovelace"],
-        published="2026-09-01",
+        published="2026-09-05",
         summary="Summary A",
         source="arXiv",
         pillar="results",
@@ -226,7 +226,7 @@ def test_aggregator_deduplication():
         title="automated conjecture generation with ramanujan machines!",
         url="https://arxiv.org/abs/2609.00001v2",
         authors=["Alice Lovelace"],
-        published="2026-09-02",
+        published="2026-09-05",
         summary="Summary A dup",
         source="arXiv",
         pillar="architecture",
@@ -236,7 +236,7 @@ def test_aggregator_deduplication():
         title="Lean 4 Autoformalization Benchmark",
         url="https://arxiv.org/abs/2609.00002v1",
         authors=["Carol Ramanujan"],
-        published="2026-09-02",
+        published="2026-09-06",
         summary="Summary B",
         source="arXiv",
         pillar="architecture",
@@ -246,7 +246,7 @@ def test_aggregator_deduplication():
         title="Intelligent Tutoring System for Real Analysis",
         url="https://arxiv.org/abs/2609.00003v1",
         authors=["Dan Euler"],
-        published="2026-09-03",
+        published="2026-09-06",
         summary="Summary C",
         source="arXiv",
         pillar="education",
@@ -257,7 +257,7 @@ def test_aggregator_deduplication():
         title="Lean 4 Autoformalization Benchmark",
         url="https://huggingface.co/papers/2609.00002",
         authors=["Carol Ramanujan"],
-        published="2026-09-02",
+        published="2026-09-06",
         summary="HF copy",
         source="Hugging Face",
         pillar="architecture",
@@ -268,7 +268,7 @@ def test_aggregator_deduplication():
         title="Novel Neural Proof Search",
         url="https://huggingface.co/papers/2609.99999",
         authors=["Eve Fermat"],
-        published="2026-09-04",
+        published="2026-09-07",
         summary="Summary D",
         source="Hugging Face",
         pillar="architecture",
@@ -286,7 +286,7 @@ def test_aggregator_deduplication():
     def mock_hf(limit=30):
         return [paper_hf_dup, paper_hf_unique]
 
-    agg = aggregator.Aggregator(arxiv_fetcher=mock_arxiv, hf_fetcher=mock_hf)
+    agg = aggregator.Aggregator(arxiv_fetcher=mock_arxiv, hf_fetcher=mock_hf, data_dir="")
     result = agg.run()
 
     assert "updated_at" in result

@@ -31,7 +31,7 @@ def main(
 
     # 1. Fetch fresh aggregated data
     logger.info("Aggregating papers from arXiv and Hugging Face...")
-    data = aggregator.run(arxiv_limit=arxiv_limit, hf_limit=hf_limit)
+    data = aggregator.run(arxiv_limit=arxiv_limit, hf_limit=hf_limit, data_dir=data_dir)
 
     # 2. Determine today's date stamp (YYYY-MM-DD)
     updated_at = data.get("updated_at", "")
