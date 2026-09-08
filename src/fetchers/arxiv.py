@@ -10,7 +10,10 @@ from src.schema import Paper
 
 logger = logging.getLogger(__name__)
 
-ARXIV_ENDPOINT = "http://export.arxiv.org/api/query"
+ARXIV_ENDPOINT = "https://export.arxiv.org/api/query"
+DEFAULT_HEADERS = {
+    "User-Agent": "MathAIDailyFeed/1.0 (mailto:tryggth2009@gmail.com)",
+}
 
 ATOM_NS = {
     "atom": "http://www.w3.org/2005/Atom",
@@ -105,6 +108,7 @@ def fetch_arxiv(
             response = client.get(
                 ARXIV_ENDPOINT,
                 params=params,
+                headers=DEFAULT_HEADERS,
                 timeout=timeout,
             )
             response.raise_for_status()
