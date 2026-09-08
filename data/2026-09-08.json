@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:58:09Z",
+  "updated_at": "2026-09-08T19:04:12Z",
   "pillars": {
     "results": [],
     "architecture": [
@@ -21,9 +21,9 @@
     ],
     "education": []
   },
-  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-09-08\n\nToday's submission pool highlights algorithmic advances in self-improving reasoning architectures, introducing a verifier-grounded trajectory-balance framework designed to stabilize self-guided mathematical reasoning without suffering from solution degradation or length collapse.\n\n---\n\n### 1. Mathematical Results via AI\nNo qualifying submissions met the threshold today.\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience]**\n  [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) — Zixun Huang, Kishan Panaganti, Haitao Mi, Leowei Liang\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Formulates FlowBalance, a trajectory-balance method for self-improvement on reasoning tasks with formal theoretical guarantees—including within-group contrast preservation, a minimum-change reverse-KL characterization, and monotonic verifier control—which avoids length collapse and increases correct-strategy diversity on mathematical evaluations (e.g., AIME24).\n  - **AI Connection:** Evaluated on Qwen3-4B and Qwen3-8B model architectures. The framework uses on-policy rollout trajectories combined with a frozen training-time view of the policy using privileged context to compute token-level log-probability gains; these gains are calibrated against verifier-derived group advantages and optimized via trajectory balance with log-partition estimation per rollout group.\n\n---\n\n### 3. AI in Mathematics Education\nNo qualifying submissions met the threshold today.\n\n---\n\n### Provenance Footer:\n---\n*Synthesized with `gemini-3.6-flash` on 2026-09-08 16:58:09 UTC*",
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-09-08\n\nToday's candidate pool centers on algorithmic refinements for LLM mathematical reasoning, specifically addressing failure modes in reinforcement learning and self-improvement loops through outcome-calibrated trajectory balance.\n\n### 1. Mathematical Results via AI\nNo qualifying submissions met the threshold today.\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[FlowBalance: Outcome-Calibrated Self-Improvement via Trajectory Balance]**\n  [FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://huggingface.co/papers/2609.03241) — Zixun Huang, Kishan Panaganti, Haitao Mi, Leowei Liang\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). The authors provide theoretical analysis—including within-group contrast preservation, a minimum-change reverse-KL characterization, monotonic verifier reward control, and exact correction against false-positive self-guidance on rejected trajectories—to stabilize self-improvement on complex multi-step reasoning tasks like AIME24.\n  - **AI Connection:** On-policy trajectories from language models (Qwen3-4B and Qwen3-8B) are guided by a frozen training-time view of the policy using privileged context to yield token-level log-probability gains. These gains are aggregated into trajectory scores, calibrated with verifier-derived group advantage, and trained via profiled trajectory balance without an explicit token-level imitation loss.\n\n### 3. AI in Mathematics Education\nNo qualifying submissions met the threshold today.\n\n---\n*Synthesized with `gemini-3.7-flash` on 2026-09-08 19:04:12 UTC*",
   "synthesis_metadata": {
-    "model": "gemini-3.6-flash",
-    "generated_at": "2026-09-08T16:58:52.134733+00:00"
+    "model": "gemini-3.7-flash",
+    "generated_at": "2026-09-08T19:04:35.459179+00:00"
   }
 }
