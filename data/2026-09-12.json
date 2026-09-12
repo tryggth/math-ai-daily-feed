@@ -1,0 +1,661 @@
+{
+  "updated_at": "2026-09-12T11:30:22Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2609.11924v1",
+        "title": "Cusp restrictions and Bunke--Naumann invariants with level structure",
+        "url": "https://arxiv.org/abs/2609.11924v1",
+        "authors": [
+          "Yuqi Li",
+          "Hao-Yu Sun"
+        ],
+        "published": "2026-09-10",
+        "summary": "Restriction to the full cusp divisor of a modular curve defines a secondary invariant whose rational indeterminacy comes from a single global modular form. For every integral weakly holomorphic level-one modular form $h$ of weight divisible by four, we prove that the imported value $[h/2]$ vanishes at every nontrivial $Γ_0(N)$ level. The construction localizes coefficients before completion and rationalizes only after passing to homotopy groups. At odd prime level, we identify the full cusp spectrum as a product of two real Tate factors and construct a single holomorphic weight-two correction. This correction yields an actual integral global homotopy class and a rational global source class satisfying the equality required for joint annihilation. The equality transports to every odd composite level, while even levels follow by inverting two. At level three, the Mahowald--Rezk homotopy calculation leaves only the periodic $ν$ family in stems $8K+3$. A cusp-residue homomorphism detects its secondary value, which has exact order two throughout the periodic family. As an application, the Bunke--Naumann secondary invariants of products in bidegrees $(8k+1,8k'+2)$ vanish after passage to every nontrivial level.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11919v1",
+        "title": "Unfriendly partitions of locally finite Borel graphs",
+        "url": "https://arxiv.org/abs/2609.11919v1",
+        "authors": [
+          "José de Jesús Pelayo-Gómez"
+        ],
+        "published": "2026-09-10",
+        "summary": "We answer in the negative the question of Thomas, recorded by Conley, Conley--Marks--Unger, and Conley--Tamuz, of whether every locally finite Borel graph admits a Borel unfriendly partition. Our counterexample has unbounded degree and is closed on a zero-dimensional Polish space; its connectedness relation is hyperfinite, and its components are bipartite and one-ended. Every unfriendly colouring is proper. Together with a parity obstruction, this rigidity rules out Baire measurable colourings that are unfriendly on a comeager set, and measurable colourings that are unfriendly almost everywhere for a quasi-invariant probability of finite average degree. In the positive direction, a Borel graph of maximum degree at most four admits a Borel unfriendly colouring whenever each component contains a cycle or a vertex of degree at most two. This reduces the Borel problem in maximum degree three to cubic forests and, with a theorem of Conley--Marks--Unger, gives Baire measurable unfriendly colourings for all Borel graphs of maximum degree at most four.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11888v1",
+        "title": "The asymptotic in Waring's problem over function fields beyond twice the degree",
+        "url": "https://arxiv.org/abs/2609.11888v1",
+        "authors": [
+          "Matthew Hase-Liu"
+        ],
+        "published": "2026-09-10",
+        "summary": "We prove the expected asymptotic in Waring's problem over $\\mathbb F_q[T]$, with a power-saving error, whenever $n>2d$, the characteristic is greater than $(d-1)^2$, and $q$ satisfies an explicit lower bound. This range is sharp in general for the expected asymptotic uniformly in the target polynomial. Our main new input is an aggregate minor arc estimate: we count functionals according to the codimension of their associated singular loci and use intersection theory to bound the degrees of the resulting parameter spaces. In particular, if $n\\ge (2+\\varepsilon)d$, the required lower bound on $q$ is polynomial in $d$ of degree $2+4/\\varepsilon$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11866v1",
+        "title": "Every subset of a topological Ramsey space is Ramsey in the Solovay model",
+        "url": "https://arxiv.org/abs/2609.11866v1",
+        "authors": [
+          "Clement Yung"
+        ],
+        "published": "2026-09-10",
+        "summary": "We provide a proof, free of ultrafilters and almost reduction, that every subset of a topological Ramsey space is Ramsey in the Solovay model.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11855v1",
+        "title": "Chowla's non-vanishing conjecture over $\\mathbb{F}_q(T)$",
+        "url": "https://arxiv.org/abs/2609.11855v1",
+        "authors": [
+          "Peter Koymans",
+          "Carlo Pagano",
+          "Mark Shusterman"
+        ],
+        "published": "2026-09-10",
+        "summary": "Let $q \\equiv 1 \\bmod 8$ be a prime power. We prove that $L\\left(\\tfrac{1}{2}, χ\\right) \\neq 0$ for 100% of the imaginary quadratic Dirichlet characters of $\\mathbb{F}_q(T)$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11848v1",
+        "title": "Bounded asymptotic bases for linear forms",
+        "url": "https://arxiv.org/abs/2609.11848v1",
+        "authors": [
+          "Christian Táfula"
+        ],
+        "published": "2026-09-10",
+        "summary": "For a vector of positive integers $\\mathbf{b} = (b_1,\\ldots,b_h)$ with $\\gcd(b_1,\\ldots,b_h) = 1$, we study sets $A \\subseteq \\mathbb{N}$ for which every sufficiently large integer has a bounded positive number of representations \\[ n = b_1 x_1 + \\cdots + b_h x_h \\qquad (x_1,\\ldots,x_h\\in A). \\] We prove that such a set exists for every binary vector $\\mathbf{b} \\neq (1,1)$, and for some general higher-dimensional families, including $\\mathbf{b} = (u_1, p^d u_2, \\ldots, p^{(h-1)d} u_h)$ where $p\\nmid u_1\\cdots u_h$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11846v1",
+        "title": "A General Inequality for Walks in Graphs",
+        "url": "https://arxiv.org/abs/2609.11846v1",
+        "authors": [
+          "Chase Wilson"
+        ],
+        "published": "2026-09-10",
+        "summary": "Let $G$ be a graph and $w_k(G)$ denote the number of walks in $G$ of length $k$. For sequences $a_1, \\cdots, a_n$ and $b_1, \\cdots, b_n$ of non-negative integers such that $a_1 + \\cdots + a_n = b_1 + \\cdots + b_n$, we determine a simple necessary and sufficient condition on $a_1, \\cdots, a_n, b_1, \\cdots, b_n$ for the inequality \\[ w_{a_1}(G) \\cdots w_{a_n}(G) \\geq w_{b_1}(G) \\cdots w_{b_n}(G) \\] to hold for any graph $G$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11832v1",
+        "title": "Distinguishing adjacent vertices by ordering edges",
+        "url": "https://arxiv.org/abs/2609.11832v1",
+        "authors": [
+          "Aleksandra Gorzkowska",
+          "Jakub Kwaśny"
+        ],
+        "published": "2026-09-10",
+        "summary": "The 1-2-3 Conjecture states that for every graph without isolated edges, there exists an edge-weighting from $\\{1,2,3\\}$ such that adjacent vertices receive distinct sums of weights on their incident edges. In the sequence variant, adjacent vertices are to be distinguished by the sequences of weights on their incident edges. In this paper, we investigate whether, for every graph without isolated edges and for a fixed proper edge colouring (where colours are interpreted as weights), there exists a global total order of the edges such that the resulting sequences of incident weights distinguish adjacent vertices. For connected graphs, we prove that such an order exists whenever there exist two adjacent vertices that have distinct sets of incident weights. This yields a positive answer for every proper edge colouring of a connected non-regular graph or a connected graph of class two. Moreover, a probabilistic argument gives the same conclusion for connected regular graphs of degree at least six.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11813v1",
+        "title": "Generalized Frobenius Partitions Modulo Powers of $2$",
+        "url": "https://arxiv.org/abs/2609.11813v1",
+        "authors": [
+          "Manjil P. Saikia"
+        ],
+        "published": "2026-09-10",
+        "summary": "Let $cφ_k(n)$ denote the number of $k$-colored generalized Frobenius partitions of $n$. We prove that, for every $m\\geq2$ and every $k\\equiv2\\pmod{2^m}$, \\[ \\sum_{n\\geq0}cφ_k(n)q^n\\equiv\\frac{\\varphi(q)\\,(q^2;q^2)_\\infty}{(q;q)_\\infty^2}\\sum_{n\\geq0}cφ_{k/2}(n)q^{2n}\\pmod{2^m}, \\] where $\\varphi(q)$ is the classical theta function. For $m=2$ this recovers a congruence of Chan, Wang, and Yang. Applied with $k=18$, we determine $cφ_{18}(2n+1)$ modulo $16$ completely. In particular, we also prove \\[ \\sum_{n\\geq0}cφ_{18}(6n+1)q^n \\equiv4\\sum_{r\\in\\mathbb{Z}}q^{r(3r-1)/2}\\pmod{16}, \\] which proves the congruences $cφ_{18}(30n+19)\\equiv cφ_{18}(30n+25)\\equiv0\\pmod{16}$ recently conjectured by Das, Nath, and Sarma (2026). It also yields further congruences modulo $16$ and a simple modulo-$8$ characterization that recovers and extends a recent congruence of those authors. As a second application we set $k=10$ and determine $cφ_{10}(2n+1)$ modulo $8$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11806v1",
+        "title": "Internal congruences modulo powers of $2$ for overpartition tuples with odd parts",
+        "url": "https://arxiv.org/abs/2609.11806v1",
+        "authors": [
+          "Manjil P. Saikia",
+          "Prabal Talukdar"
+        ],
+        "published": "2026-09-10",
+        "summary": "Let $\\overline{\\mathrm{OPT}}_m(n)$ denote the number of overpartition $m$-tuples of $n$ into odd parts. We prove that for every odd $m\\ge1$ and every $i\\ge3$, \\[\\sum_{n\\ge0}\\Bigl(\\overline{\\mathrm{OPT}}_m\\bigl(2^in\\bigr)-\\overline{\\mathrm{OPT}}_m\\bigl(2^{i-1}n\\bigr)\\Bigr)q^n \\equiv 2^{\\,i+1}\\sum_{k\\ge0}q^{(2k+1)^2} \\pmod{2^{\\,i+2}} .\\] Thus $\\overline{\\mathrm{OPT}}_m(2^in)\\equiv \\overline{\\mathrm{OPT}}_m(2^{i-1}n)\\pmod{2^{i+1}}$, with equality of $2$-adic valuations exactly at the odd squares. The proof is elementary and uniform in $m$: a single family of integer polynomials, given by a three-term recurrence, governs every $U$-operator identity involved, and a divisibility statement supplies one power of $2$ per iteration.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11802v1",
+        "title": "The uniform Turán density of the tetrahedron",
+        "url": "https://arxiv.org/abs/2609.11802v1",
+        "authors": [
+          "Matija Bucić"
+        ],
+        "published": "2026-09-10",
+        "summary": "We prove that the uniform Turán density of $K_4^{(3)}$ is equal to $1/2$. This answers a question of Erdős and Sós from the founding 1982 paper on this topic.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11774v1",
+        "title": "Circular Rearrangement Inequality and Optimal Cyclic Birth and Death Chains",
+        "url": "https://arxiv.org/abs/2609.11774v1",
+        "authors": [
+          "Gabriel Raposo"
+        ],
+        "published": "2026-09-10",
+        "summary": "We prove a generalized circular rearrangement inequality: among all circular arrangements of a finite collection of positive numbers, the greedy arrangement simultaneously maximizes the sums of products of $k$ consecutive entries for every $k$. This resolves a 2023 conjecture of Holmes-Holroyd-Ramírez and extends the classical circular rearrangement inequality for products of adjacent entries. As an application, we show that the greedy ordering minimizes the speed of a cyclic birth-and-death chain, resolving another conjecture of the same authors.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11754v1",
+        "title": "Fort Abundance in Zero Forcing",
+        "url": "https://arxiv.org/abs/2609.11754v1",
+        "authors": [
+          "Aida Abiad",
+          "Sina Ghasemi Nezhad"
+        ],
+        "published": "2026-09-10",
+        "summary": "This paper paper concerns the study of forts, the sets that obstruct zero forcing. We show that every block graph on $n$ vertices has at least $n/3$ minimal forts, extending a recent bound for trees by Cameron and and Li (arXiv:2512.12874). The number of forts, and with it the number of compatible collections, grows exponentially for every tree, every connected non-star graph of bounded degree, and every connected graph of linear minimum degree, answering a question in the negative by Hicks et al. (INFORMS Journal on Computing 2022) for these graph classes. We finish by counting the minimal forts of a tree exactly, in linear time and space.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11742v1",
+        "title": "A Proof of Füredi's Conjecture",
+        "url": "https://arxiv.org/abs/2609.11742v1",
+        "authors": [
+          "Zihao Huang",
+          "Suijie Wang"
+        ],
+        "published": "2026-09-10",
+        "summary": "We prove Füredi's conjecture on strong Bollobás $t$-systems. For every nonnegative integer $t$, a family of $m\\ge2$ pairs of finite sets $(A_i,B_i)$ satisfying $|A_i\\cap B_i|\\le t$ and $|A_i\\cap B_j|>t$ for all $i\\ne j$ satisfies \\[ \\sum_i\\binom{|A_i|+|B_i|-2t}{|A_i|-t}^{-1}\\le1. \\] We first prove a weighted inequality for subspace pairs satisfying the symmetric cross-intersection condition over any field. It follows from a local inequality for graded exterior ideals, proved by induction with projections and colon ideals.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11729v1",
+        "title": "Spectral bipartiteness in generalized odd graphs of diameter three",
+        "url": "https://arxiv.org/abs/2609.11729v1",
+        "authors": [
+          "Qi Zhou"
+        ],
+        "published": "2026-09-10",
+        "summary": "For a graph $G$ of order $n$, put $σ(G)=(λ_1(G)+λ_n(G))/n$. We determine the first three largest values of this invariant among nonbipartite distance-regular graphs of diameter three and odd girth at least seven. The unique maximizer is the folded $7$-cube, with value $1/32$; the unique second maximizer is the Odd graph $O_4$, with value $1/35$; and the unique third maximizer is $C_7$, with value $2(1-\\cos(π/7))/7$. More precisely, every other graph in the class satisfies $σ(G)<1/36$. This answers Problem~11 of Abiad, Taranchuk and van Veluw in \\emph{Electronic Journal of Combinatorics} 33(2) (2026), P2.31. The proof combines established local multiplicity and odd-moment bounds: the condition $σ(G)\\geq1/36$ forces the valency to be at most $182$. An exhaustive certificate using only integer and rational arithmetic then leaves three intersection arrays. The complete certificate is publicly available, and neither a classification of generalized odd graphs nor the $Q$-polynomial property is assumed. The odd-girth theorem gives the same extremal conclusions for connected $\\{C_3,C_5\\}$-free graphs with at most four distinct adjacency eigenvalues, without assuming regularity.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2609.11893v1",
+        "title": "A Lumpability-Driven Taxonomy of Strong and Weak Stochastic Bisimilarities with Their Congruence Properties",
+        "url": "https://arxiv.org/abs/2609.11893v1",
+        "authors": [
+          "Riccardo Romanello",
+          "Andrea Esposito",
+          "Marco Bernardo",
+          "Carla Piazza",
+          "Sabina Rossi"
+        ],
+        "published": "2026-09-10",
+        "summary": "We study the relationships among the stochastic bisimulation-style equivalences over PEPA - Performance Evaluation Process Algebra definable according to the well known notions of lumpability for the continuous-time Markov chains (CTMCs) underlying process terms. Lumpability is a central tool in the analysis of a CTMC, because it results in aggregations of the state space enjoying properties that are useful for efficiently computing the state probability distribution of the original chain. At the level of process terms, various stochastic bisimilarities accounting for activity types and cumulative rates can be defined over PEPA, which induce different kinds of lumping. Since the formalisations of some of them are scattered across the literature, where they appear under different, and sometimes clashing, names, we collect them within a single, uniform framework, renaming each bisimilarity in a consistent way after the kind of lumping it induces. We present strong and weak variants of what we call ordinary, exact, and strict bisimilarities and show that they respectively induce ordinary, exact, and strict lumpings. We then organise the six bisimilarities into a taxonomy establishing all and only the inclusions holding among them. We also analyse how the taxonomy changes in three special cases: process terms whose underlying CTMCs are time reversible, process terms with no activities of unobservable types, and process terms with no recursion. The paper concludes by investigating the compositionality properties of the six bisimilarities. Some of them are not congruences with respect to the prefix and/or choice operators of PEPA. In that case we single out either a set of process terms over which congruence with respect to those operators is achieved, or the coarsest congruence with respect to them that is contained in the considered bisimilarity.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11667v1",
+        "title": "Warrant Theory",
+        "url": "https://arxiv.org/abs/2609.11667v1",
+        "authors": [
+          "Khashayar Irani"
+        ],
+        "published": "2026-09-10",
+        "summary": "In this paper, we develop warrant theory as a philosophical discipline concerned with the inferential legitimacy of propositions within logical analysis. Warrant theory reconceptualises logic as a normative framework governing the conditions under which propositions may be introduced, accepted, rejected, and inferentially employed. Warrant is understood as inferential entitlement and is distinguished from truth, belief, and other psychological attitudes, while its relation to inferential use and meaning is examined. Warrant-theoretic analysis is then developed as a systematic method for investigating how propositions acquire inferential standing, how that standing develops, and how inferential positions interact through relations of dependence, compatibility, incompatibility, and exclusion. Acceptance and rejection provide the bilateral vocabulary for representing positive and negative inferential positions and the consequences and commitments associated with them. Finally, these elements are brought together in a warrant-theoretic definition of logic as the formal and normative study of the conditions under which propositions may be legitimately accepted or rejected and of the inferential transitions that such legitimacy warrants. On this account, logical consequence and logical failure are understood through the presence, preservation, or absence of inferential entitlement, thus locating the philosophical subject matter of logic in the systematic governance of inferential legitimacy.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11576v1",
+        "title": "Medvedev Logic is Not Decidable. It is π01 -complete. Who Would Have Guessed?",
+        "url": "https://arxiv.org/abs/2609.11576v1",
+        "authors": [
+          "Pawel Pawlowski"
+        ],
+        "published": "2026-09-10",
+        "summary": "This project began as an attempt to prove that Medvedev logic is decidable with the help of generative AI systems. The author (as well as the generative AI systems, or at least they claim to be since I have asked them) was surprised by its eventual conclusion. We prove that Medvedev logic ML, the intermediate logic of finite problems, is Pi-01-complete under computable many-one reductions. Consequently, ML is not recursively enumerable, a fortiori undecidable, and admits no recursively enumerable sound and complete proof calculus. The proof connects the periodic domino problem with intuitionistic formulas through a shared intermediate structure that we call a Wang-Medvedev pair. Such a pair consists of a finite partially ordered set of roles together with demands. Demands define the interaction between roles. A realization labels nonempty subsets of a finite set with these roles, respecting the order and satisfying the demands. We associate a pair with each finite Wang system and show that it has a realization iff the system tiles a finite torus. We then construct an intuitionistic formula that fails on some finite Medvedev frame iff the same pair is realizable. Realizability thus provides the link between periodic tilings and the countermodels.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11509v1",
+        "title": "Extending SMT Solving with Non-Ground Clause Learning",
+        "url": "https://arxiv.org/abs/2609.11509v1",
+        "authors": [
+          "Yasmine Briefs",
+          "Christoph Weidenbach"
+        ],
+        "published": "2026-09-10",
+        "summary": "Quantifier instantiation is currently the main approach to non-ground SMT solving: solvers generate ground instances and solve the resulting ground SMT problems with CDCL(T)-style reasoning. When a conflict is found, conflict analysis learns only a ground clause, even though the conflict comes from instances of non-ground clauses. Yet non-ground reasoning can give exponentially shorter proofs than purely ground reasoning. We propose a calculus that consists of ground instantiations, CDCL(T)-style rules, and non-ground conflict analysis. The solver reasons on ground instances, but the resolution steps of conflict analysis are performed on their original non-ground clauses. This produces learned clauses that are typically more general than the ground conflict. With a suitable strategy, the learned clauses are even non-redundant. We also show how chronological backtracking can be included in SMT solving. Our calculus gives a common setting for CDCL(T)-style SMT solving, a range of instantiation-based procedures, and non-ground clause learning, and we prove that it simulates CDCL, SCL(FOL), SCL(T), and even Resolution.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11470v1",
+        "title": "Statistical Symmetry Release for Equivariant Quantum Learning",
+        "url": "https://arxiv.org/abs/2609.11470v1",
+        "authors": [
+          "Zeyu Chen"
+        ],
+        "published": "2026-09-10",
+        "summary": "Hard symmetry constraints reduce model complexity, but can also erase label information. Statistical symmetry release determines when finite data and quantum measurements justify relaxing such a constraint, which directions to open, and how far to move. We connect global signal detection to local, loss-dependent improvement. A two-copy twirl--swap gate estimates task information in the symmetry-breaking complement with a dimension-independent copy count under paired-state and group-unitary access; reweighting the same records resolves representation sectors. An exact duality distinguishes this Hilbert--Schmidt signal from the larger signal accessible to bounded-outcome readouts. Local improvement is governed by the release gradient and a loss-corrected double-commutator matrix. Simultaneous confidence bounds convert empirical direction selection into certified descent, using either shared Pauli measurements or scalar probes with state-independent truncation bounds. Gaussian testing lower bounds quantify the cost of searching over unknown directions in the calibrated local experiment. Independent validation controls adaptively generated models, and a fast squared-loss bound preserves the approximation--estimation rate of a nested release path. On an eight-qubit Ising model, shared measurements certify release with 6300 times fewer shots than the specified scalar estimator on the tested budget grids. Quotient quantum natural gradient then controls parameter redundancy during training. Together, these results turn symmetry relaxation into a statistically justified model-selection decision.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11326v1",
+        "title": "The Semantic Elevation Operator and the Closure of the Undecidable Class under Preservation",
+        "url": "https://arxiv.org/abs/2609.11326v1",
+        "authors": [
+          "Jose Pascual Gumbau Mezquita"
+        ],
+        "published": "2026-09-10",
+        "summary": "The undecidability of a program's static semantic properties is governed by Rice's theorem. Self-modifying systems, however, require analysing not whether a property holds now, but whether it is preserved when the system rewrites itself. We formalise this transition through a semantic elevation operator ΛΦ, which turns the static question \"does x satisfy P?\" into the dynamic question \"is P preserved after x is transformed by Φ?\". We prove that when Φ is intensional (depending on the source code, not only on the computed function), the elevated property remains undecidable even though it breaks the extensionality that Rice's theorem requires; the proof rests on Kleene's recursion theorem, not on Rice. Consequently the class U of non-verifiable properties is closed under the elevation operator. Unbounded iteration of the operator climbs the arithmetical hierarchy -to Π02-completeness- consolidating non-verifiability as a structural fact. We further show that the supervisory regress does not terminate: no fnite tower of increasingly capable verifiers yields an unconditional certificate. A categorical reading of these results in the efective topos, in which elevation appears as an instance of Lawvere's fxed-point theorem, is left as a direction for future work.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11319v1",
+        "title": "Magenta: Closing the Loop Between Mathematical Reasoning and Lean Verification",
+        "url": "https://arxiv.org/abs/2609.11319v1",
+        "authors": [
+          "Joshua Ong Jun Leang",
+          "Haonan Li",
+          "Zheng Zhao",
+          "Xinyi Shang",
+          "Wenda Li",
+          "Zhengzhong Liu",
+          "Erix Xing",
+          "Shay Cohen",
+          "Eleonora Giunchiglia"
+        ],
+        "published": "2026-09-10",
+        "summary": "Most of mathematical knowledge has been communicated through so-called informal use of mathematics and natural language. With large language models (LLMs) being highly adept in using natural language, they achieve strong performance, yet not perfect, in informal mathematical reasoning. Restraining LLMs to informal reasoning misses out on the opportunity to use the discrete verification abilities that machines offer through machine-checkable proofs. In this paper, we bridge the gap between informal and formal reasoning by integrating Lean signals into the informal reasoning process. We introduce Magenta, a training-free agentic pipeline that, given only a natural-language problem, produces an answer, expresses it as a Lean 4 statement, and constructs a machine-checked proof. A statement judge verifies whether the formalisation preserves the original problem, while an error-attribution judge routes failed attempts either to mathematical re-derivation or local Lean repair. Magenta achieves 100% accuracy across all evaluated olympiad benchmarks, including AIME 2025, AIME 2026, and HMMT February 2026. When paired with the open-weight K2-Horizon-7B reasoner, it solves all six IMO 2026 problems. Our analysis shows that statement adjudication is essential for preventing false certificates and that feedback-guided correction outperforms independent resampling on difficult problems.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11174v1",
+        "title": "A Four-Valued Graph Model for Conflict Resolution: Core Framework and a Machine-Checked Formalization in Lean 4",
+        "url": "https://arxiv.org/abs/2609.11174v1",
+        "authors": [
+          "Yukiko Kato"
+        ],
+        "published": "2026-09-10",
+        "summary": "This note consolidates the core of the Quasi-Closed World Graph Model for Conflict Resolution (QCW-GMCR), which extends the standard Graph Model for Conflict Resolution with Belnap's four-valued logic to represent option-level epistemic ambiguity, and pairs the framework with a machine-checked Lean 4 formalization. QCW-GMCR combines: (1) FOUR-valued option assignments with compositional propagation to state-level feasibility; (2) graded reachability (definite, credible, possible) based on an FDE-inspired transition-warrant semantics, with definite reachability related to FDE consequence in the Boolean fragment; (3) axiomatized deterministic reductions from four-valued assessments to binary decisions, including four canonical operators reflecting distinct risk attitudes; and (4) catastrophe-avoiding equilibrium concepts with a quasi-closed-world safety invariant. A four-valued hypergame extension captures heterogeneous subjective assessments across decision makers. We state the core definitions and results and report the parts verified in Lean 4 with mathlib, including the classical GMCR stability hierarchy, algebraic and compositional properties of FOUR-valued conjunction, properties of the canonical reductions, and the graded reachability hierarchy. The formalization also helped identify and correct earlier claims, including a knowledge-monotonicity axiom replaced by truth monotonicity. This preprint provides a stable, citable record of the framework and its current formal verification status.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11076v1",
+        "title": "SaltBench: A Referee-Gated Protocol for Measuring Method Effects in Machine-Checked Software Work",
+        "url": "https://arxiv.org/abs/2609.11076v1",
+        "authors": [
+          "Jason Hickey"
+        ],
+        "published": "2026-09-10",
+        "summary": "SaltBench is a benchmark protocol for one question: How does a machine referee change the way a coding agent works? A machine referee --- a proof kernel, a program verifier, or a withheld test suite --- decides what an agent's work is worth, and the agent cannot argue with it. Here we report a protocol that makes the referee's effect measurable and whose answers cannot be narrated afterwards: every outcome is decided outside the agent's own toolchain; the agent is walled off from the network, the reference solutions and the harness itself, and the wall is tested by probes that try to breach it before any scored run, so the isolation is observed rather than assumed; every run is authorized by a dated freeze with its predictions registered; and a budget stop is a halt, never a failure. In this study, the subject of the benchmark is a ``seat'', meaning an agent session in its standard harness. We tested five systems components, all authored in Rust under a pinned Verus toolchain, with a withheld test suite as the referee for each. Four arms are tested: a plain agent; an agent that is also instructed to create a specification and verify the code against it, in a reduced rendering of the method, as registered; and two arms where the specification is provided a priori, extended under a dated amendment to $k=4$, where the registered sign test reached no verdict (3 of 4, $p = 0.3125$, every premium below the resolvable floor). We found that the arm instructed to specify and verify cost more on all five components, and by a practical margin: across these five components no premium exceeded $2.8879\\times$ under either reading of the declared set, and the three cheapest sat below $1.4\\times$. That bound is a property of this population and not a promise about larger ones: the premium runs near $1$ on the smallest components and rises with size. We publish the complete record.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.10462v1",
+        "title": "A Formal Framework for Noisy Runtime Verification",
+        "url": "https://arxiv.org/abs/2609.10462v1",
+        "authors": [
+          "Shay Allen Logan",
+          "Shawn Standefer",
+          "Thomas Ferguson"
+        ],
+        "published": "2026-09-09",
+        "summary": "We introduce the logic EDMon---an epistemic dynamic logic meant to model monitorability concepts in noisy runtime verification. Its syntax and semantics are defined and explained and the connection between EDMon and monitorability and noisy runtime verification concepts is explored. We then demonstrate that EDMon is sufficient to capture many of the results in the noisy runtime verification literature and catalog its relation to nearby logics and describe a large class of its theorems.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.10447v1",
+        "title": "Compact totally separated types",
+        "url": "https://arxiv.org/abs/2609.10447v1",
+        "authors": [
+          "Martín Hötzel Escardó"
+        ],
+        "published": "2026-09-09",
+        "summary": "Perhaps surprisingly, there are infinite types that can be exhaustively searched mechanically in finite time. We use ideas from topology to build plenty of them, referring to searchable types as compact types, and we use ordinals to measure their logical complexity. We consider two systems of ordinal notations under which a single notation denotes both a discrete ordinal and a compact one, with an embedding of the former into the latter whose image has empty complement. A boolean valued function decides which points in the image of the embedding are isolated and which are topological limit points. The first system consists of the traditional Brouwer codes and the second is an inductive-recursive universe generalizing them. The discrete ordinals so obtained are trichotomous, and the compact ones have the least element property for complemented subsets, but these two desirable properties cannot be fulfilled simultaneously in a constructive setting. The ordinals obtained from Brouwer codes further enjoy a boolean Leibniz principle, which has the notion of total separatedness as its topological counterpart. This extends previous work from Gödel's system T to intensional Martin-Löf type theory with univalent universes, and is formalized in Agda in the TypeTopology repository.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.10347v1",
+        "title": "CertiFlash: A Formal Verification Framework for Flash Translation Layers in Computational Solid State Drives",
+        "url": "https://arxiv.org/abs/2609.10347v1",
+        "authors": [
+          "Harshita Gupta",
+          "Mayank Kabra",
+          "Rakesh Nadig",
+          "Nika Mansouri Ghiasi",
+          "Sahand Divsalar",
+          "F. Nisa Bostanci",
+          "Ataberk Olgun",
+          "Konstantinos Kanellopoulos",
+          "Jisung Park",
+          "Haiyu Mao",
+          "Abdullah Giray Yaglikci",
+          "Mohammad Sadrosadati",
+          "Onur Mutlu"
+        ],
+        "published": "2026-09-09",
+        "summary": "Data-intensive applications move large amounts of data from storage to the compute unit, incurring significant data movement overhead. Storage-centric computing reduces this overhead by moving computation near or inside solid-state drives (SSDs). Enabling it requires modifying SSD policies, e.g., address translation and garbage collection, which are part of the Flash Translation Layer (FTL), the SSD's firmware. Modifying the FTL is error-prone. Because FTL logic has direct access to security-critical device components, even a functionally correct FTL can leak data between tenants, drop integrity tags, or assign a flash block to the wrong tenant. We show that a faulty FTL can corrupt the device state at five surfaces inside the SSD, and demonstrate them on a DaisyPlus OpenSSD. Prior work verifies individual FTL designs, but has two limitations. (1) It establishes only functional correctness, so a modified FTL can violate isolation, integrity, and ownership and still pass verification. (2) It is tied to a single FTL design, so every modification requires redoing every proof. We propose CertiFlash, a formal verification framework for FTLs, mechanized in the Rocq proof assistant, that gives designers a machine-checked proof of security and correctness. CertiFlash models an FTL as a deterministic state machine with a single global invariant over mapping, isolation, integrity, ownership, and allocation. We prove once, over a general FTL model, that (i) every FTL operation preserves the invariant and (ii) the model refines an idealized block device. For a new design, a designer discharges five hypotheses about its own operations instead of redoing either proof. Across four case studies, a designer adds 27 to 3,231 lines against a 16,489-line framework, significantly reducing the verification effort. CertiFlash is open source.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.10114v1",
+        "title": "Policy Change for Treelike Monitors",
+        "url": "https://arxiv.org/abs/2609.10114v1",
+        "authors": [
+          "François Hublet",
+          "Dhruv Nevatia",
+          "Joshua Schneider"
+        ],
+        "published": "2026-09-09",
+        "summary": "We study the policy change problem that arises in the runtime verification of long-running systems. The online monitors typically used in this context are generally treelike, in that they maintain substates that monitor subformulae of the target policy. We consider when and how the policy can be changed while the monitored system is running by only exploiting the information stored in the monitor's state. This is relevant, for example, to account for new system functionality or changes in regulatory requirements. We formally define the policy change problem in a general setting, independent of any specific (treelike) monitor implementation. We then show that policy change for past-time metric temporal logic (pMTL) is decidable but has tight non-primitive recursive lower and upper bounds, while with discrete-time semantics it is EXPSPACE-complete.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.09439v1",
+        "title": "Fast Constraint Extraction for Corrective Control under STL Specifications via Logical Dependency Tracking",
+        "url": "https://arxiv.org/abs/2609.09439v1",
+        "authors": [
+          "Antoine Besset",
+          "Joris Tillet",
+          "Chuchu Fan",
+          "Julien Alexandre dit Sandretto"
+        ],
+        "published": "2026-09-08",
+        "summary": "Ensuring the satisfaction of Signal Temporal Logic (STL) specifications under uncertainty is challenging, as reachability-based monitoring provides guarantees but does not indicate how to restore satisfaction when it becomes indeterminate. A key difficulty is identifying which uncertain components actually affect global satisfaction, especially for nested formulas. This paper introduces a logical dependency tracking framework that propagates uncertainty through the STL structure and captures the causal contribution of reachable sets to satisfaction. By associating markers to uncertain predicates and propagating them via three-valued semantics, we extract in milliseconds a compact Disjunctive Normal Form (DNF) of sufficient constraints, avoiding combinatorial enumeration. As an application, we formulate control correction as a minimum-effort optimization problem. Using zonotopic reachability, the derived constraints are enforced via linear programming, yielding corrections that guarantee STL satisfaction under bounded uncertainty and provide certified probabilistic bounds in the stochastic case. We demonstrate the approach on a nonlinear system with nested STL specifications, showing that dependency tracking enables efficient and formally guaranteed correction. The tracking implementation is available at https://github.com/Antoine-Bst/STL-Three-Valued-Clause-Filtering/.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.09264v1",
+        "title": "StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean",
+        "url": "https://arxiv.org/abs/2609.09264v1",
+        "authors": [
+          "Idan Davidovich",
+          "Debargha Ganguly",
+          "Vikash Singh",
+          "Vipin Chaudhary"
+        ],
+        "published": "2026-09-08",
+        "summary": "Leading benchmarks for formal theorem proving with large language models are small collections drawn from competition math, such as the IMO and Putnam, that poorly represent field-specific applications. We introduce StochBench, a Lean 4 benchmark of 450 graduate stochastic-processes problems at varying abstraction levels, each paired with its natural-language source. Addressing a field underrepresented in Mathlib, it covers finite and countable Markov chains, renewal processes, random walks, martingales, stopping times, queues, Brownian motion, stochastic calculus, weak convergence, and Poisson and continuous-time Markov processes. Our Opus 4.8-based agent achieves a 34.9% proof rate (157/450) under a 15-minute per-problem limit. StochBench better represents domain-specific applied mathematics while remaining challenging for advanced provers.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2609.10712",
+        "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+        "url": "https://huggingface.co/papers/2609.10712",
+        "authors": [
+          "Ivan Moshkov",
+          "Stephen Ge",
+          "George Armstrong",
+          "Wei Du",
+          "Sadegh Mahdavi",
+          "Igor Gitman"
+        ],
+        "published": "2026-09-09",
+        "summary": "We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoints using supervised fine-tuning and reinforcement learning, and evaluate checkpoint choice, verification, and refinement. Based on these findings, we present an open-model test-time-compute pipeline. The system operates entirely in natural language, with no formal prover, external tools, or internet access. Three Nemotron 3 Ultra checkpoints - the general-availability model and two post-trained specialists - power an iterative search that generates, verifies, and refines candidate proofs; a separate high-compute stage then selects each final submission. The system scored 30 out of 42 points at IMO 2026, reaching the gold-medal threshold. We release the two post-trained checkpoints as well as the training data, the training and inference code, the submitted solutions, and Nemotron-IMO-Bench, a new benchmark of 200 novel olympiad-level problems.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2609.11814v1",
+        "title": "Don't Trust the Super-App: A Case Study of Russia's Max",
+        "url": "https://arxiv.org/abs/2609.11814v1",
+        "authors": [
+          "Richa Priyanka",
+          "Aaron Ortwein",
+          "Joel Reardon",
+          "Michael Specter",
+          "Piyush Kumar Sharma",
+          "Roya Ensafi"
+        ],
+        "published": "2026-09-10",
+        "summary": "Super-apps, an emerging mobile architecture, host third-party mini-apps inside a single app, allowing users to access diverse services. A decade of security research on the super-app ecosystem has all assumed super-apps to be a trusted intermediary. We argue this implicit trust is difficult to justify: China's WeChat is already shown to passively track its user's activity across mini-apps at extraordinary scale; Russia's MAX's parent company is reported to be deeply entangled with the state prosecution of online speech; and Iran's Bale was reported to be functioning in the world's longest internet shutdown due to its state-backed support. In this paper, we show how malicious super-apps have undeniable capabilities to silently undermine the security and privacy of mini-apps and users without leaving any trace. Using MAX as an example, we show how it can capture mini-app UI, read and write mini-app local storage, inject arbitrary JavaScript into a mini-app's runtime, mediate mini-app network traffic, and control authentication context in ways that can enable silent user impersonation. Sadly, these capabilities manifest themselves in any super-app because of the architectural privileges granted to them by design. We argue that mobile OS and app store interventions are urgently needed to close this architectural blind spot before it is further exploited.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11728v1",
+        "title": "Reproducibility in the Age of Agentic AI: Context Engineering at the Timescale of a Codebase",
+        "url": "https://arxiv.org/abs/2609.11728v1",
+        "authors": [
+          "Lorena A. Barba"
+        ],
+        "published": "2026-09-10",
+        "summary": "Reproducible research practices are context engineering for AI coding agents. I argue that agents lower the cost of maintaining tests, commit histories, repository structure, instructions, and decision records while making their benefits immediate. Researchers remain responsible for verifying these artifacts and the scientific judgments they encode.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11660v1",
+        "title": "Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents",
+        "url": "https://arxiv.org/abs/2609.11660v1",
+        "authors": [
+          "Marica Notte",
+          "Ludovica Marinucci",
+          "Vieri Giuliano Santucci"
+        ],
+        "published": "2026-09-10",
+        "summary": "In recent years, artificial intelligence has made extraordinary progress thanks to large-scale models capable of generalization and the generation of complex outputs. However, transferring this potential into embodied agents reveals a significant limitation: the most advanced systems rely on pre-existing datasets and human feedback strategies that are powerful but insufficient in dynamic or unknown contexts. To adapt, an agent must acquire knowledge through direct interaction with its environment. One strategy to address this challenge involves introducing higher-level mechanisms, such as intrinsic motivations, which leverage curiosity and competence, to guide exploration and learning in complex environments. While this flexibility expands autonomy, it complicates the task of ensuring agents remain aligned with human goals. Alignment, already a challenge for artificial systems in general, becomes even more complex in unstructured and dynamic contexts where predefined rules prove insufficient. To be effective and adaptable, norms must be rooted in experience through an epistemological process that starting from simple, situated principles allows for the gradual construction of more complex rules through experience, autonomous learning, and cooperation with other moral agents. Similarly to children learning social norms by exploring their environment and participating in collective practices, artificial agents must also be educated toward alignment. Following Dennett, the status of a moral agent is not innate but is attributed gradually based on the ability to responsibly manage increasing degrees of freedom. From this perspective, the regulatory sandboxes can be viewed as pedagogical environments for AI: dynamic spaces where alignment develops as a formative process, progressively shaping autonomous behaviors through interaction and cooperation in scenarios of increasing complexity.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11611v1",
+        "title": "Who Bears the Risk When Generative AI Enters Transport? A Distributional Sociotechnical Audit of Algorithmic Equity, Synthetic-Data Validity, and Public Trust",
+        "url": "https://arxiv.org/abs/2609.11611v1",
+        "authors": [
+          "Amir Rafe",
+          "Subasish Das"
+        ],
+        "published": "2026-09-10",
+        "summary": "Generative artificial intelligence is entering transportation through traveler-facing advisories, synthetic crash-record generation, and policy decision support. Existing governance frameworks lack transport-specific statistical tools to measure distributional risks across heterogeneous populations. We develop a Distributional Sociotechnical Audit (DSA) that integrates algorithmic equity, synthetic-data validity, and public-attitude heterogeneity into one empirical pipeline. The audit analyzes 5,760 persona-controlled queries to four LLM families across 12 demographic cues and four transport topics, uses two cross-family judges and a Wasserstein-2 Equity Dispersion Index, tests three FARS crash-record generators with conditional projected maximum mean discrepancy (cpMMD), fits a Bayesian ordered-logit model to Pew American Trends Panel Wave 152 (N = 4,538), and combines the signals into a continuous Sociotechnical Risk Index. Congestion-pricing advice has the highest persona-based dispersion (mean EDI = 1.96; highest direct EDI = 2.20). CART synthetic crash records fail all conditional tests (p < 0.001), while the Gaussian copula has borderline conditional stress (p = 0.105) despite passing marginal checks. Attitudes to AI vary across demographic strata. Distributional audits and continuous risk indices with sensitivity reporting offer a more defensible basis for transport GenAI governance than categorical approval tiers, which show a 75% assignment flip rate under weight perturbation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11391v1",
+        "title": "Buyer Artificial Intelligence-Enabled Environmental Governance and Supplier Environmental Controversies: An Organizational Information Processing and Signaling",
+        "url": "https://arxiv.org/abs/2609.11391v1",
+        "authors": [
+          "Yongchao Martin Ma",
+          "Xinya Guan"
+        ],
+        "published": "2026-09-10",
+        "summary": "Environmental controversies in global supply chains pose significant risks for global buyers. This study examines whether overseas suppliers' exposure to buyers' artificial intelligence (AI)-enabled environmental governance reduces supplier environmental controversies. Drawing on organizational information processing theory and signaling theory, we investigate how suppliers' exposure to AI-enabled governance influences their environmental controversies and the institutional contingencies under which this effect varies. Using text analysis to measure buyer AI-enabled environmental governance, we analyze panel data on 2,505 suppliers of U.S.-listed firms across 41 countries from 2020 to 2024 with multidimensional fixed-effects models. We find that suppliers' exposure to buyer AI-enabled environmental governance is negatively associated with supplier environmental controversies in the following year. This negative relationship is stronger in supplier countries with higher AI readiness and regulatory quality. The study contributes to research on AI-enabled sustainability governance and sustainable supply chain risk management.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11373v1",
+        "title": "Characterizing Bluesky Content Moderation Service: From Automation of Service to Landscape of Harms",
+        "url": "https://arxiv.org/abs/2609.11373v1",
+        "authors": [
+          "Pushpdeep Singh",
+          "Sayeh Jarollahi",
+          "Ayan Majumdar",
+          "Vabuk Pahari",
+          "Abhijnan Chakraborty",
+          "Krishna P. Gummadi",
+          "Ingmar Weber",
+          "Abhisek Dash"
+        ],
+        "published": "2026-09-10",
+        "summary": "Empirical research on content moderation is fundamentally constrained by the opaque deployment of moderation systems on major social media platforms. To this end, the recent emergence of decentralized platforms with transparent, public moderation logs presents an unprecedented opportunity for independent audits. In this work, we leverage this architectural transparency to conduct the first large-scale audit of the default moderation system on Bluesky, the Bluesky Moderation Service (BMS). Analyzing its 10.6M moderation labels from 2025, we investigate three foundational aspects: (i) its mechanism (the degree of automation versus human oversight), (ii) its efficacy (accuracy in detecting harms), and (iii) its purpose (the landscape of harms it identifies). Our findings reveal a human-AI collaborative system where labels for sexual and graphic content are applied automatically in seconds, while nuanced and high stakes labels require more human oversight, taking hours or days. Through a manual annotation study, we find the BMS operates with high precision (0.837), but struggles with low recall (0.222), with our annotators identifying 4.5$\\times$ more harmful content than the moderation system in a random sample. Finally, unsupervised clustering of the most frequently applied labeled posts uncovers detected harms ranging from hostility in discourse toward protected groups to the spread of sexually explicit and other graphic content. Our work offers a look into the operational realities of a deployed moderation system, providing a concrete data-driven foundation for designing more effective and transparent moderation systems.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11320v1",
+        "title": "A global mobile network coverage raster product at 1km resolution, 1999--2030",
+        "url": "https://arxiv.org/abs/2609.11320v1",
+        "authors": [
+          "Till Koebe",
+          "Theophilus Aidoo",
+          "Ali El Chami",
+          "Ali Kanso",
+          "Akansh Maurya",
+          "Purushottam Sharma",
+          "Ingmar Weber",
+          "Ridhi Kashyap"
+        ],
+        "published": "2026-09-10",
+        "summary": "Where a mobile signal is available shapes who can work, learn, bank, seek health care and respond to crises in the digital age, yet no globally consistent, sub-national record of mobile network coverage exists. We present such a record: annual 1km maps of the probability of 2G, 3G and 4G coverage for 214 countries and territories for the years 1999 to 2030. The maps are produced by three independent models: a calibrated machine-learning model, a techno-economic simulator of network build-out, and a spatial deep-learning model. The three estimates are then combined, per country and technology and in proportion to their measured accuracy, into a single best estimate with per-pixel 90% uncertainty bands; all four layers are released as part of the dataset. Because mobile roll-out closely follows a country's socio-economic conditions (population distribution, electrification, physical infrastructure), the models are grounded in existing geospatial data and tuned on 2,409 quality-screened operator-reported coverage maps, which are available up to 2020. For 2021--2024 the maps are predicted from recent geospatial data alone; for 2025--2030 they are extrapolated from demographic and infrastructure projections. On countries held out during training, the machine-learning model attains AUC 0.89--0.92. Baseline comparisons and the combined product's external validation are reported in Technical Validation. The dataset supports mapping the global digital divide, linking connectivity to household-survey outcomes, and humanitarian and infrastructure planning.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11261v1",
+        "title": "INDRA: A New AI Tool for Exploring Tobacco, Fossil Fuel, and Chemical Industry Archives",
+        "url": "https://arxiv.org/abs/2609.11261v1",
+        "authors": [
+          "Daniel Akselrad",
+          "Robert N. Proctor"
+        ],
+        "published": "2026-09-10",
+        "summary": "Five decades of litigation have disgorged hundreds of millions of pages of formerly secret business records from the tobacco industry, along with documents from the makers of drugs, chemicals, food, firearms, and fossil fuels. Yet these archives have been effectively inaccessible to general-purpose large language models (LLMs) because they have never been compiled into an LLM-readable corpus. Chatbots may be familiar with some of the materials contained in such archives but, with no direct access to the documents, they are vulnerable to hallucination and other defects. Here we introduce INDRA, a research platform designed to remedy such failures by embedding the conventions of archival historiography into a system-level protocol governing every output. The platform federates UCSF's Industry Documents Library, Columbia and CUNY's ToxicDocs, Stanford's SRITA, and other heretofore siloed collections, and provides three interlinked safeguards: (1) a closed evidentiary sandbox confines the model to a user-selected corpus, blocking retrieval from external sources that could introduce bias; (2) real-time provenance tagging marks the boundary between archival evidence and parametric inference; and (3) a system-level protocol enforced by deterministic scripts guides the structure of every output. Together these safeguards prevent the model from conflating \"the documents say X\" with \"I think X\" or \"I learned X from prior training.\" The result is an LLM-powered research partner enabling massive multi-archival investigations, a tool whose outputs are designed to be checked rather than trusted, and whose architecture makes the conditions of knowledge production visible and auditable. Three case studies demonstrate the method's analytical value and limitations, including what we call the Heraclitus effect, the steppingstone dilemma, and the gullibility (or mafia) problem.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11258v1",
+        "title": "SoulAuth: An Actor-native Identity Architecture and Rust Reference Implementation for Humans and Long-lived AI Actors",
+        "url": "https://arxiv.org/abs/2609.11258v1",
+        "authors": [
+          "Kun Yuan",
+          "Harold Wang",
+          "Echo Li",
+          "Egusi Gui",
+          "Kiki Hu",
+          "Lucas Luo",
+          "Magnus Hu"
+        ],
+        "published": "2026-09-10",
+        "summary": "As AI systems move from transient model invocations toward long-lived actors that persist across credentials, clients, sessions, and runtime instances, identity infrastructure must answer a basic question: where should the canonical continuity boundary be placed? This paper introduces Actor-native Identity and presents SoulAuth, an open-source Rust reference implementation for Humans and long-lived AIActors. We argue that any subject that must persist under its own identity and remain independently attributable should have an ActorIdentity that is not replaced by an Account, Credential, Client, AuthSession, IdentityBinding, or runtime instance. SoulAuth therefore treats Humans and long-lived AIActors as first-class identity subjects while keeping authentication distinct from downstream authority. Methodologically, we use a Philosophical Engineering approach that translates conceptual analysis of subjecthood into identity objects, invariants, lifecycle semantics, system responsibilities, implementation boundaries, and inspectable conformance evidence. Evaluation against the fixed SoulAuth v0.1.0 artifact shows that the implementation realizes core boundaries including Human/AIActor first-class identity status, Client/Actor separation, and Authentication/Authority separation, while gaps remain in unified Credential modeling and historical attribution anchored to ActorIdentity. We therefore report partial, not full, architecture conformance.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11198v1",
+        "title": "(Whose defaults?) Is artificial intelligence reorienting archaeological methods?",
+        "url": "https://arxiv.org/abs/2609.11198v1",
+        "authors": [
+          "Lorenzo Cardarelli",
+          "Roberto Ragno"
+        ],
+        "published": "2026-09-10",
+        "summary": "Generative AI and the practice of \"vibe coding\" are changing how archaeologists carry out computational research, but their effects on the discipline's range of methods is still understudied. In this paper, we evaluate whether large language models (LLMs) are narrowing the variety of methods archaeologists use. We first analysed approximately 119,000 archaeology abstracts from Scopus, covering publications from 2010 to 2025. Using a locally run LLM, we identified the computational methods reported in each abstract and organised them into 25 broad categories (L2) and 241 finer clusters (L3). A Bayesian Dirichlet-multinomial model of method composition within sub-disciplines found a small but credible shift in method use after 2023. However, this shift was smaller than the variation already present across the full study period. No individual technique showed a significant change, and overall methodological diversity increased rather than declined. We then ran a controlled experiment to see whether LLMs recommend a narrower set of methods than archaeologists have used in practice. Two different open-weight models were asked to suggest methods for 28 archaeological research problems, with prompts providing three levels of methodological guidance: novice, intermediate, and expert. Recommendation diversity was much lower than in the published literature, particularly without methodological guidance. The models also tended to favour methods that were widely used before 2023, and their recommendations more closely resembled the post-2023 literature. Taken together, these results are consistent with LLMs pushing methodological choice towards convergence, although our study cannot establish a causal effect. They raise a broader question: how can archaeology retain methodological diversity as LLMs become more involved in research?",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11152v1",
+        "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access",
+        "url": "https://arxiv.org/abs/2609.11152v1",
+        "authors": [
+          "Rajarshi Chowdhury"
+        ],
+        "published": "2026-09-10",
+        "summary": "The open web ran on an unwritten bargain: sites admitted crawlers, and search engines sent visitors back. Public measurements show that bargain breaking under AI crawlers and agents. Automated clients now make up most requests, training dominates Cloudflare-classified crawling, and the largest AI platforms fetch thousands of pages for each visitor they return. The web's common control, robots.txt, cannot express identity, purpose, terms, or price, can be circumvented, and newer alternatives are largely proprietary CDN features. We specify terms.txt, a robots.txt-style file for per-path, per-purpose machine-access terms, plus an origin-enforced exchange using Web Bot Auth signatures, signed intent, delegation tokens, HTTP 402 negotiation, and signed receipts. We define what the exchange can enforce, audit, and leave to contract. A dependency-free implementation adds 0.20 to 0.65 ms per request on one vCPU.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11137v1",
+        "title": "The Machines Are Calling: Measuring Automated and Synthetic Voices in Unwanted Inbound Calls",
+        "url": "https://arxiv.org/abs/2609.11137v1",
+        "authors": [
+          "Xingyu Shen",
+          "Tommy Duong",
+          "Muduo Xu",
+          "Xiaodong An",
+          "Jiaqi Gan",
+          "Haoyuan Tang",
+          "Jamey Z. Liang",
+          "Siyu Zhang",
+          "Yan Zhang",
+          "Simiao Ren"
+        ],
+        "published": "2026-09-10",
+        "summary": "In February 2024 the U.S. Federal Communications Commission (FCC) placed AI-generated voices under the Telephone Consumer Protection Act (TCPA). Yet no peer-reviewed measurement says how much unwanted call traffic is placed by a machine, or how much of that machine speech is synthesized rather than played from a recording. We report both with a disclosed pipeline. An interactive voice honeypot (language-model personas on real U.S. numbers, the caller recorded on its own track) recorded 10,987 calls over 66 days; 11 days on which our stack answered silently are set aside. Three instruments read each opening: an audio fingerprint that finds the same recording played on other calls, a commercial synthetic-speech detector on the caller's first ten seconds, and blinded listeners who check what it flags. Of the 7,233 calls our persona greeted on normal days, 13.8% open with a recording we also heard on another call, and 13.1% with fresh audio the detector labels synthetic. A further 9.9% open with a caller who never spoke after our greeting, 54.2% with fresh audio the detector labels human, and 9.0% could not be scored. Machine-voiced openings are therefore at least 26.9%, a further tenth of calls are silent connections we read as machine-placed, and replays of a recording make up 45% of the detector's own rate (29.3% of 6,192 scored openings). The same waveform played on two calls lands on opposite sides of the detector's threshold 13.6% of the time, and eleven listeners confirm 54.4% of what it flags. Synthetic openings concentrate in lead-generation spam (33.8%), not fraud (21.1%); 0.44% disclose automation. Prevalence tracks how long a bait number has circulated (59% against 19% in the same weeks): seeding history, not calendar time, explains the trend. Campaigns outlast their numbers: one recorded compliance notice opens calls in six campaigns, and one synthetic voice serves nine.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11125v1",
+        "title": "From Digital Accountability to Accountable Digitality Through Needs-Aware Information Systems: The Case of Auditable Child-Welfare Judgments",
+        "url": "https://arxiv.org/abs/2609.11125v1",
+        "authors": [
+          "Soheil Human"
+        ],
+        "published": "2026-09-10",
+        "summary": "Digital accountability research asks how digital systems can, among other aims, be made transparent, explainable, auditable, contestable, and supportive of ongoing learning and improvement. This paper reverses the question: how can digital transformation make established human institutions more accountable? It theorizes this reversal as accountable digitality and specifies needs-aware information systems as the mediating mechanism. The hard and paradigmatic case is child-welfare judgment, where best-interest procedures must protect children, preserve confidentiality, and respect judicial independence while enabling aggregate learning about needs, reasons, exceptions, and disparities. The case is used diagnostically and illustratively to derive and examine the design logic, not as empirical evidence or validation. Conceptual design-oriented analysis decomposes and recombines digital and legal accountability under child-rights constraints, deriving a canonical theory-to-design chain, contingent mechanisms, implications, and safeguards. It advances IS responsibility and ethics research by showing how privacy-preserving, co-created, needs-aware information systems can support institutional self-knowledge and auditable justice.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.11019v1",
+        "title": "Work, Wellbeing, and Choice: Empirical Lessons for AI Futures",
+        "url": "https://arxiv.org/abs/2609.11019v1",
+        "authors": [
+          "Stephanie C. Y. Chan",
+          "Adam Bales",
+          "Katherine L. Hermann",
+          "Iason Gabriel"
+        ],
+        "published": "2026-09-10",
+        "summary": "Advances in AI-driven automation have raised questions about how humans might find wellbeing in a world where paid employment is less necessary or less available than before. Paid work has been variously characterized as both a contributor and an impediment to human wellbeing. What is already known about the relationship between paid work and wellbeing? What factors influence wellbeing among people who do not work---or who do not need to work? And how might these factors bear upon prospective AI-induced economic transformations? To help provide empirical grounding for these questions, we survey the psychological, sociological, and economic literature that investigates the relationship between wellbeing and work. We draw on evidence from multiple populations, including the unemployed, retirees, lottery winners, and financially dependent spouses. This comparative review draws from studies across OECD countries, China, India, and Gulf states. We identify three key factors that mediate the relationship between work status and wellbeing: (1) agency and choice---whether the exit from work is voluntary or involuntary, as well as long-term agency; (2) the availability of alternative sources of work's latent benefits---such as volunteering, hobbies, or state-provisioned employment; and (3) social and systemic context---including cultural norms around work and the robustness of social safety nets. We draw on these three factors to derive specific implications for different AI automation scenarios, connecting the empirical evidence to concrete policy considerations.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.10944v1",
+        "title": "The Towers Were Standing: A Cause Decomposition of Cellular Outages During Hurricane Helene",
+        "url": "https://arxiv.org/abs/2609.10944v1",
+        "authors": [
+          "Oluseyi Olukola",
+          "Oare Danielle Addeh",
+          "Esther Abiodun Konan",
+          "Nick Rahimi"
+        ],
+        "published": "2026-09-10",
+        "summary": "Hurricane Helene produced the largest absolute cell-site outage in the public FCC record, peaking at 4562 sites. The conventional model is physical: towers destroyed. Helene did destroy over 1700 miles of fibre, but almost none of it was cell sites. We present the first cause-decomposed study of the FCC's Disaster Information Reporting System, reconstructing 80 state-days and 580 county-days from 24 daily filings by two reconciled independent extractions. Damage to cell sites is negligible: 1.1% of attributed cell-site-days across six states, at most 3.8% anywhere. The sites were standing. What took them out divides by terrain: pooled, power dominates at 63.2%, but in mountainous North Carolina severed transport (backhaul) reaches 52.2% against 47.3%, and in Tennessee 69.9%. North Carolina's transport share rises from 7.0% to 85.0% across the event (\\r{ho} = 0.92). Seventeen days after landfall, on 15 October, 47 sites lost transport across six contiguous North Carolina counties with no rainfall, no power loss, no damage, and recovery by the next report. Independent active-probe measurement corroborates it: responsive /24s fall 1.02% for twelve hours while Tennessee stays flat. We release the dataset. Backup power is the standard resilience investment; here it addresses the smaller half of the problem.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-09-12\n\nToday's submissions highlight major theoretical breakthroughs in automated reasoning—notably proving the undecidability and $\\Pi^0_1$-completeness of Medvedev logic—alongside significant advancements in neuro-symbolic feedback loops that combine LLMs with Lean 4 verification to solve competition-level mathematics.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Resolution of Abiad–Taranchuk–van Veluw Problem 11 via Exhaustive Certificate]**\n  [Spectral bipartiteness in generalized odd graphs of diameter three](https://arxiv.org/abs/2609.11729v1) — Qi Zhou\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves Problem 11 of Abiad, Taranchuk, and van Veluw (2026) by identifying the folded 7-cube, $O_4$, and $C_7$ as the unique top three maximizers of the spectral bipartiteness invariant $\\sigma(G)$ among nonbipartite distance-regular graphs of diameter three and odd girth at least seven. The proof analytical bounds candidate valencies to $\\le 182$ and exhaustively certifies the remaining intersection arrays.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Magenta: Closed-Loop Formal Verification for Olympiad Mathematics in Lean 4]**\n  [Magenta: Closing the Loop Between Mathematical Reasoning and Lean Verification](https://arxiv.org/abs/2609.11319v1) — Joshua Ong Jun Leang, Haonan Li, Zheng Zhao, Xinyi Shang, Wenda Li, Zhengzhong Liu, Erix Xing, Shay Cohen, Eleonora Giunchiglia\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Introduces a training-free agentic architecture that translates informal mathematical solutions into Lean 4 statements and proofs, using statement adjudication and error-attribution judges to guide re-derivation and repair. The system achieved 100% accuracy on AIME 2025/2026 and HMMT 2026, and solved all six IMO 2026 problems when paired with the K2-Horizon-7B reasoner.\n  - **AI Connection:** LLM agentic pipeline (paired with K2-Horizon-7B reasoner) integrated with Lean 4 statement verification and automated error-attribution feedback loops.\n\n* **[Undecidability and $\\Pi^0_1$-Completeness of Medvedev Logic]**\n  [Medvedev Logic is Not Decidable. It is π01 -complete. Who Would Have Guessed?](https://arxiv.org/abs/2609.11576v1) — Pawel Pawlowski\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Settles the long-standing open problem regarding the decidability of Medvedev logic (ML), proving it is $\\Pi^0_1$-complete under computable many-one reductions. The proof constructs Wang-Medvedev pairs to bridge periodic torus tilings with intuitionistic countermodels on finite Medvedev frames, establishing that ML admits no recursively enumerable sound and complete proof calculus.\n  - **AI Connection:** Unspecified AI assistance claimed in abstract; architecture not detailed.\n\n* **[Lean 4 Formalization of Four-Valued Graph Model for Conflict Resolution]**\n  [A Four-Valued Graph Model for Conflict Resolution: Core Framework and a Machine-Checked Formalization in Lean 4](https://arxiv.org/abs/2609.11174v1) — Yukiko Kato\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Formalizes the Quasi-Closed World Graph Model for Conflict Resolution (QCW-GMCR) in Lean 4 using Belnap's four-valued logic. The interactive formalization verified classical GMCR stability hierarchies and revealed errors in earlier literature, leading to the correction of a knowledge-monotonicity axiom to truth monotonicity.\n  - **AI Connection:** Interactive theorem proving in Lean 4 / mathlib (no neural AI).\n\n* **[Non-Ground Clause Learning SMT Calculus]**\n  [Extending SMT Solving with Non-Ground Clause Learning](https://arxiv.org/abs/2609.11509v1) — Yasmine Briefs, Christoph Weidenbach\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes a formal SMT calculus that performs resolution steps during conflict analysis directly on non-ground clauses while operating on ground instances. The calculus incorporates chronological backtracking and is rigorously proven to simulate CDCL, SCL(FOL), SCL(T), and Resolution.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Agda Formalization of Searchable Compact Types and Ordinals]**\n  [Compact totally separated types](https://arxiv.org/abs/2609.10447v1) — Martín Hötzel Escardó\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Extends constructive type topology by constructing mechanically searchable infinite compact types and ordinal notation systems in Martin-Löf type theory with univalent universes, fully verified in Agda.\n  - **AI Connection:** Interactive theorem proving in Agda (no neural AI).\n\n* **[StochBench: Graduate Stochastic Processes Benchmark in Lean 4]**\n  [StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean](https://arxiv.org/abs/2609.09264v1) — Idan Davidovich, Debargha Ganguly, Vikash Singh, Vipin Chaudhary\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Presents a 450-problem Lean 4 benchmark spanning graduate-level stochastic processes (Markov chains, martingales, stochastic calculus) to evaluate neural theorem provers on applied domain mathematics beyond competition problems.\n  - **AI Connection:** LLM agent (Opus 4.8) evaluated for Lean 4 formal proof generation and tactic search.\n\n---\n\n### 3. AI in Mathematics Education\n\nNo qualifying submissions met the threshold today.\n\n---\n*Synthesized with `gemini-3.6-flash` on 2026-09-12 11:30:22 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-09-12T11:31:06.008194+00:00"
+  }
+}
