@@ -1,0 +1,491 @@
+{
+  "updated_at": "2026-09-21T11:30:34Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2609.22078v1",
+        "title": "Stellahedral Geometry of Partially Ordered Sets",
+        "url": "https://arxiv.org/abs/2609.22078v1",
+        "authors": [
+          "Tommaso Faustini",
+          "Luis Ferroni",
+          "Ludovico Piazza"
+        ],
+        "published": "2026-09-18",
+        "summary": "We introduce a transformation on partially ordered sets, termed the \\emph{stellahedral transform}, with notable features. It preserves the properties of being Eulerian, Cohen--Macaulay, and of being the face poset of a polytope. Furthermore, it admits an explicit geometric realization for convex polytopes and specializes to the construction that takes a simplex to the stellahedron. One motivation for this definition comes from the theory of toric $h$-polynomials and (augmented) Chow polynomials of Eulerian posets. We show that the right augmented Chow polynomial of an Eulerian poset $P$ agrees with the toric $h$-polynomial of the stellahedral transform of $P$. We use this perspective, together with $\\mathbf{cd}$-index results due to Ehrenborg (2005) and Karu (2006), to prove two positivity results for augmented Chow polynomials: for Gorenstein* posets they are unimodal, and for face posets of polytopes they are $γ$-positive. Along the way we provide negative answers to two open questions concerning Eulerian and Gorenstein* posets. First, the question on the nonnegativity of Eulerian Chow polynomials, posed by Ferroni, Matherne, and Vecchi (2024). Second, the question posed by Athanasiadis and Kalampogia-Evangelinou (2023) on the real-rootedness of chain and Chow polynomials of Gorenstein* posets: these examples provide a novel application of a technique introduced by Murai and Nevo (2014).",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.22061v1",
+        "title": "Duality and minors for embeddings of graphs in pseudosurfaces",
+        "url": "https://arxiv.org/abs/2609.22061v1",
+        "authors": [
+          "Blake Dunshee",
+          "M. N. Ellingham",
+          "Joanna A. Ellis-Monaghan"
+        ],
+        "published": "2026-09-18",
+        "summary": "Cellular embeddings of graphs in surfaces have well-defined duality and minor (edge contraction and deletion) operations that interact in a natural way. A pseudosurface is obtained from a surface (compact 2-manifold) by a finite number of identifications of finite sets of points. Points that are created by the identifications do not have a neighborhood homeomorphic to an open disk and are known as pinchpoints. Embeddings of graphs in pseudosurfaces have been considered, both implicitly and explicitly, since the 1960s. Usually the condition that all pinchpoints correspond to vertices of the graph is imposed. However, this makes it difficult to define duality and minors for pseudosurface embeddings and have these operations interact in the expected way. We define the class of pseudocellular embeddings of graphs in pseudosurfaces, which allow pinchpoints at places other than vertices, in particular in the middle of faces or edges. A subclass known as quasicellular embeddings corresponds to previous embedding models due to Deneen, Shute, and Thomborson and to Huggett and Moffatt. Pseudocellular embeddings also generalize other structures, including the edge-point ribbon graphs of Ellis-Monaghan, Kauffman, and Moffatt, and cyclically ordered graphs or cogs (also known as rigid-vertex graphs). Duality and minor operations for pseudocellular embeddings have very simple and straightforward definitions using topological quotient operations. Pseudocellular embeddings of edgeless graphs have nontrivial structure, and we define some minor operations for those that are related to `t-minor' operations on bipartite graphs. We develop a family of polynomial invariants for pseudocellular embeddings and discuss connections to other polynomial invariants.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.22016v1",
+        "title": "$\\mathbf{Bad}(\\mathbf{r};\\mathbf{s})$ is Hyperplane Absolute Winning",
+        "url": "https://arxiv.org/abs/2609.22016v1",
+        "authors": [
+          "Chengyang Wu"
+        ],
+        "published": "2026-09-18",
+        "summary": "Given an $m$-dimensional weight $\\mathbf{r}$ and an $n$-dimensional weight $\\mathbf{s}$, we prove that the set of $(\\mathbf{r};\\mathbf{s})$-badly approximable $m\\times n$ matrices is hyperplane absolute winning on $\\mathbb{R}^{m\\times n}$. This fully answers a question \\cite[Question 8.2 (iii)]{Kl} of D. Kleinbock in 1998.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21978v1",
+        "title": "Hypercube eigenfunctions with two strong nodal domains",
+        "url": "https://arxiv.org/abs/2609.21978v1",
+        "authors": [
+          "Yize He",
+          "Qinghong Zhao"
+        ],
+        "published": "2026-09-18",
+        "summary": "Bıyıko{\\u g}lu, Hordijk, Leydold, Pisanski, and Stadler conjectured that, for every $n\\geq3$ and $1\\leq i\\leq n-2$, the hypercube $Q_n$ admits a Laplacian eigenfunction with eigenvalue $2i$ and exactly two strong nodal domains. In this paper, we confirm this conjecture.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21927v1",
+        "title": "A colorful Steinitz theorem with different centers",
+        "url": "https://arxiv.org/abs/2609.21927v1",
+        "authors": [
+          "G. Ivanov"
+        ],
+        "published": "2026-09-18",
+        "summary": "We prove a colorful quantitative Steinitz theorem in which the color classes may have different centers. If the convex hull of each of $2d$ sets in $\\R^d$ contains a translate of the Euclidean unit ball, then a rainbow convex hull contains a ball of radius $(3d)^{-2d^2}$ whose center belongs to the convex hull of the given centers. The main ingredient is an exact result for translates of a segment, proved by a lifting and a topological colorful Helly theorem. The same idea also yields a sharp colorful Helly theorem for translated cones: for $1 \\le k \\le d-1$, if every rainbow selection from $2d-k+1$ finite families of convex sets in $\\mathbb{R}^d$ has a $k$-dimensional cone in its intersection, then the intersection of one of the families contains such a cone.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21922v1",
+        "title": "On the Injectivity of Elementary Symmetric Partitions and the Multiset Recovery Problem",
+        "url": "https://arxiv.org/abs/2609.21922v1",
+        "authors": [
+          "Ziyao Sun"
+        ],
+        "published": "2026-09-18",
+        "summary": "The elementary symmetric partition map $\\pre_s$, introduced by Ballantine, Beck, and Merca, sends an integer partition to the summands in the evaluation of the $s$-th elementary symmetric polynomial at its parts. By encoding partition parts as prime-exponent valuation vectors, we connect $\\pre_s$ to Leo Moser's additive Multiset Recovery Problem (1957) and prove that $\\pre_s$ is unconditionally injective on partitions of length $n$ whenever $n$ lies outside the Moser root set $\\mathcal{Z}_s$, with no size restrictions. Furthermore, under the equal-size constraint $|λ| = |μ| = N$, we prove that $\\pre_4$ is injective at the isolated singular length $n = 12$, and that every fiber of $\\pre_3$ on $\\Part_6(N)$ has cardinality at most $2$, completely excluding both triplets and quartets.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21895v1",
+        "title": "Digraphs of Large Girth and Dichromatic Number in Tournaments with Large Dichromatic Number",
+        "url": "https://arxiv.org/abs/2609.21895v1",
+        "authors": [
+          "Pierre Charbit",
+          "Samuel Coulomb"
+        ],
+        "published": "2026-09-18",
+        "summary": "In the 1960s, Erdős and Hajnal conjectured that every graph with sufficiently large chromatic number contains a subgraph of large girth (size of a smallest cycle) and large chromatic number. In this paper, we prove that every tournament with sufficiently large dichromatic number contains a subdigraph of large digirth (size of a smallest directed cycle) and large dichromatic number. We investigate the same statement when replacing digirth by girth (of the underlying graph). We show that it implies the conjecture of Erdős and Hajnal, and prove it for a particular family of tournaments.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21892v1",
+        "title": "Real quadratic fields and finite quantum dilogarithms I",
+        "url": "https://arxiv.org/abs/2609.21892v1",
+        "authors": [
+          "Danylo Radchenko",
+          "Campbell Wheeler"
+        ],
+        "published": "2026-09-18",
+        "summary": "We prove that Stark-Shintani ray class invariants (Stark units) associated to real quadratic fields are algebraic numbers. These invariants are given by special values of Faddeev's modular quantum dilogarithm, introduced by Garoufalidis-Kashaev-Zagier. Our main discovery is that special values of modular quantum dilogarithm satisfy an explicit overdetermined system of polynomial equations, matching a variation on the defining equations of Andersen-Kashaev's notion of a quantum dilogarithm on a product of two cyclic groups. Solutions to this system of equations can be used to categorify fusion rings introduced by Izumi, and the algebraicity of the special values then follows by Ocneanu's rigidity theorem. As a byproduct, we obtain an explicit infinite family of irrational near-group fusion categories. As a further application, we prove a family of quadratic relations for Stark units recently conjectured by Appleby, Flammia, and Kopp motivated by Zauner's conjecture about SIC-POVMs (complex equiangular lines).",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21890v1",
+        "title": "Local large deviations for triangles in sparse random graphs",
+        "url": "https://arxiv.org/abs/2609.21890v1",
+        "authors": [
+          "Jade Lintott",
+          "Will Perkins",
+          "Corrine Yap"
+        ],
+        "published": "2026-09-18",
+        "summary": "We revisit a classic topic in probabilistic combinatorics, the lower-tail large-deviation problem for triangles in the random graph $G(n,p)$. Here we aim for first-order asymptotics for the quantity $\\mathbb{P}[X=k]$ with $X$ the number of triangles in $G(n,p)$ and $0 \\le k \\le (1-ε) \\mathbb{E}X$, in the sparse regime in which the logarithmic asymptotics are Poissonian. When $k=0$ (the case of triangle-freeness) and $p = p(n)$ is sufficiently small, first-order asymptotics are known via Janson's inequality and results of Stark and Wormald; when $k$ is sufficiently close to $\\mathbb{E}X$, first-order asymptotics are known via local central limit theorems. Our main result gives first-order asymptotics for all $k$ in the above range when $p = o(n^{-2/3})$, improving upon the result of Frieze that required $p = o(n^{-4/5})$. We also characterize, up to vanishing total variation distance, the distribution of the $k$ triangles in the corresponding conditional distribution and give an efficient algorithm to approximately sample from this conditional distribution. Notably, when $k = Θ(μ)$ there is a transition at $p = Θ(n^{-4/5})$ from an asymptotically uniform triangle distribution to a distribution asymptotically singular to uniform.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21874v1",
+        "title": "Boolean building set arrangements",
+        "url": "https://arxiv.org/abs/2609.21874v1",
+        "authors": [
+          "Leonie Mühlherr",
+          "Sven Wiesner"
+        ],
+        "published": "2026-09-18",
+        "summary": "In this article, we generalize the notion of connected subgraph arrangements, established by Cuntz and Kühne by allowing edges of cardinality greater than two, with a focus on local properties. We show that the class of free connected hypersubgraph arrangements is larger than the class of free connected subgraph arrangements, but that there exists a necessary condition for freeness that refers back to the graphic case. Furthermore, we obtain a unique description of these arrangements by associating them with Boolean building sets. We study the nested complex of the building set in relation to the lattice of intersections, and characterize all simplicial arrangements within this new class.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21779v1",
+        "title": "Non-existence of sets with few special directions",
+        "url": "https://arxiv.org/abs/2609.21779v1",
+        "authors": [
+          "Luca Ghidelli",
+          "Gergely Kiss",
+          "Gábor Somlai"
+        ],
+        "published": "2026-09-18",
+        "summary": "Let $p$ be an odd prime and let $S\\subseteq\\mathbb{F}_p^2$ have cardinality divisible by $p$. We prove that, for all sufficiently large primes $p$, no such set has exactly four special directions, and obtain a conditional extension to larger numbers of special directions under an affine-independence assumption on the corresponding projection functions. A separate second-moment argument shows more generally that, for every fixed $k\\ge4$, no subset of $\\mathbb{F}_p^2$ has exactly $k$ special directions once $p$ is sufficiently large. In fact, the result holds uniformly for $k$ up to a positive constant times $\\sqrt p/\\log p$. In contrast, for multisets every prescribed collection of at most $p$ directions can occur as the set of special directions of a $\\{0,1,2\\}$-valued multiset on $\\mathbb{F}_p^2$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21772v1",
+        "title": "Exact Counts of Binary Phylogenetic Networks with Four Reticulations",
+        "url": "https://arxiv.org/abs/2609.21772v1",
+        "authors": [
+          "Hao Yu",
+          "Louxin Zhang"
+        ],
+        "published": "2026-09-18",
+        "summary": "Phylogenetic networks provide a flexible framework for representing reticulate evolutionary processes, such as hybridization, introgression, recombination, and horizontal gene transfer. However, their combinatorial complexity makes even basic enumeration problems difficult. Building on our previous work for networks with up to three reticulations, we derive an explicit closed-form formula for the number of unrestricted rooted binary phylogenetic networks with four reticulations on \\(n\\) labeled taxa. Our approach is based on tree-component graphs. We classify the 79 possible component graphs corresponding to networks with four reticulations into ten groups. We then enumerate the networks associated with each group by combining known counts of one-component networks, forests, and networks with fewer reticulations. Summing these contributions yields the desired formula. This result extends the exact enumeration of unrestricted binary phylogenetic networks to four reticulations and further demonstrates the effectiveness of component graphs for systematically organizing and counting increasingly complex network classes.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21771v1",
+        "title": "An equivariant version of Gabber's lemma",
+        "url": "https://arxiv.org/abs/2609.21771v1",
+        "authors": [
+          "Filippo Belfiori"
+        ],
+        "published": "2026-09-18",
+        "summary": "Let $G$ be a finite abelian group, and let $k$ be an infinite perfect field containing a primitive root of unity of order the exponent of $G$. We prove that the $G$-equivariant version of Gabber's presentation lemma proposed by Bachmann holds over $k$ if and only if $G$ is cyclic of $p$-power order, for some prime $p$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21739v1",
+        "title": "Range of Clique Counts in Graphs",
+        "url": "https://arxiv.org/abs/2609.21739v1",
+        "authors": [
+          "Mihir Neve",
+          "Alexey Pokrovskiy",
+          "Andrey Shapiro"
+        ],
+        "published": "2026-09-18",
+        "summary": "Let $γ(G)$ denote the number of cliques in a graph $G$ and let $Γ(n):= \\{γ(G):|V(G)|=n\\}$ be the set of values of $γ(G)$ that can be attained on $n$ vertices. We improve on a result by Erdős and Erné to show that $| Γ(n)| \\geq 2^{n-4\\ln(2)\\log^3(n)}$ for sufficiently large $n$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21695v1",
+        "title": "Higher Labute-Serre duality and Lyndon words",
+        "url": "https://arxiv.org/abs/2609.21695v1",
+        "authors": [
+          "Ido Efrat",
+          "Levav Ferber Tas"
+        ],
+        "published": "2026-09-18",
+        "summary": "Let $S$ be a free profinite group on a finite ordered basis $X$, and let $S^{(n,p)}$, $n=1,2,\\ldots,$ denote its lower $p$-central filtration. There is a natural duality between $S^{(n,p)}/S^{(n+1,p)}$ and $H^2(S/S^{(n,p)},\\mathbb{F}_p)$. These $\\mathbb{F}_p$-linear spaces admit natural bases indexed by Lyndon words of length $\\leq n$ in the alphabet $X$. These bases are known to be unitriangularly dual. We prove that they are much closer to being fully dual, by showing that the pairing between two basis elements vanishes unless the corresponding Lyndon words are permutations of one another. We further show that the value of the pairing is essentially independent of $n$.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2609.21765v1",
+        "title": "Bluebirds and mockingbirds cannot produce a fixed-point combinator",
+        "url": "https://arxiv.org/abs/2609.21765v1",
+        "authors": [
+          "Takuma Imamura"
+        ],
+        "published": "2026-09-18",
+        "summary": "Let $B$ be the bluebird combinator with reduction rule $Bxyz \\to_{w} x\\left(yz\\right)$, let $M$ be the mockingbird combinator with reduction rule $Mx \\to_{w} xx$, and let $I$ be the identitybird combinator with reduction rule $Ix \\to_{w} x$. For a fixed variable $x$, we construct an invariant $\\mathrm{Tr}_{x}\\left(u\\right)$ of a $BMI$-term $u$ with respect to $\\to_{w}$. This invariant traces the occurrences of $x$ in the leftmost-innermost reduction sequence of $u$. We then prove that $\\mathrm{Tr}_{x}\\left(Yx\\right) \\neq \\mathrm{Tr}_{x}\\left(x^{r}\\left( Yx \\right)\\right)$ for every $x$-free $BMI$-term $Y$ and every $r\\geq 1$. Consequently, there exists no fixed-point combinator in $BMI$-combinatory logic under weak equivalence. This provides a negative answer to the problem posed by Smullyan in 1985.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21565v1",
+        "title": "Logics of Filter Bubbles",
+        "url": "https://arxiv.org/abs/2609.21565v1",
+        "authors": [
+          "Lei Li",
+          "Jialiang Yan"
+        ],
+        "published": "2026-09-18",
+        "summary": "Filter bubbles can be understood as configurations characterized by within-group proximity and separation from outsiders. Personalized feeds may form or preserve such configurations. We develop hybrid-style logics for reasoning about filter bubbles. The static logic characterizes bubble-shaped configurations, while its dynamic extension captures their formation and persistence under personalized feeds. We provide sound and strongly complete axiomatizations for the static and dynamic logics and prove their decidability.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21555v1",
+        "title": "Compact Partial Symmetry Breaking for Graph Search Problems",
+        "url": "https://arxiv.org/abs/2609.21555v1",
+        "authors": [
+          "Michael Codish",
+          "Mikoláš Janota",
+          "Peter J. Stuckey"
+        ],
+        "published": "2026-09-18",
+        "summary": "Symmetry breaking in graph search problems remains challenging: complete symmetry breaking constraints are typically exponential in size, while partial approaches trade precision for scalability. We introduce a strength-driven, redundancy-aware methodology for constructing compact partial symmetry breaking constraints based on graph patterns. Each pattern corresponds to a Boolean clause over equality literals and can be integrated directly into CP or SAT models. Our approach incrementally selects strong, non-redundant graph patterns, yielding partial symmetry breaks that achieve substantial pruning of non-canonical graphs while remaining compact in size. This provides a principled framework for deriving lightweight partial symmetry breaking constraints which are significantly more precise than all published state-of-the-art alternatives. We evaluate the proposed constraints on graph instances with up to 25 vertices using a redundancy ratio metric. The resulting partial symmetry breaks constitute only a small fraction of the size of complete symmetry breaking constraints, while delivering significant performance improvements across several graph search benchmarks compared to previously defined partial symmetry breaking methods.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21492v1",
+        "title": "LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers",
+        "url": "https://arxiv.org/abs/2609.21492v1",
+        "authors": [
+          "Jingyu Hu",
+          "Shu Yang",
+          "Weiru Liu",
+          "Di Wang"
+        ],
+        "published": "2026-09-18",
+        "summary": "Chain-of-Thought (CoT) reasoning has been shown to improve the performance of large language models (LLMs), yet existing optimization methods largely rely on outcome-based feedback, leaving the logical validity of intermediate reasoning steps largely unverified. To address the gap whereby LLMs arrive at correct final answers through logically flawed intermediate reasoning chains, we propose LogicTrack, a neuro-symbolic framework that audits reasoning trajectories by auto-formalizing each reasoning step into symbolic representations and verifying it with automated theorem provers. LogicTrack introduces Solver-Based Backtracking Reward (SBR), a step-wise scoring mechanism that quantifies logical soundness and guides backtracking tree search at inference time. We further extend LogicTrack to construct supervised fine-tuning (SFT) data with backtracking traces from its trajectories, enabling fine-tuned models to internalize step-wise auditing as an intrinsic capability. Extensive experiments across 8 reasoning benchmarks and 7 LLMs demonstrate that LogicTrack effectively improves both the verifiability of reasoning chains and final answer pass rate, thereby enhancing overall CoT quality and trustworthiness in high-stakes domains.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21317v1",
+        "title": "The Sources of Unknowability and Self-refutation in Epistemic and Dynamic Epistemic Logic",
+        "url": "https://arxiv.org/abs/2609.21317v1",
+        "authors": [
+          "Eiji Yamada"
+        ],
+        "published": "2026-09-18",
+        "summary": "In this paper, we define a formula $\\varphi$ to be unbelievable if $\\Box\\varphi$ is unsatisfiable, and unknowable if $\\Box\\varphi\\land\\varphi$ is unsatisfiable. We then analyze the sources of unknowability and unbelievability in different classes of frames K, KD, KD45, and S5. We first show that any unbelievable formula is a fixed point of the Moore function defined by $f(\\varphi)=\\varphi\\land\\lnot\\Box\\varphi.$ Our main result shows that in S5, the static notions of unknowability and unbelievability in epistemic logic, and the dynamic notions of always informativeness and eventual self-refutation in dynamic epistemic logic are all equivalent to ``Moorean phenomena.'' We also generalize the result to the multi-agent case, showing that although all unknowable formulas still manifest Moorean phenomena, new mechanisms arise due to their interactive nature. Finally, we briefly analyze whether the Brandenburger-Keisler paradox in epistemic game theory can be considered Moorean.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21009v1",
+        "title": "Robustness Analysis via Horofunction Compactification",
+        "url": "https://arxiv.org/abs/2609.21009v1",
+        "authors": [
+          "Harrison Bennett",
+          "Amin Farjudian"
+        ],
+        "published": "2026-09-17",
+        "summary": "Robustness analysis plays a central role in the verification and design of computational and hybrid systems, particularly when system behaviour depends continuously on parameters subject to perturbation. Existing domain-theoretic frameworks provide a principled foundation for reasoning about such perturbations via monotone maps on lattices of closed sets. However, these frameworks face significant limitations when the underlying state space is not locally compact, as is the case for the infinite-dimensional spaces that arise in analysis, machine learning, and control theory (e.g., $\\ell_p$ and $L_p$ spaces). In these settings, the lattice of closed subsets fails to be continuous, and classical compactifications either sacrifice precision or lack computable structure. We propose Gromov's horofunction compactification as a new tool for robustness analysis over a class of separable metric spaces of practical importance, including separable reflexive Banach spaces. Given a metric space $\\mathbb{S}$, we show that its horofunction extension yields a compact metric space together with a Lipschitz embedding, which enables robust approximations of monotone maps via Scott-continuous maps on the compactified domain. For separable spaces, the horofunction compactification is metrizable, which provides a path toward effective domain-theoretic constructions.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.20959v1",
+        "title": "Don't Blame the Model, Verify the Data: An Evaluation of SMT-based Dataset Verification",
+        "url": "https://arxiv.org/abs/2609.20959v1",
+        "authors": [
+          "Sehee Park",
+          "Dominik Geißler",
+          "Andrei Aleksandrov",
+          "Kim Völlinger"
+        ],
+        "published": "2026-09-17",
+        "summary": "The EU AI Act mandates that datasets for high-risk machine learning (ML) systems meet strict quality criteria such as soundness and bias mitigation. While Satisfiability Modulo Theory (SMT) solving offers a formal approach to verifying these properties, its scalability in realistic ML settings remains unexplored. To bridge this gap, this work presents the first large-scale empirical study of SMT-based dataset verification on two real-world ML datasets. We systematically evaluate how solver performance is shaped by three key dimensions: the type of data-quality property, the specification style, and the dataset encoding strategy. Our findings demonstrate that SMT-based verification is feasible for practical scenarios, but each dimension shapes it: the property type sets the tractability limit, the specification style drives scalability (exceeding 2000x for aggregate properties), and the encoding strategy has a systematic effect, with extracted feature columns performing best.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2609.21619",
+        "title": "Calibrating Teacher--Student Discrepancy for On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2609.21619",
+        "authors": [
+          "Qiangqiang He",
+          "Jin Li",
+          "MingCai Chen"
+        ],
+        "published": "2026-09-18",
+        "summary": "On-policy distillation (OPD) improves reasoning models by learning the token-level discrepancy between a stronger teacher and an on-policy student. However, this discrepancy does not purely reflect the capability gap between the teacher and the student: it also contains deviations arising from the teacher itself, which are consequently mixed into the observed teacher--student discrepancy and indiscriminately learned by standard OPD during training. This issue is further exacerbated by privileged OPD, where privileged information induces larger teacher-side likelihood shifts, thereby encouraging the student to learn more of the teacher's own deviation. We introduce Calibrated On-Policy Distillation (Cal-OPD), which estimates the teacher's self-deviation region through positive and negative privileged interventions and calibrates the original teacher--student discrepancy by retaining only the component that lies beyond this region. Experiments on mathematical reasoning benchmarks show that, while retaining only about 52--65\\% of the original teacher--student discrepancy as the optimization signal, Cal-OPD consistently outperforms standard OPD and its variants across model scales.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2609.21992v1",
+        "title": "Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment",
+        "url": "https://arxiv.org/abs/2609.21992v1",
+        "authors": [
+          "Maciej Skorski"
+        ],
+        "published": "2026-09-18",
+        "summary": "Most work in computational ethics treats annotator disagreement on moral content as noise to be voted away, collapsed into majority vote or the more permissive any-annotator rule the moment a single annotator flags an item. We argue this uncertainty should instead be modeled and learned from. We introduce Moral Entropy, a Bayesian framework that keeps a full posterior over the true label and decomposes its entropy into aleatoric uncertainty (irreducible disagreement about the moral content) and epistemic uncertainty (from insufficient or noisy annotation) -- and lets any heuristic consensus rule be audited against a calibrated ground truth via entropy methods such as cross-entropy/KL, Brier score, and expected calibration error. Across three corpora and fifteen discourse domains, auditing the standard aggregation rules against this posterior reveals bias that no current pipeline reports: the any-annotator rule disagrees with the calibrated posterior on roughly 30% of items -- pooled, almost entirely false positives, though the errors invert at the foundation level (19.9%/38.9% mean FPR/FNR on MFTC) -- while the stricter majority and two-vote rules miss 63-83% of true positives.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21956v1",
+        "title": "Beyond the Desert Label: A Pathway Diagnostic for User-Centered Smart Mobility Service Design",
+        "url": "https://arxiv.org/abs/2609.21956v1",
+        "authors": [
+          "Oluwasegun Adegoke",
+          "Sevgi Erdogan"
+        ],
+        "published": "2026-09-18",
+        "summary": "Smart-city mobility platforms increasingly rely on spatial screening tools to identify neighborhoods where public transit fails dependent users, but a single transit desert label can mask very different user problems: localized mismatch between service and concentrated need, or basic absence of usable service. These call for different user-centered responses. This paper introduces a pathway-based, reproducible, data-driven diagnostic that distinguishes relative transit mismatch from minimum-service failure and reports the specific service attributes (frequency, span, weekend service, walking access, and destination accessibility) driving each classification. The workflow combines open data (GTFS, ACS, LEHD, Census, and OpenStreetMap), detects spatially coherent mismatch using Local Moran's I, and applies an equity-informed service-failure test that centers vulnerable users. Applied to Baltimore, Philadelphia, Nashville, and Dallas, the diagnostic shows that legacy-transit cities are dominated by localized mismatch, while auto-oriented cities show broader minimum-service failure, with distinct service-deficit profiles in each case. By making the mechanism behind an under-service label explicit, the tool supports more inclusive, user-centered smart-mobility planning across cities with different transit baselines.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21756v1",
+        "title": "When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis",
+        "url": "https://arxiv.org/abs/2609.21756v1",
+        "authors": [
+          "Miriam Fernandez",
+          "Ángel Pavón Pérez",
+          "Damiano Giallongo",
+          "Davide Ghia",
+          "Maryam Yaqub",
+          "Daniele Quercia",
+          "Tania Cerquitelli"
+        ],
+        "published": "2026-09-18",
+        "summary": "Gender inequality remains a persistent structural feature of the labour market, shaping women's lifetime earnings and economic security. As artificial intelligence (AI) transforms organisational practices, there is growing concern that existing disparities may be unintentionally amplified through task automation, unequal access to upskilling opportunities, and differential returns obtained from technological change. In this paper, we examine how exposure to AI-driven innovation varies across male- and female-dominated occupations, with particular attention to differences across the skill and wage distribution. Using a novel dataset that links occupational characteristics to measures of AI exposure, we analyse how recent advances in Large Language Models (LLMs) and broader AI technologies are distributed across the labour market. Our findings show that, while AI exposure is generally concentrated in higher-skilled and higher-paid occupations for male-dominated occupations, female-dominated occupations display relatively uniform levels of exposure across both high-skilled, high-paid, and low-skilled, low-paid occupations. Moreover, we find that LLM-related exposure is higher in female-dominated occupations, while exposure to broader AI innovation remains more concentrated in male-dominated occupations. A triangulation of these results with existing literature suggests that women, particularly those in the most vulnerable positions (lower-skilled and lower-paid female-dominated occupations), may face greater exposure to forms of AI associated with task automation, job restructuring, reduction of wages and limited career progression.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21636v1",
+        "title": "Steering LLMs Responses Towards Moral Foundations on the Norwegian MFQ-30",
+        "url": "https://arxiv.org/abs/2609.21636v1",
+        "authors": [
+          "Hans Andersen",
+          "David Dichas"
+        ],
+        "published": "2026-09-18",
+        "summary": "Recent work applies human psychometric questionnaires to large language models to elicit moral and value profiles, but it is not clear whether these instruments measure anything stable in models or whether the resulting profiles can be moved toward a target human population. We administer the Norwegian Moral Foundations Questionnaire (MFQ-30) to six open-weight LLMs and compare their foundation profiles to a sample of N = 1,282 Norwegian respondents. We test two steering interventions, prompt-level persona steering and activation-level ActAdd. Half the models engage with the questionnaire under our attention check. The other half default to flat or central-tendency outputs that look near-human on average without tracking item content. A neutral Nordic-respondent persona, written without any distributional information from the human sample, brings the engaging models 44-77% closer to the Norwegian mean in Mahalanobis $d^2$. One-pair ActAdd at a fixed mid-layer flattens the foundation profile rather than steering individual foundations. For at least one model the same persona that shifts the profile also induces engagement that was absent at baseline, a concrete instance of the cognitive phantoms that Peereboom et al. (2025) warn about.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21632v1",
+        "title": "Artificial Intelligence as an Economic, Environmental, Geopolitical, and Social Transformation",
+        "url": "https://arxiv.org/abs/2609.21632v1",
+        "authors": [
+          "Marcin Marciniak"
+        ],
+        "published": "2026-09-18",
+        "summary": "The rapid development of artificial intelligence is often discussed primarily as a technological breakthrough. Such an approach is insufficient because AI is also transforming the allocation of capital, energy, natural resources, labour, and political power. Investment in generative AI and computing infrastructure is increasing rapidly and is increasingly concentrated among a small number of corporations and countries. At the same time, the expansion of data centres creates new electricity and water demands, potentially producing local infrastructure bottlenecks and distributive conflicts. The AI value chain is dependent on geographically concentrated supplies of advanced semiconductors, manufacturing equipment, cloud services, energy, and specialised knowledge. Control over these bottlenecks may give states and corporations structural power that does not derive directly from military superiority. The environmental effects of AI are similarly ambivalent: AI systems consume energy, water, materials, and computing hardware, but may also improve energy efficiency, climate modelling, renewable-energy integration, and environmental monitoring. Finally, AI-enabled automation, including intelligent robotics, may reduce employment in some occupations while augmenting labour and creating new tasks in others. The social outcome of this transformation will therefore depend not only on the technology itself but also on competition policy, infrastructure planning, environmental regulation, social protection, collective bargaining, and the distribution of productivity gains.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21608v1",
+        "title": "Open Platform Field Experiments: Expanding the Design Space of Experimental Research on Social Media",
+        "url": "https://arxiv.org/abs/2609.21608v1",
+        "authors": [
+          "Jordi Guillem Condom-Tibau",
+          "Giovanni Puccetti",
+          "Clara Bacciu",
+          "Matteo Abrate",
+          "Stefano Cresci"
+        ],
+        "published": "2026-09-18",
+        "summary": "Despite a growing demand for causal evidence about social media, independent researchers remain severely constrained in their ability to conduct experiments directly on online platforms. To cope, multiple methodological workarounds have emerged - from controlled surveys and simulations to client-side overlays and platform partnerships - each requiring distinct trade-offs between desirable experimental properties. The recent emergence of open social media platforms offers a qualitatively different methodological opportunity. Here we propose a design space of social media experimentation and discuss Open Platform Field Experiments (OPFEs). OPFEs represent a distinct class of experimental approaches that enable independent researchers to directly intervene on functional platform components - such as clients, recommendation systems, and moderation services - within live social media environments. Through a comparative analysis of experimental archetypes, we show that OPFEs occupy a previously unexplored region of the design space. We then bridge theory and practice by characterizing the architectural and governance elements that enable OPFEs, mapping them onto Bluesky and the AT Protocol, and illustrating the end-to-end lifecycle of a complete OPFE design. Overall, this work establishes OPFEs as a practical methodological paradigm for independent, transparent, and ecologically grounded experimentation on open social media.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21600v1",
+        "title": "Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education",
+        "url": "https://arxiv.org/abs/2609.21600v1",
+        "authors": [
+          "Andy Gray",
+          "Jake Hobbs"
+        ],
+        "published": "2026-09-18",
+        "summary": "Access to academic support is a key determinant of student success, yet students experience it unequally: some readily seek help from lecturers or tutors, while others hesitate due to anxiety, fear of judgement, uncertainty about expectations, or low confidence in their understanding. This may be especially evident in computing education, where programming tasks are cumulative and cognitively demanding. Although students increasingly turn to general-purpose generative AI tools, these can produce responses that are inaccurate, insufficiently contextualised, or misaligned with module expectations. This study presents and evaluates Beacon, a course-specific Retrieval-Augmented Generation (RAG) system providing private, immediate, module-aligned academic support. Grounding responses in approved teaching materials, Beacon was designed to lower barriers to help-seeking while encouraging independent learning. Using a design-based research approach, Beacon was developed iteratively and evaluated via mixed methods, combining questionnaires and semi-structured interviews with students and staff at a Higher Education institution. Students described Beacon's responses as closely aligned with module content and more trustworthy than unrestricted generative AI tools, valuing its use of pseudocode and scaffolded explanations over direct solutions. Although participants remained cautious about trusting AI-generated responses without verification, they viewed the system as a valuable first point of support before consulting lecturers or official resources. The findings suggest that carefully designed course-specific AI systems may reduce barriers to academic support by occupying an intermediary space between independent study and formal support. Rather than replacing educators, educational AI may be most valuable when it broadens access to guidance while preserving the pedagogical role of lecturers.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21218v1",
+        "title": "License Compliance in Open Source Cybersecurity Projects",
+        "url": "https://arxiv.org/abs/2609.21218v1",
+        "authors": [
+          "Ahmed Shah",
+          "Selman Selman",
+          "Ibrahim Abualhaol"
+        ],
+        "published": "2026-09-18",
+        "summary": "Developers of cybersecurity software often include and rely upon open source software packages in their commercial software products. Before open source code is absorbed into a proprietary product, developers must check the package license to see if the project is permissively licensed, thereby allowing for commercial-friendly inheritance and redistribution. However, there is a risk that the open source package license could be inaccurate due to being silently contaminated with restrictively licensed open source code that may prohibit the sale or confidentiality of commercial derivative work. Contamination of commercial products could lead to expensive remediation costs, damage to the company's reputation, and costly legal fees. In this article, we report on our preliminary analysis of more than 200 open source cybersecurity projects to identify the most frequently used license types and languages and to look for evidence of permissively licensed open source projects that are likely contaminated by restrictive licensed material (i.e., containing commercial-unfriendly code). Our analysis identified restrictive license contamination cases occurring in permissively licensed open source projects. Furthermore, we found a high proportion of code that lacked copyright attribution. We expect that the results of this study will: i) provide managers and developers with an understanding of how contamination can occur, ii) provide open source communities with an understanding on how they can better protect their intellectual property by including licenses and copyright information in their code, and iii) provide entrepreneurs with an understanding of the open source cybersecurity domain in terms of licensing and contamination and how they affect decisions about cybersecurity software architectures.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21194v1",
+        "title": "Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership",
+        "url": "https://arxiv.org/abs/2609.21194v1",
+        "authors": [
+          "Christian Bergh",
+          "Benjamin Tag",
+          "Alexandra Vassar",
+          "Jake Renzella"
+        ],
+        "published": "2026-09-18",
+        "summary": "Generative AI can improve students' programming performance, but successful task completion may not reflect what they retain. We examined performance, retention, cognitive load, and ownership in a controlled between-subjects experiment with 59 undergraduate computer science students, 55 were retained for analysis. Participants completed three introductory C programming tasks with access to ChatGPT-4.5 or conventional web search without generative AI. We measured task performance, self-reported mental effort and difficulty, pupillary responses, heart rate variability, and ownership, and assessed cued recall immediately and 48 hours later. ChatGPT-assisted students achieved higher coding scores (89% vs. 69%) but lower recall scores immediately (41% vs. 53%) and after 48 hours (39% vs. 52%). There was no significant difference in the loss of recall information over 48 hours between the groups. Self-reported mental effort increased less across tasks in the ChatGPT condition (Holm-adjusted p = .047), and students attributed less of the submitted code to themselves (45% vs. 81%). Confirmatory physiological tests did not detect significant differences in trajectories between conditions; substantial data loss limits their interpretation. These findings reveal a gap between assisted task performance and subsequent recall and sense of ownership in this setting. They motivate the need for assessment practices and AI learning tools that require students to explain, retrieve, and contribute to the work they submit as active participants in their education.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21192v1",
+        "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+        "url": "https://arxiv.org/abs/2609.21192v1",
+        "authors": [
+          "John Cuneo",
+          "David Chun",
+          "Gaurav Khanna"
+        ],
+        "published": "2026-09-18",
+        "summary": "Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must establish what to validate, control, and observe for a use case to deliver its intended outcome while meeting applicable obligations. This paper proposes AI-GRACE (Agentic Intelligence-Governance, Risk, Assurance, Controls, and Evidence) as a use-case operationalization framework connecting organizational governance with technical implementation. The proposal draws on professional observations and a purposive synthesis of standards and literature, using design science to frame the method contribution and situational method engineering to guide contextual tailoring and reuse. The framework establishes objectives and obligations and then assesses risks in seven proposed domains, including mission and value realization. It derives requirements for assurance before deployment, runtime controls, and evidence, which guide capability qualification, gap assessment, and a logical architecture. An Agent Operating Envelope specifies permitted actions and escalation conditions, while Risk-Aligned Independence Levels (RAIL) summarize the authorized independence. A fictional retail banking application illustrates the method. The contribution is a traceable basis for deciding what an organization must implement, what it already supports, and what remains unresolved. Empirical evaluation must establish whether it improves deployment decisions, efficiency, and reuse.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.21075v1",
+        "title": "Aligning with Lived Experience: Heterogeneous Benefits of Fine Tuning in Mental Health Support Generation",
+        "url": "https://arxiv.org/abs/2609.21075v1",
+        "authors": [
+          "Mohit Chandra",
+          "Nabin Kim",
+          "Eli Min",
+          "Aamogh Sawant",
+          "Tanmay Sutar",
+          "Munmun De Choudhury"
+        ],
+        "published": "2026-09-17",
+        "summary": "As access to professional mental healthcare remains limited, many individuals turn to online platforms such as Reddit to seek peer support situated within human lived experience. However, a significant portion of such queries go unanswered, presenting an opportunity for using Large Language Models (LLMs) to fill this gap. While LLMs have demonstrated strong performance on clinical benchmarks, their ability to generate lived-experience informed and community-aligned peer support is underexplored. Addressing this gap, we introduce the COmmunity-centered Peer Engaged Support (COPES) dataset and a three-axis evaluation framework to assess LLM alignment with community perspectives to mental health support seeking queries. Evaluating zero-shot and post-trained (SFT and DPO) models, we show that post-training on COPES significantly improves Strategy Alignment (>50% for general-purpose models) and alignment in Emotion & Tone. However, we also observe that such improvements are heterogeneous and alignment improvements vary significantly across subreddits and requested coping strategies. Furthermore, post-training induces distributional shifts, heavily favoring problem-focused recommendations while suppressing emotion-focused strategies. Together, this work shows that while curating community-driven data improves the alignment of LLM responses, model performance remains disparate across distinct sub-communities and specific mental health needs.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.20989v1",
+        "title": "Trustworthy FinAInce: Unpacking How AI-Mediated Financial Advice is Judged",
+        "url": "https://arxiv.org/abs/2609.20989v1",
+        "authors": [
+          "Aryan Ramchandra Kapadia",
+          "Eshwar Chandrasekharan",
+          "Koustuv Saha"
+        ],
+        "published": "2026-09-17",
+        "summary": "As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for supporting appropriate reliance. We conducted a randomized vignette experiment with 285 U.S. adults across eight financial decisions, independently varying three advice styles---AI, expert, and online community---and displayed source labels while holding the underlying recommendation consistent. Advice style most strongly shaped message and safety appraisals, Expert labels selectively increased perceived source knowledge, and decision context primarily shaped risk and safety appraisals. These appraisals were associated with downstream judgments, with models explaining 69.2% of overall quality, 75.9% of trust, and 82.9% of intended reliance. Expert-style advice also remained most preferred when shown without source labels. Our findings have implications for understanding financial advice evaluation, distinguishing the roles of advice style and source labels, and designing financial AI that supports grounded evaluation rather than simply maximizing trust.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "_Brief could not be synthesized due to an API error._ (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}})",
+  "synthesis_metadata": {
+    "model": "none",
+    "generated_at": "2026-09-21T11:30:42.613392+00:00"
+  }
+}
