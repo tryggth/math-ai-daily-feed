@@ -1,0 +1,660 @@
+{
+  "updated_at": "2026-09-23T11:30:34Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2609.26787v1",
+        "title": "A finite arithmetic form of Robin's inequality and its equivalence to the Riemann hypothesis",
+        "url": "https://arxiv.org/abs/2609.26787v1",
+        "authors": [
+          "Challenger Mishra",
+          "Rahul Sarkar"
+        ],
+        "published": "2026-09-22",
+        "summary": "Robin's inequality reformulates the Riemann hypothesis as a bound on the sum-of-divisors function $σ$. We introduce a finite-truncation version of Robin's inequality determined intrinsically by the arithmetic structure of $n$, \\[ \\frac{σ(n)}{n} < e^γ\\sum_{j=0}^{ω(n)} \\frac{(\\ln\\ln\\ln n)^j}{j!}, \\qquad n>5040, \\] where $ω(n)$ denotes the number of distinct prime factors of $n$, and $γ$ is the Euler-Mascheroni constant. The resulting bound is pointwise stronger than Robin's inequality and we prove it unconditionally for integers with $ω(n)\\le 6$, primorials, odd integers and square-free integers. We also prove that this inequality is equivalent to Robin's inequality, and hence to the Riemann hypothesis. Consequently, the Riemann hypothesis is equivalent to the truncated inequality holding for all colossally abundant numbers. We further show that if the inequality fails, its minimal counterexample must be a superabundant number, placing any obstruction within a rigid extremal class of integers.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26786v1",
+        "title": "Extreme values of central $L$-derivatives and heights of Heegner points",
+        "url": "https://arxiv.org/abs/2609.26786v1",
+        "authors": [
+          "Mohammad H. Hamdar",
+          "Sun-Kai Leung"
+        ],
+        "published": "2026-09-22",
+        "summary": "Using Soundararajan's resonance method, we obtain extreme values of the central derivatives \\[ L^{(r)}(1/2,f\\otimesχ_d), \\] where $f$ is a normalized newform and $χ_d$ ranges over primitive real characters associated with negative fundamental discriminants. The twisted first moment estimate used in the proof may be of independent interest. Applying Gross--Zagier-type formulas, we obtain correspondingly large Néron--Tate heights of Heegner points on elliptic curves and large absolute values of Beilinson--Bloch heights of Heegner cycles attached to modular forms.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26771v1",
+        "title": "The Odlyzko-Poonen Conjecture on Irreducibility of Random Polynomials",
+        "url": "https://arxiv.org/abs/2609.26771v1",
+        "authors": [
+          "Constantin Kogler"
+        ],
+        "published": "2026-09-22",
+        "summary": "The Odlyzko-Poonen conjecture states that a monic polynomial of constant coefficient $1$ and with remaining coefficients chosen independently and uniformly from $\\{0,1 \\}$ is irreducible over the rational numbers with probability tending to one as the degree tends to infinity. We prove the Odlyzko-Poonen conjecture unconditionally.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26762v1",
+        "title": "The existence and uniqueness of magic-faced hypercubes, and applications to Khajuraho most-perfect magic squares, cubes, and hypercubes",
+        "url": "https://arxiv.org/abs/2609.26762v1",
+        "authors": [
+          "Manjul Bhargava"
+        ],
+        "published": "2026-09-22",
+        "summary": "A $\\textit{magic-lined hypercube}$ (or, simply, $\\textit{magic hypercube}$) of order $k$ and dimension $n$ is an arrangement of the numbers $1,\\dots,k^n$ in a $k\\times\\cdots\\times k$ ($n$-fold) grid such that every line of $k$ numbers parallel to a coordinate axis has the same magic sum. While such hypercubes exist for every order $k\\ge 3$ and every dimension $n$, no magic-lined hypercube of order $2$ exists in any dimension $n\\ge 2$. For hypercubes of order $2$, we thus relax the magic condition from lines to two-dimensional faces or planes. We call an arrangement of the numbers $1,\\dots,2^n$ in a $2\\times\\cdots\\times2$ ($n$-fold) grid \\emph{magic-faced} if every $2\\times2$ face has the same magic sum. We prove that a magic-faced hypercube of order $2$ exists in every dimension $n\\ge0$, and that it is unique up to a certain natural set of transformations of size $2^n(n+1)!$ when $n$ is even and $2^n n\\cdot n!$ when $n$ is odd. As an application, we recover and generalize the classical $4\\times4$ Khajuraho magic square, answer a question of Coxeter on the group acting on the $384$ ``most-perfect\" $4\\times4$ magic squares, and extend the picture to higher dimensions. In particular, we prove that, in dimension $n$, these most-perfect objects form a single orbit under a certain natural action of the Weyl group $W(B_{2n})$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26723v1",
+        "title": "Counterexamples to the Ramos conjecture for two hyperplanes",
+        "url": "https://arxiv.org/abs/2609.26723v1",
+        "authors": [
+          "Florian Frick"
+        ],
+        "published": "2026-09-22",
+        "summary": "For every $n\\ge2$, we construct $4n-2$ nondegenerate Gaussian measures on $\\mathbb{R}^{6n-3}$ that cannot be simultaneously equipartitioned by two affine hyperplanes. This disproves the Ramos conjecture for two hyperplanes. Combined with known upper bounds, the construction shows that $3\\cdot2^{s-1}-2$ is the least dimension guaranteeing a common two-hyperplane equipartition of $2^s-2$ absolutely continuous probability measures, for every $s\\ge3$. We characterize the Gaussian equipartition threshold in terms of the least number of positive definite quadratic measurements needed for phase retrieval. Modified complex polynomial multiplication gives $2r-2$ positive definite measurements in every even dimension $r\\ge4$. This number is optimal when $r=2^k+2$, $k\\ge1$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26700v1",
+        "title": "Graphs with Minimum Algebraic Connectivity II: Regular Graphs of Even Degree",
+        "url": "https://arxiv.org/abs/2609.26700v1",
+        "authors": [
+          "Maryam Abdi",
+          "Ebrahim Ghorbani"
+        ],
+        "published": "2026-09-22",
+        "summary": "Aldous and Fill (2002) conjectured the asymptotic maximum relaxation time of a random walk on a connected regular graph. Since the relaxation time of a $d$-regular graph $G$ is $d/μ(G)$, where $μ(G)$ denotes its algebraic connectivity, this conjecture is closely related to the problem of minimizing algebraic connectivity among regular graphs. Guiduli and Mohar (1996) conjectured that, for every fixed minimum degree $δ=d\\ge3$ and all sufficiently large orders, graphs with minimum algebraic connectivity are path-like and, apart from bounded portions near their two ends, have a prescribed block structure. Abdi and Ghorbani (2024) proposed an analogous structural conjecture for $d$-regular graphs with minimum algebraic connectivity and fixed degree $d\\ge3$. In Part~I, we proved the Aldous--Fill conjecture, the Guiduli--Mohar conjecture, and for odd degrees, the Abdi Ghorbani conjecture. In this paper, we settle the remaining even-degree case, thereby completing the structural characterization of regular graphs with minimum algebraic connectivity. We also prove that, for every fixed even $d\\ge4$, the minimum algebraic connectivity at order $n$ is $2(d-2)π^2/n^2+O_d(n^{-3})$, and that every minimizing graph has diameter $3n/(d+1)+O_d(1)$. For every fixed even $d\\ge6$, $d$-regular graphs whose algebraic connectivity is asymptotically minimum have asymptotically maximum diameter. Finally, we obtain a sharp normalized-gap bound for all even regular degrees, including degrees that grow with $n$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26699v1",
+        "title": "Graphs with Minimum Algebraic Connectivity I: Proofs of Aldous-Fill and Guiduli-Mohar Conjectures",
+        "url": "https://arxiv.org/abs/2609.26699v1",
+        "authors": [
+          "Maryam Abdi",
+          "Ebrahim Ghorbani"
+        ],
+        "published": "2026-09-22",
+        "summary": "Aldous and Fill (2002) conjectured that the maximum relaxation time of a random walk on a connected regular graph with $n$ vertices is bounded above by $(1+o(1))\\frac{3n^2}{2π^2}$, with asymptotic equality for even $n$. Since the relaxation time of a $d$-regular graph $G$ is $d/μ(G)$, where $μ(G)$ denotes its algebraic connectivity, this conjecture is closely related to the problem of minimizing algebraic connectivity among regular graphs. Guiduli and Mohar (1996) conjectured that, for every fixed minimum degree $δ=d\\ge 3$ and all sufficiently large orders, graphs with minimum algebraic connectivity are path-like and, apart from bounded portions near their two ends, have a prescribed block structure. For fixed odd degree $d\\ge 3$, Abdi and Ghorbani (2004) conjectured that $d$-regular graphs with minimum algebraic connectivity have the same structure. We prove the Aldous--Fill conjecture and the Guiduli--Mohar conjecture, as well as the corresponding conjecture for $d$-regular graphs of fixed odd degree. Finally, we prove that, for every fixed odd degree $d\\ge 3$, $d$-regular graphs, as well as graphs of fixed minimum degree $d\\ge 3$, whose algebraic connectivity is asymptotically minimum have asymptotically maximum diameter. This establishes the corresponding cases of another conjecture of Abdi and Ghorbani.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26655v1",
+        "title": "Resilience of rainbow Hamilton cycles in pseudorandom graphs",
+        "url": "https://arxiv.org/abs/2609.26655v1",
+        "authors": [
+          "Elad Aigner-Horev",
+          "Dan Hefetz",
+          "Yury Person"
+        ],
+        "published": "2026-09-22",
+        "summary": "For every fixed $\\varepsilon\\in(0,1/2)$, we prove that every spanning subgraph $H$ of an $n$-vertex $(p,β)$-bijumbled graph satisfying $δ(H)\\geq(1/2+\\varepsilon)pn$ contains a rainbow Hamilton cycle under every globally $μpn$-bounded colouring, provided $β\\leq cpn$ and $pn\\geq M$ both hold. The same assertion holds under the relative condition $°_H(v)\\geq(1/2+\\varepsilon)°_G(v)$ for every vertex $v$, provided $δ(G)\\geq(1-\\varepsilon/4)pn$ holds. Under either degree condition, there are at least $(apn)^n$ such cycles. Here, $c,μ,a,M>0$ depend only on $\\varepsilon$; in particular, $pn$ may be a sufficiently large constant. If $pn\\geq D\\log n$, then, upon fixing a coloured $H$, retaining each edge independently with probability $D\\log n/(pn)$ preserves rainbow Hamiltonicity asymptotically almost surely. The logarithmic degree requirement is needed only for this percolation conclusion. The existence theorem answers a problem of Coulson, Keevash, Perarnau and Yepremyan for random graphs and extends it to deterministic pseudorandom hosts. In fact, all three conclusions hold with rainbowness replaced by avoidance of prescribed pairs of edges; each edge having at most $μpn$ conflicting partners. We construct an $O(1/(pn))$-spread probability measure on conflict-free Hamilton cycles; this then yields the enumeration and percolation results.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26650v1",
+        "title": "Lower Bounds for all List-Decodable Deletion Codes",
+        "url": "https://arxiv.org/abs/2609.26650v1",
+        "authors": [
+          "Andrew D. Lin"
+        ],
+        "published": "2026-09-22",
+        "summary": "A length-$n$ binary $k$-deletion code is a set of binary strings such that if we delete any $k$ bits of a string, leaving a length-$(n-k)$ binary string, we can uniquely recover the codeword. In this paper, we consider $t$-list decodable deletion codes, where after $k$ bits of a codeword are deleted, we can identify a list of size at most $t$ such that the original codeword lies in the list. We prove a lower bound of $Ω_k(2^n t\\log^{1/t}n/n^{k+k/t})$ on the optimal size of a $t$-list decodable $k$-deletion code, giving a $\\sqrt{\\log n}$ improvement over the previously best known bounds for $2$-list decodable $2$-deletion codes [GH21] and providing the first nontrivial lower bound when $t>2$ or $k>2$. Our bound holds for all $t\\leq n^k$, showing that $t=Ω(\\log n)-$list decodable deletion codes have optimal size $Θ_k(2^n t/n^k)$, asymptotically matching the known upper bound. We also prove upper bounds on the number of common subsequences and common supersequences of a given length for any two binary strings.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26619v1",
+        "title": "Remarks on the Geometry of Sets in $\\mathbb{Z}^d$ with Small Fourier $L^1$ Norm",
+        "url": "https://arxiv.org/abs/2609.26619v1",
+        "authors": [
+          "Alex Burgin",
+          "Junzhe Mao"
+        ],
+        "published": "2026-09-22",
+        "summary": "We study geometric inverse problems for finite sets $A\\subset \\mathbb{Z}^d$ whose Fourier $L^1$ norm, or Wiener norm, \\begin{align*} \\|A\\|:=\\int_{\\mathbb{T}^d}\\Big|\\sum_{a\\in A}e(a\\cdot t)\\Big|dt \\end{align*} is subpolynomial in $|A|$. In particular, we show a variety of geometric phenomena are incompatible with small Fourier $L^1$ norm. Our principal application concerns spherical Freiman models. Suppose $\\|A\\|=|A|^{o(1)}$ and $D\\subseteq A$ is Freiman isomorphic to a set $S$ of lattice points on a sphere; then, $|D|/|A|$ must be polynomially small in $|A|$. Moreover, if $|D|/|A|$ is not too small, almost all of $S$ lies in a small number of spherical caps, and almost all caps have rich additive structure. The proof uses a new mechanism for studying additive structure across subsets of $A$, along with decoupling results of Bourgain-Demeter.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26615v1",
+        "title": "Concentration of Regularized Sparse Random Matrices: Spectral Edge Bounds via Nonbacktracking Operators",
+        "url": "https://arxiv.org/abs/2609.26615v1",
+        "authors": [
+          "Hai-Xiao Wang"
+        ],
+        "published": "2026-09-22",
+        "summary": "In sparse random matrices, spectral outliers (eigenvalues and singular values located away from the bulk) emerge due to degree fluctuations: high degrees inflate the operator norm, while low column degrees reduce the least singular value. As proved by Feige and Ofek (2005) and Le, Levina, and Vershynin (2017), degree regularization enforces concentration at the expected norm scale. However, precise bounds incorporating the cutoffs remain unexplored and challenging since regularization introduces dependencies among entries. For the first time in the literature, we provide variance- and cutoff-dependent bounds for extreme singular values and eigenvalues of regularized inhomogeneous random matrices. In the absence of regularization, our lower bound for the least singular value matches the same leading constant obtained by Brailovskaya and van Handel (2024). Moreover, our error term vanishes under the milder condition $d/\\log N\\to\\infty$, as opposed to their stronger requirement $d/(\\log N)^4\\to\\infty$. A key ingredient is to extend spectral radius bounds for nonbacktracking matrices to the dependent setting. We build on approaches for independent cases established by Benaych-Georges, Bordenave, and Knowles (2020), as well as Dumitriu and Zhu (2024), and carefully handle edges traversed only once. Our proof framework separates deterministic spectral comparisons from probabilistic estimates: once Loewner inequalities and columnwise variance controls are established, the remaining probabilistic analysis boils down to verifying the graph moment conditions formulated in this paper. We hope this framework can be extended to handle general random matrices with more complex dependencies.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26607v1",
+        "title": "Erdős-Ko-Rado properties of Steiner 2-designs",
+        "url": "https://arxiv.org/abs/2609.26607v1",
+        "authors": [
+          "Sam Adriaensen",
+          "Sergey Goryainov",
+          "Elena V. Konstantinova",
+          "Vedran Krčadinac"
+        ],
+        "published": "2026-09-22",
+        "summary": "In this paper, we prove an Erdős-Ko-Rado characterisation of maximum intersecting families of blocks in Steiner $2$-designs arising from Desarguesian maximal arcs. This answers a recent question of Goryainov and Konstantinova, and implies that, among the known Steiner $2$-designs, only finitely many admit a maximum intersecting family that is neither canonical nor associated with a subdesign. We also perform a computational study of $2$-$(120,8,1)$ designs and find strong counterexamples to a problem of Godsil and Meagher. Finally, we give a parametric generalisation of $2$-$(66,6,1)$ designs with tight dual arcs as non-canonical maximum intersecting families.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26576v1",
+        "title": "Periodic Tilings of Cardinality Twice a Prime or Nine in Arbitrary Dimension",
+        "url": "https://arxiv.org/abs/2609.26576v1",
+        "authors": [
+          "Hu Tan",
+          "Ying Zhang"
+        ],
+        "published": "2026-09-22",
+        "summary": "We prove that every finite translational tile of $\\mathbb Z^d$ of cardinality $2q$, where $q$ is an odd prime, or of cardinality nine admits a fully periodic tiling complement. The result holds in every dimension, regardless of the rank of the subgroup generated by the differences of points of the tile. The proofs combine coprime dilation, vanishing sums of roots of unity, and periodic two-colorings. After translating the tile, both arguments restrict to its intrinsic lattice, and every periodic complement constructed there extends to the ambient lattice. For cardinality $2q$, spectral filtering in the intrinsic lattice yields either a lattice complement or a periodic twofold covering compatible with a tiling complement. This compatibility allows the covering to be split by a periodic proper two-coloring. For nine points, intrinsic ranks $1$ and $2$ are treated separately; in higher intrinsic rank, the algebraic reduction in the intrinsic lattice yields either a lattice complement or spectral support on finitely many rational affine circles. These results also give a decision algorithm for tileability in both cardinality families. The circle-supported alternative is resolved by a conditional-density dichotomy and a periodic replacement argument for the exceptional half-density components.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26563v1",
+        "title": "The Erdős--Hajnal hypergraph Ramsey problem for $r_4(6,n)$",
+        "url": "https://arxiv.org/abs/2609.26563v1",
+        "authors": [
+          "Longma Du",
+          "Xinyu Hu",
+          "Ruilong Liu",
+          "Guanghui Wang"
+        ],
+        "published": "2026-09-22",
+        "summary": "The Ramsey number $r_k(s,n)$ is the smallest integer $N$ such that every $N$-vertex $k$-graph contains either a copy of $K_s^{(k)}$ or an independent set of size $n$. Erdős and Hajnal conjectured that for every fixed $s>k\\ge 4$, one has $r_k(s,n)\\ge \\operatorname{twr}_{k-1}(Ω(n))$. This conjecture was independently verified by Mubayi and Suk, and by Conlon, Fox and Sudakov, for $k\\ge4$ and $s\\ge k+3$. In this paper, we prove that $r_4(6,n)\\ge 2^{2^{cn}}$ for some absolute constant $c>0$, improving upon our previous bound. Consequently, we confirm the Erdős--Hajnal conjecture for $r_k(k+2,n)$ for all fixed $k\\ge4$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26546v1",
+        "title": "Simple symmetric Venn diagrams with 17 and 19 curves",
+        "url": "https://arxiv.org/abs/2609.26546v1",
+        "authors": [
+          "Chris Dzoba"
+        ],
+        "published": "2026-09-22",
+        "summary": "We exhibit simple, rotationally symmetric Venn diagrams with 17 curves and with 19 curves: n Jordan curves carried to one another by rotation through 2π/n, with every one of the 2^n regions present and connected and, since the diagrams are simple, every crossing on exactly two curves. Symmetric Venn diagrams exist for every prime number of curves (Griggs, Killian and Savage, 2004), but those diagrams have many curves through a point; simple ones were known only up to 13 curves (Mamakani and Ruskey, 2014). Four 17-curve and nine 19-curve diagrams were found by a Metropolis walk on rotation-invariant quadrangulations of the sphere in which regions may temporarily be duplicated, started from the Griggs-Killian-Savage diagram with its multiple crossings resolved. Every diagram is given by a machine-checkable certificate; one certificate of each size has been verified by a formal proof in Lean 4. All of the diagrams are non-monotone, which is why the crossing-sequence searches that found the 11- and 13-curve diagrams could not have found them.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2609.26778v1",
+        "title": "An Exponential Succinctness Gap between Three-Variable Logic and the Calculus of Relations",
+        "url": "https://arxiv.org/abs/2609.26778v1",
+        "authors": [
+          "Yuya Uezato"
+        ],
+        "published": "2026-09-22",
+        "summary": "Three-variable first-order logic (FO3) and the calculus of relations (CoR) define the same binary queries, an equivalence going back to Tarski in the 1940s. While the classical translation $\\text{FO3} \\Rightarrow \\text{CoR}$ is exponential, we prove that this blow-up is unavoidable, resolving a long-standing open question. We construct positive formulas $\\varphi$ with a single quantifier whose equivalent terms require size $2^{Ω(|\\varphi|)}$, even over finite structures and circuit representations with subterm sharing. Our proof uses a preservation argument over a single finite structure. This approach applies beyond our primary question, establishing the lower bound even for size-specific circuits and bounded-error randomized circuits, and yielding an analogous exponential gap for the matrix query language MATLANG.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26557v1",
+        "title": "Acceptance & Rejection",
+        "url": "https://arxiv.org/abs/2609.26557v1",
+        "authors": [
+          "Khashayar Irani"
+        ],
+        "published": "2026-09-22",
+        "summary": "In this paper, we argue that acceptance and rejection are classical speech acts that express two opposite polar positions toward propositional content and can be systematically represented within a classically outlined bilateral formal model. Acceptance occupies the positive pole, represented by positive A, whereas rejection occupies the negative pole, represented by minus A. Their classical relationship is mediated by negation because acceptance of A corresponds to rejection of negation A, while rejection of A corresponds to acceptance of negation A, represented by positive A iff minus negation A and minus A iff positive negation A. Coherency and incoherency are introduced as supplementary notions to clarify this relationship and its connection with reflexivity. A further result of the manuscript is the methodical distinction between rejection and negation namely, rejection expresses negative polarity toward A, whereas negation operates upon propositional content.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26345v1",
+        "title": "A Deeper Look at Depth: Stable Generation Accounting for Quantifier Reasoning",
+        "url": "https://arxiv.org/abs/2609.26345v1",
+        "authors": [
+          "Can Cebeci",
+          "Nikolaj Bjørner",
+          "George Candea",
+          "Clément Pit-Claudel"
+        ],
+        "published": "2026-09-22",
+        "summary": "SMT solvers make automated verification convenient. At the same time, solvers suffer from instability, whereby seemingly inconsequential changes to the input may cause a previously quickly produced proof to fail or time out. This paper addresses a common cause of outcome instability (i.e., unsat/unknown fluctuations) in the context of program verification. We demonstrate that the generation (i.e., depth) accounting used to make quantifier instantiation practical and implemented in multiple state-of-the-art SMT solvers is non-confluent (i.e., prone to divergence), and that this leads to instability. We then address this deficiency and develop a new accounting method that is stable. The new method is justified using a sequence of refinements from an abstract, confluent solver model all the way to our implementation in Z3. Our empirical evaluation demonstrates that our implementation reduces outcome instability by 94% in the unstable core of the Mariposa benchmark without leading to performance regressions.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26337v1",
+        "title": "An Infinitary and a Cyclic Sequent Calculus for Non-Monotone Inductive Definitions",
+        "url": "https://arxiv.org/abs/2609.26337v1",
+        "authors": [
+          "Robbe Van den Eede"
+        ],
+        "published": "2026-09-22",
+        "summary": "Inductive definitions are an important form of knowledge in mathematics and computer science. Two common techniques to prove theorems about inductive definitions are the principle of mathematical induction and the principle of infinite descent. To formalize these principles, Brotherston and Simpson introduced the sequent calculus proof systems LKID, for mathematical induction, and LKIDω and CLKIDω , for infinite descent. LKIDω is an infinitary system, in which proofs are infinite trees, and CLKIDω a cyclic system, in which proofs are finite graphs. However, these calculi restrict to monotone definitions, while inductive definitions are generally non-monotone. The logic FO(ID) extends classical first-order logic with non-monotone inductive definitions. In earlier work, we provided a formalization of the principle of mathematical induction for non-monotone definitions by extending LKID to a sequent calculus SCFO(ID) for FO(ID). In this paper, we provide a formalization of the principle of infinite descent for non-monotone definitions by extending LKIDω and CLKIDω to sequent calculi SCFO(ID)-inf resp. SCFO(ID)-cyc for FO(ID). Furthermore, we extend several proof-theoretic results for LKIDω and CLKIDω to SCFO(ID)-inf and SCFO(ID)-cyc regarding soundness, completeness, cut-elimination and the relation with SCFO(ID).",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26312v1",
+        "title": "Quantitative coverability for probabilistic well-structured transition systems",
+        "url": "https://arxiv.org/abs/2609.26312v1",
+        "authors": [
+          "Raphaël Faure",
+          "Alain Finkel",
+          "Gaspard Fougea",
+          "Lina Ye"
+        ],
+        "published": "2026-09-22",
+        "summary": "Well-structured transition systems (WSTS) provide a classical framework for the verification of infinite-state systems, but their probabilistic extensions lack a unified treatment of quantitative coverability: path-enumeration algorithms assume a finite branching degree, while alternative approximation schemes defer some computations, such as probabilities over a bounded horizon, to the model at hand. We introduce probabilistic well-structured transition systems (pWSTS), Markov chains over countable state sets whose underlying transition systems are WSTS, with no a priori assumption on the branching degree. This class encompasses any WSTS equipped with a Markov kernel, such as probabilistic vector addition systems (pVAS) and probabilistic lossy channel systems (pLCS). For an effective subclass, we solve the approximate quantitative coverability problem over bounded horizons, and over infinite horizons under decisiveness, requiring no probabilistic information beyond individual transition probabilities. We then identify a general source of decisiveness: every stochastically monotone pWSTS is decisive with respect to every upward-closed set. We finally instantiate the framework on multi-type Galton--Watson processes, a classical model of population dynamics whose offspring distributions may have infinite support. Under mild assumptions on the reproduction laws, these processes are effective pWSTS, and they are stochastically monotone, hence decisive. Approximate quantitative coverability is therefore computable for them over both horizons, with a proof that uses none of the traditional tools: neither generating functions nor any case distinction between regimes.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26016v1",
+        "title": "Compiling Sufficient Governance Context from Declared Losses and Reachable States: Exact Observation-Contract Synthesis with Cardinality and Cost Objectives",
+        "url": "https://arxiv.org/abs/2609.26016v1",
+        "authors": [
+          "Gaston Besanson"
+        ],
+        "published": "2026-09-22",
+        "summary": "We call the object this paper derives and certifies a minimal sufficient governance context: given a finite reachable-state model, a deterministic declared verdict, and candidate observable attributes, we compute sufficient observation sets, distinguish attributes that are individually indispensable from contracts that are jointly sufficient, and select among sufficient contracts under a cardinality or declared-cost objective. An observation contract is a set of candidate attributes whose values determine the declared verdict on every reachable state; an authority contract is one selected under an objective and bound to a gate schema. We synthesize every inclusion-minimal sufficient contract where exhaustive enumeration is affordable, and a minimum-cardinality or minimum-cost contract by SAT/MaxSAT encoding otherwise, checking sufficiency directly. On a constructed code/cloud domain, the individually-indispensable core is not sufficient as an observation contract and two distinct reducts exist; a preregistered cost model separates them exactly. On a second, larger, constructed domain, the same pattern recurs, but that domain's cost model does not separate the alternatives: a fully explained cost tie, reported as found. We measure discernibility-family scaling where exhaustive enumeration is confirmed infeasible within a registered timeout, while SAT/MaxSAT synthesis solves in well under a second; MaxSAT showed no measured cardinality advantage over plain SAT. AuthorityBench compares four baselines across three domains; the declared-only baseline is not exactly sufficient on any. Every selected contract is checked for sufficiency, with a counterexample on failure and a check summary, not a portable certificate, on success -- the compiler-focused scope of a two-scope table; an independently specified end-to-end case study is registered follow-up work, not claimed here.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25637v1",
+        "title": "SLED-IFV: Solver-Validated LLM-Guided Decomposition for Scalable Hardware Information-Flow Verification",
+        "url": "https://arxiv.org/abs/2609.25637v1",
+        "authors": [
+          "Liangtao Dai",
+          "Yimin Gao",
+          "Melika Morsali",
+          "Mircea Stan"
+        ],
+        "published": "2026-09-22",
+        "summary": "Formal hardware information-flow verification (IFV) provides strong guarantees against secret-dependent timing and control behavior, but often scales poorly on realistic RTL. We identify two recurring proof barriers in self-composed IFV: implementation complexity, where proof-hard datapath logic dominates even though the property needs only a compact boundary relation, and relational inductive complexity, where the proof depends on cross-copy public-control facts that the backend prover does not infer efficiently. To address them, we introduce two semantic proof decomposition forms: functional simplification, which replaces a proof-hard RTL region with a validated over-approximate summary, and relational strengthening, which exposes and proves the cross-copy relations needed for induction. We further present SLED-IFV, a solver-validated LLM-guided flow that automates the selection of these forms and their concrete targets. Given a self-composed miter and an oracle-free decision sheet, the LLM proposes a decomposition, then materializes it into proof artifacts under controller checks. The controller compiles the checked artifacts into proof obligations, and the formal verification backend remains the sole authority for acceptance. Across nine nontrivial benchmarks constructed from real RTL, SLED-IFV achieves up to 603x solver-only speedup and converts two 12-hour timeouts into completed proofs. The closed-loop flow produces verifier-accepted decompositions for all cases.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25575v1",
+        "title": "Direct Optimization of Generators for Search in Automated Theorem Proving",
+        "url": "https://arxiv.org/abs/2609.25575v1",
+        "authors": [
+          "Adam Ousherovitch",
+          "Ambuj Tewari"
+        ],
+        "published": "2026-09-22",
+        "summary": "Fine-tuned Large Language Models (LLMs) significantly advance Automated Theorem Proving (ATP), but are often deployed as guiding policies within tree search rather than for single-attempt generation. Recent work shows cross entropy is suboptimal for an LLM used in flat search strategies such as aggregation or filtering and that work has developed new loss functions to correct this misalignment. Extending this alignment to tree search is more challenging: proof discovery depends on exploration and recovery through off-trace states that supervised demonstrations do not reveal. We extend Compute-Aligned Training (CAT) to this setting through an abstraction of policy-guided search, deriving tractable, trace-supported losses. Alongside these search-aware losses, we introduce a search-agnostic uniform-allocation (UA) loss that accounts for the budget without specifying the specific search. Both induce scalar weights on per-tactic cross-entropy gradients. We characterize how off-trace behavior affects the search-aware weights, including conditions for vanishing approximation error at large budgets. On a Lean benchmark, both approaches achieve higher observed proof-success rates than cross-entropy across six search strategies, with strong results from a single shared UA adapter. Budget sweeps show larger gains over cross-entropy at 16 than at 256 expansions, implying CAT scales with test time compute.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25561v1",
+        "title": "Formal verification of tilt estimation using the Rocq prover",
+        "url": "https://arxiv.org/abs/2609.25561v1",
+        "authors": [
+          "Reynald Affeldt",
+          "Lynda Bentoucha",
+          "Yoshihiro Ishiguro",
+          "Holger Thies"
+        ],
+        "published": "2026-09-22",
+        "summary": "The safe operation of a humanoid robot critically relies on accurate estimation of its vertical orientation, or ``tilt''. This requires a variety of mathematical tools, including three-dimensional geometry and differential equations. To formally verify tilt estimation, we develop a library for stability analysis in the Rocq prover. We start by formalizing a theory of ordinary differential equations. We provide a formalization of the (local) Cauchy-Lipschitz (a.k.a. Picard-Lindelof) theorem for existence and uniqueness, taking advantage of the library support for quotients provided by the Mathematical Components library. We extend this formalization with a variant for global existence and continuous dependence on initial conditions. Building on these foundations, we develop a theory of Lyapunov stability that is compatible with an existing formalization of LaSalle's invariance principle. We also extend an existing library for the statics of robot manipulators to support dynamical systems. Finally, we apply these libraries to the verification of a state-of-the-art tilt estimation developed for a humanoid robot.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25556v1",
+        "title": "Pointwise provable equality and the failure of composition",
+        "url": "https://arxiv.org/abs/2609.25556v1",
+        "authors": [
+          "Florian Lengyel"
+        ],
+        "published": "2026-09-22",
+        "summary": "Montagna (1989) and Di Paola--Montagna (1991) claim that the algebraic systems $S'$ and $S'_T$, respectively, are categories. We show that the proposed composition is not independent of the choice of representatives. For every consistent recursively enumerable extension $T$ of Peano arithmetic ($\\mathrm{PA}$), we exhibit two program indices that are pointwise provably equal in $T$ but yield inequivalent composites when each is run after the same program. Montagna's $S'$ is the case $T=\\mathrm{PA}$. The failure already occurs for partial maps from $ω$ to itself. Weak totality and the proposed range assignment also depend on the choice of representatives. More generally, for consistent $T\\supseteq\\mathrm{PA}$, pointwise provable equality is a composition congruence exactly when $T$ proves every true $Π^0_1$ sentence, in which case it is extensional equality. This completeness condition fails for every consistent recursively enumerable $T\\supseteq\\mathrm{PA}$ by Gödel's second incompleteness theorem. For every extension $T\\supseteq\\mathrm{PA}$, the least composition congruence containing pointwise provable equality is extensional equality if $T$ is $Σ^0_1$-sound and the universal relation otherwise.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25427v1",
+        "title": "Modular Composition of Inductive Types Using Lean Meta-programming",
+        "url": "https://arxiv.org/abs/2609.25427v1",
+        "authors": [
+          "Ramy Shahin"
+        ],
+        "published": "2026-09-21",
+        "summary": "Inductive types are ubiquitous building blocks in many programming and theorem proving languages. An inductive type is a closed set of constructors from which values of the type can be created. That set cannot be extended though once a type is defined. This limits extensibility, reuse, and modular separation of concerns when defining types and functions operating over their values. This limitation is manifested in the expression problem, where extending an expression language with new syntactic constructors without having to modify or re-compile existing ones is a challenge in almost all programming languages. This paper presents inductive type and function implementation composition algorithms based on meta-programming. In addition, a set of syntactic extensions to the Lean proof assistant implementing those algorithms are presented. This framework allows for modular reuse, composition, and extension of a subset of Lean type and function definitions. In addition, semantic subtyping relations between component and composite types are discussed both at the type theoretic and implementation levels. The framework is demonstrated on a case study, involving the composition of syntactic and semantic artifacts of three sublanguages into one language. The case study highlights both the features and limitations of the composition framework.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25421v1",
+        "title": "Beyond Natural Language: An Agent-Native Language for Autonomous Science",
+        "url": "https://arxiv.org/abs/2609.25421v1",
+        "authors": [
+          "Yifeng He",
+          "Jiachen Liu"
+        ],
+        "published": "2026-09-21",
+        "summary": "As autonomous AI agents take on every stage of scientific inquiry, research output is expanding far beyond human review capacity. Yet scientific communication still relies on natural-language prose: an informal medium prone to ambiguity, hidden assumptions, and untracked limitations that machines cannot reliably audit. We introduce Lara, a machine-checkable language and protocol for checking and revising support for research claims. By turning research arguments into executable artifacts, Lara provides an epistemic kernel for autonomous science: it enables automated validation pipelines for research agents, lets declared bridges connect arguments across papers into an auditable network, and allows both humans and machines to recheck the standing of an encoded claim in milliseconds. In a Lara program, authors explicitly declare their claims, supporting evidence and assumptions, and known objections or limitations. A lightweight, deterministic checker adjudicates these interactions, assigning each claim a reproducible status: \"justified\", \"defeated\", \"contested\", or \"gap\", which marks a claim whose support is incomplete and locates the unanswered question. Case studies cover empirical review, a philosophical debate without measurements, and the loss of support when an assumed axiom is withdrawn. We establish the metatheory of claim checking and cross-context argument transport, and mechanize the semantic guarantees in Lean 4 (roughly 117,000 lines), leaving three arguments on paper. The audited public metatheory is \"sorry\"-free and uses only Lean's three standard axioms; some executable examples additionally trust native evaluation.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.24942v1",
+        "title": "Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization",
+        "url": "https://arxiv.org/abs/2609.24942v1",
+        "authors": [
+          "Filipe Marinho Rocha",
+          "Inês Dutra",
+          "Vítor Santos Costa",
+          "Luís Paulo Reis"
+        ],
+        "published": "2026-09-21",
+        "summary": "A model generalizes outside its training distribution only when it computes a representation structurally equivalent to the generating mechanism, not an approximation fitted to it. Such equivalence is necessary for exactness in and out of distribution, and extrapolation is governed by this exactness at inference, whatever its realization. Tensor Logic shows this: a zero-temperature contraction is equivalent to discrete logic, deducing in place with no artefact extracted, its tensors Boolean, its embeddings orthonormal, only its arithmetic continuous. Lacking infinite recursion it reaches Datalog, not Prolog, and though exact over closed domains it needs external memory to bind a novel entity. The criterion needs neither a discrete representation nor an extracted expression, and constrains inference, not training: an exact marginal in $[0,1]$ passes, a Neural Network thresholded to a hard label does not. Logic Tensor Networks fail it, while differentiable ILP and Tensor Logic at $T=0$ pass. Piecewise-affine extrapolation divergence and an inability to bind novel entities are two faces of a shortfall in exact representability. For hybrid architectures, a propagation rule follows: the output inherits the bounds of every fitted estimator on its path, explaining which axes fail in equivariant models and the ARC-AGI induction/transduction split. Only an exact hypothesis class certifies what the training data leave underdetermined: on a law-derived partition it finds the $56.3\\%$ of distant queries that are answerable, which ensembles meet with false confidence and distance metrics rank backwards. Common inductive biases, from symmetries to memory, reach exactness only because humans inject them, an argument for inducing exact representations rather than fitting surrogates whose residuals, even at the arithmetic floor in training, diverge outside the data and compound under composition.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.24922v1",
+        "title": "A decision procedure for intuitionistic modal logic IS4 (and IK4)",
+        "url": "https://arxiv.org/abs/2609.24922v1",
+        "authors": [
+          "Marianna Girlando",
+          "Roman Kuznets",
+          "Sonia Marin",
+          "Lutz Straßburger"
+        ],
+        "published": "2026-09-21",
+        "summary": "In this paper, we show that the two intuitionistic modal logics IS4 and IK4 are decidable. We provide a constructive decision procedure, that, given a formula, produces either a proof showing the formula to be valid or a finite countermodel falsifying the formula, thus also proving the finite model property for both logics. The main ingredient of our strategy is the introduction of (possibly unsound) loop rules, which encode repeating behaviour in proof search. This paper fixes a previous mistake in our LICS'23 contribution.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.24673v1",
+        "title": "A translation of Maehara's \"Eine Darstellung der Intuitionistischen Logik in der Klassischen\"",
+        "url": "https://arxiv.org/abs/2609.24673v1",
+        "authors": [
+          "Justus Becker"
+        ],
+        "published": "2026-09-21",
+        "summary": "A key motivation for Heyting's intuitionistic logic was to gain a formal notion of Brouwer's idea of mathematics as a \"construction of the mind\". One might thus argue that Heyting's Calculus should also correspond to a notion of provability. Inspired by this idea, Gödel formalised this connection via an embedding into a modal calculus, which is now known as the modal logic S4. While in his original publication, he only proved soundness for the embedding from intuitionistic propositional logic into S4, the converse was proved fifteen years later by McKinsey and Tarski. Although, it was later discovered that Gödel also had obtained a proof of the faithfulness of his embedding in unpublished notes in 1941. Rasioa and Sikorski later extended Gödel's embedding to first-order intuitionistic logic. In 1954, Maehara independently obtained the same results using proof-theoretic methods, even extending the embedding to one from intuitionistic first-order logic into intuitionistic first-order modal logic. This document presents a faithful English translation of Maehara's 1954 paper.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2609.25199",
+        "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+        "url": "https://huggingface.co/papers/2609.25199",
+        "authors": [
+          "Vasily Ilin"
+        ],
+        "published": "2026-09-21",
+        "summary": "Lean Pool is a repository of formalized mathematics. It is grown, maintained and optimized by AI agents.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2609.26796",
+        "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+        "url": "https://huggingface.co/papers/2609.26796",
+        "authors": [
+          "Quan Nguyen-Tri",
+          "Mukul Ranjan",
+          "Zhiqiang Shen"
+        ],
+        "published": "2026-09-22",
+        "summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable parallel decoding mechanisms. Existing acceleration methods typically study KV caching and parallel decoding in isolation, overlooking the I/O bottlenecks that arise when cache reuse and parallel token verification are jointly applied. In this work, we introduce Flash-dLLM, a training-free inference acceleration framework for fast and memory-efficient dLLMs. Flash-dLLM first identifies GPU memory I/O as a dominant bottleneck in KV-cache-enabled dLLM inference and addresses it with an I/O-aware fused KV-cache kernel that reduces redundant memory movement. Building on this optimized cache mechanism, Flash-dLLM further proposes an efficient KV-cache-driven draft-and-verify decoding strategy, where the dLLM itself serves as both drafter and verifier without requiring an auxiliary model. This unified design enables faster decoding while preserving generation quality and improving scalability to longer sequences and larger batch size. Extensive experiments on mathematical reasoning and code-generation benchmarks demonstrate that Flash-dLLM consistently outperforms existing state-of-the-art dLLM acceleration methods in both inference speed and memory efficiency. In particular, it achieves 5.1times and 11.0times speedups over prior strongest baseline Elastic-Cache on GSM8K and HumanEval, respectively.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2609.26687v1",
+        "title": "Detecting GPT-Assisted Writing Using Interpretable Stylometric Features",
+        "url": "https://arxiv.org/abs/2609.26687v1",
+        "authors": [
+          "Rajesh Kumar",
+          "Nabeel Siddiqui",
+          "Alexander Fuchsberger"
+        ],
+        "published": "2026-09-22",
+        "summary": "Distinguishing GPT-assisted from independently authored student writing has become a critical challenge in academia. This paper evaluates the discriminative capability of interpretable stylometric features extracted solely from submitted text. Using data from 90 participants who wrote both independently and with ChatGPT assistance, we evaluate eight machine learning classifiers while keeping data from the same participant together during validation. On the held-out test set, Random Forest achieved an ROC-AUC of 0.87 and an F1-score of 0.84, with False Positive and False Negative rates of 22.2% and 11.1%, respectively. SHAP analysis shows that lexical and grammatical characteristics drive the resulting predictions. The findings suggest that transparent, text-intrinsic features provide measurable signal for detecting GPT-assisted writing.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26680v1",
+        "title": "Decoding the Legalese: A Scalable and Quantitative Framework for Analyzing Corporate Privacy Policies",
+        "url": "https://arxiv.org/abs/2609.26680v1",
+        "authors": [
+          "Jiaming Tang",
+          "Chenlan Wang",
+          "Mingyan Liu",
+          "Armin Sarabi"
+        ],
+        "published": "2026-09-22",
+        "summary": "Even though privacy policies are the primary mechanism organizations use to disclose how they collect, process, and share personal data, they are difficult for average users to interpret, perhaps by design, due to their verbosity and dense legal language. Importantly, there is a lack of standardized metrics that characterize key qualities of a privacy policy beyond regulatory requirements. Recent advances in large language models (LLMs) make it feasible to automatically structure and analyze these documents at scale. In this study, we develop and evaluate an end-to-end, LLM-enabled system that converts raw privacy policies into fine-grained structured representations and a set of quantitative measures. Our pipeline applies a detailed taxonomy to extract specific data elements and governing practices, capturing relational links that connect each practice to the data elements it references. We apply our framework to a diverse corpus of 10,000 website privacy policies, yielding, to the best of our knowledge, the most comprehensive dataset of its kind to date. Building on our structured representations, we introduce the first standardized and repeatable quantitative metrics for evaluating privacy policies along four dimensions: completeness, transparency, commitment to user protection, and emphasis on business-driven data practices. This allows us to compare policies within and across industry sectors, and to assess the tension between user protection and business interests.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26562v1",
+        "title": "The Disciplinary Language Transfer Problem: How Psychological Vocabulary Produces Governance Failures in AI Agent Deployment",
+        "url": "https://arxiv.org/abs/2609.26562v1",
+        "authors": [
+          "Kymberly Lasser-Chere",
+          "Tyler Akidau",
+          "Marc Millstone"
+        ],
+        "published": "2026-09-22",
+        "summary": "The vocabulary used to describe AI agents in governance contexts -- learning, memory, values, compliance, identity, trust -- is borrowed from psychological and organizational science, contributing to systematic failures in how organizations deploy, oversee, and hold agents accountable. This paper argues that the problem is not merely terminological but epistemological: psychological vocabulary carries an \"invisible grammar\" of its home discipline into governance discourse, calibrating frameworks to a metaphysical entity that does not exist in current AI architectures. We call this the disciplinary language transfer problem. Drawing on Wittgenstein's concept of language games, Kuhn's paradigm-laden observation, Haraway's situated knowledge, and Star and Griesemer's boundary object theory, we show that the transfer operates at three levels (epistemological assumptions, theoretical constructs, and surface vocabulary), each requiring a different remediation. We characterize six foundational epistemological assumptions embedded in Western psychological governance discourse, trace their origin in specific philosophical traditions, and show why each fails when applied to systems without developmental continuity. The paper's practical output is an actionable Disciplinary Audit: a six-question governance document scan operationalized through a translation taxonomy of thirty-seven terms mapping operational constructs to agent-appropriate replacements, presented here in abridged form and openly archived in full. The vocabulary reform proposed here is not merely terminological; it is the condition of possibility for governance frameworks that correctly identify what they are governing.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26507v1",
+        "title": "The Ethics of Artificial Intelligence in Military Operations",
+        "url": "https://arxiv.org/abs/2609.26507v1",
+        "authors": [
+          "Nicolas Drapier",
+          "Florian Mauberger",
+          "Aladine Chetouani",
+          "Aurelien Chateigner"
+        ],
+        "published": "2026-09-22",
+        "summary": "Deep learning systems now mediate military decisions to use force, yet their internal logic resists inspection, their evaluation practices are gameable, and their deployment fractures accountability across dispersed stakeholders. The ethical challenge posed by these systems is fundamentally epistemic: not just whether autonomous weapons should be permitted to kill, but whether the conditions for responsible human judgment can survive when critical functions are delegated to opaque algorithms. We show that this epistemic condition produces a concrete accountability gap: responsibility diffuses across designers, operators, and policymakers while International Humanitarian Law presupposes capacities for judgment that current AI systems lack. To address this gap, we propose a governance framework that proceduralizes ethical constraints through named accountability roles, adversarial auditing with undisclosed benchmarks, tiered deployment thresholds, and a proposed NATO evaluation standard. Counterfactual analysis of eight documented cases (1988-2025) shows that each governance mechanism addresses a documented class of failure, but no single safeguard suffices in isolation: effective governance of military AI requires not only technical constraints but the institutional infrastructure to keep human judgment meaningful.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26481v1",
+        "title": "Behavior is Not Enough: A Mechanism-Based Evaluation of Social Norm Emergence in LLM Societies",
+        "url": "https://arxiv.org/abs/2609.26481v1",
+        "authors": [
+          "Rasika Muralidharan",
+          "Haewoon Kwak",
+          "Jisun An"
+        ],
+        "published": "2026-09-22",
+        "summary": "Social norms cannot be identified from behavior alone: the same cooperative equilibrium may reflect shared expectations, strategic incentives, or simple imitation. Yet in multi-agent large language model systems, prior work largely treats behavioral convergence as evidence of norm emergence. In this work, we introduce an evaluation framework that measures agents' reported empirical and normative expectations in addition to behavioral convergence. Through controlled ablations, we test the effect of expectation elicitation and isolate two collective mechanisms central to theories of norm formation---social learning through interaction and social selection through network-based group formation. We further test the stability of these resulting dynamics under adversarial disruption across four LLM families. We find that eliciting expectations increases cooperative contributions, while social learning stabilizes behavior, and social selection reliably identifies cooperators but provides limited behavioral reinforcement. Following disruption, normative expectations and behavioral coordination recover differently. Together, these results show that similar cooperative outcomes can arise from different underlying social processes. By making expectations observable, our framework allows us to attribute each mechanism's contribution separately, offering designers of multi-agent systems a principled basis for selecting the social processes that sustain cooperation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26353v1",
+        "title": "Click, Branch, Audit: A Decision-Tree Toolkit for Assessing Fundamental Rights Impacts under the Digital Services Act of Very Large Platforms & Search Engines",
+        "url": "https://arxiv.org/abs/2609.26353v1",
+        "authors": [
+          "Marie-Therese Sekwenz",
+          "Till Winkler",
+          "Maria-Lucia Rebrean",
+          "Nina Baranowska",
+          "Manon Carrere",
+          "Gianclaudio Malgieri",
+          "Ben Wagner"
+        ],
+        "published": "2026-09-22",
+        "summary": "The EU Digital Services Act (DSA) requires Very Large Online Platforms and Search Engines (VLOPs/VLOSEs) to assess and mitigate systemic risks, including actual or foreseeable negative effects on fundamental rights, and subjects these assessments to independent audit. Yet how such rights-relevant risks should be identified, assessed, evidenced, and documented remains methodologically under-specified. We address this gap by introducing a decision-tree-based toolkit that operationalizes Article 34(1)(b) DSA and related audit requirements into a structured assessment process. The toolkit decomposes platforms as systems-of-systems and guides assessors through DSA applicability, context definition, subsystem and stakeholder identification, risk identification, risk assessment, reporting, and visualization. A central design contribution is its treatment of vulnerability as situational and relational: rather than assigning vulnerability to fixed groups, the toolkit asks how particular platform subsystems and dependencies may place stakeholders in vulnerable positions. It further makes fundamental rights-relevant judgments traceable by recording the affected right, interference and justification analysis within the structure of a proportionality test, while also covering a perception and impact dimension including severity, scope, duration, reversibility, as well as practical consequences. We developed the toolkit iteratively through a design-science process combining literature-derived design requirements, three interdisciplinary expert workshops (N=4; N=11; N=20) testing the framework design with two DSA user persona scenarios. We contribute an extensible methodological foundation for making fundamental-rights risk assessments under the DSA more streamlined, systematic, transparent, and auditable.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.26023v1",
+        "title": "Reciprocal Collaboration: how lessons from convergence in GLAMs can enhance interdisciplinary AI research",
+        "url": "https://arxiv.org/abs/2609.26023v1",
+        "authors": [
+          "Amber L. Cushing",
+          "Suzanne Little",
+          "Giulia Osti"
+        ],
+        "published": "2026-09-22",
+        "summary": "The need for collaboration between diverse fields of research is increasingly recognised as important by research funding agencies. A significant driver of this need is the current revolution in artificial intelligence (AI) and related technologies. There is a growing interest in the potential impact of AI in different fields including the methodologies they use and the resulting advances in new knowledge, new access and enhanced productivity. However, there is also a corresponding increase in concern about the fundamentals of AI technologies and the way in which trans and/or interdisciplinary research is approached. The resulting collaboration too often ends up as a one-way street where the domain partner acts only as an information provider. For example, the contribution of the AHSS partner might be limited to providing insight about ethics and/or the technology partner may only provide a service to build applied AI-based solutions. In response to this problem, we propose a reciprocal approach to collaboration where both partners seek to understand, cooperate and identify jointly significant impacts. In this paper we explore this relationship between cultural heritage institutions (GLAMs), Arts, Humanities & Social Sciences (AHSS) research and technology-led AI research, especially the impact of current technological advances in AI. Drawing from the history of convergence in GLAM studies, we propose five key practices to form a framework for greater understanding across this divide.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25790v1",
+        "title": "Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence",
+        "url": "https://arxiv.org/abs/2609.25790v1",
+        "authors": [
+          "Satoshi Takahashi",
+          "Atsushi Yoshikawa",
+          "Megumi Kose",
+          "Kenichi Suzuki",
+          "Chieko Inoue",
+          "Yumi Watanabe",
+          "Mari Sawada"
+        ],
+        "published": "2026-09-22",
+        "summary": "This study aimed to automate hierarchical diagnostic reasoning (HDR), a constructive method for evaluating practical judgment skills, by developing and testing an evaluation process using a large language model. HDR is a descriptive task that measures higher-order cognitive skills by requiring students to identify and explain errors in case-study-based problems. However, it requires expertise and effort to develop and evaluate. Hence, we proposed and empirically validated the automatic (1) generation of case problems containing errors aligned with educational intentions, (2) scoring of descriptive answers, and (3) generation of structured feedback based on incorrect answers, achieved solely through prompt design without fine-tuning. The internal consistency and construct validity of the generated problems were supported by the experimental score distribution and Cronbach's alpha (0.78). The agreement between automated and human ratings reached 100% under some conditions. The feedback was rated as being as convincing and useful as that from human instructors, demonstrating a practical framework for implementing HDR-based constructive assessment with reproducibility, immediacy, and low cost. The flexibility of large language models will also enable repeated and longitudinal assessments while maintaining structure, showing broad potential for application in educational settings.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25774v1",
+        "title": "Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment",
+        "url": "https://arxiv.org/abs/2609.25774v1",
+        "authors": [
+          "Run-Ze Xu",
+          "Chu-Kuan Jiang",
+          "Dylan Ming-Han Li",
+          "Hong-Xiao Guo",
+          "Jia-Shun Cao",
+          "Guang-Hao Chen"
+        ],
+        "published": "2026-09-22",
+        "summary": "Large language models (LLMs) are emerging as scientific assistants, yet their computational demands and limited domain specialization constrain sustainable deployment in environmental engineering. Here, we investigate whether domain-specialized small-scale LLMs can combine scientific capability with sustainable deployment in biological wastewater treatment. We developed a benchmark evaluating three scientific capabilities of LLMs: retrospective cognition, comprehension fidelity, and prospective extrapolation. BioWater (8 billion parameters, fine-tuned on specialized domain knowledge) achieved higher comprehension-fidelity scores than participating human experts and performance comparable to a 397-billion-parameter general-purpose LLM in retrospective cognition and prospective extrapolation. Human-BioWater collaboration generated a scientific hypothesis that was subsequently supported by laboratory experiments, demonstrating its potential to contribute to prospective scientific research. We further evaluated the economic and environmental implications of LLM deployment across global wastewater treatment plants (WWTPs). Locally deployed small-scale LLMs became more sustainable than cloud-based large-scale LLMs as inference demand increased in intelligent WWTPs. These findings highlight domain-specialized small-scale LLMs as a promising pathway towards scientifically capable, computationally efficient, and sustainably deployable artificial intelligence for wastewater treatment.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25677v1",
+        "title": "Seeing Is Not Perceiving: When Synthetic Consumers Can and Cannot Pretest Visual Marketing",
+        "url": "https://arxiv.org/abs/2609.25677v1",
+        "authors": [
+          "Yi-Lin Tsai",
+          "Yung-Hsiu",
+          "Lai"
+        ],
+        "published": "2026-09-22",
+        "summary": "Marketers now deploy generative AI agents as synthetic consumers to pretest visual assets such as logos, packaging, and advertising at a fraction of human-panel cost. However, this procedure assumes that a model seeing a visual cue can also perceive its consumer meaning, which is largely untested. We stress-test the assumption using six canonical visual marketing experiments, varying the two levers managers control: model generation (GPT-4o-mini vs. GPT-5.4-mini) and input format (plain text vs. JSON). Every resulting configuration passed the manipulation checks; however, none of the configurations reproduced more than two of the six human effects, and the remainder were nonsignificant. The one exception was a significant reversal of the human pattern. Providing conceptual or empirical evidence through in-context learning steers average responses toward the human effect. Yet steering has a limit: even when it succeeds, a configuration reproduces less than half of the natural spread of human responses and so understates consumer heterogeneity. We integrate these results into an AI governance protocol (Calibrate, Intervene, Deploy) that delineates when synthetic consumers can responsibly screen creatives and when human panels remain necessary.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25525v1",
+        "title": "When the Strike Zone Becomes Algorithmic: Umpire Judgment and Player Challenge Decisions under AI Review",
+        "url": "https://arxiv.org/abs/2609.25525v1",
+        "authors": [
+          "Kichang Lee",
+          "Gyeongmin Han",
+          "Sungmin Lee",
+          "JeongGil Ko"
+        ],
+        "published": "2026-09-22",
+        "summary": "The Automated Ball-Strike challenge system that Major League Baseball adopted in 2026 offers a distinctive setting for studying human AI interaction in which umpires make every ball and strike call, while players can selectively ask an automated system to publicly overturn those decisions. We analyze 4,114,256 called pitches from 2015 through 2026 and 8,447 challenges from the 2026 season to examine how algorithmic review reshapes umpire judgment and player behavior. We study where umpires placed the effective strike zone boundary, how consistently they applied that boundary, how they responded to overturned calls, and which calls players chose to challenge. In 2026, the effective called boundary shifted toward the automated strike zone beyond the trajectory observed in prior seasons, while the consistency of that boundary largely continued its existing trend. Following an overturned call, umpires temporarily adjusted subsequent decisions near the corrected boundary, although these effects did not consistently persist into the next game. Count dependent variation in calling remained, while differences associated with player status narrowed. Players, meanwhile, left many overturnable calls unchallenged and appeared to base challenge decisions more strongly on immediately observable evidence than on the precise geometry of the automated zone. Together, these findings show that selective AI review does more than correct individual errors. It reshapes human judgment, adaptation, and strategic behavior around an algorithmic authority.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25521v1",
+        "title": "Beyond Provenance: The Economics and Governance of Personalized AI Memory",
+        "url": "https://arxiv.org/abs/2609.25521v1",
+        "authors": [
+          "Jianan Chen",
+          "Yufei Qin",
+          "Yaosen Lin"
+        ],
+        "published": "2026-09-22",
+        "summary": "Personalized AI memories, defined as persistent decision-relevant states distilled by platforms from long-run human-AI interaction, are increasingly portable, provenance-certifiable, and tradable. Provenance answers the question of origin, but it does not settle who holds which rights over a memory, nor how wider deployment affects its future supply. We develop a unified model in which memory use is non-rival, while refresh, the maintenance of continued validity, is relationally co-produced by the represented individual and the platform. Even assuming perfect provenance and complete information, the model still yields a set of inherent limitations. First, there is an extraction ceiling: decision value is bounded by lived experience. Second, a rights-separation theorem shows that no budget-balanced ownership assignment can make both co-producers residual claimants, and that control rights and cash-flow rights operate on distinct margins. Third, a depletion result indicates that reach-expanding policies such as portability, interoperability, and competition raise current access but shrink the long-run memory stock. Fourth, we offer a formal comparison between memory ownership as it ought to be (subject-held) and as it is (platform-held); the welfare ranking reduces to two measurable quantities, both dominated by interior renewable-claim bundles. Finally, endogenous-quality and market-formation results show that uncompensated markets pollute their own raw material, that transparency and compensation are complements, and that the de facto platform-ownership regime is self-perpetuating. On the design side, the analysis points to separated provenance, performance, and permission credentials; compensation indexed to quality-deployment; and portability and salience, rather than nominal ownership, as the binding policy margins.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25504v1",
+        "title": "Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation",
+        "url": "https://arxiv.org/abs/2609.25504v1",
+        "authors": [
+          "Qiang Liu",
+          "Chunyi Zhao"
+        ],
+        "published": "2026-09-22",
+        "summary": "Large language models can produce fluent prose from short prompts, but a direct interaction gives writers little access to the assumptions that shape a long narrative. We present Incipit, an implemented research prototype that inserts an explicit planning layer between writer intent and generated prose. The layer is grounded in literary axioms, which are curated and reusable propositions about human experience and narrative craft. The prototype connects a knowledge base of 1455 axioms and 472 typed relationships to a five round direction dialogue, a retrieval and selection pipeline, and a three level blueprint covering creative premises, story beats, character arcs, and chapter outlines. Writers can inspect and edit the resulting structures before using them as context for scene generation. Additional modules support real event abstraction and five dimensional diagnostic feedback. We describe the design rationale, data flow, implementation boundaries, and a worked design example. Because no controlled user study or independently rated output study has yet been completed, we do not claim that the system improves literary quality. Instead, we outline a future preregistered comparison designed to distinguish the contribution of axiom grounding from that of hierarchical planning. The paper contributes a concrete architecture for making literary knowledge an inspectable coordination object in human AI writing.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25496v1",
+        "title": "Towards participatory speech dataset curation: A queer case study and conceptual framework",
+        "url": "https://arxiv.org/abs/2609.25496v1",
+        "authors": [
+          "Brooklyn Sheppard",
+          "Anaelia Ovalle",
+          "Adina Williams",
+          "Levent Sagun"
+        ],
+        "published": "2026-09-21",
+        "summary": "In this paper, we motivate the need for a participatory speech dataset creation framework through a case study of the LGBTQIA+, or queer, community - a community with documented concerns about AI and reported harms, including attempts to develop 'gaydar' technologies that purportedly identify individuals as queer. We review common speech data collection practices, why these methods may be unsuitable for engaging with queer speakers, and discuss previous efforts in participatory AI with queer community engagement, as well as participatory endeavours specific to speech data collection for other marginalized communities. From this review, we develop a conceptual framework for participatory speech data curation by, for, and with marginalized communities drawing on insights from co-design and knowledge sharing. We propose a framework comprising overlapping and two-way processes of defining a community, project formulation, modes of participation, and personal autonomy.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2609.25437v1",
+        "title": "Data center cooling choices shift water impacts across the grid: An integrated water-energy model for sustainable data center development",
+        "url": "https://arxiv.org/abs/2609.25437v1",
+        "authors": [
+          "Garrett Alston",
+          "Nancy Love",
+          "Rabab Haider"
+        ],
+        "published": "2026-09-21",
+        "summary": "Data centers are being developed at an unprecedented pace, yet their energy and water impacts, and the spatial and temporal distribution of these impacts, remain poorly characterized. Data centers consume water for cooling (direct) and through electricity generation (indirect). Decisions on siting and cooling technology result in water-energy trade-offs that extend impacts beyond the facility's location. Existing assessment frameworks rely on facility efficiency metrics and average grid water intensity factors, suppressing the temporal impacts of data center load and generation availability. They also attribute indirect consumption to the facility's location rather than to the generators (and corresponding hydrologic regions) that respond to the added load, misattributing spatial impacts. To close this gap, we develop a computational model of the data center-energy-water nexus that links facility cooling and electricity demand with hourly economic dispatch, generator-level water consumption, and monthly subbasin depletion. Built on open-source data, the model resolves where and when water is consumed, and where this consumption compounds existing water risk or creates new risk. Using the model, we study different cooling configurations and proposed developments in the state of Michigan. Air-cooled data centers halve total water consumption relative to evaporative cooling, but increase electricity demand and raise indirect water consumption by one-third, shifting the water footprint from the facility to generators. Mapping these changes to subbasins reveals depletion increases beyond the data center sites, in regions that facility-level reporting may overlook. These results show that data center water and energy impacts cannot be assessed in isolation, motivating the need for integrated modeling to inform siting, design, and reporting practices.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-09-23\n\nToday's candidate pool features notable mathematical breakthroughs including the unconditional proof of the Odlyzko-Poonen conjecture, counterexamples disproving the Ramos conjecture, and the discovery and Lean 4 verification of symmetric Venn diagrams up to 19 curves. Automated reasoning advancements highlight compute-aligned tree-search loss functions for Lean tactic generation and stable quantifier instantiation accounting in SMT solving.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Simple Symmetric Venn Diagrams with 17 and 19 Curves]**\n  [Simple symmetric Venn diagrams with 17 and 19 curves](https://arxiv.org/abs/2609.26546v1) — Chris Dzoba\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves the long-standing open existence question for simple, rotationally symmetric Venn diagrams beyond 13 curves, constructing simple symmetric diagrams for 17 and 19 curves and providing formally verified Lean 4 certificates.\n  - **AI Connection:** Metropolis walk (stochastic MCMC search) on rotation-invariant quadrangulations of the sphere; discovered certificates verified by formal proof in Lean 4 (no neural AI).\n\n* **[Unconditional Proof of the Odlyzko-Poonen Conjecture]**\n  [The Odlyzko-Poonen Conjecture on Irreducibility of Random Polynomials](https://arxiv.org/abs/2609.26771v1) — Constantin Kogler\n  - **Mathematical Impact:** (Score: 5 — Landmark Breakthrough). Conclusively resolves the Odlyzko-Poonen conjecture by proving unconditionally that monic polynomials with constant coefficient 1 and uniform i.i.d. $\\{0,1\\}$ coefficients are irreducible over $\\mathbb{Q}$ with probability tending to 1 as the degree tends to infinity.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Disproof of the Ramos Equipartition Conjecture]**\n  [Counterexamples to the Ramos conjecture for two hyperplanes](https://arxiv.org/abs/2609.26723v1) — Florian Frick\n  - **Mathematical Impact:** (Score: 5 — Landmark Breakthrough). Disproves the Ramos conjecture for two hyperplanes by constructing explicit families of $4n-2$ nondegenerate Gaussian measures on $\\mathbb{R}^{6n-3}$ that cannot be simultaneously equipartitioned by two affine hyperplanes, characterizing the exact threshold via positive definite quadratic measurements for phase retrieval.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Resolution of the Erdős–Hajnal Hypergraph Ramsey Problem for $r_k(k+2,n)$]**\n  [The Erdős--Hajnal hypergraph Ramsey problem for $r_4(6,n)$](https://arxiv.org/abs/2609.26563v1) — Longma Du, Xinyu Hu, Ruilong Liu, Guanghui Wang\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes the double-exponential lower bound $r_4(6,n)\\ge 2^{2^{cn}}$, confirming the Erdős–Hajnal conjecture on hypergraph Ramsey numbers for $r_k(k+2,n)$ for all fixed $k\\ge4$.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Compute-Aligned Loss Formulations for Tree Search in Lean]**\n  [Direct Optimization of Generators for Search in Automated Theorem Proving](https://arxiv.org/abs/2609.25575v1) — Adam Ousherovitch, Ambuj Tewari\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Develops search-aware and budget-aware loss formulations (Compute-Aligned Training and Uniform Allocation loss) that weight tactic cross-entropy gradients according to off-trace exploration, improving proof-discovery rates in Lean tree search across test-time compute budgets.\n  - **AI Connection:** Fine-tuned LLM policy optimization via search-aware gradient weighting derived from policy-guided tree-search traces in Lean.\n\n* **[Exponential Succinctness Gap Between $\\text{FO3}$ and the Calculus of Relations]**\n  [An Exponential Succinctness Gap between Three-Variable Logic and the Calculus of Relations](https://arxiv.org/abs/2609.26778v1) — Yuya Uezato\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Settles an open problem originating with Tarski by proving that the translation from three-variable first-order logic ($\\text{FO3}$) to the calculus of relations ($\\text{CoR}$) requires an unavoidable $2^{\\Omega(|\\varphi|)}$ blowup, extending the bound to bounded-error randomized circuits and the matrix language MATLANG.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Confluent Quantifier Generation Accounting for SMT Instability]**\n  [A Deeper Look at Depth: Stable Generation Accounting for Quantifier Reasoning](https://arxiv.org/abs/2609.26345v1) — Can Cebeci, Nikolaj Bjørner, George Candea, Clément Pit-Claudel\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Formalizes a confluent depth-accounting solver model for quantifier instantiation in SMT, implementing the stable generation method in Z3 to reduce verification outcome instability by 94% on the Mariposa benchmark without performance regressions.\n  - **AI Connection:** Algorithmic modification of quantifier instantiation and generation accounting inside the Z3 SMT solver (no neural AI).\n\n* **[Decidability and Finite Model Property of Intuitionistic Modal Logics IS4 and IK4]**\n  [A decision procedure for intuitionistic modal logic IS4 (and IK4)](https://arxiv.org/abs/2609.24922v1) — Marianna Girlando, Roman Kuznets, Sonia Marin, Lutz Straßburger\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Constructs a constructive decision procedure and establishes the finite model property for intuitionistic modal logics IS4 and IK4 using repeating loop rules in proof search.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Solver-Validated LLM Decomposition for Hardware Information-Flow Verification]**\n  [SLED-IFV: Solver-Validated LLM-Guided Decomposition for Scalable Hardware Information-Flow Verification](https://arxiv.org/abs/2609.25637v1) — Liangtao Dai, Yimin Gao, Melika Morsali, Mircea Stan\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Introduces functional simplification and relational strengthening decomposition rules for information-flow verification, with LLM artifact proposal strictly validated by formal verification backends.\n  - **AI Connection:** LLM proposes proof decomposition targets from self-composed miters and decision sheets, compiled into proof obligations checked by formal verification backends.\n\n---\n\n### 3. AI in Mathematics Education\n\nNo qualifying submissions met the threshold today.\n\n---\n*Synthesized with `gemini-3.7-flash` on 2026-09-23 11:30:34 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.7-flash",
+    "generated_at": "2026-09-23T11:30:56.632308+00:00"
+  }
+}
