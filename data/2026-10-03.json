@@ -1,0 +1,588 @@
+{
+  "updated_at": "2026-10-03T11:30:26Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2610.02177v1",
+        "title": "Generic solutions to symmetric linear equations",
+        "url": "https://arxiv.org/abs/2610.02177v1",
+        "authors": [
+          "Bryce Frederickson",
+          "Liana Yepremyan"
+        ],
+        "published": "2026-10-01",
+        "summary": "In 1993, Ruzsa showed that for every $k \\geq 2$, there exists a constant $C$ such that every subset $A \\subseteq [N]$ of size at least $C N^{1/k}$ contains $2k$ distinct elements $a_1, \\ldots, a_k, b_1, \\ldots, b_k \\in A$ such that $a_1 + \\cdots + a_k = b_1 + \\cdots + b_k$. We strengthen this result by proving that the elements $a_1, \\ldots, a_k, b_1, \\ldots, b_k$ can be chosen to have the additional property that $\\{a_1, \\ldots, a_k, b_1, \\ldots, b_k\\}$ has $2^{2k}-1$ distinct subset sums, with the only coincidence being that $\\{a_1, \\ldots, a_k\\}$ and $\\{b_1, \\ldots, b_k\\}$ have the same sum. Our proof also applies to any finite Abelian group of odd order $N$, and it provides a corresponding supersaturation result: that whenever $|A| \\geq CN^{1/k}$, there are at least $Ω(|A|^{2k}/N)$ choices for $a_1, \\ldots, a_k, b_1, \\ldots, b_k \\in A$ satisfying these properties. We prove a slightly weaker statement for Abelian groups of even order. We also apply our methods to the vector space setting and prove the following $\\mathbb F_q$-analogue of the Bondy-Simonovits Theorem on the extremal number of even cycles in graphs: Any rank-$n$, simple, $\\mathbb F_q$-representable matroid with no circuit of size exactly $2k$ has size at most $C q^{n/k}$ for some constant $C$ depending only on $q$ and $k$. When $q=2$, this is best possible up to the constant $C$ for all $k \\geq 2$. Our methods also apply to the original graph setting and give a new proof of the Bondy-Simonovits Theorem and its supersaturation version.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02165v1",
+        "title": "On Colorful Kruskal--Katona Theorems",
+        "url": "https://arxiv.org/abs/2610.02165v1",
+        "authors": [
+          "Ting-Wei Chao",
+          "Maya Sankar",
+          "Hung-Hsun Hans Yu"
+        ],
+        "published": "2026-10-01",
+        "summary": "What is the maximum number of rainbow triangles in an edge-colored graph with $m$ edges and $r$ colors? Using entropic techniques, we prove an upper bound of $C_rm^{3/2}$ rainbow triangles with $C_r=\\sqrt{\\frac{2(r-2)}{9r}}$; this constant is best possible whenever there exists an affine plane of order $r-1$. We also show that constructions attaining at least $(C_r-\\varepsilon_r)m^{3/2}$ rainbow triangles must exhibit an affine plane structure, which further improves the upper bound if no such affine plane exists. We also consider the problem of counting properly edge-colored cliques of larger sizes. Surprisingly, if the number $r$ of colors is odd, this count is instead maximized by blowups of a properly edge-colored $K_{r+1}$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02127v1",
+        "title": "An optimal constant for vector balancing with permutations",
+        "url": "https://arxiv.org/abs/2610.02127v1",
+        "authors": [
+          "Jonathan Niles-Weed",
+          "Shay Sadovsky",
+          "Jacob Shkrob"
+        ],
+        "published": "2026-10-01",
+        "summary": "We present a version of the vector balancing problem in which each vector may be given a sign and a permutation of its coordinates. We prove that this vector balancing problem and its corresponding prefix problem admit an explicit bound, and we further show that it is asymptotically optimal in the dimension. Our method of proof is purely geometric.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02119v1",
+        "title": "Typical intersecting families at $n=2k+1$ and $n=2k+2$",
+        "url": "https://arxiv.org/abs/2610.02119v1",
+        "authors": [
+          "Lina Li"
+        ],
+        "published": "2026-10-01",
+        "summary": "A family of sets is intersecting if every two members intersect, and trivial if all its members contain a common element. We determine the typical structure of $k$-uniform intersecting families on $2k+1$ and $2k+2$ elements as $k\\to\\infty$. For $n=2k+2$, we prove that almost all intersecting families are trivial and that their number is \\[ (2k+2+o(1))\\,2^{\\binom{2k+1}{k-1}}. \\] Together with Yang's recent result for $n\\ge 2k+3$, this settles a conjecture of Balogh, Garcia, Li, and Wagner. For $n=2k+1$, almost all intersecting families are nontrivial. We prove that, as conjectured by the same authors, a typical intersecting family is close to a full star: its members outside the star form components of size at most two in the graph joining sets that intersect in $k-1$ elements. We also obtain an asymptotic formula for the number of intersecting families in this case, with an explicit second-order term in the exponent. Our proof combines Sapozhenko's graph container method and stability in Kneser graphs to control families far from every star, and a polymer model and cluster expansion to enumerate families close to a fixed star.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02111v1",
+        "title": "On The Index of Polynomial Compositions over Valued Fields",
+        "url": "https://arxiv.org/abs/2610.02111v1",
+        "authors": [
+          "Anuj Jakhar",
+          "Ravi Kalwaniya",
+          "Shanta Laishram",
+          "Prabhakar Yadav"
+        ],
+        "published": "2026-10-01",
+        "summary": "Determining whether an algebraic number field admits a power integral basis is a classical problem, but it can be difficult for fields defined by polynomial compositions and dynamical iterates. In this paper, we study the monogeneity of compositions $f(h(x))$, where $f(x)$ and $h(x)$ are monic polynomials over an arbitrary Krull valuation ring and $h(x)$ is a trinomial. We derive explicit formulas for the discriminant of the composition and use them to characterize when $f(h(x))$ generates a monogenic field. In particular, we relate the monogeneity of the composition to that of $f(x)$ and to explicit square-free conditions on the critical values of $h(x)$. We further extend the results to polynomial iteration and obtain a criterion for the monogeneity of binomial iterates, yielding new infinite families of monogenic fields. Finally, we give quantitative results and illustrate our criteria with several examples.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02065v1",
+        "title": "Linear arboricity conjecture for infinite graphs",
+        "url": "https://arxiv.org/abs/2610.02065v1",
+        "authors": [
+          "Leandro Aurichi",
+          "Rodrigo Santos Monteiro",
+          "Caio Fernando Rodrigues"
+        ],
+        "published": "2026-10-01",
+        "summary": "The linear arboricity $\\la(G)$ of a graph $G$ is the least cardinality of linear forests, that is, forests of maximum degree at most $2$, into which its edge set $E(G)$ can be decomposed. The Linear Arboricity Conjecture asserts that $\\la(G)\\leq\\lceil(Δ(G)+1)/2\\rceil$ for every finite graph $G$, where $Δ(G)$ denotes the maximum degree of $G$. We extend this conjecture to infinite graphs of finite maximum degree and prove that its finite and infinite versions are equivalent. We introduce topological linear arboricity $\\latop (G)$ by requiring the linear forests to contain no topological circle, and show that it differs from linear arboricity by at most one. Finally, we prove that every $2k$-regular graph of girth at least $2k$ has topological linear arboricity at most $k+1$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02053v1",
+        "title": "Linear circumference in vertex-transitive graphs",
+        "url": "https://arxiv.org/abs/2610.02053v1",
+        "authors": [
+          "Jie Ma",
+          "Ziyuan Zhao"
+        ],
+        "published": "2026-10-01",
+        "summary": "We prove that there is an absolute constant $c>0$ such that every connected vertex-transitive graph $G$ on $n \\ge 3$ vertices contains a cycle of length at least $cn$. Moreover, every such graph with sufficiently large degree $d$ contains a cycle of length at least $(1-d^{-1/100})n$. This gives the first linear bound towards Lovász's Hamiltonicity conjecture. The proof combines a structural result of DeVos and Mohar on vertex-transitive graphs with a general framework for finding long cycles, which may be of independent interest.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02018v1",
+        "title": "Euclidean Distance Optimization Within the Grassmannian",
+        "url": "https://arxiv.org/abs/2610.02018v1",
+        "authors": [
+          "Hannah Friedman",
+          "Serkan Hoşten",
+          "Andrea Rosana"
+        ],
+        "published": "2026-10-01",
+        "summary": "Given a subvariety of the Grassmannian and a data point, we seek to find a point on the subvariety minimizing the Euclidean distance to the data point. The number of complex critical points of this optimization problem is the Euclidean distance (ED) degree. We show that the ED discriminant of the whole Grassmannian, that is, the set of data points with a number of critical points different than the ED degree, is the discriminant of the characteristic polynomial of the data as a projection matrix. Another closely connected algebraic complexity measure for a subvariety in the Grassmannian is the Grassmann distance (GD) degree, which is the number of complex critical points of the distance optimization problem when the data point itself is in the Grassmannian. We give formulae for ED and GD degrees of geometrically meaningful subvarieties of the Grassmannian, namely, products of smaller Grassmannians, matroid realization varieties, and Schubert varieties.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01998v1",
+        "title": "On the prime geodesic theorem",
+        "url": "https://arxiv.org/abs/2610.01998v1",
+        "authors": [
+          "Alberto Acosta Reche"
+        ],
+        "published": "2026-10-01",
+        "summary": "We improve the error term in the prime geodesic theorem for the modular group. More generally, our result applies to any congruence subgroup of any indefinite quaternion algebra over $\\mathbb{Q}$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01996v1",
+        "title": "Matchings and shape-Wilf-Equivalence of sets of patterns of length three II: Quadruples and Quintuples",
+        "url": "https://arxiv.org/abs/2610.01996v1",
+        "authors": [
+          "Sucharita Biswas",
+          "Umesh Shankar",
+          "Sivaramakrishnan Sivasubramanian"
+        ],
+        "published": "2026-10-01",
+        "summary": "Building on our classification of shape-Wilf-equivalence classes for triples of patterns of length three, we complete the classification for quadruples and quintuples. The larger pattern sets exhibit structural features that are not captured by the encoding methods used for triples and require additional combinatorial tools. Our main new ingredient is a Dyck-path approach to Ferrers boards containing the staircase board. By introducing distinguished cells and related structural parameters on the associated Dyck paths, we obtain new shape-Wilf-equivalences and, for several classes, explicit formulas for the number of avoiding transversals on a fixed Ferrers board. We further study the corresponding pattern-avoiding perfect matchings through the pattern-preserving bijection of Bloom and Elizalde. Besides deriving recurrence relations, we give bijective interpretations of several matching enumeration sequences in terms of grand Dyck paths, Schröder paths, and Dyck paths. These constructions provide additional combinatorial structure beyond the classification itself. Together with the companion paper on triples, the present work completes the classification of shape-Wilf-equivalence classes for subsets of patterns of length three, apart from the trivial empty and full pattern sets.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01966v1",
+        "title": "Infinite free pro-p products as absolute Galois groups",
+        "url": "https://arxiv.org/abs/2610.01966v1",
+        "authors": [
+          "Tamar Bar-On"
+        ],
+        "published": "2026-10-01",
+        "summary": "In this paper we prove a generalized version of Mel'nikov's Criterion, which has also been proved by Haran, and use it in order to connect the realization as absolute Galois groups of free pronite and free pro-p products of a sheaf of pro-p groups.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01946v1",
+        "title": "Improved upper bounds on the list chromatic number of $K_t$-minor-free graphs",
+        "url": "https://arxiv.org/abs/2610.01946v1",
+        "authors": [
+          "Yangyan Gu",
+          "Rongxing Xu"
+        ],
+        "published": "2026-10-01",
+        "summary": "It remains open whether every $K_t$-minor-free graph is $O(t)$-choosable. Postle proved that every $K_t$-minor-free graph has choice number $O(t(\\log\\log t)^6)$. At the end of an earlier version of a paper establishing an $O(t\\log\\log t)$ bound on the chromatic number of $K_t$-minor-free graphs, Delcourt and Postle remarked that their methods, combined with Postle's earlier techniques, yield an $O(t(\\log\\log t)^2)$ bound on the choice number. In this paper, we first prove that every $n$-vertex $K_t$-minor-free graph has choice number $O(t\\log(2+n/t))$. Using this bound as a key ingredient, we follow the approach outlined by Delcourt and Postle to prove that every $K_t$-minor-free graph is $O(t\\log\\log t)$-choosable.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01924v1",
+        "title": "Supersingularity and Superspeciality Verification of Abelian Surfaces",
+        "url": "https://arxiv.org/abs/2610.01924v1",
+        "authors": [
+          "Maria Corte-Real Santos",
+          "Gioella Lorenzon",
+          "Krijn Reijnders"
+        ],
+        "published": "2026-10-01",
+        "summary": "Supersingular abelian surfaces are essential in isogeny-based cryptography. Despite this, we have no efficient algorithm to verify if a given abelian surface is supersingular. In this work, we initiate this research topic by giving an efficient Monte Carlo algorithm to verify if an abelian surface over $\\mathbb{F}_p$ is supersingular in $O(\\log p)$ with negligible failure probability, and an efficient conclusive algorithm if the order is smooth. We derive this algorithm by a careful analysis on the structure of supersingular Jacobians over $\\mathbb{F}_p$. Furthermore, we derive efficient algorithms to verify if an abelian variety of any dimension is minimal or maximal, and to verify if a Jacobian of any dimension is superspecial.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01912v1",
+        "title": "Balanced weightings and permutation matchings applied to the monoid of order-preserving mappings",
+        "url": "https://arxiv.org/abs/2610.01912v1",
+        "authors": [
+          "Peter M. Higgins"
+        ],
+        "published": "2026-10-01",
+        "summary": "We give a necessary and sufficient condition for a combinatorial D-class of a finite semigroup to have a permutation matching: that its structure matrix admit a balanced weighting, that is, non-negative weights with constant row sums and constant column sums. This weakens the regularity hypothesis, the role of Hall's lemma being taken up by the Birkhoff--von Neumann theorem. We then apply it to show that the monoid of all order-preserving self-maps of an n-element chain, has a permutation matching.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01900v1",
+        "title": "Recovery Set Structures and Service Rates of Codes Obtained by the Plotkin-type Construction",
+        "url": "https://arxiv.org/abs/2610.01900v1",
+        "authors": [
+          "Priyanka Choudhary",
+          "Maheshanand Bhaintwal"
+        ],
+        "published": "2026-10-01",
+        "summary": "In distributed storage systems, redundancy enables a single data object to be reconstructed using several disjoint groups of servers. The resulting service rate region (SRR) captures all combinations of object request rates that the system can support simultaneously without overloading any individual server. We analyze the SRR of binary codes obtained via the Plotkin-type construction. We demonstrate that each recovery set for an information object of the Plotkin-type code $\\mathcal{C}_p$ induces a corresponding recovery set for the same data object characterized by the underlying code $\\mathcal{C}$. Furthermore, by characterizing the recovery sets structure of $\\mathcal{C}_p$ in terms of the recovery set structure of $\\mathcal{C}$, we identify the additional recovery sets introduced by this construction. Using the associated recovery hypergraphs, we establish bounds on the SRRs of $\\mathcal{C}_p$ and iterated code $\\mathcal{C}_{p^m}$ in terms of the SRR of $\\mathcal{C}$. We consider the family of first-order binary Reed-Muller codes and show how the recovery structure, and consequently, the service rates of R$(1,m)$ for arbitrary $m$ can be recursively derived from a generator matrix of R$(1,2)$ through our results for successive Plotkin-type constructions.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2610.01781v1",
+        "title": "Q-Learning for Reachability in MEC-Free MDPs",
+        "url": "https://arxiv.org/abs/2610.01781v1",
+        "authors": [
+          "Lu-Chin Chang",
+          "Suguman Bansal"
+        ],
+        "published": "2026-10-01",
+        "summary": "Reinforcement learning (RL) for reachability specifications is fundamental to sequential decision-making. Prior work establishes asymptotic convergence to optimal policies, but only through model-based methods that must explicitly estimate the transition probabilities of the underlying Markov Decision Process (MDP). We present Quasar, the first model-free algorithm with asymptotic guarantees for reachability on the fragment of MDPs free of non-terminal maximal end components (MECs), a building block to which every MDP reduces by the standard MEC quotient. Our algorithm follows the classical Q-learning approach, using temporal-difference updates to converge to an optimal policy without ever learning the transition probabilities. The resulting learner reduces the memory footprint from the O(|S|^2|A|) that model-based methods require to O(|S||A|). On the standardized Quantitative Verification Benchmark Set, our algorithm converges to the optimal policy with orders of magnitude fewer samples than the previous model-based state-of-the-art. Together these results are a concrete step toward the practical deployment of reachability learning and, with it, of specification-guided RL.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01728v1",
+        "title": "Removing spurious minima for planar features by skip connections",
+        "url": "https://arxiv.org/abs/2610.01728v1",
+        "authors": [
+          "Jakob Paul Zimmermann",
+          "Moritz Grillo",
+          "Andrei Balakin",
+          "Georg Loho"
+        ],
+        "published": "2026-10-01",
+        "summary": "Understanding loss landscapes is central to explaining neural-network training, yet their structure remains only partially understood even in simple models. We study the Gaussian population loss of shallow, bias-free ReLU networks in the teacher--student setting. This provides a simple model for studying essential aspects such as feature learning and overparameterization. For teacher networks with positive output weights and planar features, we show that including a learned linear skip removes all spurious local minima with non-negative student output weights once the student network is at least as wide as the teacher network. In contrast, without the skip, we construct a fixed teacher network with positive output weights and only three hidden neurons in input dimension two whose spurious local minima persist at every student width at least three. Thus, a learned linear skip can remove spurious minima that persist under arbitrary overparameterization. Furthermore, we show that a positive output weight student network always learns the subspace spanned by the teacher features: student features at local minima with non-negative student output weights lie in the span of the teacher features. For ReLU networks in two dimensions, even heavily overparameterized student networks have effective width controlled by the teacher width: every critical point with positive student output weights has at most twice as many distinct student feature directions as teacher neurons. Finally, we transfer the benignity result to empirical minima over parameter balls of any prescribed radius, with the required sampling accuracy depending on that radius.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01605v1",
+        "title": "Hob-VL: A Benchmark for Visually Grounded Boolean Reasoning",
+        "url": "https://arxiv.org/abs/2610.01605v1",
+        "authors": [
+          "Yuzhou Wang",
+          "Emile Anand",
+          "Ijay Narang"
+        ],
+        "published": "2026-10-01",
+        "summary": "Reliable visual reasoning requires composing multiple visual observations and returning consistent answers to logically equivalent questions. We introduce Hob-VL, a benchmark for visually grounded Boolean reasoning. Hob-VL comprises two tasks: (1) evaluating whether a Boolean rule holds in an image, and (2) identifying the (unique) object satisfying a Boolean description. Hob-VL contains 6,000 human-verified balanced Yes/No questions, each defined by a Boolean combination of ten visual statements, across 1,000 generated scenes and 46 diverse labeled photographs, along with 1,000 object-identification questions over the same photographs. Our question families are deliberately constructed to challenge reasoning through misleading local cues and nested logical operations, and include symbolic and structured natural-language presentations. Across eight model configurations with thinking disabled or minimized, Boolean accuracy ranges from 48.52% to 50.57%, while the identification accuracy reaches at most 43.0%. A thinking-enabled GLM configuration achieves uneven gains while retaining substantial errors and inconsistencies. Hob-VL exposes these failures through executable reference answers and matched evaluations.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01527v1",
+        "title": "Exact Distinguishability in Non-Markovian Decision Processes",
+        "url": "https://arxiv.org/abs/2610.01527v1",
+        "authors": [
+          "Kabir Murjani",
+          "Nisarg Patel"
+        ],
+        "published": "2026-10-01",
+        "summary": "Non-Markovian environments are often modeled as Regular Decision Processes (RDPs), where dynamics depend on the interaction history through a finite automaton. Existing offline guarantees for RDPs rely on a distinguishability assumption on the behaviour policy but provide no means of verifying it. When the assumption is violated, distinct models may explain the data equally well. We study when data collected under a fixed behaviour policy can distinguish two candidate RDPs. We prove that the posterior odds between observationally equivalent candidates remain equal to the prior odds at every sample size, even when the policy visits every automaton state, and verify both results formally in Lean 4. We then characterize this equivalence exactly and derive PEC, an algorithm that decides it in time linear in the size of the product automaton. The distinguishability assumption of prior work fails on three of our four test environments, and the experiment identified by PEC restores it in each case.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01326v1",
+        "title": "An ontology for cross-sectoral crisis management: core and public health modules",
+        "url": "https://arxiv.org/abs/2610.01326v1",
+        "authors": [
+          "Aldo Gangemi",
+          "Rita T. Sousa",
+          "Luigi Asprino",
+          "Giorgia Lodi",
+          "Andrea G. Nuzzolese",
+          "Valentina Presutti",
+          "Johannes Gysen",
+          "Diana F. Sousa",
+          "Luigi Spagnolo"
+        ],
+        "published": "2026-10-01",
+        "summary": "This paper presents the European Crisis Management Ontology (ECMO), a modular OWL-based ontology intended as a cross-sectoral reference for disaster risk reduction and response. ECMO is designed to be organised as a network of ontological modules. Among the modules, ECMO-CORE captures fundamental crisis management concepts such as hazard, event, exposure, impact, and response measure and uses ontology design patterns and the OWL2 punning technique to resolve ambiguities between hazard types and event manifestations. In addition, domain-specific modules are defined as in the case of the public health module aligned with SNOMED CT and ICD-11. To demonstrate the resource's utility, we used ECMO to represent the data of the Epidemic Intelligence from Open Sources system of the Joint Research Centre to generate an end-to-end pipeline that populates an ECMO-compliant knowledge graph from unstructured epidemiological news. Initial results demonstrate that ECMO provides the formal guardrails necessary for consistent and unified knowledge representation and integration. The ontology is publicly available at https://doi.org/10.5281/zenodo.20070268 and is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01240v1",
+        "title": "A proof of Lehmer's permutation conjecture for neighbor-swap graphs",
+        "url": "https://arxiv.org/abs/2610.01240v1",
+        "authors": [
+          "Tom Verhoeff"
+        ],
+        "published": "2026-10-01",
+        "summary": "In 1965, D. H. Lehmer conjectured that the permutations of every multiset admit an imperfect Hamiltonian traversal by adjacent swaps: a walk in the neighbor-swap graph that visits every word, with some words visited twice in order to reach a neighbor and return. The question is posed as an unsolved research problem in Knuth's Art of Computer Programming. Verhoeff (2017) chose the stutter words, in which every domino is a double, as the words to be reached this way, and reformulated the conjecture as the Hamiltonicity of the graph $N(S)$ on the non-stutter words, with two exceptional families --- binary signatures with an odd multiplicity, and the permutations of $(2k,1,1)$ --- that admit a Hamiltonian path but no cycle. This article proves the reformulated conjecture, and with it Lehmer's conjecture. The key structure is a partition of the words into hypercubes: the swaps inside dominoes turn each class of words with the same domino contents into a hypercube, and the stutters are exactly the $0$-dimensional classes. When every multiplicity is even, Hamiltonian cycles of the hypercubes are glued along a spanning tree, with no finite check. The case of exactly one odd multiplicity reduces to the all-even case and to a theorem of Stachowiak (1992), the one inherited Hamiltonicity input, which also settles two or more odd multiplicities. The only finite ingredients are two explicit cycles, of 28 and 84 words. Every construction is implemented in Python and checked against brute-force graphs, and the proof is formalized in Lean 4 over Mathlib.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.00885v1",
+        "title": "FORALL-LEAN-AGENT for Auditable Reasoning in Formal Mathematics and Software Verification",
+        "url": "https://arxiv.org/abs/2610.00885v1",
+        "authors": [
+          "Naing Oo Lwin"
+        ],
+        "published": "2026-10-01",
+        "summary": "Coding agents increasingly automate Lean proof development, but successful compilation alone does not establish that a candidate proves the intended statement under acceptable assumptions. We present FORALL-LEAN-AGENT, a frontend-agnostic framework for auditable reasoning in formal mathematics and software verification. The framework combines isolated workspaces, Lean tools, and fresh review with statement comparison, axiom audits, and independent proof checking where supported. Verification evidence and reviewer decisions are bound to the same candidate artifact, making acceptance traceable. We evaluate the framework on VeriSoftBench, PutnamBench, and both problems in the Lean Eval softwareverification track. On the 100-task VeriSoftBench subset, integration with FORALLLEAN-AGENT raises benchmark-rule success from 93 to 100 for GPT-5.6 Sol at low effort while reducing cost from $69 to $62. The PutnamBench evaluation accepts all 672 problems at an average of $4.72 each. These results show that agent harness design can improve correctness and efficiency while providing evidence beyond aggregate solve counts.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.00837v1",
+        "title": "A Degree--Size Relation for Resolution over Polynomials",
+        "url": "https://arxiv.org/abs/2610.00837v1",
+        "authors": [
+          "Shuo Pang"
+        ],
+        "published": "2026-09-30",
+        "summary": "For every constant-width CNF, we show that linear degree in polynomial calculus (PC) implies exponential size in resolution over constant-degree polynomials, over the same prime field. Applications include exponential lower bounds for CNFs in $\\operatorname{Res}(\\operatorname{PC}_r/\\mathbb{F}_p)$ and hence in $\\operatorname{Res}(\\oplus_p)$, separations between different moduli, improved lower bounds for $\\operatorname{Res}(k)$ up to $k=\\varepsilon\\log n$, proof-search consequences, and an implication of super-polynomial $AC^0[p]$-Frege bounds from very strong PC degree lower bounds. The proof uses the common-multiplier idea isolated from Braun [arXiv:2609.23015] to construct a Razborov--Smolensky approximation that preserves inferences, without introducing extension variables. The approximation errors are measured by ranks of the multiplication maps induced by the error-witness polynomials, modulo bounded-degree PC consequences.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.00668v1",
+        "title": "A Simple Doxastic Deontic Logic for Norm-Guided Decision Making",
+        "url": "https://arxiv.org/abs/2610.00668v1",
+        "authors": [
+          "Thorsten Engesser",
+          "Agata Ciabattoni"
+        ],
+        "published": "2026-09-30",
+        "summary": "Making decisions despite conflicting norms and incomplete or unreliable information is a fundamental challenge for autonomous systems. We introduce a simple doxastic deontic logic for this setting: a classically reducible fragment of Chellas' Minimal Deontic Logic, extended with explicit conditional norms and combined with multi-agent KD45, so that norms can depend on agents' beliefs about both facts and norms. On this logic we define the Doxastic Norm Compliance Optimization Problem, where an agent chooses a decision minimizing weighted norm violations. We distinguish subjective optimization (relative to the agent's beliefs) from objective optimization (relative to the actual facts). We give conditions under which (i) the two coincide and (ii) optimal decision-making can be reduced to weighted partial MaxSAT in polynomial time.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2610.01939",
+        "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+        "url": "https://huggingface.co/papers/2610.01939",
+        "authors": [
+          "Ruiyang Si",
+          "Jianxin Bi",
+          "Shunyu Yang",
+          "Rui Ni",
+          "Wenbo Huang",
+          "Qiang Wang",
+          "Shulong Jiang",
+          "Duomin Wang",
+          "Xiuyu Li",
+          "Haiwen Feng",
+          "Zhen Dong",
+          "Daquan Zhou"
+        ],
+        "published": "2026-10-01",
+        "summary": "Vision language model (VLM) agents can control robots through visual feedback and action primitives, but repeated model invocations and redundant observations incur substantial token overhead. We introduce PyRUA-Lean, an interactive code-execution framework that couples feedback-driven primitive composition with selective observation: the agent composes classical robot primitives and learned vision-language-action (VLA) policies into Python cells that perform conditional checks and local retries, returning only explicitly requested images and state feedback for replanning. Across 700 simulated task instances from LIBERO-PRO, RoboTwin 2.0, and RoboCasa365, we compare PyRUA-Lean with a tool-calling baseline using the same GPT-6 Astra planner and underlying robot primitives. Under equal LLM-call budgets, PyRUA-Lean increases overall success from 63.1% to 71.7%. On instances solved by both agents, it uses 49% fewer LLM calls and 65% fewer input tokens.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2610.01971v1",
+        "title": "Out-of-Network Attention Dynamics on Bluesky",
+        "url": "https://arxiv.org/abs/2610.01971v1",
+        "authors": [
+          "Andrea Failla",
+          "Veronica Mesina",
+          "Giulio Rossetti"
+        ],
+        "published": "2026-10-01",
+        "summary": "Personalized social media commonly relies on explicit follow graphs to shape what content users encounter; yet how much attention crosses ties they have not formed remains largely undocumented at scale. We study this question on Bluesky, a large decentralized microblogging platform whose default feed relies on a simple, reverse-chronological content recommender. We analyze 173 million user-author interactions (likes, reposts, replies, and quotes) collected from a near-complete platform dump between February and September 2023. We decompose each interaction by attention-path length (already followed, relayed by a followed account, reachable within two follow-hops, or beyond) and find that 74.5% of interactions reach the user through an account they already follow. Measured by distance in the follow graph rather than by route, 80.6% of interaction lands within two follow hops, far beyond the 22.4% an expected-degree null predicts. We then characterize how exploration varies across users and over tenure. A broad-reaching minority generates three quarters of all exploratory activity, while aggregate declines in exploration with tenure mask three distinct individual trajectories. Finally, attention reaching beyond two hops converts into new follow ties at less than one third the rate of two-hop-local exploratory attention. Together, these results depict a platform where out-of-network exploration is substantial in volume but strongly constrained by network proximity and unlikely to translate into new social ties.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01749v1",
+        "title": "Designing for Interpretation Uncertainty: Architecture and Principles for Topological Learning Analytics Dashboards",
+        "url": "https://arxiv.org/abs/2610.01749v1",
+        "authors": [
+          "Hitoshi Inoue",
+          "Koichi Yasutake"
+        ],
+        "published": "2026-10-01",
+        "summary": "Topological Data Analysis (TDA) offers novel methods for understanding temporal dynamics in complex systems, yet its application in information systems design faces a fundamental challenge: how should systems present analytical outputs when interpretation frameworks are still developing? This paper reports on the development of TopoLA, a dashboard system applying Zigzag Persistent Homology to learning management system data, and proposes three early design principles for interpretation support in emerging analytics: (1) separation of objective measurement from contextual interpretation, (2) graduated disclosure from metrics through patterns to reflective prompts, and (3) explicit acknowledgment of methodological uncertainty. The system implements a modular three-stage pipeline--feature extraction, topological computation, and interpretation support--enabling extension to additional analytical methods. This work contributes to information systems research by articulating preliminary design knowledge for systems that must communicate analytical insights from methods lacking established interpretation norms--a challenge increasingly common as novel computational techniques enter applied domains.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01738v1",
+        "title": "Participation-Sensitive Convergence and the Fragment First, Converge Later Pattern in Asynchronous Online Learning: A Topological Analysis Across 22 OULAD Courses",
+        "url": "https://arxiv.org/abs/2610.01738v1",
+        "authors": [
+          "Hitoshi Inoue",
+          "Koichi Yasutake"
+        ],
+        "published": "2026-10-01",
+        "summary": "Asynchronous online learning offers temporal flexibility at a structural cost: learning communities tend to fragment rather than cohere. $β_0$, the number of disconnected behavioral clusters from Zigzag Persistent Homology, serves as a cohort-level indicator of this structure. Two questions remained unverified at scale: (1) does apparent $β_0$ convergence reflect genuine behavioral alignment or learner dropout? and (2) do assessment deadlines produce reproducible fragmentation-convergence cycles? We address both across all 22 OULAD courses (N > 22,000; 857 week-pairs). Changes in $β_0$ strongly co-vary with active learner changes (pooled r = 0.387; median per-course r_delta = 0.459, 20/22 courses), identifying $β_0$ as a participation-sensitive indicator: $β_0$ and active learner counts co-respond to deadline events rather than one causing the other. Deadlines produced fragmentation in 82.6% of assessments and the full Fragment First, Converge Later (FFCL) cycle in 60.2%. 3-phase analysis confirmed structural fragmentation as the dominant long-term trajectory (90.9% of courses), moderated by curriculum structure. These findings establish $β_0$ as a participation-sensitive structural indicator with direct implications for AI-augmented learning analytics design.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01716v1",
+        "title": "Architecture Without an Architect? Global Governance of Artificial Intelligence in a Divided World",
+        "url": "https://arxiv.org/abs/2610.01716v1",
+        "authors": [
+          "Simon Chesterman"
+        ],
+        "published": "2026-10-01",
+        "summary": "Artificial intelligence presents an unusually difficult problem for global governance. The technology develops rapidly, crosses borders easily, and is shaped by actors whose resources and capabilities may rival those of states. Yet international responses remain fragmented, unevenly representative, and overwhelmingly non-binding. The challenge is therefore not simply to identify appropriate rules or institutions, but to understand who has the capacity and incentive to create, enforce, and adapt them. This review essay examines these questions through Matthijs Maas's Architectures of Global AI Governance. Maas offers an ambitious framework for thinking about AI governance through the lenses of sociotechnical change, governance disruption, and regime complexity. His account usefully resists both technological determinism and the search for a single institutional blueprint, emphasizing instead the possibilities of a fragmented and evolving governance architecture. The essay argues, however, that institutional design cannot be separated from the distribution of power. Maas frequently invokes what \"we\" should do about AI, but that collective subject obscures important differences among states, international institutions, and technology companies. States retain formidable powers over markets, infrastructure, strategic inputs, and firms themselves. At the same time, many consequential decisions about frontier AI - what is built, how quickly, with what safeguards, and when it is released - are concentrated within a small number of private companies. The central problem of global AI governance may therefore be less architecture without an architect than an emerging architecture shaped by multiple actors possessing different forms of power, divergent incentives, and no common set of plans.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01300v1",
+        "title": "A Systematization of Knowledge on DeFi Vaults: Architectures, Curation Mechanisms, and Strategy Design",
+        "url": "https://arxiv.org/abs/2610.01300v1",
+        "authors": [
+          "Davide Mancino",
+          "Luca Pennella"
+        ],
+        "published": "2026-10-01",
+        "summary": "Decentralized finance (DeFi) vaults are smart-contract-based asset management systems that pool deposits, execute programmable strategies, and mint tokenized shares representing claims on underlying assets and strategy performance. As vault designs have evolved from early yield aggregators to modular, actively managed systems, a new control layer, curation, has emerged to select strategies, configure risk parameters, and coordinate operational execution, introducing principal-agent dynamics and new failure modes. This paper systematizes DeFi vault architectures and curator-mediated control planes through (i) a unified system model and formal definitions for share accounting, roles, and operational dependencies, and (ii) three complementary taxonomies covering vault exposures and objectives, curator governance and accountability mechanisms, and strategy execution patterns together with their failure modes. We further map a representative set of production protocols to the proposed dimensions. The frameworks in this work aim to support rigorous analysis and safer design of blockchain-based financial applications.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01257v1",
+        "title": "Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems",
+        "url": "https://arxiv.org/abs/2610.01257v1",
+        "authors": [
+          "Yiqiao Jin",
+          "Yiyang Wang",
+          "Lucheng Fu",
+          "Bing He",
+          "Siheng Xiong",
+          "Yijia Xiao",
+          "B. Aditya Prakash",
+          "Josiah Hester",
+          "Srijan Kumar",
+          "James Evans",
+          "Jindong Wang"
+        ],
+        "published": "2026-10-01",
+        "summary": "Scientific progress emerges from a longitudinal ecosystem in which researchers, institutions, funding agencies, collaboration networks, and the scientific literature co-evolve. As AI becomes increasingly involved throughout the scientific research cycle, understanding these interconnected and evolving processes becomes increasingly important. We introduce SciUtopia, a persistent, closed-loop LLM-agent simulation framework for studying academic research ecosystems. SciUtopia models interconnected scientific processes such as research-direction choice, collaboration, submission, peer review, resubmission, citation, funding, and researcher attrition, while maintaining evolving states across simulated years. Its configurable institutional mechanisms and information channels provide a controlled testbed for matched counterfactual experiments and targeted interventions. Across 61 simulation worlds, SciUtopia simulates over 40,000 researchers from 8,000 institutions, producing around 400,000 publication decisions and 1.2 million LLM-generated peer reviews. Using these longitudinal simulations, we find that rejection-driven resubmission substantially amplifies reviewer burden beyond population growth alone, cautious exploration balances citation impact with career success and long-term topic diversity, and resource inequality can emerge even without detectable cumulative advantage from narrowly winning early funding. Code is available at https://github.com/Ahren09/ScienceUtopia.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01243v1",
+        "title": "When the Judge Acts: Auditing VLM-Guided Image Selection on Culturally Situated Prompts",
+        "url": "https://arxiv.org/abs/2610.01243v1",
+        "authors": [
+          "Huichan Seo"
+        ],
+        "published": "2026-10-01",
+        "summary": "Vision-language models (VLMs) increasingly act as judges that pick the best of several generated images, so their choices decide what users see. Such judges are usually validated by score agreement with human ratings, not by the images they return. We audit VLM judges as decision-makers: on 300 culturally situated prompts, we compare the returned image with human ratings the judge never sees and with random choice from the same candidates, and repeat every decision with the candidates reordered. A 4B-parameter judge barely beats random and falls short of a CLIP similarity baseline. It picks the first image shown in 49% of calls (chance: 28%), and reordering changes its choice on 60% of prompts. For this judge, agreement across orders is informative: decisions that survive reordering are much better than random, whereas agreement with a weaker second judge keeps the wrong ones. An 8B judge shows almost no position bias and outperforms CLIP, yet for it the same filter mostly discards good decisions. Agreement helps only when it targets the judge's failure mode, so filters must be re-audited whenever the judge changes. The 4B judge's slight rise in stereotype ratings is no longer detectable after aggregating across orders or with the larger judge.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01231v1",
+        "title": "Judgement in the Age of Jev: From Evaluation Scarcity to Evaluation Abundance",
+        "url": "https://arxiv.org/abs/2610.01231v1",
+        "authors": [
+          "Richard Hill"
+        ],
+        "published": "2026-10-01",
+        "summary": "Generative artificial intelligence has reduced the cost of producing plausible symbolic artefacts, leading recent organisation scholarship to identify evaluation and discernment as constraints under conditions of production abundance. This perspective examines a further possibility: that machine evaluation itself becomes inexpensive enough to be deployed routinely and at scale. The investigation is prompted by Jev, TypeSafe AI's specialised model for typed probabilistic decisions. TypeSafe explicitly invokes William Stanley Jevons to argue that lower-cost machine intelligence can unlock previously uneconomic uses. Treating this as a technological provocation rather than an established empirical result, the article formulates a conditional Jevons hypothesis for machine evaluation: sufficiently large reductions in the total marginal cost of usable machine evaluation may increase its organisational consumption where latent demand is substantial and complementary costs do not dominate. The article integrates rebound economics with research on cheap prediction, production abundance, machine evaluation, decision allocation, authority, reliance and Executive Judgement to examine this possible scarcity transition. It distinguishes prediction, machine evaluation, organisational judgement and authorisation as functional activities whose costs need not fall together. Evaluations can share evidence, criteria and errors; scale mis-specified rubrics; operate on representations from which consequential qualifications have disappeared; and change practical decision rights through thresholds and exception routing. The resulting research problem is when cheap machine evaluation substitutes for human evaluative work, when it redistributes or creates demands for judgement, and how it affects the grounds available at consequential organisational commitment.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01174v1",
+        "title": "WIP: DBWorkout: A Gamified SQL Practice Platform to Support Formative Learning in Database Courses",
+        "url": "https://arxiv.org/abs/2610.01174v1",
+        "authors": [
+          "Sehrish Basir Nizamani",
+          "Deepika Devaraj",
+          "Tien Nguyen",
+          "Khyati Goyal",
+          "Saad Nizamani",
+          "Sally Hamouda",
+          "Jaren Goldberg"
+        ],
+        "published": "2026-10-01",
+        "summary": "This research WIP paper presents DBWorkout, a web-based platform that supports formative SQL learning through sandbox-based execution, automated result-based feedback, and session-based gamification. Learning Structured Query Language (SQL) remains challenging for undergraduate students due to limited opportunities for interactive practice and immediate feedback. Students iteratively practice SQL on live database instances while receiving multi-dimensional feedback on query correctness, including row values, column structure, and ordering. To reduce instructor workload, DBWorkout incorporates large language model (LLM)-assisted tools for schema and task generation within a human-in-the-loop workflow. A pilot study with teaching assistants and a classroom deployment involving 170 undergraduate students across two in-class sessions show strong perceived learning value (90% agreement) and engagement (87% enjoyment), alongside low reported pressure (22%). However, only 42% of students found the automated feedback sufficiently actionable, a finding independently corroborated by 40% of open-ended responses raising feedback quality concerns, providing cross-method triangulation of this gap. These findings demonstrate the technical feasibility and early pedagogical potential of DBWorkout while identifying directions for enhancing feedback quality and supporting sustained SQL learning.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01158v1",
+        "title": "Understanding Student Use of Large Language Models Across Computer Science Subfields",
+        "url": "https://arxiv.org/abs/2610.01158v1",
+        "authors": [
+          "Sehrish Basir Nizamani",
+          "Yoonje Lee",
+          "Nikitha Donekal Chandrashekar",
+          "Margaret Ellis",
+          "Naren Ramakrishnan"
+        ],
+        "published": "2026-10-01",
+        "summary": "This research full paper examines how undergraduate students use large language models (LLMs) across computer science subfields. As LLMs become increasingly integrated into computing education, understanding how their use varies across technical and pedagogical contexts is essential for designing effective, subfield-aware instruction. This paper presents a cross-subfield analysis of LLM usage among 211 undergraduate students in a problem-solving course intentionally designed to support responsible and effective LLM use through structured instruction and reflection. Using post-assignment reflection data collected across seven instructional modules spanning multiple computer science subfields, we examine prompt counts, LLM role conceptualization, and verification behavior. Results show that LLM adoption varies substantially by assignment, with higher usage in algorithms and web development and lower usage in software engineering. Students predominantly treat LLMs as assistive tools rather than authoritative sources, and verification is common across all subfields, with most students using multiple strategies. Verification behavior also varies by assignment context, with testing more common in structured tasks and web search more common in open-ended tasks. These findings suggest that assignment characteristics play a central role in shaping how students interact with and evaluate LLM outputs, even under a single, consistently applied instructional design. This work contributes empirical evidence on how LLM adoption, role conceptualization, and verification behavior vary across computer science subfields, extending our prior work on structured, reflective LLM instruction to show how its effects differ by task rather than only in aggregate.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01147v1",
+        "title": "Virtual Global Collaboration in Data Analytics and Machine Learning Education: A Mixed-Methods Study of Asynchronous Cross-Border Teamwork",
+        "url": "https://arxiv.org/abs/2610.01147v1",
+        "authors": [
+          "Sehrish Basir Nizamani",
+          "Saad Nizamani",
+          "Khyati Goyal",
+          "Sarwat Nizamani",
+          "Zannah Zeiw"
+        ],
+        "published": "2026-10-01",
+        "summary": "This innovative practice full paper examines a structured Virtual Global Collaboration (VGC) activity between undergraduate computing courses in the United States and Pakistan. The project was designed to support technical and intercultural skill development through asynchronous international teamwork in data analytics and introductory machine learning. Students worked in mixed-institution teams through a six-phase project including cultural orientation, dataset selection, data cleaning, analysis, introductory machine learning, and structured reporting. Using shared computational tools, teams coordinated across time zones to complete a joint data-driven project. Survey and qualitative reflection data were analyzed to examine collaborative experience, communication and cultural dynamics, learning outcomes, perceived value, and global readiness. Results show consistently positive student experiences across both cohorts, with collaborative processes strongly associated with learning and perceived value, and cross-cultural communication emerging as the primary driver of global readiness. These findings demonstrate how short-term, structured VGC can be effectively integrated into computing courses to support both technical learning and global competence.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01129v1",
+        "title": "From Digital Capabilities to Non Linear Growth: The Exponential SME Framework",
+        "url": "https://arxiv.org/abs/2610.01129v1",
+        "authors": [
+          "Dhushy Thillaivasan",
+          "Kristina Nicholls",
+          "Sathyapriya Govindarajulu",
+          "Ken Mardaneh"
+        ],
+        "published": "2026-10-01",
+        "summary": "Small and medium-sized enterprises (SMEs) face increasing pressure to navigate digital transformation, yet many struggle to convert digital initiatives into sustainable organisational capability development and growth outcomes. This paper develops the Exponential SME Framework, an integrated conceptual framework that explains how SMEs may progress from digital capability development to non-linear growth potential. Drawing on literature relating to Digital Dynamic Capabilities (DDC), digital transformation practices, organisational transformation, Exponential Organization (ExO) attributes, and SME growth, the framework synthesises previously fragmented streams of research into a coherent conceptual structure. The framework proposes that Digital Dynamic Capabilities provide the foundation for Digital Transformation Practices (DASAT), which contribute to transformations across key organisational domains, including business models, value chains, customer relationships, and organisational culture. These transformations may support the adoption of ExO-like attributes, specifically experimentation, dashboards, autonomy, and community engagement, that enhance organisational adaptability, learning, and responsiveness. Through the interaction of these organisational elements, SMEs may strengthen the conditions associated with non-linear growth potential. The paper contributes to the SME and digital transformation literature by integrating multiple streams of research into a unified framework, clarifying the relationships between capabilities, practices, organisational transformation, and growth-enabling mechanisms, and providing a foundation for future empirical research. The paper also offers managerial and policy implications for strengthening SME digital transformation and growth readiness.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.01020v1",
+        "title": "Scaling Peer Assessments: An Integrity Report from a Large Engineering Internship",
+        "url": "https://arxiv.org/abs/2610.01020v1",
+        "authors": [
+          "Jinal Gupta",
+          "Pavani Ayinampudi",
+          "Aditya B. M. V.",
+          "Prakash Hegade",
+          "Rohit Sharma",
+          "Sakshi Sharma",
+          "Meenakshi V",
+          "S. R. S. Iyengar"
+        ],
+        "published": "2026-10-01",
+        "summary": "Assessing learning in large classrooms presents a significant challenge for individual instructors, who may have limited capacity to evaluate the understanding, participation, and assessment behaviour of every student. Peer assessments have been a way of distributing this responsibility among learners, allowing them to evaluate and provide feedback to one another while reducing dependence on instructor-led assessments. Building on this approach, we implemented a peer validation model within a large, multi-institutional internship programme in which students who demonstrated sufficient understanding were authorised to assess and validate their peers through short oral discussions. The assessment process began with the instructor validating a small group of students, who were then authorised to validate their peers, allowing the process to gradually expand across the cohort and operate at scale. This study examines how participants experienced the model and the extent to which assessment integrity was maintained, using an end-of-programme survey of 238 consenting respondents. Most participants regarded the activity as worthwhile, with 79.8% reporting that they solved problems they could not previously solve. However, 29.0% acknowledged at least one instance of reduced effort, a lowered validation standard, or reciprocal validation, while 88.7% believed that at least a little validation had occurred without proper examination. When asked how the process could be strengthened, participants selected post-validation discussion of solutions approximately twice as often as closer auditing or mentor-led validation. These findings provide descriptive evidence of both the potential and the integrity challenges of using peer validation as a scalable assessment approach in large learning environments.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.00870v1",
+        "title": "An Educator-Guided LLM Pedagogical Agent for Scaffolded Feedback in Conceptual Database Design",
+        "url": "https://arxiv.org/abs/2610.00870v1",
+        "authors": [
+          "Sara Riazi",
+          "Pedram Rooshenas"
+        ],
+        "published": "2026-10-01",
+        "summary": "We present an educator-guided LLM pedagogical agent for scaffolded feedback in conceptual database design. Integrated into an entity--relationship diagram (ERD) editor, the system grounds feedback in the student artifact, assignment requirements, educator-authored rubrics, and instructional resources. Its architecture separates hidden, artifact-grounded diagnosis from the workflow that controls the form and disclosure level of student-facing support. We instantiate the architecture as a four-stage workflow progressing from concept checks and guided application to low-detail feedback and localized clarification. Each feedback request creates a stateful episode linked to versioned ERD states. In a deployment spanning three ERD environments and 383 feedback episodes, 71.1\\% of observed target-level changes fully or partially incorporated the hidden diagnostic target, including many after Stages~1--2. Qualitative analysis showed that staged disclosure sometimes withheld inaccurate details, supported selective uptake, or allowed later recovery, though some errors still shaped revisions. Survey responses from a self-selected sample favored delayed disclosure and student agency but noted indirectness and repetition.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.00863v1",
+        "title": "Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming",
+        "url": "https://arxiv.org/abs/2610.00863v1",
+        "authors": [
+          "Runlong Ye",
+          "Jing Fan",
+          "Angela Zavaleta Bernuy",
+          "Oscar Karnalim",
+          "Paul Denny",
+          "Juho Leinonen",
+          "Michael Liut"
+        ],
+        "published": "2026-10-01",
+        "summary": "Large language models can generate plausible solutions to programming assignments, making it tempting to detect their use by matching student code against a reference bank of generated solutions. Yet similar code can also arise when an assignment admits only a few natural implementations, which leaves open what a match actually shows. We investigate generated-reference matching using 29,970 student submissions from ten Python labs offered in 2021, 2023, and 2025, together with 90,000 solution attempts generated retrospectively by three frontier LLMs. We validate the generated solutions using hidden instructor tests, compare code with MOSS after excluding the starter code, and examine the exact abstract syntax tree (AST) forms of selected functions. The models usually produced correct solutions and, across most assignments, converged on similar implementations. Student submissions matched the generated references more often in later cohorts, including among submissions that passed every hidden test. On tightly specified functions, the models converged on a few exact abstract-syntax-tree forms, and the number of distinct student forms also declined across cohorts, whereas open-ended functions remained diverse in both sources. Most reported overlaps were short, making the minimum match length an important choice when reviewing students' code. Finally, we discuss how instructors can build a reference bank of generated solutions before releasing an assignment to identify tasks on which generated solutions converge, decide how much review a match warrants, and redesign tasks to elicit tests, reasoning, and intermediate work. These findings support tracking population-level changes in submitted code, while attributing AI use to an individual submission would require additional evidence about how it was produced, such as prompts, revisions, intermediate code, and student disclosures.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "_Brief could not be synthesized due to an API error._ (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}})",
+  "synthesis_metadata": {
+    "model": "none",
+    "generated_at": "2026-10-03T11:31:05.348059+00:00"
+  }
+}
