@@ -1,0 +1,571 @@
+{
+  "updated_at": "2026-10-05T11:30:25Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2610.03707v1",
+        "title": "Quantitative Gowers uniformity of the primes in intervals of length $X^{5/8+\\varepsilon}$",
+        "url": "https://arxiv.org/abs/2610.03707v1",
+        "authors": [
+          "Joni Teräväinen"
+        ],
+        "published": "2026-10-02",
+        "summary": "We prove the first quantitative bounds for the Gowers norms of the von Mangoldt function minus a Siegel corrected model function in short intervals. The result applies to intervals $(X,X+H]$ with $H\\geq X^{5/8+\\varepsilon}$ and gives quasipolynomial savings for the $U^k(X,X+H]$ norm. The main new ingredient is an efficient non-abelian Type II inverse theorem with explicit dependence on the nilsequence dimension. We prove this inverse theorem by applying Leng's efficient equidistribution theorem in four parameters directly to an unweighted corner correlation in four variables, hence replacing the factorisation and subgroup argument in the non-abelian Type II proof of Matomäki, Shao, Tao and the author. In joint work with Florian Richter, we use this quantitative result as one ingredient in proving the existence of infinitely many sum-product patterns of the form $\\{x,x+y,xy\\}$ in the shifted primes $\\mathbb{P}-1$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03704v1",
+        "title": "Non-isomorphic graphs have distinct vertex-Ramsey classes",
+        "url": "https://arxiv.org/abs/2610.03704v1",
+        "authors": [
+          "Maria Axenovich",
+          "Patrick Schmitteckert"
+        ],
+        "published": "2026-10-02",
+        "summary": "For a graph $H$, its $k$-colour vertex Ramsey class is the set of all graphs $G$ such that any colouring of the vertices of $G$ in $k$ colours results in a monochromatic (induced) copy of $H$. We prove that for any $k$, Ramsey classes of any non-isomorphic graphs are distinct.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03619v1",
+        "title": "Sturmian beta-shifts do not have typical periodic optimization",
+        "url": "https://arxiv.org/abs/2610.03619v1",
+        "authors": [
+          "Wen Huang",
+          "Oliver Jenkinson",
+          "Leiye Xu",
+          "Yiwei Zhang"
+        ],
+        "published": "2026-10-02",
+        "summary": "A shift space is said to have typical periodic optimization (TPO) if the set of Lipschitz functions whose unique maximizing measure is supported on a periodic orbit contains an open dense subset of the space of Lipschitz functions. We show that beta-shifts whose lexicographically largest point is a Sturmian sequence do not have TPO: on each such beta-shift there is a non-empty open set of Lipschitz functions, all of which have the Sturmian measure as their unique maximizing measure. These are the first known examples of beta-shifts without TPO, and, since they have the specification property, the first known examples of shift spaces with specification but without TPO. The corresponding beta-transformations do not have TPO in any space of Hölder functions on the interval. The main ingredient in the proof of these results is a rigidity property of Sturmian subshifts: modulo constants and Lipschitz coboundaries, the space of Lipschitz functions on such a subshift is one-dimensional.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03612v1",
+        "title": "Signed seeds and G-gradings on cluster algebras",
+        "url": "https://arxiv.org/abs/2610.03612v1",
+        "authors": [
+          "Lauren Williams",
+          "Alan Yan"
+        ],
+        "published": "2026-10-02",
+        "summary": "The theory of cluster algebras is closely connected to the theory of total positivity; indeed, the desire to better understand total positivity was one of the main motivations for Fomin and Zelevinsky's introduction of cluster algebras [arXiv:math/0104151]. In particular, any cluster variety whose coordinate ring has a cluster structure has a natural notion of positive part: the subset of the variety where all cluster variables are positive. In this paper, we explain that there are other signed cells contained in cluster varieties that are equally natural from a cluster-theoretic point of view. These come from signed seeds, which can be thought of as a $\\mathbb{Z}/2\\mathbb{Z}$-grading on cluster variables, and which were introduced in [arXiv:2310.17727] in the context of the amplituhedron. More generally, given any abelian group $G$, we introduce the notion of a $G$-graded seed for a cluster algebra, which is a way of assigning elements of $G$ to each cluster variable which is compatible with the cluster structure. When $G$ is the multiplicative group $\\{-1, 1\\}$, this recovers the above notion of signed seed; when $G = \\mathbb{C}^*$, this recovers the notion of cluster automorphism group [GSV10] or cluster dilation group [arXiv:2603.17890]; and when $G = \\mathbb{Z}^d$, this recovers the notion of graded cluster algebra studied by Grabowski-Launois [arXiv:1301.2133], Grabowski [arXiv:1309.6170] and Gekhtman-Shapiro-Vainshtein [GSV10, Section 5.2] (which had previously appeared in special cases in work of Fomin-Zelevinsky [arXiv:math/0602259]). The examples we study include the space of square matrices, symmetric matrices, skew-symmetric matrices, positroid varieties, and amplituhedron tiles. We also connect this notion to tropical mutation when $G = \\mathbb{R}$ or $\\mathbb{Z}$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03611v1",
+        "title": "Counting Hamiltonian Sturm permutations: generating functions and Gaussian distributions",
+        "url": "https://arxiv.org/abs/2610.03611v1",
+        "authors": [
+          "Bernold Fiedler",
+          "Carlos Rocha"
+        ],
+        "published": "2026-10-02",
+        "summary": "Our combinatorial analysis is motivated by the PDE dynamics \\begin{equation} \\mathbf{u_t} = \\mathbf{u_{xx}} + \\mathbf{g}(\\mathbf{u}),\\qquad 0<\\mathbf{x}<1, \\end{equation} of solutions $\\mathbf{u}=\\mathbf{u}(\\mathbf{t},\\mathbf{x}),\\ \\mathbf{t}\\geq 0$, under Neumann boundary conditions. For dissipative nondegenerate nonlinearities $\\mathbf{g}$, the global attractors $\\mathcal{A}=\\mathcal{A}_\\mathbf{g}$ of the PDE can then be classified by the orderings of their $2n+1$ equilibria $\\mathbf{v}$ at the boundaries $\\mathbf{x}=0,1$. We encode the boundary orders as Hamiltonian Sturm permutations. The name ''Sturm'' refers to nodal properties of PDE solutions $\\mathbf{u}(\\mathbf{t},\\mathbf{x})$. ''Hamiltonian'' refers to the second order pendulum ODE for equilibria $\\mathbf{v}(\\mathbf{x})$: \\begin{equation} 0 = \\mathbf{v_{xx}} + \\mathbf{g}(\\mathbf{v}). \\end{equation} We determine the generating function $a(z)=\\sum_n a_nz^n$ for the counts $a_n$ of Hamiltonian Sturm permutations. For $n\\rightarrow\\infty$, this provides explicit asymptotics of $a_n$. We refine these counts as $a_n=\\sum b_{rq}$. Here $b_{rq}$ counts Hamiltonian Sturm permutations with $2r+1$ spatially homogeneous equilibria and $2q$ spatially non-homogeneous equilibria, such that $r+q=n$. We also determine the explicit generating function $b(x,y)=\\sum_{r,q} b_{rq}x^ry^q$. This implies asymptotically Gaussian distributions of the probabilities $p_{nr}=b_{rq}/a_n$ with $r+q=n$, asymptotically for large $n$. We derive asymptotics for means and variances, with error estimates of order $1/n$. All asymptotics are based on work by Flajolet and Sedgewick. We conclude with numerical illustrations and remarks on nonlinearities $\\mathbf{g}(\\mathbf{u},\\mathbf{u_x})$ under periodic boundary conditions $\\mathbf{x}\\in\\mathbb{S}^1=\\mathbb{R}/2\\mathbb{Z}$, where rotating waves arise.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03579v1",
+        "title": "On the Average Sizes of Ideals and Antichains in Some Infinite Families of Posets",
+        "url": "https://arxiv.org/abs/2610.03579v1",
+        "authors": [
+          "Miklos Bona",
+          "Ricardo Gomez Aiza"
+        ],
+        "published": "2026-10-02",
+        "summary": "We study the average sizes of ideals and antichains in several families of posets arising from rooted unlabeled trees. For ideals, we encode order ideals by coloring vertices red, with the condition that every descendant of a red vertex is also red. Using generating functions and singularity analysis, we show that for every family governed by a quadratic root decomposition, the average number of red vertices in a tree of size $n$ is asymptotic to $n/3$. This includes binary plane trees, plane 1-2 trees, plane 2-trees, and 0-1-trees, while unrestricted rooted plane trees instead have average ideal size asymptotic to $2n/5$. For antichains, represented by pairwise incomparable blue vertices, the corresponding asymptotic constants depend on the particular branching function; for example, binary plane trees have average antichain size asymptotic to $n/6$. We also consider plane trees in which every vertex has at most $k$ children and prove that the asymptotic proportion of red vertices increases strictly with $k$, from $1/3$ when $k=2$ to the limiting value $2/5$ for unrestricted rooted plane trees. The proofs are based on bivariate generating functions together with the analytic implicit-function and smooth implicit-function methods of analytic combinatorics.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03559v1",
+        "title": "Grid Theory and Polynomiality in Dynamic Lot-Sizing",
+        "url": "https://arxiv.org/abs/2610.03559v1",
+        "authors": [
+          "El-Mehdi Mehiri",
+          "Nabil Absi",
+          "Elodie Suzanne"
+        ],
+        "published": "2026-10-02",
+        "summary": "Why are some dynamic lot-sizing problems polynomial? We address this question by introducing Grid Theory, a structural framework based on cumulative production and the additive structure of production bounds. For a general single-item dynamic lot-sizing model with lower and upper production bounds, there exists an optimal extreme solution in which, within each regeneration interval, all but at most one production quantity lie on a boundary value. This induces additive grids, and the Main Grid Theorem establishes that an optimal cumulative production trajectory can be restricted to these discrete sets. Although the resulting grids may be exponentially large, we introduce the notion of additive dimension to capture production-bound profiles whose boundary sums admit a low-dimensional representation. We show that bounded additive dimension yields a polynomially constructible grid envelope and a polynomial time grid-based dynamic programming algorithm. The framework extends to separable concave costs and establishes polynomial solvability of several families, including constant capacities, minimum order quantities, a fixed number of capacity levels, fixed-degree polynomial capacities, periodic capacities, and piecewise polynomial capacities. In particular, polynomiality may hold even when the number of distinct capacity values grows with the planning horizon. Grid Theory thus identifies additive structure, rather than the number of distinct resource values, as a sufficient mechanism for polynomial solvability.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03550v1",
+        "title": "Counterexamples to the Strong Roberson Conjecture",
+        "url": "https://arxiv.org/abs/2610.03550v1",
+        "authors": [
+          "Arnar Á. Kristjánsson"
+        ],
+        "published": "2026-10-02",
+        "summary": "We refute the Strong Roberson Conjecture, which asserts that adding any graph outside a class closed under minors and disjoint unions strictly increases the distinguishing power of homomorphism counts from that class. More precisely, we construct connected graphs $H$ for which counts from graphs excluding $H$ as a minor determine the number of homomorphisms from $H$ to any target graph. We also refute the analogous conjecture with immersions in place of minors. We give explicit infinite families of excluded graphs, including cubic bipartite graphs that yield counterexamples for both relations. The proof introduces a method for deriving exact homomorphism count dependence from modular equivalences. We obtain these equivalences for infinitely many primes using prime-order automorphisms of graphs that exclude their orbit quotients as minors or immersions.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03517v1",
+        "title": "Geometric triangle-free graphs of large chromatic number",
+        "url": "https://arxiv.org/abs/2610.03517v1",
+        "authors": [
+          "István Tomon"
+        ],
+        "published": "2026-10-02",
+        "summary": "We present several geometric constructions of triangle-free and large girth families of graphs with rapidly growing chromatic numbers. 1. We construct a triangle-free intersection graph of $n$ boxes in $\\mathbb{R}^3$ with independence number $n(\\log n)^{-1+o(1)}$, and thus chromatic number $(\\log n)^{1-o(1)}$. This is the first improvement over the double logarithmic lower bound of Burling from 1965, and almost matches the best known upper bound $O(\\log n)$. Moreover, the bound $o(n)$ on the independence number answers a question of Walczak. 2. We prove that if there exists a unit distance graph in $\\mathbb{R}^d$ of chromatic number $r$, then there also exists an induced unit distance graph in $\\mathbb{R}^d$ of girth at least $g$ and the same chromatic number. Thus, the problem of determining the maximum chromatic number of unit distance graphs with any prescribed lower bound on the girth reduces entirely to the unrestricted problem, thereby strengthening a long line of results. 3. We construct an intersection graph of $n$ lines in $\\mathbb{R}^3$ with girth at least $g$ and chromatic number $Ω_g((\\log n)^{1-o(1)})$. This quantitatively improves a construction of Davies. 4. We construct a set of $n$ circles in the plane such that the tangency graph of the circles has girth at least $g$ and chromatic number $Ω_g((\\log n)^{1-o(1)})$. This quantitatively improves the result of Davies, Keller, Kleist, Smorodinsky, and Walczak, and provides an alternative solution of Ringel's circle problem. 5. We construct triangle-free ordered graphs on $n$ vertices avoiding a fixed ordered path of length three as an induced subgraph, and having chromatic number $n^{Ω(1/\\log \\log n)}$. This is motivated by ordered analogues of the Gyárfás-Sumner conjecture.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03499v1",
+        "title": "Explicit second moments of symplectic Siegel transforms",
+        "url": "https://arxiv.org/abs/2610.03499v1",
+        "authors": [
+          "Kristian Holm",
+          "Seungki Kim"
+        ],
+        "published": "2026-10-02",
+        "summary": "We give two alternate formulations for the second moment formula of the Siegel transform over $\\mathrm{Sp}(2n, \\mathbb{Z}) \\backslash \\mathrm{Sp}(2n,\\mathbb{R})$, originally established by Kelmer and Yu. We also provide several applications that demonstrate their usefulness.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03477v1",
+        "title": "Partitioning an $S$-packing coloring into broadcast dominating sets",
+        "url": "https://arxiv.org/abs/2610.03477v1",
+        "authors": [
+          "Boštjan Brešar",
+          "Jasmina Ferme",
+          "Wenjie Hu"
+        ],
+        "published": "2026-10-02",
+        "summary": "Given a graph $G$ and a positive integer $k$, a packing $k$-domatic coloring of $G$ is a function $f: V(G) \\to \\{1,\\ldots,t\\}$ such that (1) for any color $j \\in \\{1,\\ldots, t\\}$ and any two distinct vertices $u,v\\in V(G)$ with $f(u)=f(v)=j$ we have $d_G(u,v)>j$, and (2) $V(G)$ admits a partition into $k$ sets $A_1,\\ldots,A_k$ such that for any $v\\in V(G)$ and any $i\\in\\{1,\\ldots,k\\}$ there exists a vertex $w\\in A_i$ such that $d_G(v,w)\\le f(w)$. The minimum integer $t$ such that $G$ admits a packing $k$-domatic coloring of $G$ using colors in $\\{1,\\ldots,t\\}$ is denoted by $χ_{ρ,k}(G)$. The condition (1) in the definition of a packing $k$-domatic coloring implies that $G$ is a packing coloring, hence $χ_{ρ,k}(G)\\ge χ_ρ(G)$ holds for any graph $G$, where $χ_ρ(G)$ is the packing chromatic number of $G$. On the other hand, the new concept also leads to a generalization of the domatic number of a graph due to which one can easily see that $χ_{ρ,2}(G)=χ_ρ(G)$ holds for any graph with no isolated vertices. One of the main result in this paper is that $χ_{ρ,3}(G)=χ_ρ(G)$ holds in any connected graph $G$ with minimum degree at least $2$, and the bound is best possible in two different senses. In addition, we provide several exact values and bounds on the new invariant in paths and cycles. We prove that $χ_{ρ,k}(P_n)=k$ for any $k\\in\\{3,4,5\\}$ as soon as $n\\ge 8$, and, in contrast, $χ_{ρ,k}(P_n)>k$ for any $n\\ge k\\ge 12$. We also prove the exact values of $χ_{ρ,k}(P_\\infty)$ when $k\\in \\{3,4,5\\}$ for the two-way infinite path $P_\\infty$, and exact values of $χ_{ρ,k}(C_n)$ when $k\\in\\{3,4\\}$ for all cycles $C_n$. We also consider a general framework of $S$-packing $k$-domatic colorings, where $S$ is an arbitrary sequence of non-negative integers, and present some basic results in this context.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03471v1",
+        "title": "On the Spectra of Generalized Token Graphs of Stars",
+        "url": "https://arxiv.org/abs/2610.03471v1",
+        "authors": [
+          "Cristina Dalfó",
+          "Miquel Àngel Fiol",
+          "Berenice Martínez-Barona",
+          "Xiaodi Song"
+        ],
+        "published": "2026-10-02",
+        "summary": "In the generalization of token graphs (or supertoken graphs), the vertices of a $k$-token graph of a graph $G$ correspond to $k$ distinguishable or indistinguishable tokens placed on $k$ different or equal vertices of $G$. In several cases, we provide the whole spectrum of a supertoken graph of a star by analyzing its regular partitions.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03464v1",
+        "title": "Schur positivity of three-legged spiders",
+        "url": "https://arxiv.org/abs/2610.03464v1",
+        "authors": [
+          "David G. L. Wang",
+          "Watson Z. Y. Wang"
+        ],
+        "published": "2026-10-02",
+        "summary": "We give a complete classification of Schur positivity for three-legged spiders. Every spider with at least two even legs is Schur positive, whereas every spider with three odd legs has a negative Schur coefficient. If $a$ is even and $b,c$ are odd, then the spider $S(a,b,c)$ is Schur positive if and only if $a\\le 5b+5c+2$. Whenever Schur positivity fails, there is exactly one negative Schur coefficient, whose value we determine explicitly. These results extend those of Thibon and Wang for the families $S(a,2,1)$ and $S(a,4,1)$, and those of Wang and Wang for $S(a,b,2)$. The proof combines known Schur-positivity results for clique-spiders with Pieri's rule and simultaneous induction.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03442v1",
+        "title": "Hausdorff dimension for exactly approximable matrices",
+        "url": "https://arxiv.org/abs/2610.03442v1",
+        "authors": [
+          "Yubin He",
+          "Bixuan Li",
+          "Baowei Wang"
+        ],
+        "published": "2026-10-02",
+        "summary": "We establish the Hausdorff dimension for exactly approximable matrices for all dimensions, including the inhomogeneous case. More precisely, let $ψ:\\N\\to(0,\\infty)$ be a non-increasing approximation function and let $τ_ψ$ denote its lower order. For $m,n\\ge1$ and $\\boldsymbolθ\\in\\mathbb R^m$, denote $\\Exact_{m,n}(ψ,\\boldsymbolθ)$ the set of $m\\times n$ matrices that are $ψ$-approximable with shift $\\boldsymbolθ$, but are not $cψ$-approximable for any $0<c<1$. It is shown that \\[ \\hdim \\Exact_{m,n}(ψ,\\boldsymbolθ)=m(n-1)+\\frac{m+n}{1+τ_ψ},\\ \\ \\ {\\text{for}}\\ τ_ψ>\\frac{n}{m}. \\] We adopt a probabilistic viewpoint, i.e. by an averaged counting argument to quantify the distribution of rational vectors and subspaces $$\\left\\{\\frac{\\mathbf p+\\boldsymbolθ}{q}: (\\mathbf p, q)\\in \\mathbb{Z}^{m+1}\\right\\},\\ \\ \\ \\bigg\\{\\big\\{A\\in \\Mat_{m, n}(\\R): A\\mathbf q-\\mathbf p-\\boldsymbolθ=0\\big\\}: (\\mathbf p, \\mathbf q)\\in \\mathbb{Z}^{m+n}\\bigg\\}.$$",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03437v1",
+        "title": "$k$-Pairing: A Generalization of the Partition Pairing Theorems",
+        "url": "https://arxiv.org/abs/2610.03437v1",
+        "authors": [
+          "Xiaorui Niu",
+          "Diane Y. H. Shi"
+        ],
+        "published": "2026-10-02",
+        "summary": "We extend the partition pairing theory of Andrews and Dastidar by replacing pairs with groups of $k$ equal parts. Two weight-preserving bijections give combinatorial interpretations of the joint pairing index--width distribution and the negative-rank enumerations. The first combines conjugation with the Stockhofe--Keith correspondence and sends the $k$-pairing index and width to the number of parts and the largest part, respectively. Consequently, their joint distribution is independent of $k$ and is given by a Gaussian polynomial. We also obtain finite refinements that record the residual statistics. The second bijection sends simply $k$-paired partitions of negative $k$-pairing rank to $k$-regular partitions with marked internal gaps. In a fixed nonzero residue class, sign cancellation leaves rectangular partitions, while gap markings correspond to overlining choices with the smallest part not overlined. This gives direct combinatorial explanations of the divisor counts and the factor $1/2$ in the overpartition enumeration, extending the odd-divisor and odd-overpartition results of Andrews and Dastidar. Finally, motivated by the diagonal pairing of Andrews and Dastidar, we extend the construction to ordered tuples of $k$ Young diagrams. Applying the two-wing transfer operation to pairs of component diagrams defines an equivalence relation on these tuples. We show that two tuples are equivalent if and only if they have the same cell-multiplicity function, and that every equivalence class contains a unique representative whose component diagrams are nested. We also determine the cardinalities of the equivalence classes and identify the nested representatives with plane partitions of rectangular shape.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2610.03345v1",
+        "title": "Symbolic Execution of Constrained Horn Clauses",
+        "url": "https://arxiv.org/abs/2610.03345v1",
+        "authors": [
+          "Johannes Weiser",
+          "Zafer Esen",
+          "Philipp Rümmer"
+        ],
+        "published": "2026-10-02",
+        "summary": "Constrained Horn clauses (CHCs) are a fragment of first-order logic widely used as an intermediate language for verification. We study constrained resolution as a calculus for reasoning about the satisfiability of sets of CHCs. Constrained resolution forms a simple alternative to model checking algorithms such as CEGAR and IC3 and is here shown to exhibit complementary features. We show that, when CHCs encode programs, forward symbolic execution corresponds to positive unit hyper-resolution, and backward symbolic execution to SLD resolution, which are special cases of constrained resolution. We formalize forward and backward reasoning for linear and non-linear CHCs and transition systems, prove refutational completeness under fair strategies, and develop subsumption criteria for pruning redundant derivations. We moreover show that backward resolution with subsumption generalizes $k$-induction to non-linear CHCs, and that forward constrained resolution is related to the problem of constructing proofs in incorrectness logic. Lastly, we provide an experimental evaluation in the Eldarica CHC solver on benchmarks from CHC-COMP.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03008v1",
+        "title": "Response Variability and Stability in Human Reasoning",
+        "url": "https://arxiv.org/abs/2610.03008v1",
+        "authors": [
+          "Clemens Bombach",
+          "Rajmadan Lakshmanan",
+          "Marco Ragni"
+        ],
+        "published": "2026-10-02",
+        "summary": "Understanding how humans reason -- and how reasoning responses vary across tasks and individuals -- remains a core challenge for modeling and explanation in cognitive science. We investigate the stability of response patterns within reasoners and whether variation in these patterns can be used to predict learning effects. We introduce a formal, geometry-based method to quantify distances between individual reasoning patterns and their internal variability, grounded in heuristic theories. The proposed framework is tested against experimental data via generalized linear mixed-effects models and clustering, where we find that our proposed variation measure interacts with correctness to predict performance gains. Moreover, we find that reasoning patterns are stable over time within the same reasoner. The method is general enough to be applied to other reasoning domains.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02973v1",
+        "title": "An Applicative Multiset Path Order (Extended Version)",
+        "url": "https://arxiv.org/abs/2610.02973v1",
+        "authors": [
+          "Nao Hirokawa",
+          "Teppei Saito",
+          "Teppei Tanaka",
+          "Wataru Yachi"
+        ],
+        "published": "2026-10-02",
+        "summary": "We present a variant of the multiset path order for untyped applicative term rewriting. Compared to existing work, our variant incorporates two distinctive features, dubbed arity assignment and reification, to overcome difficulties in handling partial and variable application.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02814v1",
+        "title": "VeriPy Source-Preserving Verification and Compatibility Checking for Python Components",
+        "url": "https://arxiv.org/abs/2610.02814v1",
+        "authors": [
+          "Naing Oo Lwin"
+        ],
+        "published": "2026-10-02",
+        "summary": "Keeping a Python program and its formal guarantees aligned is a continuing maintenance problem. Specifications must describe the implementation that actually runs, and updates must preserve the behavior on which existing callers depend. VeriPy brings these obligations into a common workflow for annotated Python components. Developers and agents express contracts, invariants, and proof hooks as Python comments, then refine checked auxiliary lemmas using source-located diagnostics. Direct encoders produce Dafny or Lean artifacts while retaining admitted executable bodies and explicit models of their dependencies. A relational product checks whether an updated component still admits old inputs and preserves returned values and modeled exceptions. The resulting workflow connects source-level proof development with functional verification and backward compatibility, recording the assumptions under which each guarantee applies. The code is available at https://github.com/astrio-labs/veripy.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02792v1",
+        "title": "Law And Order: Tax Law Autoformalization",
+        "url": "https://arxiv.org/abs/2610.02792v1",
+        "authors": [
+          "Sophia Simeng Han",
+          "Yoshiki Takashima",
+          "Anjiang Wei",
+          "Zhaoyu Li",
+          "Michael Genesereth"
+        ],
+        "published": "2026-10-02",
+        "summary": "Legal systems are increasingly implemented through software, yet scalable methods for translating legal texts into accurate symbolic representations remain underdeveloped. We study this problem through tax law, where forms and filing instructions define large computational structures involving arithmetic, branching, recursion, and tabular reasoning. We propose Law&Order, a neuro-symbolic framework for automatically formalizing tax forms and instructions into executable symbolic programs. Our approach establishes two forms of correspondence between law and logic: structural correspondence, which aligns legal and symbolic components such as cells and schedules, and denotational correspondence, which requires symbolic components to implement the computations specified by their legal counterparts. We combine large language model synthesis with cell-level verification and iterative localized error repair using human-written OpenTaxSolver tax returns. We then evaluate the resulting formalizations on independently authored, held-out TaxCalcBench returns, that are never exposed during generation or repair. Although the most advanced LLM achieves only 66% accuracy, Law&Order achieves 100% cell-level and form-level accuracy on 51 held-out returns, demonstrating the effectiveness of combining LLM-based synthesis with symbolic verification for scalable and verifiable large-scale legal autoformalization compared with using an LLM alone.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02683v1",
+        "title": "RAOA: Alternating-Operator Neural Computation with Programmable Radio Propagation",
+        "url": "https://arxiv.org/abs/2610.02683v1",
+        "authors": [
+          "Toshiaki Koike-Akino"
+        ],
+        "published": "2026-10-02",
+        "summary": "Can programmable radio propagation serve as computational depth rather than only as a communication channel or one-shot analog transform? We introduce the Radio Alternating Operator Ansatz (RAOA), a recurrent computing architecture that alternates an energy-derived problem update with a mixing update over a persistent latent state. Recomputing the problem field after each mix makes repeated passes compositional even when the same learned controls are reused across depth. We evaluate this idea through exact discrete optimization, constrained programmable-propagation simulation, and pretrained-model adaptation. On discrete objectives, repeated execution can improve solution quality without increasing the learned-control count, and the same formulation handles higher-order interactions directly. A passive phase-only free-space model further shows that the required operators can be approximated by programmable propagation while retaining useful downstream behavior despite realization error. When inserted as a zero-initialized residual adapter, RAOA adapts pretrained language models with WikiText performance close to a matched shallow MLP across three model families, while reasoning-task transfer remains model-dependent. Together, these results connect alternating-operator computation, programmable radio propagation, and neural adaptation within one recurrent framework. The RF realization evidence is simulation-based rather than a hardware demonstration.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02525v1",
+        "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Research Agents",
+        "url": "https://arxiv.org/abs/2610.02525v1",
+        "authors": [
+          "Ankur Samanta",
+          "Yonathan Efroni",
+          "Paul Sajda",
+          "Kaveh Hassani",
+          "Anirudh Goyal"
+        ],
+        "published": "2026-10-01",
+        "summary": "Long-horizon research agents must decide both how to investigate and what to investigate next as evidence accumulates. This is hard to learn because such decisions are sparse in long execution traces, and their consequences may emerge several investigations later. We introduce Meta-reasoning for Iterative Research Agents (MIRA), a hierarchical architecture separating research allocation from execution. An outer-loop meta-reasoner curates context from a persistent research record, then writes a work order for the next investigation or ends the episode. A fresh inner-loop executor carries out each work order, making execution part of the transition between meta-reasoning actions. Without policy training, MIRA improves long-horizon inference and allocates additional compute more effectively in theorem proving and open-ended neural-architecture research. Its decision boundaries also provide natural units for credit assignment. At each boundary, we train a generative critic to forecast expected remaining return from partial states, outperforming token-level alternatives. Cross-environment pretraining improves forecasting and adaptation, yielding a transferable prior for valuing partial progress. We use this prior to initialize MIRA-AC, a generative actor-critic jointly trained to forecast remaining return and choose the next investigation, without a separate critic model. MIRA-AC concentrates policy optimization on meta-reasoning decisions, enabling efficient long-horizon reinforcement learning without directly optimizing the longer execution traces they initiate. Training MIRA-AC on the model's own proxy hill-climbing signals improves gold performance across four autoresearch environments; the actor transfers with cross-environment value initialization. Together, these results show that meta-reasoning can be learned as an explicit policy for directing long-horizon autonomous research.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02500v1",
+        "title": "Proving at Scale for Universal Algebra",
+        "url": "https://arxiv.org/abs/2610.02500v1",
+        "authors": [
+          "João Araújo",
+          "Jan Hůla",
+          "Mikoláš Janota",
+          "Edmond W. H. Lee",
+          "Bartosz Naskręcki"
+        ],
+        "published": "2026-10-01",
+        "summary": "We introduce SemiBase, a project that computes and formally certifies finite identity bases for small semigroups. Deciding finite basability is undecidable for finite algebras and remains open for finite semigroups. The task requires a proof that a candidate basis is complete, or a proof that none exists, rather than a single first-order validity query. LLM-guided agents search for these proofs; a referee agent rebuilds them from source, and the Lean kernel checks the resulting corpus in a final audit. Humans choose targets and approve final outcomes. We certify every semigroup of order at most 6: all 1309 semigroups of order at most 5 and all 15973 of order 6, including proofs that the four known nonfinitely based semigroups have no finite basis. The bases for order 6 define 505 distinct varieties, whose inclusion order Vampire determines except for four pairs. The resulting catalogue is a machine-checked account of results scattered across the literature and a tested foundation for order 7.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02287v1",
+        "title": "Premonoidal Semantics and Scalable Diagrammatics of Fermionic Quantum Computing",
+        "url": "https://arxiv.org/abs/2610.02287v1",
+        "authors": [
+          "Thomas Perez",
+          "Titouan Carette"
+        ],
+        "published": "2026-10-01",
+        "summary": "Local fermionic mode (LFM) based quantum computation has pure state spaces that are isomorphic, via the Jordan-Wigner representation, to qubit state spaces, but its compositional structure is subtly different. Indeed, the algebraic formalism specifying how to embed fermionic systems underlies a notion of parallel composition, for which, in general, the usual interchange law of monoidal categories fails. We give a categorical account of this phenomenon. Starting from the CAR-algebraic semantics of fermionic gate application, we show that LFM processes form a symmetric premonoidal category whose centre is precisely the even, parity-preserving subcategory. The same processes can alternatively be organized with the ordinary tensor product and a fermionic presymmetry that is natural exactly on even maps. To reason diagrammatically in this latter presentation, we introduce pronaps, a relaxation of the notion of prop, in which permutations are not-necessarily-natural, and use them to organize a hierarchy of fragments of the fermionic ZW calculus relevant to the study of fermionic circuits on physically motivated gate-sets. We then extend scalable diagrammatic notation to pronaps. In this setting, syntactic sugars inspired by SZX and GSA are defined, with the specificity that matrix arrows encode minors and determinants, while graph triangles encode pfaffians of principal submatrices. These constructions yield elegant normal forms and completeness proofs for our presentations of the EoW, FoW, EW, and FW fragments. In particular, the FW presentation gives a new normal form for the matchgate fragment, distinct from the rWGS-X normal form of the planar-W (pW) presentation of the same category. The resulting framework connects fermionic circuit semantics, diagrammatic rewriting with scalable notations, and the algebra of determinants and pfaffians.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2610.03639v1",
+        "title": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
+        "url": "https://arxiv.org/abs/2610.03639v1",
+        "authors": [
+          "Rubén Manrique",
+          "Michelle Castellanos",
+          "Jorge Morales",
+          "Juan David Gutiérrez",
+          "Antonio Barreto Rozo",
+          "Joaquín Vélez Navarro"
+        ],
+        "published": "2026-10-02",
+        "summary": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian legal system. The benchmark comprises 1,042 items spanning ten areas of law and three question formats (closed multiple-choice, semi-open, and open-ended IRAC), built through a human-in-the-loop pipeline with multi-stage expert review. We evaluate 15 contemporary proprietary and open-weight models with format-appropriate metrics. Accuracy on closed questions ranges widely, from 0.905 (Gemini 3.1 Pro) to 0.577, but on free-text legal answers factual correctness never exceeds 0.45 (on a 0-1 scale) for any model. We find a dissociation between answer relevancy and correctness (Spearman rho = -0.46): models reliably sound responsive while frequently being wrong, a pattern of particular concern for non-expert users. Closed-question accuracy and free-text correctness are strongly rank-correlated (rho = 0.94), so cheap multiple-choice screening predicts model ranking but overstates absolute reliability. An independent rubric-based LLM judge and blind human expert scoring both reproduce the free-text ranking (rho >= 0.88). The judge further reveals that only about half of the norms models cite are correct; the rest are wrong or non-existent. Reliability varies systematically by legal area and follows an inverted-U across question complexity. Our results indicate that current LLMs require expert supervision for Colombian legal tasks, and that grounding answers in authoritative sources is a promising path to higher reliability. We release the benchmark construction pipeline to support reproducible evaluation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03443v1",
+        "title": "Still funded, no longer counted: how NIH's 2025 award reviews changed what the government counts as minority health research",
+        "url": "https://arxiv.org/abs/2610.03443v1",
+        "authors": [
+          "Fangfang Xie",
+          "Jingwen Zhang",
+          "Haining Wang"
+        ],
+        "published": "2026-10-02",
+        "summary": "Funders know their portfolios through software that classifies award text. The US National Institutes of Health (NIH) reports its spending in more than 300 categories mined this way, and work on classification and indicators treats the text as the applicant's to write. In 2025 NIH required \"DEI language\" removed from awards not supporting DEI activities, and so policed the words it also counts. We followed population names through 37,790 continuing awards, checking them against practice records. Names were informative: in new awards with trial baselines, a title naming Black populations predicted a 60-percentage-point higher enrolled share. Text features predicted which names survived, and practice records added little. NIH's minority health category followed the names: of continuing projects carrying it, 99.4% with unchanged summaries kept it, against 15.7% of those whose summaries no longer named a racial or ethnic population, while the projects kept their funding. Blinded reviewers judged 42 of a random 50 such losses to have met its definition in FY2024. Comparing both summaries of 70 name losses, they found aims concerning the population recast in 49. Read alone, 63 FY2025 summaries no longer met the definition. Awards naming sexual and gender minorities were recorded as terminated 37.8 points more often after adjustment for listed terms, institute and activity. We call the mechanism word targeting, its boundary population targeting, and its product uncounted science: funded research the count no longer records. The count followed the edited text, and the edited record cannot say whether the research changed with it.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03440v1",
+        "title": "Quantifying Ethereum Energy Consumption via Network Mapping",
+        "url": "https://arxiv.org/abs/2610.03440v1",
+        "authors": [
+          "Yahn Costa Hackspacher",
+          "Cornelius Ihle",
+          "Vasundhara Shaw",
+          "Dennis Trautwein",
+          "Geerd-Dietger Hoffmann",
+          "Bela Gipp",
+          "Moritz Schubotz"
+        ],
+        "published": "2026-10-02",
+        "summary": "Ethereum's electricity use fell by about 99.95% after the move from proof of work to proof of stake. Service providers still need to report operational energy use, e.g. under the EU Markets in Crypto-Assets Regulation (MiCAR). Existing estimates either apply one typical wattage to every node or start from aggregated monitoring counts. Both ignore attributes that nodes already advertise on the peer-to-peer network: client software, ARM or x86 hardware, hosting location, and validator role. We crawl the consensus and execution layers, assign each peer a wattage from those attributes using published measurements, and estimate the remaining incomplete peers with a Random Forest. On 6,934 peers from two Nebula crawls (19 and 22 June 2026), reachable nodes sum to 415 kW, or 3.63 GWh if that draw were held for a year. The same Lighthouse+Nethermind x86 wattage on every peer yields 431 kW. Observed attributes lower the total by 3.9%, mainly because nodes at Hetzner and other non-AWS clouds draw less than that home-desktop figure. AWS accounts for 15.6% of watts from 12.2% of peers, and validator-flagged nodes for 31.4% of watts from 25.7% of peers. The 415 kW snapshot is about 46% of the Cambridge Centre for Alternative Finance (CCAF) estimate of about 0.90 MW. Both use about 60 W per node, so the gap is mostly how many nodes each estimate includes. Rules cover 3,110 peers and the forest the other 3,824. On held-out labeled peers with client, architecture, and OS hidden, the forest's mean absolute error against the rule wattage is 4.3 W. Twenty-four-hour measurements on a gaming desktop differ from the predictions. After subtracting a 33 W idle graphics card that Ethereum clients do not need, both differences fall to about 19%.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03392v1",
+        "title": "The Plan Language of a Curriculum: A Formal Model and the Complexity of Degree Planning",
+        "url": "https://arxiv.org/abs/2610.03392v1",
+        "authors": [
+          "Sherzod Turaev",
+          "Mary John",
+          "Mamoun Awad"
+        ],
+        "published": "2026-10-02",
+        "summary": "We model an academic curriculum as a generator of a language of feasible study plans: prerequisites are monotone Boolean formulas in conjunctive normal form, degree requirements are credit-threshold covering constraints, and a study plan is a sequence of terms bounded by a per-term credit capacity. Within this model, we settle the complexity of the two natural planning objectives, the number of terms to a degree and the total credit load, and we isolate the structural commitment responsible for each source of hardness. Time to degree is polynomial whenever the per-term capacity is unbounded, for arbitrary disjunctive prerequisites and arbitrary electives, so disjunction never contributes to its hardness, yet it becomes strongly NP-hard as soon as capacity binds, even without any prerequisite. Load is complementary: disjunction and overlapping electives are each strongly NP-hard in isolation and their complexity does not depend on capacity, while load is polynomial on the conjunctive, mandatory fragment. The two objectives therefore have disjoint sources of hardness. We show that the delay-factor component of the standard curricular-complexity metric is a polynomially computable upper bound on time to degree, exact on the conjunctive fragment and loose elsewhere by a quantity we name the disjunctive slack, and we prove that program subsumption is coNP-complete and consensus prerequisite recovery is NP-complete. Instantiating the model on a corpus of twenty-two universities, we find that 88 percent of prerequisite-bearing courses are purely conjunctive and that capacity, not prerequisite logic, is the operative constraint on time to degree. The curriculum corpus is openly available (https://doi.org/10.5281/zenodo.22334674), and the analysis and figure-generation code accompany the paper.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03334v1",
+        "title": "A population-level assessment framework for flood-related wellbeing from public discourse in Ireland",
+        "url": "https://arxiv.org/abs/2610.03334v1",
+        "authors": [
+          "Róisín Luo",
+          "Karyn Morrissey"
+        ],
+        "published": "2026-10-02",
+        "summary": "\\ textbf{Background.} Ireland's position on the eastern North Atlantic exposes it to moisture-laden westerlies and frequent low-pressure systems, generating abundant precipitation and substantial pluvial and fluvial flood risk. Climate change is intensifying heavy rainfall and compound flood risk, with consequences extending beyond physical damage and conventional economic indicators. \\ textbf{Method.} We present a framework for assessing flood-related wellbeing from unobtrusive public discourse over time. The framework develops an assessment instrument comprising three complementary constructs: \\emph{distress}, \\emph{functional disruption}, and \\emph{institutional alienation}, capturing flood-related impacts on affective appraisal, daily functioning, and social and institutional connectedness. To enable population-scale analysis of complex cognitive and psychological responses, we develop a dedicated flood-related wellbeing reasoning model (\\textsc{Wellbeing-Former}) that reads evidence of flood-related wellbeing, assigns evidence-grounded scores, and produces transparent rationales. \\textbf{Data, Results \\& Implications.} Using the research platform \\textsc{MCL} (Meta Content Library), we construct a flood-related discourse dataset by querying posts from Ireland containing the terms \\emph{flood}, \\emph{rain}, and \\emph{storm}. The resulting dataset comprises approximately \\textbf{$224{,}000$} posts produced between 2012 and 2016. We apply the resulting \\textsc{Wellbeing-Former} to this dataset to conduct a population-level analysis. This approach provides temporally sensitive evidence of experienced and anticipated flood impacts, complements survey-based assessment, and supports a multidimensional understanding of wellbeing under climate-related hazards for policy development, adaptation planning, public communication, and decision-making.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03124v1",
+        "title": "The Fragility of Trigger-Tag Mechanisms for Misuse Detection in Open-Weight LLMs",
+        "url": "https://arxiv.org/abs/2610.03124v1",
+        "authors": [
+          "Toluwani Aremu",
+          "Manit Baser",
+          "Mohan Gurusamy",
+          "Nils Lukas",
+          "Dinil Mon Divakaran"
+        ],
+        "published": "2026-10-02",
+        "summary": "Open-weight language models can be downloaded, modified, and deployed beyond their developers' control, limiting the effectiveness of centrally enforced safeguards. Recent work has therefore proposed \\emph{trigger-tag} mechanisms that produce a detectable signal when a model is used under a target condition, such as generating phishing contents. Although these mechanisms borrow from established techniques, their use for conditional misuse detection in open-weight LLMs is relatively new. Therefore, existing research works have not systematically studied the robustness of trigger-tag mechanisms under adversarial attacks. To close this gap, (i)~we formalize trigger-tags and distinguish \\emph{token-level trigger-tags}, which introduce watermark-inspired signals during decoding, from \\emph{weight-level trigger-tags}, which learn backdoor-inspired associations between target conditions and detectable model behavior. Furthermore, (ii)~we introduce \\Untag, a unified attack framework that organizes their mechanism-specific attack surfaces into a common taxonomy. We evaluate representative token-level and weight-level trigger-tags using phishing as a case study. We find that while trigger-tags may provide useful evidence in controlled settings, our attacks render the existing trigger-tag mechanisms to be entirely ineffective. Consequently, we argue that these mechanisms should not be treated as robust misuse detectors when attackers can transform outputs or modify open weights.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03095v1",
+        "title": "Peer Influence across Heterogeneous AI Models",
+        "url": "https://arxiv.org/abs/2610.03095v1",
+        "authors": [
+          "Frida Nøhr Laustsen",
+          "Marie Haahr Petersen",
+          "Victoria Popa",
+          "Ariel Flint",
+          "Romualdo Pastor-Satorras",
+          "Andrea Baronchelli",
+          "Luca Maria Aiello"
+        ],
+        "published": "2026-10-02",
+        "summary": "When two AI agents disagree, who persuades whom? As multi-agent systems increasingly combine language models of different families and sizes, the answer can determine which judgments survive interaction. Measuring persuasion as the probabilistic shift in an agent's decision after a single exchange with a dissenting peer, we test seven open-weight models across three language understanding tasks. We find that persuasion is strong: when models disagree, receivers often abandon their initial judgment after seeing a peer's answer and explanation. Surprisingly, however, neither standalone certainty nor model scale reliably predicts persuasion dynamics. Models producing almost perfectly consistent decisions in isolation can be among the most susceptible to persuasion, and small models can match larger ones as persuaders and resist their influence just as effectively. Furthermore, we show that the size of the shift depends more on the susceptibility of the listener than on the persuasiveness of the speaker. Persuasion patterns are therefore specific to each model pairing, with heterogeneity amplifying persuasion in some combinations and suppressing it in others, allowing a dissenting agent running a small model to overturn the judgments of a much larger one. These findings show that the behavior of interacting models cannot be inferred from their individual properties but must be evaluated in the combinations in which they will operate.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.03025v1",
+        "title": "Verifiable, Articulable, and Tacit Components of Preference",
+        "url": "https://arxiv.org/abs/2610.03025v1",
+        "authors": [
+          "Alexander Spangher",
+          "Sheldon Huang",
+          "Andreas Haupt",
+          "Noah D. Goodman",
+          "Diyi Yang",
+          "Daniel E. Ho",
+          "Sanmi Koyejo"
+        ],
+        "published": "2026-10-02",
+        "summary": "What makes a short story gripping; a news article newsworthy; or a math proof elegant? These constructs resist articulation or verification; their meaning is at least partially tacit. However, modern AI models are improved primarily via articulated constitutions, rubrics and verifiers (i.e. in RLAIF and RLVR); tacit components of preferences are typically understudied. We introduce a large, labeled preference dataset CreativePreferences, containing 2.8M texts labeled by 317M human preference judgments across 7 creative domains, with 42 benchmark tasks. We model these labels with executable programs, rubric banks and densely trained models (V, A and VAT, respectively). We observe robust articulability gaps, VAT-VA; and verifiability gaps, VAT-V; we estimate upper and lower bounds for each gap with a novel measurement approach that discovers articulable and verifiable metrics, identifies spurious variables and estimates the value of undiscovered metrics using capture-recapture. These gaps occur across all domains, even in domains traditionally treated as fully verifiable: correctness-centered domains (i.e. mathematics and software engineering) and claim- and novelty-centric domains (i.e. news, patents, peer review). The size of the gap varies based on domain (e.g. peer review and creative writing have the largest articulability gaps) and widens as more people take part in the judgment, consistent with Collins' collective tacit knowledge. We show two consequences: (1) on human generations, the full model more closely matches human preferences, often in disagreement with articulated criteria, and (2) in an analogy to Goodhart's law, articulating preference shifts it away from the tacit dimension. Articulability and verifiability gaps are consequential; we give recommendations on when tasks can be prompted; how learning mechanisms might improve; and when to leave judgments with humans.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02731v1",
+        "title": "Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education",
+        "url": "https://arxiv.org/abs/2610.02731v1",
+        "authors": [
+          "Jorge Fábrega"
+        ],
+        "published": "2026-10-02",
+        "summary": "Generative AI weakens the link between assessed performance and the cognitive processes that educational work is expected to reflect. This paper examines observable traces of those processes in a sample of 150 student-AI conversations. The analysis uses the concept of epistemic ownership as an interpretive framework, focusing on three dimensions that can become visible in interaction: Direction, Integration, and Evaluation. The results show that similar assessed performance can coexist with substantially different observable patterns of cognitive participation. Assignment scores therefore provide information about assessed outcomes but do not recover how cognitive work was distributed between student and AI during the interaction. The study provides an empirical basis for asking how assessment should incorporate evidence about cognitive process, rather than relying exclusively on the quality of the resulting product.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02720v1",
+        "title": "ReLEAF: A Socio-Technical Framework Bridging Custodians and Researchers for Trustworthy Data Sharing",
+        "url": "https://arxiv.org/abs/2610.02720v1",
+        "authors": [
+          "Hibiki Ito",
+          "Chia-Yu Hsu",
+          "Hiroaki Ogata"
+        ],
+        "published": "2026-10-02",
+        "summary": "Growing volumes of educational real-world data (ERWD) are being collected across learning platforms and institutional systems. Sharing these data within the Learning Analytics community offers substantial research opportunities, yet access remains limited by ethical, regulatory and governance constraints. Prior work has primarily focused on anonymisation techniques, but little attention has been paid to operational design of practical ERWD sharing, particularly how data custodians and researchers interact through privacy-preserving access mechanisms. To address this gap, we propose ReLEAF, a socio-technical framework that bridges data custodians and researchers by operationalising two-stage data sharing: 1) Differentially private synthetic data are shared for exploratory analysis, and 2) controlled real-data validation is performed on demand. Following a design-science research approach, we refine and formatively evaluate ReLEAF through three cycles involving 4 graduate students, 6 researchers, and 90 undergraduate students, respectively. Three design principles emerged through the cycles: P1) position privacy-preserving access mechanisms within the research workflow, P2) make the conditions for acceptable secondary use explicit and actionable, and P3) promote engagement with governance requirements rather than automate compliance decisions. Together, ReLEAF provides a concrete framework for trustworthy ERWD sharing, while the design principles offer transferable guidance for other data-sharing contexts.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02699v1",
+        "title": "LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning",
+        "url": "https://arxiv.org/abs/2610.02699v1",
+        "authors": [
+          "Nizam Kadir"
+        ],
+        "published": "2026-10-02",
+        "summary": "AI can help adults produce plausible workplace artefacts while leaving their independent reasoning difficult to inspect. LearnAdapt Praxis addresses this design problem through a five-stage learning workspace: Frame, Learn, Build, Validate and Transfer. The application stores an initial response, versioned specifications, coaching records, validation observations, a separate transfer response and facilitator feedback. Project-level server controls restrict coaching, access to earlier work and learner export during an active transfer attempt; they do not establish that a learner avoided assistance outside the application. This technical report describes the implemented architecture and evaluates selected workflow, authority, failure-recovery and provenance properties. A reproducible synthetic rehearsal exercised 120 serial project episodes across three fictional workplace contexts and four injected provider conditions. All 3,990 recorded checks met their specified expectations. The resulting records contained 240 specification versions, 1,200 activity events and 60 stored synthetic hints; 60 injected provider failures produced no fabricated hints. Separate authentication regressions exposed and resolved a session-expiry defect, and limited staging and production checks verified account access and live model connectivity. The evidence supports the tested engineering properties of the recorded release. It does not establish learning gains, model-output quality, unaided assessment validity, population usability or production capacity. The contribution is an implemented arrangement for separating assisted work, project-level assistance withdrawal and inspectable evidence, accompanied by executable tests and an explicit account of what remains to be validated with adult learners.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02688v1",
+        "title": "Lessons from Trauma-Informed Training on Technology-Facilitated Abuse for Gender-Based Violence Advocates",
+        "url": "https://arxiv.org/abs/2610.02688v1",
+        "authors": [
+          "Naman Gupta",
+          "Connie W. Chau",
+          "Sophie Stephenson",
+          "Kate Walsh",
+          "Rahul Chatterjee"
+        ],
+        "published": "2026-10-02",
+        "summary": "Technology-facilitated abuse (TFA) is an emerging gendered public health crisis affecting millions of people across the globe. TFA coincides with other forms of gender-based violence (GBV), such as emotional, psychological, and physical abuse by an intimate partner. Survivors often seek support from GBV advocates who specialize in helping survivors navigate abusive situations and potential pathways for healing and remediation. With the rise in TFA, however, survivors and GBV advocates experience barriers and gaps in knowledge in identifying and mitigating this newer, ever-evolving form of abuse. To address this, we developed trauma-informed training as a critical capacity-building intervention to improve GBV advocates' knowledge and skills for responding to survivors and to encourage multi-stakeholder collaboration toward a structural response. We facilitated 8 training workshops at local, state, and national US-based GBV organizations. Our study demonstrates that the trainings increased advocates' perceived understanding of TFA abuse vectors and their impacts on survivors, along with advocates' confidence in providing support, safety planning, and referrals through collaboration with community stakeholders. We then conducted retrospective reflections through autoethnography to surface key lessons, contestations, and tensions that emerged from our experiences in designing and coordinating trainings with host GBV organizations. Our analysis of autoethnographic notes revealed three key design decisions: coordinating logistics flexibly, reducing reflexive distance from host organizations and attendees, and using our field experience to tailor content for accessibility. We contribute a concrete checklist to guide future HCI scholars in conducting training interventions for stakeholders in high-stakes contexts.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02595v1",
+        "title": "Effects of a Behavioural Commitment Scheme on Study Regularity in a Self-Paced Learning Platform",
+        "url": "https://arxiv.org/abs/2610.02595v1",
+        "authors": [
+          "Meenakshi V.",
+          "Pavani Ayinampudi",
+          "Aditya B. M. V.",
+          "Jinal Gupta",
+          "Prakash Hegade",
+          "Rohit Sharma",
+          "Sakshi Sharma",
+          "S. R. S. Iyengar"
+        ],
+        "published": "2026-10-01",
+        "summary": "Online education has enabled learners worldwide to take up courses from reputed institutions. However, a self-paced online course cannot guarantee the motivation and engagement that a learner experiences in a real-time classroom. Self-paced access also makes platform load unpredictable, which drives up the compute cost. We propose a Commitment Scheme for course access that aligns learner commitment with platform capacity. Learners book their study slots in advance; the instructor sets the budget of learning hours available for the course; and learners who use a full window earn additional watch hours. A booked window records an intention to study at a stated time, and a learner who appears in that window implements it. The byproduct is a platform load that can be forecast and bounded. The study involved two courses taken in sequence by the same learners, with the slot booking system activated only in the second. In-window study was observed on 86.8% of booked windows, and the median committer placed 95.5% of all study time inside self-booked windows. Among learners who studied across the launch, study regularity improved from 1.01 to 1.33 active days per week, with a supporting difference of +1.37 days per week against the same learners' preceding course. Commitments made on the same day as the study slot were honoured more often than advance bookings (88.8% against 62.5% two days ahead), which is consistent with the classic intention-behaviour gap.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02591v1",
+        "title": "Information Operations Exploit APIs to Manipulate Social Media",
+        "url": "https://arxiv.org/abs/2610.02591v1",
+        "authors": [
+          "Manita Pote",
+          "Alessandro Flammini",
+          "Filippo Menczer"
+        ],
+        "published": "2026-10-01",
+        "summary": "Research on information operations has focused primarily on the coordinated accounts involved in such campaigns and in the content they promote. Bad actors manage the activity of inauthentic accounts through programmatic interfaces (APIs), but the role of this underlying infrastructure in enabling and uncovering such coordinated behaviors remains largely unexplored. This study investigates how the Twitter (now X) API was used to coordinate influence operations on the platform. Since API access is managed through developer apps, we extract app metadata from 43 operations taken down between 2018 and 2021 and apply three complementary computational approaches to study diverse forms of manipulation. Our analysis reveals several recurring patterns: API-as-a-service infrastructure reused across campaigns, gaming apps performing unauthorized engagement without user consent, spoofed app names to hide activity origins, and synchronized app networks indicating centralized control. Adding app usage as a coordination indicator provides a modest but consistent improvement in detection. These findings suggest that social media APIs play an important role in enabling online manipulation, and that the removal of app-level metadata by Twitter/X has eliminated an important tool for platform transparency and moderation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.02581v1",
+        "title": "Conditions for Social Trajectory Collapse: Agent-Based Simulation of Time-Geographic Trajectory Distributions",
+        "url": "https://arxiv.org/abs/2610.02581v1",
+        "authors": [
+          "Daneul Kim",
+          "Yuyeong Kim"
+        ],
+        "published": "2026-10-01",
+        "summary": "Metropolitan concentration has motivated policies for more balanced regional development. We use agent-based simulation to examine trajectory diversity, the variety of people's recurring activity orientations toward neighborhoods, urban centers, and wider networks. The model maps 2010 population shares to 2026 distributions in five country cases, China, Russia, Japan, the United Kingdom, and the United States, and simulates change to 2036. Trajectory diversity declines by 52.6-79.0% over 2026-2036. Russia and Japan show the largest increases in the share of the most common trajectory, while US diversity contracts despite a slight decline in this share. Cost burdens rise throughout, whereas welfare falls in the Russian and Japanese cases but rises in the other three. These findings suggest that regional development should be assessed through activity diversity, cost burdens, and welfare together.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "_Brief could not be synthesized due to an API error._ (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}})",
+  "synthesis_metadata": {
+    "model": "none",
+    "generated_at": "2026-10-05T11:32:03.080865+00:00"
+  }
+}
