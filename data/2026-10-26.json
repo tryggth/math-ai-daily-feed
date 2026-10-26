@@ -1,0 +1,633 @@
+{
+  "updated_at": "2026-10-26T11:30:25Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2610.32954v1",
+        "title": "Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness",
+        "url": "https://arxiv.org/abs/2610.32954v1",
+        "authors": [
+          "Jørgen Bang-Jensen",
+          "Stéphane Bessy",
+          "Amadeus Reinald"
+        ],
+        "published": "2026-10-23",
+        "summary": "A path or cycle in a $2$-edge-coloured graph is alternating if consecutive edges have different colours. These objects are natural analogues of paths and cycles in graphs, and even more so in digraphs. A well-studied class is that of acyclic $2$-edge-coloured graphs, that is, those forbidding alternating cycles. In particular, (acyclic) $2$-edge-coloured graphs generalize directed (acyclic) graphs (DAGs), but the complexity of problems on DAGs is much better understood than that of the corresponding problems on acyclic $2$-edge-coloured graphs. We investigate the complexity of two such problems, whose directed counterparts are well-known. Our first result is an $n^{O(k)}$-time algorithm for the alternating $k$-linkage problem on acyclic $2$-edge-coloured graphs. This problem asks for $k$ vertex-disjoint alternating paths joining $k$ prescribed pairs of vertices. This generalizes the directed $k$-linkage algorithm for DAGs. For every fixed $k$, this also yields a polynomial-time algorithm for finding $k$ internally vertex-disjoint alternating $(s,t)$-paths, solving an open problem by Abouelaoualim et al. from 2008. We then consider the alternating chromatic number of $2$-edge-coloured graphs, defined as the minimum number of parts in a vertex partition such that each part induces an acyclic subgraph. This notion is analogous to the dichromatic number of digraphs, where it is known that deciding dichromatic number $2$ is NP-complete even on tournaments. Our second result is that deciding alternating chromatic number $2$ is NP-complete on complete $2$-edge-coloured graphs. Equivalently, deciding whether a graph can be partitioned into two induced threshold graphs is NP-complete.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32930v1",
+        "title": "Rational Points on Affine Varieties over Finite Fields and Polygonal Number Sequences",
+        "url": "https://arxiv.org/abs/2610.32930v1",
+        "authors": [
+          "Sakshi Gupta",
+          "Anit Kuckian",
+          "Indranath Sengupta"
+        ],
+        "published": "2026-10-23",
+        "summary": "Authors, in an earlier work, proved that prime power subsequences of the polygonal numbers corresponding to $4$, $6$, $8$, and $10$ arise naturally as the numbers of $\\mathbb{F}_q$-rational points of certain double Danielewski surfaces. In this work, authors generalize the previous construction and give a new family of affine varieties over finite fields such that the number of $\\mathbb{F}_q$-rational points of these varieties give the prime power subsequence of every polygonal number sequence.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32897v1",
+        "title": "Linear transformations of tropical matrices preserving individual values of the cyclicity index",
+        "url": "https://arxiv.org/abs/2610.32897v1",
+        "authors": [
+          "Alexander Guterman",
+          "Alexander Vlasov",
+          "Svetlana Zhilina"
+        ],
+        "published": "2026-10-23",
+        "summary": "The cyclicity index is used to study the periodic behavior of powers of tropical matrices. It is determined by the structure of the critical subgraph of a matrix, which consists of the cycles with the largest average weight. In this paper bijective linear transformations of tropical matrices that preserve an individual value $k\\neq 2$ of this invariant are studied.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32879v1",
+        "title": "The lower tail of triangle counts in sparse random graphs",
+        "url": "https://arxiv.org/abs/2610.32879v1",
+        "authors": [
+          "Dong Huang",
+          "Shuangping Li"
+        ],
+        "published": "2026-10-23",
+        "summary": "Let $T_n$ be the number of triangles in the Erdős-Rényi random graph $G(n,p)$ with $n^{-1/2}\\ll p\\ll1$ and fix $η\\in(0,1)$. We study the large deviation rate of the lower tail event $T_n\\leη\\mathbb{E}[T_n]$, and the typical structure of $G(n,p)$ conditioned on this event. By earlier work [16,19,21,49], both the rate and the structure are governed by a variational problem over graphons. In this work we solve this variational problem for every $η\\in(0,1)$. We show that every minimizer is either a constant graphon or a step graphon with two blocks of equal size. Correspondingly, the conditioned graph is close to an Erdős-Rényi graph or to a symmetric stochastic block model with two blocks. These two regimes are separated by a first order phase transition at the threshold $η_*=0.009217\\ldots$. This resolves a conjecture of Zhao [78] and an open problem of Janson and Warnke [39] on triangles. It thereby gives a complete description of the lower tail of triangle counts in this range of $p$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32875v1",
+        "title": "The Turán number of Berge paths in connected hypergraphs",
+        "url": "https://arxiv.org/abs/2610.32875v1",
+        "authors": [
+          "Yupei Li",
+          "Ruth Luo"
+        ],
+        "published": "2026-10-23",
+        "summary": "A Berge path in a hypergraph is an alternating sequence of distinct vertices and edges $v_1,e_1, v_2, \\ldots, e_{k-1}, v_{k}$ such that $v_i, v_{i+1} \\in e_i$ for all $i \\in [k-1]$. Győri, Katona, and Lemons determined the maximum number edges in $r$-uniform, $n$-vertex hypergraphs without Berge paths on $k$ vertices. The extremal examples for their bounds are disconnected hypergraphs in which each component has either too few edges or too few vertices to contain such a Berge path. We consider the setting in which the host hypergraph is connected. Let $\\operatorname{ex}^{\\mathrm{conn}}_r(n,\\mathcal{BP}_k)$ denote the maximum number of edges in an $n$-vertex, $r$-uniform, connected hypergraph that does not contain a Berge path on $k$ vertices. This number was determined by Zhang, Broersma, Győri, Tompkins, Wang for $k \\leq r+2$, and Zhao, Gerbner, Zhou for $k \\geq 2r+2$. In this paper, we resolved the remaining cases $r+3 \\leq k \\leq 2r+1$ when $n$ is sufficiently large, confirming a conjecture of Zhang, et al.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32832v1",
+        "title": "Kazhdan--Lusztig Polynomials for permutations with $P_{\\mathrm{id},w}(1)=3$ and Irreducible Singular Locus",
+        "url": "https://arxiv.org/abs/2610.32832v1",
+        "authors": [
+          "Gaston Burrull",
+          "Zhitong Alex Li",
+          "Shixuan Zeng"
+        ],
+        "published": "2026-10-23",
+        "summary": "We determine the Kazhdan--Lusztig polynomial $P_{\\mathrm{id},w}(q)$ for permutations $w$ such that $P_{\\mathrm{id},w}(1)=3$ and the Schubert variety $X_w$ has irreducible singular locus. Let $h=h(w)$ be the minimum height $w(a)-w(d)$ of a $3412$-occurrence in $w$ at positions $a<b<c<d$, with $h=1$ when no such occurrence exists. We show that $P_{\\mathrm{id},w}(q)=1+q^h+q^{h+1}$ if exactly one of the patterns $3412$ and $4231$ occurs, and $P_{\\mathrm{id},w}(q)=1+q+q^h$ if both patterns occur. In the latter case, $h>1$. This proves the irreducible singular locus case of a 2009 conjecture of Billey and Weed.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32825v1",
+        "title": "Traces of Green's functions on $\\mathbb{H}^q$ over point-hypersurface pairs",
+        "url": "https://arxiv.org/abs/2610.32825v1",
+        "authors": [
+          "Claudia Alfes",
+          "Jens Funke",
+          "Sebastián Herrero",
+          "Özlem Imamoglu"
+        ],
+        "published": "2026-10-23",
+        "summary": "The famous algebraicity conjecture of Gross and Zagier for the values at CM points of higher Green's functions was recently proven by Bruinier, Li and Yang. Motivated by this the values of the automorphic Green's function at pairs of special points in hyperbolic $3$-space $\\mathbb{H}^3$ were studied by Herrero, Imamoglu, von Pippich and Schwagenscheidt, and an analogous algebraicity result for traces of Green's functions was established. In this paper, we consider higher automorphic Green's functions $G_{s}(P,Q)$ on hyperbolic $q$-space $\\mathbb{H}^q$ for $q\\geq 2$ when the spectral parameter $s$ is a positive even integer, and prove an explicit finite formula for their traces over geodesic hypersurfaces in one of the variables. This formula provides a geometric interpretation of the traces of Green's functions for every choice of a point in $\\mathbb{H}^q$ for the second variable. As an application, we obtain rationality results when the second variable is evaluated at a special point providing further evidence that such results for traces of Green's functions do not depend on any underlying complex structure.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32824v1",
+        "title": "A Short Proof of Zhang's Conjecture on Stack-Sortable Permutations",
+        "url": "https://arxiv.org/abs/2610.32824v1",
+        "authors": [
+          "Maximus Lu"
+        ],
+        "published": "2026-10-23",
+        "summary": "We give a short proof of Zhang's conjecture that the number of stack-sortable permutations of length $n + 1$ which end in their smallest element is equal to the $n$-th Motzkin number.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32798v1",
+        "title": "Proximity Theorem and FPT Algorithm for Minimum Group-labeled Matroid Bases",
+        "url": "https://arxiv.org/abs/2610.32798v1",
+        "authors": [
+          "Siyue Liu",
+          "Taihei Oki",
+          "Chao Xu"
+        ],
+        "published": "2026-10-23",
+        "summary": "Let $M$ be a matroid, let $\\ell:E(M)\\to G$ be a labeling of its elements by an abelian group, and let $F\\subseteq G$ be finite. A base is $F$-avoiding if the label sum of its elements is not in $F$. We prove that, for arbitrary costs, a min-cost $F$-avoiding base can be obtained from any min-cost base using at most $|F|$ exchanges. This resolves the weighted proximity conjecture by Hörsch, Imolay, Mizutani, Oki, and Schwarcz. Our main technical tool is to replace the assumption of Schrijver--Seymour Conjecture in Liu and Xu's earlier work with Kemperman--Scherk Theorem. The proximity theorem combined with approaches in earlier work gives an FPT algorithm that finds a min-cost $F$-avoiding base parameterized by $|G|$. We additionally give an FPT algorithm parameterized by $|F|$, answering a question of Hörsch et al.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32789v1",
+        "title": "Triangle-Free Sets in Exact-Distance Hamming Graphs",
+        "url": "https://arxiv.org/abs/2610.32789v1",
+        "authors": [
+          "Bence Csajbók",
+          "Padmini Mukkamala",
+          "Zoltán Lóránt Nagy"
+        ],
+        "published": "2026-10-23",
+        "summary": "Let $T_q(n,r)$ be the largest size of a vertex set inducing a triangle-free subgraph of the graph on $[q]^n$ whose edges join words at Hamming distance $r$. We study this quantity for fixed alphabet size and fixed distance, with particular emphasis on the ternary cube. Alphabet restriction transfers the binary fixed-distance theorem of Balogh, Chen, and Li to give $T_q(n,2h)=O_h(q^n/n^h)$. We extend the known distance-one formula and distance-two order to arbitrary integer alphabet sizes, obtaining $T_q(n,1)=2q^{n-1}$ and $T_q(n,2)=Θ_q(q^n/n)$, and establish $T_3(n,4)=Θ(3^n/n^2)$. For general fixed distance, we prove \\[ T_q(n,r)=Ω_{q,r}\\!\\left( \\frac{q^n\\sqrt{\\log n}}{n^{(r+\\lfloor r/2\\rfloor)/2}} \\right)\\qquad(q\\ge3), \\] while we show that $T_q(n,r)=Ω_{q,r}(q^n/n^{\\lfloor(q-1)r/q\\rfloor})$ holds for prime-power $q$ and $r\\ge2$ via the extended BCH parity-check constructions. At distance three, we construct coordinate weights avoiding bounded-coefficient three-term relations and obtain \\[ T_q(n,3)\\ge q^n/[n\\exp(O_q(\\sqrt{\\log n}))]. \\] Our main ternary construction combines cap partitions, multicolor triangle Ramsey colorings, and a quadratic map to obtain \\[ T_3(n,3)=Ω\\!\\left( \\frac{\\log\\log n}{\\log n}\\,3^n\\right). \\] A coordinate-line counting argument gives the complementary upper bound $T_3(n,3)\\le(5/27+O(n^{-1}))3^n$, together with an explicit bound for every fixed $q\\ge3$. Whether the ternary density tends to zero remains open.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32787v1",
+        "title": "Structure and Exact Certification of Nonnegative Tensor Decompositions",
+        "url": "https://arxiv.org/abs/2610.32787v1",
+        "authors": [
+          "Haoming Wang",
+          "Ming Yuan"
+        ],
+        "published": "2026-10-23",
+        "summary": "We study the structure and exact certification of nonnegative tensor decompositions supplied through rational factor matrices. Every failure of minimality or essential uniqueness contains an irreducible positive exchange between $p$ supplied terms and $q$ competing terms. A dimension count based on the Lovitz--Petrov splitting theorem bounds the effective order of such an exchange, the sum over the modes of the joint factor-span dimension minus one, by $p+q-2$, and this bound is attained at every supplied length $R\\ge2$. After eliminating ambient-row variables by the Farkas lemma, the resulting semialgebraic systems have fewer than $2R^2$ real variables. For input bit length $L$, this gives a deterministic $G(R)L^{O(R^2)}$-time algorithm that computes the nonnegative rank and an exact minimum-length decomposition, decides minimality and essential uniqueness, and returns exact witnesses when either property fails. The exponent is independent of the tensor order and the mode dimensions. For Lebesgue moment tensors, positive quadrature determines the nonnegative rank and the uniqueness behavior, and some rational length-$R$ inputs force a common field of degree at least $\\lfloor R/2\\rfloor!$ for any exact minimum-length output. As an illustration, an implementation resolves all 114 instances left inconclusive by earlier positive-scattering criteria, of which 95 are minimal and essentially unique and 19 are minimal but nonunique.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32761v1",
+        "title": "The restricted Hurwitz action on cameral decompositions of Coxeter elements",
+        "url": "https://arxiv.org/abs/2610.32761v1",
+        "authors": [
+          "Emir Melliti"
+        ],
+        "published": "2026-10-23",
+        "summary": "Given a dual Coxeter system (W, T) of rank n, the Hurwitz action of the braid group on the reduced T-decompositions of a Coxeter element is transitive. When we choose a geometric representation of W, the reflections with respect to the n walls of one given chamber form a generating set S that we call cameral. An ordering of S is called a cameral decomposition and the product a cameral Coxeter element, which depends only on the quiver obtained by orienting the Coxeter diagram with vertices S according to the ordering. We show that the reduced decompositions of a cameral Coxeter elements for which the underlying set S satisfies that (W, S ) is a Coxeter system, are necessarily cameral, and we count the number of chambers from which a cameral Coxeter element can be obtained. We show that one can go through all these chambers using the restricted Hurwitz action on the set of cameral decompositions, which is generated by transpositions of adjacent commuting reflections and by the Garside element δ of the dual Garside structure, which acts by a quiver mutation of the orientation of the Coxeter diagram.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32745v1",
+        "title": "The totally nonnegative wonderful compactification of G is a ball",
+        "url": "https://arxiv.org/abs/2610.32745v1",
+        "authors": [
+          "Sam Evens",
+          "Steven N. Karp"
+        ],
+        "published": "2026-10-23",
+        "summary": "Let $\\overline{G}$ denote the wonderful compactification of a semisimple algebraic group $G$ of adjoint type. We use contractive flows to show that the totally nonnegative part of every $G \\times G$ orbit closure of $\\overline{G}$ is homeomorphic to a closed Euclidean ball. In particular, the totally nonnegative part of $\\overline{G}$ is homeomorphic to a closed ball.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32737v1",
+        "title": "A probabilistic construction of maximum $h$-scattered subspaces",
+        "url": "https://arxiv.org/abs/2610.32737v1",
+        "authors": [
+          "Alessandro Giannoni",
+          "Alessandro Neri"
+        ],
+        "published": "2026-10-23",
+        "summary": "Let $1\\le h\\le n-2$ and $g=\\gcd(n,h+1)$. We prove that, for every prime power $q$, a maximum $h$-scattered $\\mathbb{F}_q$-subspace of $V(r,q^n)$ exists whenever $(h+1)\\mid rn$ and $$r\\ge\\frac{h+1}{g}\\bigl(h(n-h-2)+1\\bigr).$$ In particular, for fixed $n$ and minimum distance $δ\\in\\{2,\\ldots,n-1\\}$, $\\mathbb{F}_{q^n}$-linear MRD codes of length $N$ exist for every $q$ and every sufficiently large $N$ such that $n$ divides $(n-δ+1)N$, with a bound on $N$ depending only on $n$ and $δ$. We take the $\\mathbb{F}_{q^s}$-span of the columns of a random matrix $A$ over the algebra $R=\\mathbb{F}_{q^n}\\otimes_{\\mathbb{F}_q}\\mathbb{F}_{q^s}$, for a suitable $s$. Such a subspace is maximum $h$-scattered if and only if the kernel of $A$ contains no nonzero vector whose expansion with respect to an $\\mathbb{F}_q$-basis of $\\mathbb{F}_{q^s}$ has rank weight at most $h+1$. When $\\gcd(n,s)=1$, $R$ is a field, and a first-moment argument, counting these vectors up to multiplication by $\\mathbb{F}_{q^n}^*\\mathbb{F}_{q^s}^*$, shows that with positive probability the kernel contains none of them if $s>h(n-h-2)$. When $d=\\gcd(n,s)>1$, $R$ is a product of $d$ fields, and vectors vanishing in some factors lie in the kernel with larger probability. We control them by proving that, for an $(h+1)$-dimensional $\\mathbb{F}_q$-subspace $D$ of $\\mathbb{F}_{q^n}$, the elements of $D\\otimes_{\\mathbb{F}_q}\\mathbb{F}_{q^s}$ vanishing outside $k$ given factors, $0<k<d$, form an $\\mathbb{F}_{q^s}$-space of dimension at most $(h+1)k/d$, with equality only if $D$ is linear over a subfield of $\\mathbb{F}_{q^n}$ larger than $\\mathbb{F}_q$. Taking $s=gr/(h+1)$ gives the bound on $r$. Finally, if $(n-h-1)\\mid(h+1)$, then for every $r$ satisfying the above inequality there is an $h$-scattered $\\mathbb{F}_q$-subspace of $V(r,q^n)$ of dimension $\\lfloor rn/(h+1)\\rfloor$, without a divisibility condition on $rn$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32717v1",
+        "title": "Total eight-colorings of maximal planar graphs of maximum degree six",
+        "url": "https://arxiv.org/abs/2610.32717v1",
+        "authors": [
+          "Enqiang Zhu"
+        ],
+        "published": "2026-10-23",
+        "summary": "We prove that every finite simple maximal planar graph of maximum degree at most six admits a total eight-coloring. We first show that every proper vertex four-coloring of a subcubic graph extends to a total five-coloring. A curvature inequality for boundary walks then gives a matching decomposition of four-connected triangulations with degrees five and six, extending their prescribed vertex four-colorings to total eight-colorings. In a minimum counterexample, two local boundary colorings force the degree-four vertices to have disjoint neighborhoods. A characterization of the local extension obstructions permits these vertices to be restored simultaneously. The proof uses Hamiltonian-connectedness of four-connected planar graphs and the computer-assisted Four-Color Theorem; it requires no further computation.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2610.32919v1",
+        "title": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+        "url": "https://arxiv.org/abs/2610.32919v1",
+        "authors": [
+          "Xinrui Li",
+          "Pawan Sasanka Ammanamanchi",
+          "Siddharth Bhat",
+          "Rianna Jamdar",
+          "Yongxi Lin",
+          "Stella Biderman"
+        ],
+        "published": "2026-10-23",
+        "summary": "Statement autoformalization translates mathematics from natural language into a proof assistant such as Lean 4, and models now do it at scale. As provers get stronger, the burden of correctness shifts from the proof to the statement, that is, to whether the formal statement faithfully translates its source. Given a trusted reference formalization, the natural test is logical equivalence, and it proves too much. $P \\leftrightarrow Q$ holds trivially for any two statements $P$ and $Q$ that the library proves, because a prover can prove each separately and pass through $P \\leftrightarrow \\mathrm{True} \\leftrightarrow Q$. The stronger the prover, the more unrelated pairs pass. Earlier methods restrict the prover and check that each proof names the other statement. We introduce SemantEq, a more principled relation that instead requires each statement to turn into the other only through a chain of allowed steps, such as logical rearrangement and rewriting with the library's own equations. Our programs judge a proof by the proof term Lean checks, not by its tactic script. SemantEq-Eval, a search without a model, reaches 100% precision and 65.6% recall on the ProofNetVerif test split under our adjudicated labels, against 95.8% and 61.8% for BEq+, and an 8.9-fold increase in its CPU time adds at most three pairs. A language model finds more proofs, but under two of four prompts it proves both directions of about two in five of the non-equivalent pairs. SemantEq-ProofAudit audits each model-written proof under a policy derived from the relation and accepts none of the 104 non-equivalent pairs, and it raises recall on 407 equivalent pairs from 65.4% to 81.1% under the best prompt. Separating the generation of equivalence proofs from their acceptance lets a stronger prover raise recall without changing what an acceptance means. We release code and data at: https://github.com/hlxr89/SemantEq",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32805v1",
+        "title": "Choosing What to Observe: Higher-Order Obstructions in Horn Abduction",
+        "url": "https://arxiv.org/abs/2610.32805v1",
+        "authors": [
+          "Yukun Yang"
+        ],
+        "published": "2026-10-23",
+        "summary": "An explanation may exist in every complete context yet be impossible to select from the information observed. We study this distinction in finite propositional Horn abduction with integrity constraints. Observations are sufficient when each report admits one hypothesis set that is consistent and entails the manifestation in every compatible context. We characterize sufficiency by minimal context families with no common explanation. Their variable spans form a canonical hypergraph whose transversals are exactly the sufficient observation sets. The characterization recovers classical discernibility for unique explanations and supports composition across independent components. Minimal obstructions have unbounded cardinality even for acyclic rules, while rectangular explanation families admit a tight bound given by their largest choice domain. With circuit-defined contexts, sufficiency is $Π_3^P$-complete and selecting at most $k$ observable variables is $Σ_4^P$-complete, already for unrestricted contexts and acyclic rules. The selection reduction makes observation choices enforce globally fixed existential commitments. Explicit contexts reduce both tasks to NP-complete problems; tabulated explanation families make sufficiency polynomial. These results connect explanatory choice, information requirements, and representation cost.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32335v1",
+        "title": "Non-Expansive Fuzzy Modal Logic Has Uniform Interpolation",
+        "url": "https://arxiv.org/abs/2610.32335v1",
+        "authors": [
+          "Stefan Gebhart",
+          "Lutz Schröder",
+          "Paul Wild"
+        ],
+        "published": "2026-10-23",
+        "summary": "Fuzzy logics with truth values in the unit interval vary in their choice of propositional connectives and their semantics, ranging from just minimum and maximum as in Zadeh logics to truncated addition and subtraction as in Łukasiewicz logics or their extensions with truth constants, known as Pavelka logics. In the more specific world of fuzzy modal logics, non-expansive fuzzy modal logic has recently been proposed as a sweet spot between Łukasiewicz (more precisely, Pavelka) and Zadeh fuzzy modal logic; it restricts Łukasiewicz propositional connectives to have one argument constant, equivalently extends the Zadeh propositional base with constant shift operators. It retains reasonable expressiveness both in practical terms and abstractly; in particular, it characterizes the standard notion of behavioural distance on fuzzy Kripke frames. At the same time, it allows for satisfiability checking in the same complexity as for its two-valued correspondent (the modal logic K, or the description logic ALC), in contrast to the notorious computational hardness of Łukasiewicz modal logic. In the present work, we show that non-expansive fuzzy modal logic admits uniform interpolation, a key property in modularization, information hiding, summarization, and other applications that fails for both Łukasiewicz (or Pavelka) and Zadeh modal logic.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31810v1",
+        "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+        "url": "https://arxiv.org/abs/2610.31810v1",
+        "authors": [
+          "Jiyuan Tan",
+          "Vasilis Syrgkanis",
+          "Jose Blanchet"
+        ],
+        "published": "2026-10-22",
+        "summary": "Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement in natural language for faithfulness, ambiguity and correctness, and then formalizes and proves the statements in Lean against Mathlib, optional domain libraries and the author's personal toolkit. Only the author knows what a statement is meant to say and how a formalization gap in a result is best fixed. The pipeline therefore stops and asks the author whenever a statement admits more than one reading, presents every repair, in natural language and TeX symbols, as a proposal that the author can accept, decline or redirect, and leaves to the author every decision that could potentially change what the paper claims. The output is an annotated and revised version of the paper, a report of the changes, and Lean code in which each declaration is linked to the statement it formalizes. The author's toolkit grows as more papers are formalized, and authors can share their verified papers so that researchers who build on them can reuse their Lean code. By making verified papers practical to produce, PaperFormalizer aims to make research that rests on mathematical proofs more robust. PaperFormalizer runs inside a coding agent (Claude Code or Codex) and is available at https://github.com/Jiyuan-Tan/PaperFormalizer. Papers with Lean code shared by users are available at https://paperformalizer.org.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31266v1",
+        "title": "Notation3: Graph Terms for RDF",
+        "url": "https://arxiv.org/abs/2610.31266v1",
+        "authors": [
+          "Dörthe Arndt",
+          "Pierre-Antoine Champin"
+        ],
+        "published": "2026-10-22",
+        "summary": "Notation3 Logic was introduced as an extension of RDF allowing the user to express rules on top of triples and to make statements about graphs. The original proposal of the logic only came with an informal specification of its semantics which has been refined later on. While this refinement clarified the meaning of rules and implicitly quantified variables, it left the meaning of graphs used as terms - so-called graph terms - open. In this paper we aim to close this gap. We discuss in detail, how graph terms are used in Notation3, which formal requirements they need to meet, and provide examples to illustrate the difficulties when defining their semantics. We then introduce an abstract syntax for the logic and define its semantics in two steps: similarly to RDF's simple interpretations, we define interpretations and basic entailment for Notation3 which covers plain RDF triples but also triples containing graph terms. N3-entailment is then an extension of basic entailment which assigns meaning to the different special predicates of the logic like for example the implication symbol. N3-entailment is defined in a way that it can be extended whenever a new predicate is added to the logic. As Notation3 Logic is currently under development, we expect many predicates to be added. Our research provides and important step towards the full standardisation of the logic.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30967v1",
+        "title": "On U_c-admitting spaces and U_c-completions of T_0 spaces",
+        "url": "https://arxiv.org/abs/2610.30967v1",
+        "authors": [
+          "Kangming Lu",
+          "Qingguo Li",
+          "Shengwen Wang",
+          "Rongqi Xiao"
+        ],
+        "published": "2026-10-22",
+        "summary": "In this paper, we introduce a new class of spaces, termed U_c-admitting spaces, and investigate their relationships with U_s-admitting spaces and well-filtered spaces. Adopting the perspective of H-sobriety, we show that every U_c-admitting space is H-sober, so that U_c-admitting spaces arise as a special case of H-sober spaces. Consequently, the category U_c-Sob of U_c-admitting spaces and continuous maps is complete and forms a reflective subcategory of Top_0. In addition, we prove that a T_0 space X is U_c-admitting if and only if its Smyth power space is U_c-admitting. Finally, we present the standard U_c-completion of an arbitrary T_0 space.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30808v1",
+        "title": "Global Convergence of Detailed Balanced Mass Action Systems",
+        "url": "https://arxiv.org/abs/2610.30808v1",
+        "authors": [
+          "Haoran Lv",
+          "Chengjin Ni",
+          "Manqin Wang",
+          "Shenli He"
+        ],
+        "published": "2026-10-22",
+        "summary": "We give a self-contained proof that, for a finite detailed balanced mass-action system with positive rate constants, each positive stoichiometric compatibility class contains exactly one positive equilibrium and every positive trajectory converges to it, together with a Lean 4 formalization of the complete argument from persistence to convergence. Boundedness and persistence come from the barrier argument of OpenAI (2026) for weakly reversible systems: an arbitrary-tolerance affine approximation yields a finite-minimum barrier whose superlevel sets confine trajectories and give one logarithmic bound for all solutions from a given initial state. The Horn-Jackson dissipation identity identifies the positive equilibria as an exponential family with parameters in the orthogonal complement of the stoichiometric subspace, which gives uniqueness in each class. A bounded-speed descent argument replaces LaSalle's invariance principle; it uses neither uniqueness of solutions nor continuous dependence on initial data, and it places every cluster point in that family. The route given here is direct and elementary, and its main theorem is checked by the Lean kernel against explicit definitions. The proofs, the Lean development, and the manuscript were produced in ClawsGO Science, an agent harness that packages a complete research environment: Claude Opus 5.5 made the research decisions, GPT 6 Astra carried them out, and the Lean kernel checked every formal step.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30759v1",
+        "title": "RAIN: Agentic Proof Generation for Rocq-based Software Verification",
+        "url": "https://arxiv.org/abs/2610.30759v1",
+        "authors": [
+          "Jinyi Zhou",
+          "Zenan Li",
+          "Yuan Yao",
+          "Jun Ma",
+          "Taolue Chen",
+          "Xiaoxing Ma"
+        ],
+        "published": "2026-10-22",
+        "summary": "Interactive theorem provers can provide strong correctness guarantees for software, but constructing the proofs remains a challenging and labor-intensive task. Inspired by the recent progress of modern coding agents, we present RAIN, a lightweight proof-specialized agent for Rocq proof generation. RAIN augments an LLM with proof engineering capabilities, including repository exploration, iterative refinement, and checker feedback. This design allows the agent to retrieve lemmas autonomously, revise complete proof scripts instead of isolated tactics, and iteratively refine its proof strategy using enriched proof-state information. Evaluated on a subset from CoqStoq, RAIN shows substantial improvements over the existing baselines, achieving over 90% prove success rate with at least 24.7% improvements. We also compare with general-purpose coding agents, the results show that RAIN maintains comparable prove success rate but with significant lower cost.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30645v1",
+        "title": "FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq",
+        "url": "https://arxiv.org/abs/2610.30645v1",
+        "authors": [
+          "Ruixuan Deng",
+          "Zhengfeng Ji",
+          "Jiayu Zhang",
+          "Li Zhou"
+        ],
+        "published": "2026-10-22",
+        "summary": "Quantum key distribution (QKD), whose security is derived from quantum mechanics rather than computational assumptions, is moving into standardization and commercial deployment. Yet its security guarantees rest on technically delicate proofs checked by hand. Formal verification closes this gap, establishing a two-factor assurance: unconditional security from physical principles, and machine-checked proofs against reasoning errors. We present FVQKD, a Rocq library for machine-checking QKD security proofs. Its first result is a complete, end-to-end machine-checked proof of composable, finite-key security for BB84. The mechanization reconstructs the complete proof infrastructure from first principles, including the smooth entropy framework, the entropic uncertainty relation, and the Quantum Leftover Hash Lemma. It uncovers necessary side conditions that the published argument leaves unstated, one of which reveals a missing proof branch, and it grounds the information-theoretic bound in a formal semantics of protocol execution, which the pen-and-paper analysis lacks. The proof is entirely admit-free, relying only on the Rocq kernel and standard foundational axioms. To our knowledge, this is the first end-to-end formal verification of a QKD security proof. Built on MathComp, MathComp-Analysis, and CoqQ, the development provides quantum-information infrastructure designed for reuse across broader QKD variants and quantum cryptography applications.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.30432v1",
+        "title": "TrustedCode: Evaluating Large Language Models for Developing Trusted Code through Automated Program Verification",
+        "url": "https://arxiv.org/abs/2610.30432v1",
+        "authors": [
+          "Muhammad Danial",
+          "Muhammad Taimoor Khan"
+        ],
+        "published": "2026-10-21",
+        "summary": "Recent reports, such as \"Who is using AI to code?\", indicate that approximately 30\\% of Python code contributions to GitHub are AI-generated. Given the inherent unreliability of this code, formal verification emerges as a promising approach to establish trust in software correctness. Although leveraging large language models (LLMs) for formal verification has garnered increasing attention, practical adoption remains limited due to the challenges in writing formal specifications and verifying program correctness against them. Existing tools predominantly support verification for languages such as Java and C, with minimal support for Python. We present TrustedCode, an automated framework for verifying AI-generated Python code. TrustedCode uses LLMs to (i) type-check Python code, (ii) translate it into WhyML via the Why3 framework, and (iii) verify it against formal specifications using Why3 back-end automated theorem provers. Our method integrates chain-of-thought prompting through LangGraph to identify and address LLM limitations in specification generation and proving the specified programs. To evaluate TrustedCode, we conducted experiments on ten Python programs of varying complexity. Our analysis reveals that 50\\% of the observed errors stem from domain knowledge gaps, 30\\% from syntactic inaccuracies, and the remaining 20\\% from semantic and type-related issues. These findings underscore the importance of targeted improvements in LLM-guided formal verification workflows for Python. TrustedCode is an open source tool available at: \\href{github.com/mtaimoorkhan/TrustedCode}{github.com/mtaimoorkhan/TrustedCode}. The video demonstration is available at: \\href{youtu.be/Nr5I2g8ec-s}{youtu.be/Nr5I2g8ec-s}",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.29874v1",
+        "title": "Coherent differentiation with a monoid of degrees: derivatives, Taylor expansion, finite differences...",
+        "url": "https://arxiv.org/abs/2610.29874v1",
+        "authors": [
+          "Thomas Ehrhard",
+          "Aymeric Walch"
+        ],
+        "published": "2026-10-21",
+        "summary": "Coherent differentiation has been introduced a few years ago as a refinement of the (categorical semantics of the) differential lambda-calculus and of differential linear logic, compatible with the determinism of computation, and hence in categories where addition of morphisms in the hom-sets is only partially defined. In this setting differentiation is implemented by a kind of ''tangent functor'', with the difference that it maps an object to its object of summable tuples rather to a tangent bundle. In our earlier work, these tuples were pairs in the case of simple differentiation, and families indexed by integers when dealing with Taylor expansion and the Fa{à} di Bruno formula. We push this idea further, considering now tuples indexed by an arbitrary commutative partial monoid satisfying a nonnegativity condition. The monoid structure on these indices plays a crucial role in the definition of the ''differential'' calculus associated with this ''tangent functor''. In that way, and without changing the general categorical infrastructure of coherent differentiation, this theory accommodates new notions of ''differentiation'' of which we describe several instances. Among many others, such notions include various forms of finite differences as well as Taylor expansion truncated at any fixed degree, and finite Taylor expansion of a fixed finite degree with a remainder.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.29771v2",
+        "title": "Logics vs doctrines, a mirror symmetry",
+        "url": "https://arxiv.org/abs/2610.29771v2",
+        "authors": [
+          "Ivan Di Liberti",
+          "Umberto Tarantino",
+          "Lingyuan Ye"
+        ],
+        "published": "2026-10-21",
+        "summary": "We study the relationship between doctrines, encoding 2-categories of theories in predicate logic, and fragments of geometric logic, defined through Kan injectivity in the 2-category of topoi. After a brief historical account of the notion of doctrine, we propose our working definition. Our main result then establishes a Galois connection between doctrines and subgeometric logics. This connection suggests a mirror symmetry between the world of doctrines and the world of logics, in which constructions and results on either side admit counterparts on the other. We develop this symmetry through constructions of syntactic categories and classifying topoi in both settings, recovering the familiar examples from categorical logic. We prove paired Diaconescu-type theorems and give symmetric universal characterisations of the two closure operators induced by the Galois connection. Finally, we show that passing from a doctrine to its closure induces a reflection between the corresponding 2-categories of algebras, and we relate this reflection to conceptual completeness.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.29736v1",
+        "title": "Two Sides of the Same Proof: Extraction and Projection in Choreographic Programming",
+        "url": "https://arxiv.org/abs/2610.29736v1",
+        "authors": [
+          "Matteo Acclavio",
+          "Giulia Manara",
+          "Fabrizio Montesi",
+          "Marco Peressotti"
+        ],
+        "published": "2026-10-21",
+        "summary": "A new approach to the theory of choreographic languages has recently been proposed, based on the interpretation of choreographies with finite behaviors as proofs in an extension of linear logic. This paper further develops this approach to cyclic proofs to be capable of representing infinite behaviors, and prove a completeness result for choreographies with respect to the class of lock-free networks. We show that in a choreographies-as-proofs correspondence, the proof equivalence induced by rule permutations corresponds to bisimilarity, and that, under adequate assumption on the procedure definitions, the proof search procedure has a finite search space, and can be used to extract a choreography from a network.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.29637v1",
+        "title": "Formalizing Cooperation and Competition: An AI-Assisted Mathematical Addendum to a 2018 Planning Thesis",
+        "url": "https://arxiv.org/abs/2610.29637v1",
+        "authors": [
+          "Haitham Masaud Amar"
+        ],
+        "published": "2026-10-21",
+        "summary": "We present an AI-assisted mathematical addendum to Strategic Trip Planning: Striking a Balance Between Competition and Cooperation (Amar, 2018). We reconstruct selected relationships between strategic choice, cooperative stability, participant approval and enforcement. The thesis's Nash-to-core proposition is under-specified until outsider opportunities are stated. We verify two-person implications under fixed outsiders and explicit efficiency conditions. Under isolation, the original example has an empty TU core; its funded counterpart uses an explicit external subsidy. For a monotone resource model we characterize the exact financing gap. A finite negotiation procedure implemented in Lean is proved to terminate with participant approval, joint-cost non-worsening and local optimality against permitted approved moves. Supporting formalizations address bargaining geometry and regret-based efficiency. A resource-game counterinstance shows why monotonicity alone provides no uniform price-of-anarchy bound. Reproducible computations compare a documented heuristic reconstruction with the verified procedure on 44 source-based instances and 96 starting cases from four additional synthetic network families. Acceptance-matched heuristic and randomized pairwise-search controls contextualize the optimization results. The mathematical ingredients are established results; the contribution is a traceable reconstruction linking source statements, explicit assumptions, checked proofs, executable code and retained counterinstances. The study illustrates how AI-assisted investigation can turn engineering intuitions from legacy research into precise mathematical claims whose conditions and computational consequences can be inspected and reproduced.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.29585v1",
+        "title": "Any colour you like, as long as it's UIP: Semi-simplicial types from weakenings and thinnings",
+        "url": "https://arxiv.org/abs/2610.29585v1",
+        "authors": [
+          "Thorsten Altenkirch"
+        ],
+        "published": "2026-10-21",
+        "summary": "We explain an attempt to define semi-simplicial types (SST) in homotopy type theory by first defining a small type theory whose contexts are exactly the data of semi-simplicial types, constructing $\\mathrm{SST}\\,n$ uniformly in that syntax, and then interpreting the syntax in the universe. The syntax can be defined without any truncation and without K, and the construction of $\\mathrm{SST}\\,n$ goes through. The naive interpretation does not: it transports along the semantic images of equations that hold only propositionally, and making these transports agree needs uniqueness of identity proofs (UIP) for the semantic types. Moving the problem into the syntax, by making composition a constructor of a higher inductive-inductive type (HIIT), does not remove it either: it reappears as a coherence problem in the syntax. Fording the HIIT (storing equations instead of computed indices), with conditional rules, makes the syntax provably a set. This is UIP for the syntax, obtained by encode-decode, and it does not by itself restrict the semantics; but the naive interpretation of the conditional rules again needs UIP for the semantic types. A semantics into groupoids that avoids UIP will be discussed in a separate note. The Agda development accompanying this note is in the repository https://github.com/txa/sst-new.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2610.32982v1",
+        "title": "The Language of Instruction: Genre and Generative AI",
+        "url": "https://arxiv.org/abs/2610.32982v1",
+        "authors": [
+          "James E. Dobson"
+        ],
+        "published": "2026-10-23",
+        "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32780v1",
+        "title": "AI Alignment for Digital Democracy: Fairer Voters Representation against LLM Biases",
+        "url": "https://arxiv.org/abs/2610.32780v1",
+        "authors": [
+          "Yi Qi",
+          "Srijoni Majumdar",
+          "Evangelos Pournaras"
+        ],
+        "published": "2026-10-23",
+        "summary": "AI representation is emerging in digital democracy, assisting in voter emulation and decision-making. Large language models (LLMs) behave differently depending on the model, the prompt context, and the voter information they receive, representing some groups more accurately than others and potentially making the emulation unfair to certain groups. We investigate demographic biases in LLM-emulated electorates: how accurately LLMs represent individual votes, whether some voter groups are represented more accurately than others, and whether AI alignment can reduce these disparities without sacrificing overall accuracy. Using three U.S. presidential elections, we compare a closed-source and an open-source LLM across voters' demographic features and test AI alignment strategies toward fairer voter representation. Removing gender from the voter profile reduces the largest group error of the models by 22-42%, and removing education reduces it by 64%, whereas removing self-reported race increases the mean group error by over 40%, all without lowering accuracy. Common alignment strategies, such as repeated queries or fairness instructions, do not reduce these errors and can double them.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32576v1",
+        "title": "From Regulation to Engineering: Organizational Privacy Climate as Mediator",
+        "url": "https://arxiv.org/abs/2610.32576v1",
+        "authors": [
+          "Oshrat Ayalon",
+          "Eran Toch",
+          "Irit Hadar",
+          "Michael Birnhack"
+        ],
+        "published": "2026-10-23",
+        "summary": "Data protection legislation aims to protect privacy rights by regulating how information systems store and process personal information. While such legislation defines legal obligations, translating regulatory requirements into engineering practice is far from straightforward. As new frameworks such as the EU AI Act emerge, understanding these mechanisms becomes increasingly relevant. To investigate them, we conducted an online survey of 156 U.S. information system developers, examining the role of organizational privacy climate in the association between developers' perceptions of the GDPR and their privacy engineering practices. Using structural equation modeling, we found that organizational privacy climate mediates the relation between developers' perceived GDPR importance and their privacy attitudes, which in turn are associated with their privacy engineering practices. The mediation chain - regulation, climate, attitudes, practices - complements the direct effect of regulation on practice, revealing the organizational and attitudinal pathway through which regulatory intent reaches engineering behavior. We discuss implications for the next generation of privacy and AI regulation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32574v1",
+        "title": "When disclosure rules are not enough: authorial warrant and judgment in ai-supported scholarship",
+        "url": "https://arxiv.org/abs/2610.32574v1",
+        "authors": [
+          "Marcin Mirończuk"
+        ],
+        "published": "2026-10-23",
+        "summary": "Editorial policies increasingly require authors to disclose substantive uses of generative AI, but such requirements commonly focus on whether, where, and how a model was used. Even function-specific disclosure may locate a model in the research or writing process without showing how its outputs entered scholarly judgment, how they were evaluated, or whether contributors can reconstruct the relevant reasoning and defend resulting claims without treating those outputs as sufficient justification. Drawing on research ethics, AI disclosure policy, human-model interaction, and researcher formation, this article argues that disclosure documents model use, whereas responsible use requires claim-level authorial warrant: a contributor's capacity to understand, justify, and defend claims within their contribution. The article distinguishes cognitive delegation, in which model outputs shape substantive choices, interpretations, or justifications, from routine delegation, which does not ordinarily bear on the substance of judgment. Its conceptual contribution is to link the epistemic role of outputs that shape judgment to the function-appropriate evaluation required to justify decisions and retain warrant for resulting claims. It then repurposes disclosure categories as a claim-sensitive ex ante heuristic, mapping six recurrent research functions to risks, forms of oversight, and formative questions for recognising cognitive delegation and selecting function-appropriate evaluation. The article contributes to the ethics of information technology by clarifying when AI-supported scholarship remains under responsible human judgment and when cognitive delegation threatens the epistemic basis of authorship.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32515v1",
+        "title": "Analysing Austrian Parliamentary Speeches by Predicting Party Affiliations",
+        "url": "https://arxiv.org/abs/2610.32515v1",
+        "authors": [
+          "Sarah Sulollari",
+          "Vanja Karan",
+          "Benjamin Roth"
+        ],
+        "published": "2026-10-23",
+        "summary": "This paper examines speech characteristics of the Austrian National Council members (CMs). We introduce analysis methodology based on a fine-tuned BERT-Model which assigns to every speech a probability distribution over Austrian parties. These are then aggregated at the speaker and party level. We perform an extensive evaluation to ensure the quality of the generated distributions prior to further analysis. Instead of considering mis-assignments of predicted parties as a performance issue, we leverage them to derive insights about the CMs and political developments. Our findings show that parties that govern together become more similar in their speech characteristics, while, analogously, parties that are in opposition move further away from governing parties. Moreover, CMs who switch party usually adapt their speech characteristics only after the switch occurs. Finally, we publicly release a data set containing party affiliation predictions for the speeches of the Austrian National Council from 1996 to 2018.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32479v1",
+        "title": "National-Scale Multimodal Accessibility Fields from Open Geospatial Data",
+        "url": "https://arxiv.org/abs/2610.32479v1",
+        "authors": [
+          "Till Zacher",
+          "Louis Stille-Hönig",
+          "Markus Lienkamp"
+        ],
+        "published": "2026-10-23",
+        "summary": "Large-area accessibility analysis remains difficult to reproduce because multimodal routing, heterogeneous opportunity data, and reusable spatial outputs are rarely integrated in a single transparent workflow. We present MAPPER (Multimodal Accessibility and Place Profiling Engine for Arbitrary Regions), an open-data pipeline for multimodal accessibility analytics. The workflow builds walk, bike, car, and public transport travel-time graphs from OpenStreetMap and GTFS data, harmonizes mapped POI- and proxy layers representing the land-use side of the accessibility relation, and computes continuous accessibility fields using network kernel density estimation. A low-overhead native compute core (contraction-hierarchy routing, C++/OpenMP accessibility accumulation, DAG-style orchestration eliminating redundant computation) is the enabler that makes many graphs, large extents, and a broad layer set jointly tractable on commodity hardware. Outputs are sampled to a uniform H3 grid for downstream urban and regional analysis. A Germany-wide production run yields an H3-indexed accessibility dataset with nearly 40 million cells and 972 mode-layer fields across nine network and intermodal modes. Routing comparisons against an empirical mobility panel show low mean bias for walking, cycling, and car, while public transport results are interpreted more cautiously as schedule-based supply estimates sensitive to waiting and transfer assumptions. A Bavaria case study operationalizes the travel-time targets of the state's central-place planning system on the resulting fields and reveals strong modal differences in accessibility to basic services. The contribution is a reproducible framework for large-area multimodal accessibility analysis, with an aligned output structure designed for reuse in urban and regional analysis, planning support, and scenario modeling.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32461v1",
+        "title": "The Effects of Generative AI on Collaboration and Social Networks Among Knowledge Workers",
+        "url": "https://arxiv.org/abs/2610.32461v1",
+        "authors": [
+          "Giuseppe Soda",
+          "Alessandro Iorio",
+          "Leonardo Rizzo"
+        ],
+        "published": "2026-10-23",
+        "summary": "The rapid diffusion of generative artificial intelligence has raised concerns that knowledge work may become less dependent on human-to-human interaction. Yet because AI-generated outputs require interpretation, verification, and social legitimation, generative AI may instead increase collaboration among workers. We test these competing predictions using passively collected behavioral data from more than 12,000 knowledge workers observed over 13 months during the staged organizational rollout of an AI-powered assistant (Microsoft Copilot). Using two complementary quasi-experimental designs -- a staggered difference-in-differences model and a fixed-effects instrumental-variable approach -- we estimate the effects of generative AI on workers' collaboration behavior and social network structure. We estimate that generative AI increased collaboration time across communication channels and reshaped individual networks. Those using generative AI interacted with more colleagues and their networks became less clustered, indicating broadening in collaboration structures. At the same time, they also concentrated more of their collaboration on ties with stronger prior histories, deepening reliance on already trusted colleagues. Together, these findings suggest that, while generative AI changes how people work, it may not displace human-to-human interactions.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32278v1",
+        "title": "Automated Post-Exploitation Attack Chain Exploration Based on a Phase-guided Hybrid Planning-Monte Carlo Tree Search Algorithm",
+        "url": "https://arxiv.org/abs/2610.32278v1",
+        "authors": [
+          "Jie Ying",
+          "Mengce Zheng",
+          "Ruoxi Chen",
+          "Wenrui Cheng",
+          "Tiantian Zhu",
+          "Zhongjie Zhu"
+        ],
+        "published": "2026-10-23",
+        "summary": "Advanced attackers in post-exploitation scenarios increasingly craft attack chains that combine benign operations, configuration errors, and vulnerability exploitation to achieve objectives like privilege escalation. While such chains pose significant threats, manually discovering them in complex modern host environments is prohibitively labor-intensive. Automating this discovery is therefore essential for proactive defense, yet existing methods still suffer from inefficiency and lack diversity when exploring these attack chains. To address these limitations, we present APEX, an Automated Post-EXploitation attack chain exploration system. This system transforms attack chain discovery into a planning problem and solves it with a novel phase-guided hybrid Planning-Monte Carlo Tree Search (MCTS) algorithm. By organizing attack actions into semantic phases and integrating symbolic planning with MCTS, APEX enables efficient exploration of the state space while generating multiple diverse chains. Evaluations on a benchmark comprising 5 virtual machines, 30 synthetic problems and 291 cloud instances demonstrate that APEX successfully discovers both known and previously unreported attack chains--including 9 novel privilege escalation vectors--providing actionable intelligence for hardening complex production environments.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32238v1",
+        "title": "Autonomous Cyber Weapons as AI-Enabled Digital Harms: A Platform Accountability Framework",
+        "url": "https://arxiv.org/abs/2610.32238v1",
+        "authors": [
+          "Mansi Ganga Nayak",
+          "Samarjeet Malik",
+          "Shaurya Pratap Singh",
+          "Vaibhav Sharma",
+          "Hritika Adhikary"
+        ],
+        "published": "2026-10-23",
+        "summary": "Governments govern AI-generated online harms from commercial platforms (EU DSA, AI Act, UK Online Safety Act), yet the most severe class remains ungoverned: autonomous cyber weapons (ACWs) deployed by nation-states against civilian infrastructure. We address this gap with three contributions: a digital-harm taxonomy (six ACW modes $\\times$ five harm categories); the Meaningful Human Control (MHC) Model, a governance-compliance function with a closed-form IHL threshold and a proved weight-sensitivity bound; and a platform accountability architecture with treaty language grounded in ARSIWA state-responsibility doctrine, not Rome Statute individual responsibility. Applied to eleven documented state-attributed operations and one hypothetical defensive AI system, every documented case falls in an accountability vacuum; the threshold is target-dependent, and against wholly civilian targets no system studied clears it, including the hypothetical. Three further incidents are correctly excluded on autonomy/attribution grounds, a discriminant-validity check. The weights and threshold parameters are illustrative, not fitted.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32226v1",
+        "title": "Democratic Accountability for Autonomous Systems: A Legislative Notification Framework and Comparative Institutional Design",
+        "url": "https://arxiv.org/abs/2610.32226v1",
+        "authors": [
+          "Samarjeet Malik",
+          "Mansi Ganga Nayak",
+          "Mugdha Raje Ashiya",
+          "Hritika Adhikary",
+          "Vaibhav Sharma"
+        ],
+        "published": "2026-10-23",
+        "summary": "No domestic legislature has ever reviewed a state's decision to authorise an autonomous cyber weapon before it acted. Closing the international attribution gap is necessary but not sufficient for democratic accountability. We formalise the Tripartite Attribution Framework's three attribution levels and add a fourth, non-legal Democratic Accountability level ($A_{dem}$): a 72-hour legislative notification requirement. Scoring six democratic oversight bodies against five adoptability dimensions yields a counter-intuitive result: the statutes granting these bodies privileged access to classified material are often the same statutes withholding particular ongoing operations from them, so at most one could lawfully receive such a notification today, and the carve-out Level 4 needs is required in nearly every jurisdiction rather than only the least-equipped. Retrospective analysis of Stuxnet, NotPetya, and Volt Typhoon shows one pattern: legal attribution resolvable, domestic democratic review absent.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32163v1",
+        "title": "Forging Emotions: a deep learning experiment on emotions and art",
+        "url": "https://arxiv.org/abs/2610.32163v1",
+        "authors": [
+          "Amalia Foka"
+        ],
+        "published": "2026-10-23",
+        "summary": "Affective computing is an interdisciplinary field that studies computational methods that relate to or influence emotion. These methods have been applied to interactive media artworks, but they have focused on affect detection rather than affect generation. For affect generation, computationally creative methods need to be explored that have recently been driven by the use of Generative Adversarial Networks (GANs), a deep learning method. The experiment presented in this paper, Forging Emotions, explores the use of visual emotion datasets and the working processes of GANs for visual affect generation, that is, for generating images that can convey or trigger specified emotions. This experiment concludes that the methodology used so far by computer science researchers to build image datasets for describing high-level concepts such as emotions is insufficient and proposes utilizing emotional networks of associations according to psychology research. Forging Emotions also concludes that to generate affect visually, merely corresponding to basic psychology findings, such as bright or dark colours, does not seem adequate. Therefore, research efforts should aim to understand the structure of trained GANs and compositional GANs in order to produce genuinely novel compositions that can convey or trigger emotions through the subject matter of generated images.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32159v1",
+        "title": "Playing Bias: Epistemic Games for Interpreting Text-to-Image Models",
+        "url": "https://arxiv.org/abs/2610.32159v1",
+        "authors": [
+          "Amalia Foka"
+        ],
+        "published": "2026-10-23",
+        "summary": "Text-to-image (T2I) systems do not merely render prompts; they circulate defaults for \"what X looks like,\" shaping recognition through pose, camera, costume, props, and setting. While technical audits quantify disparities, they rarely cultivate the literacy needed to argue how images assemble stereotypes and confer authority. This paper translates a three-stage, humanities-informed framework into a set of epistemic games that make this cultural work visible and debatable: Interpret (art-historical close looking with AI outputs), Interrogate (counter-intent prompting as artistic exploration), and Expose (creative misuse through paired prompts with a constant motif and a BiasSlot rule, in which only the bias cue varies). In a pilot with undergraduate fine-arts students, the games shifted discussion from impressionistic reactions to concise, warranted hypotheses grounded in visual evidence, supported by lightweight classroom instruments that enabled reproducibility and structured collaboration. We argue that such game-based approaches foster critical literacy across educational contexts, equipping learners to recognize, discuss, and contest how T2I models encode bias.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.32066v1",
+        "title": "Thumb on the scale: Using traditional wargaming adjudication practices to improve AI-judged evaluations and grading",
+        "url": "https://arxiv.org/abs/2610.32066v1",
+        "authors": [
+          "Daniel S. Epstein"
+        ],
+        "published": "2026-10-23",
+        "summary": "Open-ended AI work has no single correct answer to check, so a judge, often another AI, decides each result. Research on these judges asks which AI to use and how to word the rubric. It rarely tests the procedure that the judge follows. Wargames have no correct answer either, and for two centuries the field has designed that procedure: named methods that set how much freedom the referee has, their known failures, and fixes. We map eleven wargaming practices onto AI evaluation failures. We test one, the adjudication method, on 378 player actions from nine games of an AI-refereed exercise. A player states its odds, the adjudicator turns them into a target number, and a 20-sided die decides pass or fail. With rolls fixed, the target came from the rulebook (Rigid), a judge AI adjusting it (Semi-Rigid), a judge AI setting it alone (Free) or a panel of four judge AIs. In evaluation terms these are a fixed scoring rule, a rubric the judge may adjust, holistic grading and a jury. The judge AIs were Opus 5 and Gemini 3.1 Pro, each re-run. An outcome changes when an action on the same roll passes under one ruling and fails under another. Re-run, a judge changed 3 to 6 per cent of outcomes under Semi-Rigid and 14 to 16 per cent under Free. Swapping Opus for Gemini changed about 3 percentage points more than a re-run did, a gap nine games cannot confirm. The panel changed 40 of the rulebook's 378 outcomes, but the changes cancelled and the pass count moved by 8. A pass rate hides them. One published finding rests on 15 rulings, and most of our AI adjudicators and every re-run changed how often it appeared. We measure how much rulings move, not which ruling is right. The method set how often a judge disagreed with itself. Choose it before the judge AI, report how often the judge disagrees with itself, and count the rulings behind each conclusion. We propose an adjudication statement.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31993v1",
+        "title": "AusClinBench: a deterministically scored benchmark of large language models against current Australian clinical policy",
+        "url": "https://arxiv.org/abs/2610.31993v1",
+        "authors": [
+          "Daniel S. Epstein"
+        ],
+        "published": "2026-10-22",
+        "summary": "AI models already inform clinical decisions and draft notes in Australian clinical software, usually without the practitioner being told which model is used. Existing medical benchmarks are written for other jurisdictions. We wrote 142 questions from Australian guidelines and schedules across five domains (PBS authority, MBS billing, Ahpra obligations, triage red flags, immunisation and screening), each with one verifiable answer scored by exact match. Each question ran blind and with the governing clause supplied, which separates failure to recall the current rule from failure to apply it. We tested 28 models between July and October 2026. Blind accuracy ranged from 51.5% to 92.7%, and the highest-scoring models could not be separated. Of 791 failed model-question pairs, 684 (86%) were wrong blind and right with the clause. Confident-error rates ranged from 6.6% to 47.8%. On five immunisation questions where the guideline gives no directive, 82% of answers stated one. On 20 Aboriginal and Torres Strait Islander health questions, models did no worse overall, but on a few the wrong answers gave the rule for the general population, an older rule or another country's rule. We propose treating the model as an ingredient of a clinical product, with a minimum standard on local rules that sits beside product evaluation. The keys are one general practitioner's and are not yet independently reviewed. The benchmark measures base models, not clinical products, and does not license any model for clinical use.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.31875v1",
+        "title": "An AI Factory for Technology Education: An Agentic Pipeline with Closed Loop Audience Feedback",
+        "url": "https://arxiv.org/abs/2610.31875v1",
+        "authors": [
+          "Josue Hernandez",
+          "Hector R. Amado-Salvatierra",
+          "Rocael Hernandez Rizzardini"
+        ],
+        "published": "2026-10-22",
+        "summary": "Technology tools used for professional upskilling change on a timescale of weeks, and written guidance about them ages at the same pace. Large language models have made it inexpensive to draft a tutorial or a course outline, but most deployed generation systems still produce a piece of content once and never check it against what an audience actually does with it. This paper describes an agentic pipeline, organized as a typed workflow graph, that treats instructional content production as a manufacturing process with explicit checkpoints rather than a single generation call. Four node classes structure the graph: deterministic scripts, model steps bound to a fixed rubric, open-ended agent phases, and human approval gates, arranged along a forward production path and closed by a feedback cycle that rewrites generation rules from post level engagement telemetry. Production of content is split into two layers: a demand layer, built from video and community sources, that shapes topic selection and register, and an authority layer, built from official documentation, that every published claim must trace back to. Over five months of continuous operation, the deployed system published 26 documented guides at roughly 1.5 hours of operator time per week, and the feedback loop identified four measurable engagement effects that became binding rules for later runs, including a hook style that outperformed baseline by a factor of 1.83 in its first analysis window.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-10-26\n\nToday's research pool highlights major breakthroughs in extremal graph theory and chemical reaction network dynamics, paired with agentic autoformalization tools and end-to-end formal verifications in Lean 4 and Rocq.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Resolution of Zhao's Conjecture and Janson–Warnke Problem on Lower Tail Triangle Counts]**  \n  [The lower tail of triangle counts in sparse random graphs](https://arxiv.org/abs/2610.32879v1) — Dong Huang, Shuangping Li  \n  - **Mathematical Impact:** (Score: 5 — Landmark Breakthrough). Solves the graphon variational problem governing lower tail large deviations for triangle counts in sparse Erdős–Rényi random graphs $G(n,p)$ ($n^{-1/2} \\ll p \\ll 1$). Proves that all minimizers are either constant graphons or two-block symmetric step graphons separated by a first-order phase transition at threshold $\\eta_* \\approx 0.009217$, completely resolving open problems posed by Zhao (2017) and Janson–Warnke (2016).  \n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Global Convergence of Detailed Balanced Mass Action Systems Verified in Lean 4]**  \n  [Global Convergence of Detailed Balanced Mass Action Systems](https://arxiv.org/abs/2610.30808v1) — Haoran Lv, Chengjin Ni, Manqin Wang, Shenli He  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves the global convergence conjecture for finite detailed balanced mass-action systems with positive rate constants using an elementary bounded-speed descent argument, providing an end-to-end machine-checked formalization in Lean 4.  \n  - **AI Connection:** Claude Opus 5.5 made the research decisions, GPT 6 Astra carried them out, and the Lean kernel checked every formal step within the ClawsGO Science agent harness.\n\n* **[Structure and Exact Certification of Nonnegative Tensor Decompositions]**  \n  [Structure and Exact Certification of Nonnegative Tensor Decompositions](https://arxiv.org/abs/2610.32787v1) — Haoming Wang, Ming Yuan  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes a $G(R)L^{O(R^2)}$-time deterministic algorithm for exact nonnegative tensor rank, minimality, and uniqueness using Farkas lemma variable elimination and semialgebraic system solving, resolving all 114 benchmark instances previously left inconclusive by positive-scattering criteria.  \n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[SemantEq: Bidirectional Equivalence Auditing for Formal Statements]**  \n  [SemantEq: Faithful Bidirectional Equivalence of Formal Statements](https://arxiv.org/abs/2610.32919v1) — Xinrui Li, Pawan Sasanka Ammanamanchi, Siddharth Bhat, Rianna Jamdar, Yongxi Lin, Stella Biderman  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Introduces a formal proof-term auditing framework that replaces naive logical equivalence ($P \\leftrightarrow Q$) checks in autoformalization, eliminating false positives caused by prover trivialities while achieving 100% precision and high recall on Lean 4 autoformalization benchmarks.  \n  - **AI Connection:** Language models generate candidate equivalence proofs in Lean 4, which are then audited for validity via kernel proof terms through SemantEq-ProofAudit and SemantEq-Eval search.\n\n* **[End-to-End Formal Verification of Quantum Key Distribution Security in Rocq]**  \n  [FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq](https://arxiv.org/abs/2610.30645v1) — Ruixuan Deng, Zhengfeng Ji, Jiayu Zhang, Li Zhou  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Constructs the first admit-free, end-to-end machine-checked proof of composable, finite-key security for the BB84 protocol in the Rocq proof assistant, uncovering unstated side conditions and a missing proof branch present in prior literature.  \n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[PaperFormalizer: Author-in-the-Loop Autoformalization Pipeline]**  \n  [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](https://arxiv.org/abs/2610.31810v1) — Jiyuan Tan, Vasilis Syrgkanis, Jose Blanchet  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Provides an agentic workflow that converts LaTeX sources into dependency graphs, audits statement fidelity, and formalizes definitions and theorems into verified Lean 4 code against Mathlib with interactive author confirmation.  \n  - **AI Connection:** Executed inside coding agents (Claude Code or Codex) to perform natural language parsing, dependency analysis, and Lean 4 code generation.\n\n* **[RAIN: Agentic Proof Generation for Rocq]**  \n  [RAIN: Agentic Proof Generation for Rocq-based Software Verification](https://arxiv.org/abs/2610.30759v1) — Jinyi Zhou, Zenan Li, Yuan Yao, Jun Ma, Taolue Chen, Xiaoxing Ma  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Develops a specialized proof agent for the Rocq (Coq) environment that improves prove success rates on CoqStoq by replacing isolated tactic generation with whole-file proof script revision and context exploration.  \n  - **AI Connection:** Large language model augmented with domain-specific proof engineering tools (repository exploration, full proof script revision, and iterative checker feedback).\n\n* **[AI-Assisted Formalization of Cooperative Game Theory in Lean]**  \n  [Formalizing Cooperation and Competition: An AI-Assisted Mathematical Addendum to a 2018 Planning Thesis](https://arxiv.org/abs/2610.29637v1) — Haitham Masaud Amar  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Formally verifies bargaining geometry, finite negotiation procedures, and core stability conditions for monotone resource games in Lean.  \n  - **AI Connection:** Unspecified AI assistance claimed in abstract; architecture not detailed.\n\n---\n\n### 3. AI in Mathematics Education\n\nNo qualifying submissions met the threshold today.\n\n---\n\n### Provenance Footer:\n---\n*Synthesized with `gemini-3.6-flash` on 2026-10-26 11:30:25 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-10-26T11:31:14.642210+00:00"
+  }
+}
