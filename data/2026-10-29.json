@@ -1,0 +1,672 @@
+{
+  "updated_at": "2026-10-29T11:30:30Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2610.37650v1",
+        "title": "Hodge--Riemann relations for nef bundles",
+        "url": "https://arxiv.org/abs/2610.37650v1",
+        "authors": [
+          "Enhan Li",
+          "Weizhe Zheng"
+        ],
+        "published": "2026-10-27",
+        "summary": "We introduce the $(m,p,q)$-Lefschetz property for $(1,1)$-type endomorphisms of Hodge--Lefschetz modules, providing a framework for studying nef $(1,1)$-classes and characteristic classes of nef vector bundles on compact Kähler manifolds. Under a Hall--Rado type condition on nef twisted vector bundles, we prove Hodge--Riemann relations for products of top Chern classes and, in suitable bidegrees, for products of derived Schur classes. For products of nef $(1,1)$-classes, we show furthermore that the Hall--Rado type condition is equivalent to simultaneous Hodge--Riemann relations. Our proofs build on the purity theorem and descent lemma of Cattani, Kaplan, and Schmid. We extend the descent lemma to Schur classes of nef vector bundles. We also establish formal analogs for projective bundle modules over Hodge--Lefschetz modules, with applications to tautological classes and descent on matroid Chow rings.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37616v1",
+        "title": "Generic tensor products are not maximal",
+        "url": "https://arxiv.org/abs/2610.37616v1",
+        "authors": [
+          "Mykhaylo Tyomkyn"
+        ],
+        "published": "2026-10-27",
+        "summary": "We construct tensor products of uniform matroids which are strictly freer than their generic linear tensor products. In particular, the generic tensor product of two copies of $U_{7,9}$ is not maximal. More generally, for every $a,b\\ge2$, this holds for $U_{7,a+7}$ and $U_{7,b+7}$. The construction disproves the uniform tensor-product formulation of Mason's conjecture. Its dual is a relaxation of an explicit circuit-hyperplane of a generic birigidity matroid. By the author's representability theorem, the resulting matroids are non-representable over every field. We also obtain full-rank counterexamples to the Jackson--Tanigawa hyperconnectivity conjecture in every dimension $d\\ge2$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37614v1",
+        "title": "Iwahori Whittaker functions for unramified quasi-split groups",
+        "url": "https://arxiv.org/abs/2610.37614v1",
+        "authors": [
+          "Solomon Friedberg",
+          "Claire Frechette",
+          "Henrik P. A. Gustafsson"
+        ],
+        "published": "2026-10-27",
+        "summary": "Let $\\mathbf{G}$ be a connected unramified quasi-split reductive group defined over a nonarchimedean local field $F$. This paper concerns the Iwahori Whittaker functions attached to the unramified principal series of $\\mathbf{G}(F)$. We introduce Demazure-Whittaker operators and show that in the non-split case they generate a Hecke algebra with unequal parameters that are determined by $\\mathbf{G}$. We then connect these operators to the Whittaker functions, establishing formulas for calculating all values for a basis of Iwahori Whittaker functions and giving a new proof of the Casselman-Shalika formula for the spherical Whittaker function. In doing so we build on the work for split groups of Brubaker, Bump and Licata; the new feature here is the appearance of a Hecke algebra with unequal parameters.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37578v1",
+        "title": "A cubic chromatic bound for capped graphs",
+        "url": "https://arxiv.org/abs/2610.37578v1",
+        "authors": [
+          "Hongyang Wang"
+        ],
+        "published": "2026-10-27",
+        "summary": "An ordered graph is capped if, for any four vertices $a<b<c<d$, the edges $ac$ and $bd$ imply the edge $ad$. We prove that every nonempty capped graph $G$ satisfies $χ(G)\\leq\\min\\{3^{ω(G)-1},18ω(G)^3\\}$, where $χ(G)$ and $ω(G)$ are its chromatic number and clique number. This proves a conjecture of Davies, Krawczyk, McCarty and Walczak.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37539v1",
+        "title": "The packing and covering number of trees are local",
+        "url": "https://arxiv.org/abs/2610.37539v1",
+        "authors": [
+          "Caelan Atamanchuk",
+          "Simon Briend",
+          "Serte Donderwinkel",
+          "Elaine Herrera"
+        ],
+        "published": "2026-10-27",
+        "summary": "For a graph, its $r$-packing number is the size of the largest $r$-separated set and its $r$-covering number is the size of the smallest $r$-net. We show that the $r$-covering number and $r$-packing number are continuous in the fringe topology on locally finite trees. This recovers convergence results by Meir and Moon for e.g. uniform binary trees, uniform plane trees, uniform Polyá trees and random recursive trees, and proves new results for many other tree models, such as size-conditioned Bienaymé trees, simply generated trees, $m$-ary search trees, the minimum spanning tree of the complete graph and preferential attachment trees. Moreover, our formulation provides an intuitive interpretation of the limiting constant, that also provides an easy route for explicit computations in the case of size-conditioned Bienaymé trees. Our method relies on the definition of a canonical minimum $r$-net, and a relation between covering numbers and packing numbers due to Meir and Moon.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37532v1",
+        "title": "Relative distality and incidence bounds in positive characteristic",
+        "url": "https://arxiv.org/abs/2610.37532v1",
+        "authors": [
+          "Mira Tartarotti"
+        ],
+        "published": "2026-10-27",
+        "summary": "We prove Szemerédi-Trotter-type incidence bounds for algebraic relations in any field $F$ admitting a valuation with finite residue field. This includes $\\mathbb F_q(t)$, $\\mathbb F_q((t))$, and all finitely generated extensions of finite fields. Bays and Martin show that any algebraic $K_{d,s}$-free relation $E\\subseteq F^k\\times F^\\ell$ admits a power-saving in the classical Zarankiewicz bound of Kővári, Sós, and Turán. Answering a question of the authors, we show that this power-saving is uniform in $F$: There is some $ε>0$ depending only on $d$ and the complexity of $E$ (and not on $F$) such that for $A\\subseteq F^k$ and $B\\subseteq F^\\ell$, the number of edges $|E(A,B)|$ is at most $O(|A|^{1-ε}|B|^{1-\\frac{1-ε}{d}}+|A|+|B|)$. For the case where $A$ is a set of points and $B$ is a set of lines in $F^2$ and $E$ is the incidence relation, we prove the explicit bound $O(|P|^{\\frac{8}{9}}|L|^{\\frac{5}{9}}+|P|+|L|)$. As the central ingredient of the proof, we introduce the model-theoretic notion of distality relative to a definable set. We begin developing this notion and prove that the theory of algebraically closed valued fields is distal relative to the residue field. An application of a result of Chernikov, Peterzil, and Starchenko, based on work of Chernikov, Galvin, and Starchenko, yields our incidence bounds.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37523v1",
+        "title": "The Structure Gap: When More Data Cannot Replace Structured Reasoning",
+        "url": "https://arxiv.org/abs/2610.37523v1",
+        "authors": [
+          "Kheer Sagar Patel",
+          "Mojtaba Soltanalian"
+        ],
+        "published": "2026-10-27",
+        "summary": "A persistent belief in modern AI is that sufficiently large learners trained on sufficiently much data can make explicit domain knowledge optional. This paper examines a limitation of that belief. We define structure-encoded problems: tasks whose input-output map is determined, or sharply constrained, by known structure such as a solver, symmetry group, graph, physical law, measurement operator, grammar, combinatorial search space, or optimization objective. For such tasks, the central question is not expressivity--a dense neural network may contain the desired map--but finite-data identification, extrapolation, and certification. We introduce the structure gap: the finite-resource gap between a method that receives the governing structure and a learner that receives only examples. The strongest useful form of the claim is asymptotic rather than absolute: structure-agnostic learning may approach a structured solver as coverage grows, but every finite dataset can leave residual uncertainty that the structure resolves by construction. We prove this exactly for a Gaussian inverse problem: the known-operator Wiener solver attains Bayes risk, while the dense empirical learner in the correct linear class has persistent expected excess risk. We also prove a cell-coverage lower bound and an unobserved-orbit non-identifiability result. Controlled experiments in known-operator inversion, sparse recovery, and graph reachability with size extrapolation instantiate the mechanisms. When validated structure is available, it can constrain the hypothesis space before learning begins, leaving learning to address components the structure does not specify.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37512v1",
+        "title": "Coprime matchings of divisor sets",
+        "url": "https://arxiv.org/abs/2610.37512v1",
+        "authors": [
+          "Max A. Alekseyev"
+        ],
+        "published": "2026-10-27",
+        "summary": "For a positive integer $n$, let $D(n)$ be its set of positive divisors and put $N:=τ(n)=|D(n)|$. We characterize the arithmetic progressions $\\mathcal P$ of length $N$ that admit a bijection with $D(n)$ pairing relatively prime integers. Such a coprime matching exists if and only if, for every prime $p\\mid n$, at most $N/(ν_p(n)+1)$ terms of $\\mathcal P$ are divisible by $p$, where $ν_p(n)$ is the exponent of $p$ in $n$. Call $n$ an $M$-number if $p^p\\nmid n$ for every prime $p$. We prove that $D(n)$ can be matched with every primitive arithmetic progression of length $N$, meaning one whose first term and common difference are coprime, if and only if $n$ is an $M$-number. This proves a conjecture of McNew and Pomerance. We call $n$ \\emph{matchable} if $D(n)$ admits a coprime matching with the primitive arithmetic progression $\\{1,2,\\ldots,N\\}$. The general criterion implies that $n$ is matchable if and only if $\\lfloor N/p\\rfloor\\le N/(ν_p(n)+1)$ for all $p\\mid n$. We explicitly classify the matchable non-$M$-numbers, settle a conjectured divisor criterion, and prove that every divisor of a matchable integer is matchable. A Vandermonde determinant gives the required matchings under bounds on the prime exponents, while a partition into shorter progressions handles the remaining cases.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37497v1",
+        "title": "Bounds for B-coloring planar and outerplanar graphs",
+        "url": "https://arxiv.org/abs/2610.37497v1",
+        "authors": [
+          "Ryan R. Martin",
+          "Miklós Ruszinkó",
+          "Gábor N. Sárközy"
+        ],
+        "published": "2026-10-27",
+        "summary": "A proper coloring of the edges of a graph is one in which every $K_{1,2}$ is totally multicolored. A B-coloring is a coloring of the edges of $G$ in which every $K_{1,2}$ and every $K_{2,2}$ is totally multicolored. In this paper, we improve two results by the authors and Gyárfás. The first shows that an outerplanar graph with maximum degree $Δ$ can be B-colored with $\\max\\{Δ,9\\}$ colors, improving a bound of $Δ+1$ and this is best possible up to the constant 9. The second shows that a planar graph with maximum degree $Δ$ can be B-colored with $\\max\\{2Δ+4,22\\}$, improving a bound of $2Δ+8$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37490v1",
+        "title": "Rank functions, $\\mathbb{Z}_p$-extensions and class numbers",
+        "url": "https://arxiv.org/abs/2610.37490v1",
+        "authors": [
+          "Iq Souza"
+        ],
+        "published": "2026-10-27",
+        "summary": "If $F$ is a number field and $F = F_0 \\subset F_1 \\subset F_2\\subset \\cdots$ is a tower of Galois extensions with $\\mathrm{Gal}(F_n/F)$ cyclic of order $p^n$, K. Iwasawa gave a closed formula for the growth of the $p$-part of the class number of $F_n$ whenever $n$ is large enough. We present a new proof of this formula, obtained by reinterpreting its summands in terms of Sylvester matrix rank functions on the Iwasawa algebra $Λ$ without resorting to the classification of finitely-generated $Λ$-modules up to pseudo-isomorphism.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37477v1",
+        "title": "The Assouad Dimension of Graphs: An Affirmative Answer to Fraser's Question",
+        "url": "https://arxiv.org/abs/2610.37477v1",
+        "authors": [
+          "Binyan Yu",
+          "Bilel Selmi",
+          "Jia Liu",
+          "Yongshun Liang"
+        ],
+        "published": "2026-10-27",
+        "summary": "This article primarily investigates the Assouad dimension of graphs of continuous functions. Initially, the Assouad spectrum of the graph of a Hölder and count-Hölder continuous function has been derived. It has been shown that the Assouad dimension of the graph of a continuous function $f:[a,b]\\to \\mathbb{R}$ with the count-Hölder condition is at least \\( 1 + \\sup \\left\\{ \\overline{\\dim}_{\\mathrm{B}}L_f(y) : y \\in \\mathscr{R}_f[a,b]\\right\\} \\) where $\\overline{\\dim}_{\\mathrm{B}}$ denotes the upper box dimension, $L_f(y)$ is the level set of $f$ at level $y$, and $\\mathscr{R}_f[a,b]$ is the range of $f$ on $[a,b]$. As a consequence, non-trivial lower bounds are obtained for the Assouad dimension of the graphs of classical functions such as the Weierstrass and Takagi functions. We have also employed a unified projection solely in the direction of the $y$-axis to establish lower and upper bounds for the Assouad dimension. On this basis, we have shown that the lower bound is sharp in terms of level sets, namely the upper box dimension cannot be replaced by the Assouad dimension. This provides a partial positive answer to Question 17.11.1 posed by Fraser in~\\cite{Fraser2021}, and to Question 2.2 posed by Yu in~\\cite{Yu2020}. Building on this result, the analysis has been further extended to a broader class of Weierstrass-type functions and some self-affine functions like fractal interpolation functions. Moreover, we have discussed certain circumstances under which the Assouad dimension can reach 2 with several examples constructed. A supplementary explanation of why Brownian motion has the full Assouad dimension has also been provided based on the preceding work of Howroyd and Yu \\cite{Howroyd2019}.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37463v1",
+        "title": "Local Law and Eigenvector Delocalization for Random Lifts",
+        "url": "https://arxiv.org/abs/2610.37463v1",
+        "authors": [
+          "Jiaoyang Huang",
+          "Ruizhe Xu"
+        ],
+        "published": "2026-10-27",
+        "summary": "We establish a quantitative local law for random $N$-lifts of a fixed finite connected simple graph with minimum degree at least three. Away from the singular energies of the universal-cover spectrum, we obtain high-probability entrywise Green's function estimates down to spectral scales $(\\log N)^C/N$, uniformly in the bulk and near regular edges and cusps. As a consequence, we establish complete eigenvector delocalization: every normalized eigenvector $u$ whose eigenvalue stays a small but fixed positive distance away from the singular energies satisfies $\\|u\\|_\\infty\\leq(\\log N)^C/\\sqrt{N}$ with high probability.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37423v1",
+        "title": "Sharp Bounds for Toral Eigenfunctions and Threefold Additive Energy on Circles",
+        "url": "https://arxiv.org/abs/2610.37423v1",
+        "authors": [
+          "Guiyu Xie",
+          "Cheng Zhang"
+        ],
+        "published": "2026-10-27",
+        "summary": "For the lattice circle $P_n=\\{z\\in\\mathbb{Z}^2:|z|^2=n\\}$, we prove that the threefold additive energy $J_3(P_n)\\le C|P_n|^3$, with an absolute constant $C$. This establishes the optimal bound suggested by Krishnapur--Kurlberg--Wigman and Bombieri--Bourgain. We also prove a uniform weak $L^6$ bound for $L^2$-normalized eigenfunctions on the square torus, and hence uniform $L^p$ bounds for every $1\\le p<6$. This extends the classical $L^4$ bounds of Cooke and Zygmund and establishes Bourgain's conjecture in this range. Applications include mean-square convergence for $L^{6/5}$ observables and a logarithm-free remainder in the nodal length variance of arithmetic random waves.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37421v1",
+        "title": "Equidistant Affine Subspaces: Explicit Bounds, Codimension-Two Reduction, and Transverse Products",
+        "url": "https://arxiv.org/abs/2610.37421v1",
+        "authors": [
+          "Jia Li"
+        ],
+        "published": "2026-10-27",
+        "summary": "Let $\\mathcal{N}(k,n)$ be the largest size of a family of affine $k$-planes in $\\R^n$ at pairwise separation distance one. We develop a unified treatment of upper bounds, dimension reduction, and product constructions. Orthogonal-projection coordinates give a rank-stratified distance identity; a Veronese lifting converts its polynomial consequences into simultaneous total isotropy. Connected Nash decomposition and an analytic diagonal argument replace the linear-independence step in Höfer's three-dimensional method. An explicit cylindrical decomposition estimate yields $\\mathcal{N}(k,n)\\leqslant 2^{\\,2^{\\,3(k+1)(n-k)}}$. For configurations whose direction sums have dimension at most $k+1$, we prove the exact reduction $\\mathcal{N}_{\\leqslant k+1}(k,n)=\\mathcal{N}(1,n-k+1)$. Every codimension-two equidistant configuration splits off a common linear factor, giving $\\mathcal{N}(n-2,n)=\\mathcal{N}(1,3)$. We also determine the sharp bound $2(n-k)$ when all directions lie in a fixed $(k+1)$-dimensional subspace. A transverse product construction gives multiplicative inequalities and makes $S(c)=\\mathcal{N}(c-1,2c-1)$ supermultiplicative. In particular, $S(c)\\geqslant 2^{c\\bmod 2}7^{\\lfloor c/2\\rfloor}$. The structural results and constructions do not depend on the exact value of $\\mathcal{N}(1,3)$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37420v1",
+        "title": "Spectral $L^2$-bounds on Eisenstein series and Diophantine properties of quadratic forms",
+        "url": "https://arxiv.org/abs/2610.37420v1",
+        "authors": [
+          "Jitendra Bajpai",
+          "Kristian Holm"
+        ],
+        "published": "2026-10-27",
+        "summary": "We give $L^2$-bounds with respect to the height of the spectral parameter for Epstein zeta functions $\\mathrm{Z}_Q(s)$ and non-holomorphic Eisenstein series $E_{\\mathfrak{c}}(s,z)$ attached to the Hecke congruence subgroup $Γ_0 (p)$ of prime level $p$. Our bounds are completely explicit in the level and, additionally, constitute an almost sure logarithmic improvement over previously established bounds for the level-one Eisenstein series. Following the approach of Kelmer--Kontorovich--Lutsko, we combine the approximate functional equation for $\\mathrm{Z}_Q(s)$ with estimates for the number of pairs of lattice vectors at which $Q$ takes nearly equal values. Under a Diophantine hypothesis on $Q$, we sharpen these counting estimates using results of Eskin--Margulis--Mozes on the distribution of values of quadratic forms of signature $(2,2)$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "hf:2610.35962",
+        "title": "h1: A Taste of the Bitter Lesson in Automated Theorem Proving",
+        "url": "https://huggingface.co/papers/2610.35962",
+        "authors": [
+          "Skander Moalla",
+          "Ahmad Rammal",
+          "Niket Patel",
+          "Remi Munos",
+          "Julia Kempe"
+        ],
+        "published": "2026-10-25",
+        "summary": "While progress in informal mathematics has come largely from scaling the chain-of-thought and agentic reasoning of frontier language models, formal theorem proving has increasingly relied on human-designed workflows around these models, such as planning, decomposition, and orchestrating specialized provers. This raises a bitter-lesson question: can a simple agentic loop that scales test-time compute match these workflows? The answer matters as formal verification must scale to keep up with frontier models producing research mathematics, yet new workflows rarely settle it, as their gains are often confounded with stronger models or more compute. We study this question with h1, a simple harness that gives a model an efficient interface to Lean 4 and keeps it working through verifier feedback and self-reflection, without imposing a decomposition or search structure. h1 reaches state-of-the-art results on PutnamBench, FATE-X, and FormalConjectures100-Solved, settles eight open problems in FormalConjectures, and, at matched models, matches or outperforms specialized workflows such as Goedel-Architect and AlphaProof Nexus, surprisingly showing that a single attempt (pass@1) can often scale to solve open problems. Through ablations and matched-model comparisons with Claude Code and AxProverBase, we find that simplicity alone is not enough: an efficient Lean interface largely determines cost and solve rate. We thus recommend that future work evaluate frontier models with efficient execution feedback before prescribing workflows, at the risk of bitter lessons.",
+        "source": "Hugging Face",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2610.37534v1",
+        "title": "Computing GR(1) Assume-Guarantee Contracts",
+        "url": "https://arxiv.org/abs/2610.37534v1",
+        "authors": [
+          "Yigit Narter",
+          "Emily Zhao",
+          "Inigo Incer"
+        ],
+        "published": "2026-10-27",
+        "summary": "Assume-guarantee contracts provide a set of algebraic operations that enable the efficient compositional design and analysis of complex engineering systems. The explicit computation of these operations at component interfaces is currently supported only for some logics lacking a notion of time. This paper develops theory and algorithms to compute these operations when the contracts are expressed in the GR(1) modulo theory. The key challenge is the computation of two quantifier elimination problems for temporal formulas. We develop context-aided variable elimination procedures on GR(1)-modulo formulas, establish their soundness, characterize subproblem-wise optimal solutions within an admissible class of formulas, and use the procedures to compute contract operations, including composition and quotient. We implement the resulting framework in Pacti, automating compositional reasoning over GR(1) contracts. Finally, we demonstrate the framework on an automated emergency-braking case study, where we compute system-level contracts and expose compatibility conditions arising from the interaction of component specifications. Experiments on synthetic families show that the cost is governed by the number of eliminated variables and liveness conjuncts, and a comparison with exact automata-based elimination shows complementary scaling.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37498v1",
+        "title": "Global Choice without Excluded Middle in Dependent Type Theory",
+        "url": "https://arxiv.org/abs/2610.37498v1",
+        "authors": [
+          "Sewon Park"
+        ],
+        "published": "2026-10-27",
+        "summary": "Diaconescu's theorem derives excluded middle from the axiom of choice, using propositional extensionality. We show that in dependent type theory without propositional extensionality, global choice alone does not imply excluded middle. We consider extensional Martin-Löf type theory with an impredicative universe of propositions included in the universe of types, extended with a global choice operator. We construct a consistent model of this type theory and show that the model refutes excluded middle and propositional extensionality. The model is built from staged sets, sets whose elements appear at stages of a well-order. It further validates proof irrelevance, inductive families, quotients with soundness, and a cumulative hierarchy of universes, which together cover a large fragment of the type theory of the proof assistant Lean. Even together with these features, global choice does not imply excluded middle.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37108v1",
+        "title": "Finite $\\mathbf{BM}$-algebras and fixed-point combinators",
+        "url": "https://arxiv.org/abs/2610.37108v1",
+        "authors": [
+          "Takuma Imamura"
+        ],
+        "published": "2026-10-27",
+        "summary": "We study algebras for the $\\mathbf{BM}$-, $\\mathbf{BI}$-, and $\\mathbf{BMI}$-fragments of combinatory logic, where $\\mathbf{B} xyz \\to_{w} x\\left(yz\\right)$, $\\mathbf{M} x \\to_{w} xx$ and $\\mathbf{I} x \\to_{w} x$. We prove that every finite $\\mathbf{BM}$-algebra $\\mathcal{A}$ contains an element $Y$ satisfying $Yx = x\\left(Yx\\right)$ for all $x\\in A$. Moreover, a single closed $\\mathbf{BM}$-term represents such an element in every finite $\\mathbf{BM}$-algebra. On the other hand, we show that there exists an infinite $\\mathbf{BMI}$-algebra with no such element. Consequently, the variety of $\\mathbf{BM}$-algebras is not generated by finite $\\mathbf{BM}$-algebras. We also characterise finite $\\mathbf{BI}$-algebras as finite semigroups with two distinguished left units $B$ and $I$, and finite $\\mathbf{BMI}$-algebras as finite idempotent semigroups with three distinguished left units $B$, $M$ and $I$.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37107v1",
+        "title": "A Counterexample to KL1 Completeness and a Complete Disjunctive Calculus",
+        "url": "https://arxiv.org/abs/2610.37107v1",
+        "authors": [
+          "Damiano Presa",
+          "Fabio Aurelio D'Asaro",
+          "Massimiliano Badino"
+        ],
+        "published": "2026-10-27",
+        "summary": "The logic KL$_1$ of Evans, Sergot and Stephenson formalizes Kant's rules as conditional imperatives $B \\square\\to C$ and permissives $B \\diamond\\to C$ over acts. Its consequence relation is operational: a rule follows from a set of rules when adjoining it leaves the set of outcomes unchanged for every input. The authors proved their calculus sound and conjectured that it is complete. We show that the conjecture fails: for distinct atoms $b,c,d$ the rules $\\top \\diamond\\to b \\lor d$, $b \\diamond\\to c$, $d \\diamond\\to c$ and $c \\square\\to b \\lor d$ entail $\\top \\diamond\\to c$, which is not derivable. Non-derivability is proved by an invariant that holds at every derivation depth and for arbitrary intermediate atoms. The obstruction is the side condition of may-trans, which requires each new act to bring with it a single intermediary act. Replacing it by a disjunctive side condition yields may-trans-disj, a strict generalization from which the original rule is derivable. Using a local characterization of entailment, we prove the repaired calculus sound for arbitrary sets of rules and complete for finite ones, and we show that, with finite inputs, completeness cannot be extended to infinite sets. The main results on KL$_1$ are formalized in Agda. For KL$_2$ we observe that the published reduction to KL$_1$ passes through infinite rule sets; re-establishing the decomposition for finite rule sets, we prove that KL$_2$ with the disjunctive rule is sound and complete for finite sets of rules. We close with remarks on KL$_3$ and on the significance of completeness for the relation between the operational and the inferential questions of Kant's logic.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36795v1",
+        "title": "An Algebra of Transformers",
+        "url": "https://arxiv.org/abs/2610.36795v1",
+        "authors": [
+          "Yong Wang",
+          "Zhiyan Wang",
+          "Hexiao Kang"
+        ],
+        "published": "2026-10-27",
+        "summary": "On the theoretic analyses on transforms, they mainly focus on the computability analysis, such the Turing-completeness of unbounded precision transformers, the advantage of parallelizability of unbounded precision transformers and the limitations of bounded precision transformers. This paper give transformers an algebra for reasoning, which relies heavily on the functional decomposition results of transformers. This algebra uses functional decompositions as atomic actions, includes sequential composition and parallel composition, recursion for feedback and abstraction for hidden layers. As we know, it is the first attempt to model transformers logically and can be used to verify the correctness of transformer based applications.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36655v1",
+        "title": "Log-Derivative Trick for Parametric Markov Chains",
+        "url": "https://arxiv.org/abs/2610.36655v1",
+        "authors": [
+          "Arthur Gall",
+          "Ichiro Hasuo",
+          "Thomas Seiller"
+        ],
+        "published": "2026-10-27",
+        "summary": "Optimizing expected rewards and reachability probabilities in parametric Markov chains (pMCs) is central to the analysis and synthesis of probabilistic systems with loops. While traditional symbolic synthesis approaches--such as parameter lifting and rational function generation--suffer from scalability bottlenecks, gradient-based optimization emerges as an effective alternative. However, existing gradient-based techniques still rely on symbolic gradient computation--such as solving large linear systems--over the global state space, inheriting scalability limits. Finite-horizon approximation is possible but introduces uncontrollable bias. In this paper, we introduce a scalable Monte Carlo gradient estimator based on a measure-theoretic generalization of the log-derivative trick. We prove that our estimator provides unbiased gradient estimates under almost-sure termination and standard regularity conditions. Crucially, our method avoids global state-space materialization and linear system solving entirely: it operates purely along sampled trajectories, requiring only black-box evaluations of local transition probabilities (or densities) and their derivatives. Unlike existing pMC techniques that are fundamentally restricted to finite discrete systems, our measure-theoretic framework naturally extends to continuous and general $σ$-finite state spaces. Empirical evaluations on synthetic discrete pMCs and continuous-state case studies demonstrate that our method scales to state spaces far beyond the reach of existing solvers, significantly reducing execution time without introducing bias.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36552v1",
+        "title": "A Fibrational Framework For Multi-Conclusion Logics",
+        "url": "https://arxiv.org/abs/2610.36552v1",
+        "authors": [
+          "Oualid Merzouga"
+        ],
+        "published": "2026-10-27",
+        "summary": "The fibrational framework of Licata, Shulman, and Riley gives a uniform account of substructural and modal logics for single-conclusion judgments. This thesis extends it to a multiple-output setting in which cartesian resources may be used freely, while linear resources occur exactly once on either side of the turnstile. Judgments are indexed by descriptors: directed acyclic graphs generalizing the tree-shaped expressions of the original framework. Descriptor $2$-cells encode structural transformations, and explicit gates provide weakening, contraction, coweakening, and cocontraction at linear modes. We define a sequent calculus generated by two connectives, $F$ and $U$. We prove identity, invertibility, and cut admissibility. The mode and type theories present linear-non-linear $2$-polycategories, and the projection is a local discrete fibration and a fibration, with opcartesian lifts for one-output base morphisms. Two adequacy results validate the framework: its cartesian fragment recovers the Licata--Shulman--Riley calculus, and its purely linear fragment presents classical multiplicative linear logic. Finally, we relate indexed and fibrational semantics. After developing representability correspondences for multicategories and polycategories, we establish an equivalence between multi-indexed categories over a fixed representable base and multicategorical opfibrations over it, together with its biclosed bifibrational version. We also give a one-way construction from planar poly-indexed data to a planar polycategory.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36534v1",
+        "title": "Resolvent Components of Completely Normal Elements and the Morgan-Mullen Conjecture",
+        "url": "https://arxiv.org/abs/2610.36534v1",
+        "authors": [
+          "Florian Hellwig"
+        ],
+        "published": "2026-10-27",
+        "summary": "We study completely normal elements of $\\mathbb{F}_{q^n}$ over $\\mathbb{F}_q$, that is, elements that are normal over every intermediate field, through partial Lagrange resolvents. In these coordinates, complete normality splits into independent components, in a way closely related to Hachenberger's decomposition theory. Our main tool is a structure theorem for the components; together with a finite computation, it shows that every component has weight (the sum of the probabilities that its conditions fail) at most $3/4$, uniformly in $n$. Combined with the classical character-sum method, this gives an explicit sufficient criterion for the existence of a primitive completely normal element. We verify the criterion for all $n>q$ except $70$ pairs $(q,n)$, which we settle with explicit elements found by computer. Since the case $n\\le q$ is due to Garefalakis and Kapetanakis, this confirms the conjecture of Morgan and Mullen (1996) that every $\\mathbb{F}_{q^n}$ contains a primitive element that is completely normal over $\\mathbb{F}_q$. The same estimates give two further results. First, Hachenberger's conjectured lower bound $(q-1)^{n'}q^{(p^a-1)n'}$ for the number of completely normal elements, where $p$ is the characteristic and $n=p^an'$ with $p\\nmid n'$, holds for all pairs $(q,n)$; it was known for regular pairs. Second, primitivity and complete normality are asymptotically independent: as $q^n\\to\\infty$, the number of primitive completely normal elements is $(1+o(1))\\,\\varphi(q^n-1)/(q^n-1)$ times the number of completely normal elements (for fixed $n$ this was known). Our arguments for $n>q$ and for both further results, including every computer-assisted step, are formalised in Lean 4 with Mathlib; the formalisation takes the case $n\\le q$ and an explicit bound of Rosser and Schoenfeld as axioms and relies on Lean's compiler and interpreter for the large computations.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36494v1",
+        "title": "Counting by the Book: Verifying Alaska's Ranked-Choice Elections",
+        "url": "https://arxiv.org/abs/2610.36494v1",
+        "authors": [
+          "Lucy Horowitz"
+        ],
+        "published": "2026-10-27",
+        "summary": "We present Alaska's ranked-choice elections as a case study in Formally Verified Democracy, a program to establish election results through formally checked proofs. We formalize an interpretation of Alaska's tabulation rules in Lean, verify its implementation, and prove election-specific results. Across 115 ranked-choice contests in Alaska since 2022, we identify 75 ballot records across 10 contests that were counted differently from this interpretation by a program reproducing the published results, without changing any winners. We trace these differences to overvotes and duplicate rankings and examine their legal justification, showing how formal verification can expose consequential choices in translating election law into software.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36343v1",
+        "title": "Reasoning about the Genetic Code in Lean",
+        "url": "https://arxiv.org/abs/2610.36343v1",
+        "authors": [
+          "Colin T. Jones",
+          "Tyler R. Josephson"
+        ],
+        "published": "2026-10-26",
+        "summary": "The genetic code exhibits redundancy, meaning that multiple distinct nucleotide sequences can encode the same amino acid sequence, a property mathematically characterized as non-injectivity. While this phenomenon is well studied in molecular biology, its rigorous verification within a computational framework remains limited. In this work, we present a machine-verified model of the central dogma of molecular biology using the Lean 4 interactive theorem prover. We formalize nucleic acid bases and amino acids as inductive types and define transcription and translation as functions mapping DNA sequences to RNA and subsequently to polypeptides. Within this framework, we prove key properties of these biological processes, including the redundancy of the genetic code, injectivity of transcription, and the non-injectivity of translation. Additionally, we formalize auxiliary processes such as DNA replication and mutation, and verify properties such as length conservation under transcription and point mutations. Finally, we demonstrate how Lean 4 helps prevent semantic errors in our code, showing its effectiveness as a tool for advancing reliable, bug-free scientific computing, particularly within the life sciences.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36328v1",
+        "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
+        "url": "https://arxiv.org/abs/2610.36328v1",
+        "authors": [
+          "Aravind Mandiga",
+          "Guoming Li"
+        ],
+        "published": "2026-10-26",
+        "summary": "Benchmarks for verifiable code generation usually test a proof against one fixed implementation. We ask whether the same proof remains valid after a program refactoring that preserves behavior. We introduce RefactorProof, which derives 458 Lean-certified variants from the 185 VERINA tasks that compile in our pinned environment while holding the specification and evaluated proof fixed byte-for-byte. VERINA supplies reference proofs for 46 tasks, all from its basic split; the primary model-versus-reference comparisons further match on 21-25 short, non-recursive tasks. Structural refactorings expose substantial brittleness across proof sources: task-normalized structural PSR is 4.3% for the supplied references and 13.3-26.8% for the specialized provers. On the matched tasks, specialized prover proofs nevertheless have higher overall unchanged-proof survival than the supplied reference artifacts: +15.6 points for DeepSeek-Prover-V2-7B, +18.8 for Goedel-Prover-V2-32B, and +20.3 for Goedel-Prover-V2-8B; all three 95% CIs exclude zero. The ordering persists after excluding universally survived T1 variants, under family-balanced aggregation, and under alternative deployable valid-proof selection rules. However, unchanged-proof failure is not the same as high repair cost: predefined one-identifier edits repair 51/54 eligible reference structural failures and 58/85 eligible prover failures. RefactorProof therefore measures unchanged-proof stability under program refactoring, not the cost of maintaining a proof after it breaks.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36196v1",
+        "title": "count-catcher: Lean Theorems from Model Counting Certificates",
+        "url": "https://arxiv.org/abs/2610.36196v1",
+        "authors": [
+          "Johannes K. Fichte",
+          "Stefan Szeider"
+        ],
+        "published": "2026-10-26",
+        "summary": "We present count-catcher, a tool that turns a CPOG certificate of a count by the exact model counter d4 into a Lean theorem that a CNF formula defined in Lean has exactly N models over V variables. With an encoding lemma, this theorem becomes a theorem about the number of combinatorial objects. A CPOG certificate consists of a Boolean circuit equivalent to the formula and a proof of equivalence. count-catcher checks in Lean that the formula implies the circuit (forward check) and the circuit implies the formula (reverse check). For the forward check, lrat-catcher streams a refutation through the LRAT checker of Lean's standard library. The reverse check and the validity check of the circuit are computations proved correct in Lean. Lean runs all three checks as compiled code, so the theorem depends on Lean's kernel, compiler and runtime, as does CPOG's verified checker. We combine the theorem with results from Mathlib, for instance with Burnside's lemma to count graphs up to isomorphism. We prove the number of Latin squares of order 8 as a weighted sum of hundreds of certified counts from about eight terabytes of certificates. We turn about half of the 2022 Model Counting Competition formulas into theorems, with the three checks taking about a quarter of the time of CPOG's verified checker. We found that CPOG's unverified checker reported wrong counts, and removed its verified checker's dependence on two unproved lemmas. End to end, a theorem costs about the same as a checked count.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36151v1",
+        "title": "Replication or Corroboration? An Axiomatic Framework for Evidential Dependence in Multi-Agent Debate",
+        "url": "https://arxiv.org/abs/2610.36151v1",
+        "authors": [
+          "Hoang-Loc Cao",
+          "Truong Thanh Hung Nguyen",
+          "Phuc Truong Loc Nguyen",
+          "Vo Thanh Khang Nguyen",
+          "Phuc Ho",
+          "Hung Nguyen",
+          "Duc Pham",
+          "Long Tran-Thanh",
+          "Hung Cao"
+        ],
+        "published": "2026-10-26",
+        "summary": "In multi-agent debates, matching reports can arise for two different reasons: agents may repeat the same evidence (replication), or they may provide separate evidential roots that support the same claim (corroboration). A judge must distinguish these two cases. Counting report occurrences gives extra weight to relays, paraphrases, alias resubmissions, and excerpt splits, while merging all matching content avoids this only by also removing genuine corroboration. We formalize this tension as a minimal judgment game in which acquiring new evidence is costly, but replication is cheap. We show that root replication invariance (RRI) is exactly threshold-uniform replication immunity. Under RRI, replication-only deviations cannot change the verdict, and positive-cost replication is strictly dominated, whereas occurrence-sensitive and content-keyed judges admit profitable deviations. We also establish an information boundary: if a judge's observation interface cannot distinguish a replica from a matched fresh root, no judge can both ignore the replica and respond strictly to the fresh root. To preserve this distinction, we introduce the lineage quotient, which removes wording, identity, occurrence multiplicity, and arbitrary root names while keeping distinct roots separate. On orbit-connected domains, it is the coarsest representation sufficient for every deterministic judge invariant to replication and root-label renaming. We further lift this construction to quantitative bipolar argumentation frameworks (QBAFs), characterize strict fresh-root response, prove its propagation along sign-consistent paths under DF-QuAD, and derive a tight closed-form response modulus. Exhaustive audits over 28,224 direct-star profiles, 2,052 multi-layer DAGs, with matched interventions on 277 AVeriTeC-derived profiles, show the predicted separation between replication and corroboration under a supplied partition.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35770v1",
+        "title": "The Undecidability of FO3 and the Calculus of Relations with Just One Binary Relation",
+        "url": "https://arxiv.org/abs/2610.35770v1",
+        "authors": [
+          "Yoshiki Nakamura"
+        ],
+        "published": "2026-10-26",
+        "summary": "The validity problem for first-order logic is a well-known undecidable problem. The undecidability also holds even for $\\mathsf{FO}3$ and (equational formulas of) the calculus of relations. In this paper we tighten these undecidability results to the following: (1) $\\mathsf{FO}3$ with just one binary relation is undecidable even without equality; and (2) the calculus of relations with just one character and with only composition, union, and complement is undecidable. Additionally we prove that the finite validity problem is also undecidable for the above two classes.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.35711v1",
+        "title": "The Proof-Theoretic Foundations of the Principle of Reiteration in Natural Deduction",
+        "url": "https://arxiv.org/abs/2610.35711v1",
+        "authors": [
+          "Khashayar Irani"
+        ],
+        "published": "2026-10-26",
+        "summary": "This paper investigates the proof-theoretic foundations of the principle of reiteration (R) in natural deduction, arguing that its legitimacy originates in the structural preservation of formulae within sequent calculus rather than in an independent logical rule. By examining singlesuccedent and multisuccedent sequent calculus, we demonstrate how logical operations transform principal formulae while preserving unaffected antecedent and succedent contexts. We subsequently analyse the schematic formulation of reiteration and compare natural deduction derivations with corresponding sequent calculus derivations. This comparison identifies two fundamental functions of reiteration, namely the reuse of previously employed formulae and the restoration of previously derived conclusions. We conclude that reiteration introduces no independent inferential content but explicitly represents the structural continuity of inferential dependencies already included into sequent calculus.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2610.35201",
+        "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+        "url": "https://huggingface.co/papers/2610.35201",
+        "authors": [
+          "Hongze Chen",
+          "Miao Pan",
+          "Lizhou Liang",
+          "Qinfeng Li",
+          "Xinyin Ma",
+          "Yongliang Shen",
+          "Weishi Wang",
+          "Daniel Dahlmeier",
+          "Xuhong Zhang",
+          "Wenqi Zhang"
+        ],
+        "published": "2026-10-26",
+        "summary": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (RL) to DLMs and improved their reasoning performance. However, the iterative denoising process makes credit assignment more challenging, as final outcome rewards provide limited information about how different tokens contribute to the final output. In this paper, we propose Denoising Token Credit Assignment (DTCA), a framework for token-level credit assignment in reinforcement learning for diffusion language models. DTCA estimates token contributions by measuring the improvement in prediction confidence of remaining masked positions after token commitment and groups these signals according to part-of-speech (POS) categories. These contribution weights are used to select informative denoising timesteps and assign token-level learning signals during RL training. DTCA further calibrates these learning signals according to token-level entropy changes induced by policy updates. Experiments on LLaDA-8B-Instruct show that DTCA consistently improves mathematical reasoning performance across different generation budgets, with gains of up to 9.0 points on MATH500 and 5.3 points on GSM8K over the base model.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2610.37624",
+        "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+        "url": "https://huggingface.co/papers/2610.37624",
+        "authors": [
+          "Anouar Imel",
+          "Imad Charradi",
+          "Abderrahman Sghir",
+          "Khalil El Khammar"
+        ],
+        "published": "2026-10-27",
+        "summary": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On hidden-profile tasks both look attractive, because how widely a fact is held is confounded with whether it helps. We introduce CrossProfile, a diagnostic benchmark of 60 templates with automatically verified answer keys, in which the ownership of supporting, decoy, and irrelevant facts is crossed while their text is held fixed (480 tasks). Across Qwen2.5-7B, Llama-3.1-8B, and two DeepSeek models, both heuristics fail in predictable places. Selecting by relevance readmits decoys, because decoys are on topic: even a perfect relevance filter loses 23 to 31 points to rarest-first selection in the classic hidden-profile configuration. Rarest-first selection is no better than random selection on average and wins only where the rare facts happen to be the useful ones. In both cases accuracy follows the balance of evidence the memory keeps, not the policy that kept it. The decision model adds a third failure, a form of social proof: it gives extra weight to facts attributed to many agents. Removing the attribution tags, or reassigning them at random with line order fixed, raises accuracy in the classic configuration by 13 to 24 points. In natural discussions the evidence is lost before any memory acts: the complete transcript yields lower accuracy than no notes at all.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2610.37527v1",
+        "title": "Extending the W3C Data Privacy Vocabulary to Cover the German Health Data Use Act - Lessons Learned",
+        "url": "https://arxiv.org/abs/2610.37527v1",
+        "authors": [
+          "Julian Flake",
+          "Christian Henke",
+          "Alessandra S. Kuntz",
+          "Matthias Löbe",
+          "Harshvardhan J. Pandit",
+          "Christian Draeger"
+        ],
+        "published": "2026-10-27",
+        "summary": "Finding, sharing, and reusing data requires common interoperable vocabularies to adequately describe machine-actionable data policies. Semantic Web standards are a proven way to express such information describing data access and reuse. Narrative descriptions get a stable and agreed meaning by formal definitions of terms that have a globally unique identifier. The Data Privacy Vocabulary (DPV) represents a community standard for privacy, data protection, and related topics. DPV uses modular namespaces to define jurisdictions, such as \"EU\", and to represent concepts from laws within that jurisdiction, such as the General Data Protection Regulation (GDPR) and the European Health Data Space (EHDS). In this work, we present the creation of a DPV extension representing the German Health Data Use Act (Gesundheitsdatennutzungsgesetz (GDNG)) that has been set into force in March 2024. The GDNG regulates sharing and using health data for secondary use, such as research purposes and policymaking. It builds the German legal foundation for the future EHDS as the European initiative and regulation providing rules for sharing of health data within Europe. The parallel development of the EHDS and GDNG extensions resulted in many shared concepts, which contributed to an overarching extension: the DPV sector health extension. It sets the foundation of aligned privacy terms for future EHDS member states looking to build a national vocabulary aligned with the EHDS. All extensions were released as draft extensions with the latest DPV version 2.3, released 25th of February 2026.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37467v1",
+        "title": "Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms",
+        "url": "https://arxiv.org/abs/2610.37467v1",
+        "authors": [
+          "Paschalis Bekos",
+          "Billy Tsouvalas",
+          "Nick Nikiforakis",
+          "Michalis Polychronakis"
+        ],
+        "published": "2026-10-27",
+        "summary": "AI chatbot platforms have become one of the most popular web interfaces users interact with online, routinely receiving personal and intimate information shared under an expectation of privacy. Yet, on the web application side, these platforms have the ability to embed third-party analytics, advertising, and session replay scripts that operate silently alongside the chatbot, creating an underexamined channel for conversational data leakage towards third parties. We conduct the first systematic large-scale measurement study of contextual leakage in AI chatbots, auditing the web interfaces of 42 general-purpose and domain-specific (health, legal, and education) platforms. Beyond standard network interception, we instrument the browser at the JavaScript engine level to attribute each data flow to the exact user action that triggered it, and the DOM capture mechanism used to retrieve its content, a granularity invisible to network-layer analysis alone. We find that 21 of these platforms leak conversation titles to third-party trackers, while nine leak verbatim user prompts. Beyond content, we observe a substantial amount of chatbot platforms sending user emails to third-party trackers, enabling the association of conversational context with a user's identity. Our findings cast traditional web privacy issues under a new light, highlighting the privacy issues that are inherent in how users interact with modern AI chatbots.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37418v1",
+        "title": "Neighborhood Deprivation Shapes Post-Flood Population Losses in Pune and Bandung",
+        "url": "https://arxiv.org/abs/2610.37418v1",
+        "authors": [
+          "Sukie Xiuqi Yang",
+          "Guangyuan Weng",
+          "Shiyue Cui",
+          "Zhicong Chen",
+          "Catherine Chen"
+        ],
+        "published": "2026-10-27",
+        "summary": "Disaster research in high-income settings shows that better-resourced communities see population inflows and faster recovery, while disadvantaged communities suffer prolonged population loss. Whether this pattern holds in rapidly urbanizing cities of the Global South remains unclear. Here we show, using mobile phone data from Pune, India, and Bandung, Indonesia, how neighborhood-level changes in phone presence, a proxy for short-term population movement, relate to flooding and neighborhood deprivation. We combine satellite-derived flood maps with phone records to compare flooded and non-flooded areas over the 30 days around each flood. In both cities, less deprived neighborhoods see phone presence rise after flooding, while more deprived neighborhoods see it fall, consistent with resource-seeking interpretations documented in North American and European disaster research. The cities differed, however, in how deprivation relates to flood exposure: in Pune, more deprived flooded neighborhoods showed suggestive evidence of disproportionately larger decreases in detected device presence than similarly deprived non-flooded neighborhoods; no comparable interaction was observed in Bandung. Economic considerations are associated with post-flood device-presence changes in South and Southeast Asian cities in ways that parallel high-income contexts, though local context adds variation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37348v1",
+        "title": "Uneven Use, Similar Trust Generative AI in Denmark and Romania",
+        "url": "https://arxiv.org/abs/2610.37348v1",
+        "authors": [
+          "Iulian Lucau",
+          "Adelin-George Voicu",
+          "Simon Munk Christensen"
+        ],
+        "published": "2026-10-27",
+        "summary": "Generative AI (GenAI) has spread unevenly across Europe, and it is unclear whether higher use brings higher trust. This paper compares Denmark and Romania, the EU's highest and lowest GenAI users, and asks whether the difference in public and institutional trust between them corresponds to the difference in trust in AI. Drawing on trust, technology-acceptance and digital-divide theory, it is a descriptive, contrasting-case analysis of harmonised data: GenAI usage comes from Eurostat, trust in AI more generally from the KPMG/Melbourne global study and public and institutional trust from the Standard Eurobarometer. In 2025, 48.4% of Danes aged 16-74 had used GenAI in the past three months, against 17.8% of Romanians. Use falls with age and rises with education in both countries, and the relative gaps are far larger in Romania; the patterns remain visible within the published age-by-education categories. Trust in AI does not follow usage: Romanians trust AI as much as Danes or slightly more, although Denmark leads by 28 to 45 percentage points on trust in government, parliament and the legal system. The Denmark-Romania comparison thus does not support a simple country-level correspondence between general institutional trust and trust in AI; in KPMG's pooled model, trust in AI is tied most closely to confidence in AI governance. The observed usage difference is more consistent with disparities in general digital skills and opportunities for work- and education-related use than with differences in trust. However, the available data cannot identify the independent effects of these factors. The results rest on two cases and non-identical constructs, and call for comparable microdata and disclosure experiments.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.37197v1",
+        "title": "Conditional Values: The Contingent Foundations of Attitudes toward Artificial Intelligence",
+        "url": "https://arxiv.org/abs/2610.37197v1",
+        "authors": [
+          "Sam Flanders",
+          "Melati Nungsari"
+        ],
+        "published": "2026-10-27",
+        "summary": "How do broader values shape whether people judge artificial intelligence (AI) as good or bad for humanity? This article analyzes provisional World Values Survey Wave 8 data from 40,960 respondents in 24 country samples using pooled and national prediction models, outcome-independent respondent profiles, and groups of countries. The analysis reveals a cross-country anchor: general optimism about science and technology is the strongest pooled predictor of favorable AI evaluation and recurs among the leading predictors in every national sample. Expert authority, education and information access, selected forms of trust, openness, and demographic position provide nationally distinctive patterns. Eleven value profiles formed without AI attitudes span 49.1% to 62.2% favorable evaluation. Most evaluative variation occurs within these profiles, making them useful contexts for identifying how the same values distinguish favorable from unfavorable evaluators in different social configurations. Institutional legitimacy, structural advantage, information connectedness, personal choice, redistribution, and openness differentiate evaluations in particular profiles. The same axis can relate differently to AI evaluation across profiles: secular reasoning has a significant positive association among secular moderate pluralists but a suggestive negative association among institution-trusting civic joiners. Together, the findings show that public receptivity to AI as technological change has a common predictive anchor but develops within plural configurations of resources, institutions, authority, openness, and social position. This distinction helps anticipate where generalized technological optimism is likely to travel and where AI deployment and governance will encounter context-specific sources of legitimacy or concern.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36941v1",
+        "title": "Algorithmic Monoculture in Machine Learning-based Site-Specific Fertilizer Recommendation",
+        "url": "https://arxiv.org/abs/2610.36941v1",
+        "authors": [
+          "Abdelghani Belgaid"
+        ],
+        "published": "2026-10-27",
+        "summary": "Machine learning recommendations are often evaluated one model at a time, despite deployment across interconnected decision makers. For continuous NPK fertilizer prescriptions, correlated errors can aggregate across farms and generate systemic costs. A model of shared and farm-specific recommendation errors links expected social loss to model adoption shares; the Herfindahl-Hirschman Index characterizes concentration effects when common model errors are independent and predictive risks are equal. A covariance-generalized formulation captures the dependence between model families. A two-model threshold characterizes when privately optimal monoculture is socially dominated, and a convex portfolio rule limits average private predictive regret. Nine model families across five Moroccan cereal systems provide a benchmark-based calibration. Under illustrative parameters and a 10% regret cap, accuracy-constrained diversification lowers modeled social loss in all five systems by 10.89-41.53% (mean 19.41%). Uniform allocation reduces modeled loss in this setting, but breaches the regret cap in every crop. Correlation sensitivity shows that highly dependent model errors attenuate the benefits of diversification. These counterfactual outcomes are not estimates of agronomic or monetary welfare; the framework identifies adoption architecture and error dependence as ecosystem-level evaluation variables.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36654v1",
+        "title": "Edhivo: An AI-Native Platform for Scalable Assessment and Instant Feedback in Higher Education",
+        "url": "https://arxiv.org/abs/2610.36654v1",
+        "authors": [
+          "Moraish Kapoor",
+          "Jiawei Zhou"
+        ],
+        "published": "2026-10-27",
+        "summary": "Scaling assessment in higher education faces two intertwined bottlenecks: the cognitive burden of authoring assessments and the inability to semantically evaluate open-ended responses, which together create a persistent feedback gap that hinders student learning outcomes. To address these challenges, we present Edhivo, an AI-native pedagogical platform that addresses both bottlenecks through a vertically integrated system for content delivery, assessment, and reporting. Edhivo employs a Dual-LLM pipeline: one model generates context-aware assessments for both multiple-choice and open-ended questions, from instructor-provided materials, while a second model performs multi-criteria, rubric-based evaluation of student responses, enabling near-instant qualitative feedback at multiple hierarchical levels. All AI interactions are source-grounded to reduce hallucination risk, and a Human-in-the-Loop review process preserves instructor authority. We demonstrate Edhivo's efficacy through a pilot deployment at Stony Brook University in a real classroom environment in 2026 spring, where it supports high-frequency assessment creation and evaluation for a cohort of 36 students throughout a full semester, significantly reducing authoring effort and feedback latency while enabling novel pedagogical designs centered on active learning.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36639v1",
+        "title": "Whether Is Not When: Separating Occurrence from Timing in Polymarket Prices",
+        "url": "https://arxiv.org/abs/2610.36639v1",
+        "authors": [
+          "Sizheng Fan",
+          "Yinghe Sun",
+          "Rong Zhao"
+        ],
+        "published": "2026-10-27",
+        "summary": "Prices formed by Web users on Polymarket, a blockchain-based prediction market, are now cited in the news and in a U.S. Army intelligence bulletin as early warnings of geopolitical events. However, it remains unclear whether these prices can serve as such warnings. This cannot be judged from accuracy, because most markets resolve No and accuracy can remain high even when many of the events that did happen are missed. In this paper, we study this question from two aspects, using all 1.24 billion on-chain trades in 2.37 million Polymarket markets through September 2026. First, from 3,686 markets on geopolitical conflicts, we derive 208 unscheduled events that did happen and measure how far in advance prices move before the first Web report of each event. Second, we separate the information in prices about whether an event happens from the information about when it happens. To do so, we group 1,551 contracts into 338 deadline ladders and read each ladder as one forecast of the event date. We then split its log score, and the profit of 9.3 million trades by 491,000 accounts, exactly into these two parts. We find that one day before they were reported, prices correctly predicted only 56% of the geopolitical events but all 51 scheduled central-bank decisions. Separating the two parts shows that only about one eighth of the information in prices concerns timing. A small group of large accounts earns timing profits, but beyond current prices, no group of accounts helps predict an event within days. A high price is therefore a sign that an event is likely rather than imminent. Near-term warnings read from the whole ladder are more often right than those read from a single contract. Platforms should report recall alongside accuracy, and show near-term probabilities read from the whole ladder.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36631v1",
+        "title": "The uneven rise of AI-generated web content",
+        "url": "https://arxiv.org/abs/2610.36631v1",
+        "authors": [
+          "Adam Visokay",
+          "Soumyakanti Pan",
+          "Molly Griston",
+          "Polina Iasakova",
+          "Mark Nepf",
+          "Denis Peskoff",
+          "Riya Sinha",
+          "Jikai Sun",
+          "Isabelle Thiara",
+          "Letao Wang",
+          "Yiwei Wu",
+          "Lauren Yan",
+          "Tyler H. McCormick"
+        ],
+        "published": "2026-10-27",
+        "summary": "In less than five years, generative artificial intelligence (AI) has dramatically reshaped the public-facing web. Using a sample of more than 5 million crawlable webpages, we demonstrate that the share containing AI-generated text has increased precipitously, but unevenly. Our analyses reveal substantial differences in AI composition across language and domain categories (e.g., .edu, .com, or .gov). A higher fraction of English-language webpages contain AI-generated text compared to pages in other languages, and prevalence is substantially lower on .gov and .edu domains compared to .com. These distinctions persist even after accounting for compositional effects. We also find heterogeneity based on a page's position in the connectivity structure of the web. AI-generated text is most common and has increased most rapidly in pages that are the least central in the graph, which drives much of the overall growth in AI-generated text. A slower increase has taken place for more central pages, with the most central tier emerging as the least likely to contain AI-generated text. Methodologically, we use multiple AI detection tools, and generate estimates using a Bayesian hierarchical model that incorporates corrections for the detectors' statistical properties (both false positives and false negatives) and allows for different detector performance across groups, while propagating uncertainty in detector error rates into prevalence estimates. Our work suggests that AI is a prominent, but varied, contributor to public information and internet-based communication.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36561v1",
+        "title": "Governed Sovereign RAG for Public Administration: Tripartite Epistemic Routing, Facet-Guided Clarification, and Deterministic Numeric Verification in Citizen Services",
+        "url": "https://arxiv.org/abs/2610.36561v1",
+        "authors": [
+          "Andres Cruz Degante"
+        ],
+        "published": "2026-10-27",
+        "summary": "Deploying conversational assistants at government service desks faces a tension between regulatory certainty (zero tolerance for invented fees), data sovereignty prohibiting commercial clouds, and high rates of underspecified or out-of-jurisdiction citizen queries. We present and evaluate a governed, sovereign Retrieval-Augmented Generation (RAG) architecture deployed on the official portal of the State of Tlaxcala, Mexico (tlaxcaladigital.gob.mx), covering 1,143 procedures and a decoupled directory of 924 offices. The system governs interactions via three pillars: (1) a two-stage tripartite epistemic gate (clarify_policy and a Boltzmann distribution over AnyJev) arbitrating among answering (SPECIFIC), facet-guided clarification (CLARIFY), and abstaining (ABSTAIN); (2) a post-generation deterministic numeric verifier (verify_numeric_guardrail) with SHA-256 cache invalidation ensuring every generated fee or validity figure belongs to the retrieved official record; and (3) an empirical evaluation across 380 organic production traces (8 weeks) and a 200-query stratified benchmark (5-fold CV: 86.41% +/- 7.50%). In production, 89.47% of traffic is resolved at Level 0 via deterministic templates without free generation (global p50 = 0.665 s; direct L0 p50 = 0.445 s; slow-tail p95 = 30.412 s under CPU queuing), with 0/40 fiscal amount hallucinations observed in Level 1 (95% bound <= 8.81%). On the benchmark, the system achieves 86.50% strict Top-1 accuracy (+10.00 pp over a binary neural gate, p = 0.00453, p_Holm = 0.01172), pairing a 93.00% conditional safe upper bound with a 70.87% dropout-adjusted effective resolution after accounting for 53.33% citizen drop-off in clarification menus.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36484v1",
+        "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments",
+        "url": "https://arxiv.org/abs/2610.36484v1",
+        "authors": [
+          "Kianté Fernandez",
+          "Caitlin Chen",
+          "Jialu Zhou",
+          "Bartek Sadowski",
+          "Anthony C. Miceli",
+          "Ian Krajbich"
+        ],
+        "published": "2026-10-27",
+        "summary": "Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like data, which raises concerns that online datasets in the social and behavioral sciences are increasingly open to contamination. We introduce CogArena, a benchmark of ten experimental paradigms from the social and behavioral sciences. Agents complete the experiments through a standard web browser, working with the same visual stimuli and response interfaces that online participants use. A three-level scoring procedure evaluates whether the agent completed the task, how accurately it performed, and whether its data show the behavioral signatures each paradigm reliably produces in people. Across four multimodal models, each run ten times per task, we find that finishing an experiment and reproducing its signatures are different things. Many sessions did not finish, and those that did reproduced some signatures reliably and others not at all. CogArena provides the tasks, scoring code, and a public leaderboard for new submissions.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36478v1",
+        "title": "Multi-Scale Spatio-Temporal Exploratory Analysis of Urban Vehicle Theft",
+        "url": "https://arxiv.org/abs/2610.36478v1",
+        "authors": [
+          "Chaitanya Jobanputra",
+          "George Mohler",
+          "Sebastian Vollmer",
+          "Gerrit Großmann"
+        ],
+        "published": "2026-10-27",
+        "summary": "Vehicle theft is a persistent urban problem with large economic and social costs. We analyze 521,098 stolen-vehicle reports filed with the Los Angeles Police Department from 2000 to 2022, at scales from hours to decades and from 100 m grid cells to census tracts. Much of the work lies in making the administrative records fit for analysis: we separate thefts from recoveries and traffic reports filed in the same records, repair time fields, validate the geocoding, and harmonize census data across changing tract boundaries. Theft is strongly and persistently concentrated: 10.8% of 250 m cells hold half of all thefts, and six census tracts are significant rate hotspots in all 23 years after false discovery rate control. Thefts close in space and time are more frequent than expected by chance, but about half of this excess comes from events at identical coordinates. Lower-income tracts have more thefts at equal exposure, monthly temperature shows no association with theft, and thefts peak in the evening. From 2015-2019 to 2021-2022, the share of Kia and Hyundai among stolen vehicles rose from 1.5% to 9.5% and from 1.6% to 7.7%, mostly among model years 2011-2021, which largely lacked a standard immobilizer. All findings are descriptive. We also describe how the data quality issues we corrected would otherwise distort several of these patterns.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36432v1",
+        "title": "No Tokenizer, Still a Gap: Cross-Lingual Fairness of Homoglyph and Invisible-Character Watermarking",
+        "url": "https://arxiv.org/abs/2610.36432v1",
+        "authors": [
+          "Alexander Nemecek",
+          "Yuqiao Xu",
+          "Joseph Falkenburg",
+          "Erman Ayday"
+        ],
+        "published": "2026-10-27",
+        "summary": "Homoglyph and invisible-character watermarks are edit-based watermarks. Instead of changing how a model generates text, they hide a signal in the text after it is written. They swap some characters for homoglyphs, which look the same, or very similar, but have different Unicode code points, or they insert characters that do not display, all without access to the model that wrote the text. Generation-time watermarks work less well for lower-resourced languages due to how tokenizers split their text. Because they work on individual characters, these watermarks never touch a tokenizer, so we ask whether they escape this gap. Across 40 language varieties in 24 scripts, we measure capacity (the hidden bits each character can carry), how much of it survives routine handling and targeted removal, and how much text a keyed detector needs. Capacity varies 3.3-fold and script accounts for 96\\% of that variation. Within Latin script, resource level makes no detectable difference ($ρ=+0.095$, $p=0.78$), but across scripts capacity rises with it ($ρ=+0.54$, 95\\% CI $[+0.14,+0.83]$), because lower-resourced languages tend to use scripts with few homoglyphs. Ordinary copy-paste, which strips invisible characters, widens the gap: a detector then needs about 2 code points of English or Persian but 93 of Lao. Removing the tokenizer does not remove the inequity, but instead only changes its source.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.36367v1",
+        "title": "MUSE: Revealing Responsiveness Gaps of LLM Tutors on Multiple-Solution Programming Problems",
+        "url": "https://arxiv.org/abs/2610.36367v1",
+        "authors": [
+          "Sky Cen",
+          "Shashank Sonkar"
+        ],
+        "published": "2026-10-26",
+        "summary": "When a problem admits multiple valid solutions, effective tutoring requires building on a student's strategy while introducing alternatives at appropriate points. However, whether LLM tutors can support this flexibility by appropriately responding to students' diverse solution approaches remains largely unexplored. In this work, we introduce MUSE: Multi-solution Understanding and Simulation Environment, a controlled environment for simulating student-tutor conversations on multiple-solution programming problems. Grounded in learning science on responsive instruction and multiple-solution learning, we investigate which solutions LLM tutors prefer, how they respond to students' approaches, and how they transition between solutions. Experiments suggest that LLM tutors exhibit systematic preferences among valid solutions, often favoring brute-force approaches when not providing general advice. More concerningly, tutors often impose these preferences, redirecting students toward their own preferred approach rather than supporting the student's. Yet this tendency reverses once a solution is completed: tutors often remain anchored to the existing approach when a stronger alternative could deepen understanding, and sometimes even transition to a less optimal approach. Thus, tutors struggle both to build on students' reasoning when appropriate and to extend their reasoning when beneficial. Promisingly, targeted post-training improves both tutor responsiveness and transitions toward more optimal solutions.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-10-29\n\nToday's selection is headlined by the resolution and Lean 4 formalization of the 1996 Morgan-Mullen Conjecture in finite field theory, alongside results demonstrating that minimal agentic harnesses (`h1`) and SAT/model-counting certificate checkers (`count-catcher`) can settle open math problems and verify complex combinatorial results directly within interactive theorem provers.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[h1: Minimal Agent Harness Settles Open Problems in FormalConjectures]**  \n  [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](https://huggingface.co/papers/2610.35962) — Skander Moalla, Ahmad Rammal, Niket Patel, Remi Munos, Julia Kempe  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Demonstrates that a lightweight agentic loop coupling LLMs directly to an efficient Lean 4 execution interface settles eight open problems in the `FormalConjectures` benchmark and matches or outperforms complex specialized automated theorem proving systems such as Goedel-Architect and AlphaProof Nexus.\n  - **AI Connection:** Large language model agent harness (`h1`) interacting with the Lean 4 environment via an efficient interface utilizing verifier feedback and self-reflection without hardcoded search structures or pre-imposed problem decomposition.\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Resolution and Lean 4 Formalization of the Morgan-Mullen Conjecture]**  \n  [Resolvent Components of Completely Normal Elements and the Morgan-Mullen Conjecture](https://arxiv.org/abs/2610.36534v1) — Florian Hellwig  \n  - **Mathematical Impact:** (Score: 5 — Landmark Breakthrough). Conclusively settles the long-standing Morgan-Mullen Conjecture (1996) by proving that every finite field extension $\\mathbb{F}_{q^n}$ over $\\mathbb{F}_q$ contains a primitive element that is completely normal. The mathematical arguments for $n > q$ are fully formalized in Lean 4 with Mathlib, while the remaining 70 exceptional pairs $(q,n)$ are settled via verified computation.\n  - **AI Connection:** Interactive theorem prover formalization in Lean 4 with Mathlib, utilizing Lean's native compiler and interpreter for computational verification of 70 exceptional pairs $(q,n)$ (no neural AI).\n\n* **[Independence of Global Choice from Excluded Middle in Dependent Type Theory]**  \n  [Global Choice without Excluded Middle in Dependent Type Theory](https://arxiv.org/abs/2610.37498v1) — Sewon Park  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves a fundamental foundational question in constructive type theory and proof assistants (such as Lean) by constructing a consistent staged-set model of extensional Martin-Löf type theory with global choice that refutes both the Law of Excluded Middle and Propositional Extensionality.\n  - **AI Connection:** Classical symbolic computation / proof theory (no neural AI).\n\n* **[count-catcher: Verifying Combinatorial Model Counts in Lean 4]**  \n  [count-catcher: Lean Theorems from Model Counting Certificates](https://arxiv.org/abs/2610.36196v1) — Johannes K. Fichte, Stefan Szeider  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes an automated tool (`count-catcher`) that converts CPOG certificates generated by exact model counters into formally verified Lean 4 theorems, enabling machine-checked proofs of combinatorial counts including the number of Latin squares of order 8.\n  - **AI Connection:** Classical symbolic computation / exact model counter (`d4` producing CPOG certificates) verified via LRAT refutations in Lean 4 (no neural AI).\n\n* **[Counterexample and Complete Calculus for KL1 Action Logic]**  \n  [A Counterexample to KL1 Completeness and a Complete Disjunctive Calculus](https://arxiv.org/abs/2610.37107v1) — Damiano Presa, Fabio Aurelio D'Asaro, Massimiliano Badino  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Disproves the completeness conjecture for the normative logic of action KL1 via an explicit counterexample, formulates a complete disjunctive rule generalization (`may-trans-disj`), and machine-verifies the formal meta-logical results in Agda.\n  - **AI Connection:** Interactive theorem prover formalization in Agda (no neural AI).\n\n---\n\n### 3. AI in Mathematics Education\n\n* **[MUSE: Benchmarking LLM Tutor Responsiveness on Multi-Solution Problems]**  \n  [MUSE: Revealing Responsiveness Gaps of LLM Tutors on Multiple-Solution Programming Problems](https://arxiv.org/abs/2610.36367v1) — Sky Cen, Shashank Sonkar  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Introduces a simulation environment (MUSE) grounded in learning science to evaluate how LLM tutors handle multiple valid solution paths in problem solving and programming, identifying systematic biases toward brute-force methods and demonstrating post-training fixes for tutor alignment.\n  - **AI Connection:** Evaluates and post-trains Large Language Models (LLM tutors) to simulate student-tutor dialogues and measure strategy alignment during programming and problem-solving tutoring.\n\n* **[Edhivo: Dual-LLM Pipeline for Scalable Higher Education Assessment]**  \n  [Edhivo: An AI-Native Platform for Scalable Assessment and Instant Feedback in Higher Education](https://arxiv.org/abs/2610.36654v1) — Moraish Kapoor, Jiawei Zhou  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Implements and empirically tests a dual-LLM architecture for generating source-grounded course assessments and performing multi-criteria rubric evaluation on open-ended student responses in university STEM courses.\n  - **AI Connection:** Dual-LLM pipeline where one model generates context-aware assessments from instructor materials and a second model performs multi-criteria, rubric-based evaluation of student responses.\n\n---\n\n### Provenance Footer:\n---\n*Synthesized with `gemini-3.6-flash` on 2026-10-29 11:30:30 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-10-29T11:31:03.653740+00:00"
+  }
+}
