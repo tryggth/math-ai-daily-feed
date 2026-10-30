@@ -1,0 +1,623 @@
+{
+  "updated_at": "2026-10-30T11:30:29Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2610.40622v1",
+        "title": "The Number of Tropical Order Types and Coherent Matching Fields",
+        "url": "https://arxiv.org/abs/2610.40622v1",
+        "authors": [
+          "Xavier Allamigeon",
+          "Yiyuan Chen",
+          "Stéphane Gaubert",
+          "Xavier Goaoc"
+        ],
+        "published": "2026-10-29",
+        "summary": "We investigate counting problems for discrete (geometric) structures in tropical settings, motivated by the comparison of the expressivity of linear programs and mean-payoff games. First, we give an upper bound on the number of coherent matching fields of type $(n,r)$ and a lower bound on the number of combinatorial types of $n$-hyperplane sequences in the max-plus tropical space of dimension $r-1$. These structures are closely related, and our bounds establish that as $n \\to \\infty$, for every fixed $r$ their number equals $n^{(r-1)^2n+o(n)}$. This in turn implies that the number of regular triangulations of the products of simplices $Δ^{n-1}\\timesΔ^{r-1}$ is also $n^{(r-1)^2n+o(n)}$, thereby answering a question of Santos. Second, we obtain that the number of labeled order types over the reals and over the signed tropical numbers coincide at first order, establishing a comparison of the expressivity of mean-payoff games and linear programs as measured by labeled order types. Last, the subclass of mean-payoff games known as parity games arise from linear programs by a ``double tropicalization.'' We show that the number of labeled order types obtained after this double tropicalization collapses.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40605v1",
+        "title": "A self-normalized law of the iterated logarithm for Rademacher random multiplicative functions",
+        "url": "https://arxiv.org/abs/2610.40605v1",
+        "authors": [
+          "Dariusz Buraczewski",
+          "Alexander Iksanov"
+        ],
+        "published": "2026-10-29",
+        "summary": "Let $f$ be a Rademacher random multiplicative function supported on the squarefree integers, and let $M(x)=\\sum_{n\\le x}f(n)$. We prove a two-sided law of the iterated logarithm normalized by the full predictable quadratic variation \\[ Q(x)=\\sum_{p\\le x}\\bigg(\\sum_{\\substack{m\\le x/p\\\\ P(m)<p}}f(m)\\bigg)^2 \\] of the martingale obtained by revealing the prime signs. Almost surely, \\[ \\limsup_{x\\to\\infty}\\frac{M(x)}{\\sqrt{2Q(x)\\log\\log x}}=1, \\qquad \\liminf_{x\\to\\infty}\\frac{M(x)}{\\sqrt{2Q(x)\\log\\log x}}=-1. \\] The same equalities hold with $\\log\\log Q(x)$ in the denominator. The almost sure cluster set of the normalized sum is $[-1,1]$. This gives a self-normalized version of the questions of Wintner and Erdős on almost sure fluctuations. We also prove that $Q(x)/q(x)$ cannot converge in probability to $1$ for any positive deterministic function $q$. Moreover, \\[ \\limsup_{x\\to\\infty} \\frac{|M(x)|}{\\sqrt{x}(\\log\\log x)^{1/4}} \\] is either an almost surely finite and positive random variable with nondegenerate distribution or infinite almost surely. We do not determine which alternative holds.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40590v1",
+        "title": "An Adian-Rabin theorem for quantum automorphism groups of graphs",
+        "url": "https://arxiv.org/abs/2610.40590v1",
+        "authors": [
+          "Josse van Dobben de Bruyn",
+          "William Slofstra"
+        ],
+        "published": "2026-10-29",
+        "summary": "Given a graph $G$, does it have quantum symmetries, or in other words, is the algebra of the quantum automorphism group non-commutative? In the world of ordinary groups, determining whether a finitely presented group is commutative is undecidable. This is an immediate consequence of the Adian-Rabin theorem, which shows that many natural properties of finitely presented groups are undecidable. In this paper, we prove an Adian-Rabin theorem for quantum automorphism groups of graphs, showing that many natural properties of the quantum automorphism group of a graph (including having quantum symmetries) are undecidable. We also show that it's undecidable to determine if the discrete quantum automorphism group is non-trivial. Our methods are based on solution groups of linear system nonlocal games, and we also prove an Adian-Rabin theorem in this context.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40571v1",
+        "title": "On the Quantum Chromatic Gap II",
+        "url": "https://arxiv.org/abs/2610.40571v1",
+        "authors": [
+          "Lorenzo Ciardo",
+          "Antoine Mottet"
+        ],
+        "published": "2026-10-29",
+        "summary": "We confirm a conjecture of the first author [SODA'26] on a strong form of pseudo-telepathy for Khot's $d$-to-$1$ games: for every $d\\geq 4$, every $ε>0$, and every $k\\in\\mathbb N$, there is a $d$-to-$1$ label-cover game of classical value less than $ε$ that admits a perfect quantum strategy using finite-dimensional shared entanglement with measurement contexts of radius at least $k$. As a consequence, there exist graphs whose quantum chromatic number $χ_q$ is $3$ and whose classical chromatic number $χ$ is arbitrarily large. This is the first improvement on the quantum chromatic gap since the work of Brassard, Cleve, and Tapp [Phys. Rev. Lett.'99], which produced graphs for which $χ$ grows exponentially in $χ_q$. To prove the conjecture, we proceed as follows. We start with a ``stretched'' version of the Mermin--Peres magic square, obtained by spacing out its equations and linking them with additional long equation wires. This operation increases the radius of the initial measurement contexts of a perfect quantum strategy for the game, while preserving classical unsatisfiability. We then apply parallel repetition to make the classical value small, and we turn the system into a pseudo-telepathic multi-layered Kneser hypergraph via a PCP construction of Dinur, Guruswami, Khot, and Regev [STOC'03]. Finally, we feed the resulting hypergraph into the reduction of Fei, Minzer, and Wang from hypergraph colouring to $4$-to-$1$ games, we establish quantum completeness of this reduction, and we show that it preserves context radius.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40570v1",
+        "title": "Supersaturation: Cliques and Positive Square Energy",
+        "url": "https://arxiv.org/abs/2610.40570v1",
+        "authors": [
+          "Abhay Jayarajan",
+          "M. Rajesh Kannan",
+          "Shivaramakrishna Pragada"
+        ],
+        "published": "2026-10-29",
+        "summary": "Let $G$ be a simple graph of order $n$ and let $k_r$ denote the number of unlabeled copies of $K_r$ in $G$. Let $s^+$ denote the sum of the squares of the positive adjacency eigenvalues of $G$. For every fixed integer $r\\geq2$, we prove that, as $n \\to \\infty$ \\[ \\sqrt{s^+}>\\left(1-\\frac1r\\right)n \\quad\\Longrightarrow\\quad k_{r+1}\\geq \\left(\\frac1{r^{r-1}}-o_r(1)\\right)n^{r-1}. \\] The coefficient $r^{-(r-1)}$ is asymptotically best possible; in particular, the triangle case gives $k_3\\geq n/2-o(n)$. The proof combines positive square energy stability, the clique removal lemma, and a sharp clique count around a maximum $r$-cut. The triangle case requires an additional block-matrix argument.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40551v1",
+        "title": "Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs",
+        "url": "https://arxiv.org/abs/2610.40551v1",
+        "authors": [
+          "Alan Sorani",
+          "Ashvni Narayanan",
+          "Michael Shalyt",
+          "Tali Monderer",
+          "Rotem Kalisch",
+          "Hila Barkan",
+          "Elyasheev Leibtag",
+          "Shachar Weinbaum",
+          "Carsten Schneider",
+          "John Campbell",
+          "Ido Kaminer"
+        ],
+        "published": "2026-10-29",
+        "summary": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a benchmark comprised of research-level problems in number theory, including unpublished results and open conjectures. It presented concrete formulas for mathematical constants whose correctness can be checked numerically, while their proofs may require non-obvious mathematics. Here, we analyze the Challenge submissions, measuring the relative success of different AI models, Computer Algebra Systems (CAS), and formal tools. We find correct submissions that are conceptually distinct from the official solutions, and a proof of one of the published open conjectures. Evaluating the submissions exposed a second challenge: judging complex proofs reliably at scale. We introduce an AI-assisted evaluation pipeline for natural language proofs, CAS code, and Lean formalizations that assesses semantic and logical correctness. Compared with the conventional one-shot LLM judgment, our pipeline reduces false-positive verdicts on natural language proofs from 23% to 6% and improves judgment accuracy on supporting code from 46% to 58%. This approach provides a methodology for evaluating research-level mathematics at scale, with potential applications across mathematics and AI for science.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40521v1",
+        "title": "Directed Cut-Query Complexity of Finding a King",
+        "url": "https://arxiv.org/abs/2610.40521v1",
+        "authors": [
+          "Ziad Ismaili Alaoui",
+          "Oded Lachish",
+          "Nikhil S. Mande"
+        ],
+        "published": "2026-10-29",
+        "summary": "A king in a tournament is a vertex from which every other vertex is reachable by a directed path of length at most two. We study the deterministic query complexity of finding a king when a query specifies a set of vertices and returns the number of edges directed from that set to its complement. We prove that this complexity is $Θ(n)$ for $n$-vertex tournaments. To show this, we first show that every correct deterministic algorithm in this model must output a maximum-outdegree vertex, even though a king need not have maximum outdegree. We then give an adversary whose answers, after too few queries, remain consistent with a tournament in which the algorithm's output does not have maximum outdegree.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40519v1",
+        "title": "Petersson-rigid lattices of signature (2,1) and their harmonic weak Maass forms",
+        "url": "https://arxiv.org/abs/2610.40519v1",
+        "authors": [
+          "Eungang Cho"
+        ],
+        "published": "2026-10-29",
+        "summary": "An even lattice $L$ of signature $(2,1)$ is Petersson-rigid if the orthogonal group of its discriminant form acts absolutely irreducibly on the space of cusp forms of weight $\\frac32$ for its Weil representation, a space of dimension at least two. We prove, with computer assistance, that there are exactly twelve such lattices up to isometry, and we determine their root bases. Four of them are theta lattices, whose cusp forms are lifts of unary theta series. On each, the space is $\\mathbb C F_0\\otimesσ_0$ for one form $F_0$ and an irreducible $σ_0$, so the Petersson norm is $\\|F\\|^2=t_μ\\|c_F(μ)\\|^2$ for all cusp forms $F$, with one $t_μ>0$, $μ$ the least exponent of $F_0$ and $c_F(μ)$ the coefficient of $q^μ$ in $F$. We prove that the harmonic weak Maass forms of weight $\\frac12$ in the $σ_0$-isotypic part with a pole of least possible order are exactly the forms $\\mathcal H_F$ with principal part $q^{-μ}\\overline{c_F(μ)}$, and $ξ_{1/2}\\mathcal H_F=F/t_μ$. For the four theta lattices it is a theorem that $t_μ=\\frac{s-1}{12}\\sqrt s$, with $s$ the square-free part of $|\\det L|/2$, and the $\\mathcal H_F$ come from umbral moonshine. For the eight others we compute $F_0$, $t_μ$ and $\\mathcal H_{F_0}$: the Hecke eigenvalues are integers and, at the primes computed, the $a_p$ of an elliptic curve, and for three of the eight $F_0$ is explicit as an eta-theta product. We prove, for every prime $p>3$, a closed formula in $p$ and one class number for the difference $g(X_0(4p)/w_p)-g(X_0(2p)/w_p)$ of the genera of two Atkin-Lehner quotients of modular curves. In a family $\\mathcal D_p$ of discriminant forms, $p$ an odd prime, containing three of the eight, comparison with that classification shows that $\\mathcal D_p$ is rigid exactly when $X_0(4p)/w_p$ has genus $1$ and $X_0(2p)/w_p$ has genus $0$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40496v1",
+        "title": "Real-rooted Ehrhart $h^*$-polynomials of crown posets and wheel and whirl matroids",
+        "url": "https://arxiv.org/abs/2610.40496v1",
+        "authors": [
+          "Ying Cao",
+          "Houshan Fu"
+        ],
+        "published": "2026-10-29",
+        "summary": "We prove that the Ehrhart $h^*$-polynomials of crown order polytopes are real-rooted, settling a conjecture of Lundström and Saud Maia Leite. For each integer $r\\ge3$, the crown order polytope on $2r$ elements and the rank-$r$ whirl base polytope have the same $h^*$-polynomial. The $h^*$-polynomials of the rank-$r$ wheel and whirl base polytopes, as well as every convex combination of the two, have $2r-2$ distinct negative roots. Their coefficient sequences are positive, unimodal, and strictly ultra log-concave of order $2r-2$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40489v1",
+        "title": "Multiple representations in difference sets under polynomial density constraints",
+        "url": "https://arxiv.org/abs/2610.40489v1",
+        "authors": [
+          "Yuchen Ding",
+          "Sándor Z. Kiss",
+          "Wei Niu",
+          "Péter Pál Pach",
+          "Csaba Sándor"
+        ],
+        "published": "2026-10-29",
+        "summary": "Motivated by the classical study of additive representation functions and the combinatorial phenomenon of sum-difference asymmetry, we investigate the subtractive representation function $d_{\\mathcal{B},\\mathcal{A}}(n)$, which counts the number of solutions of the equation $n = b - a$ with $a\\in \\mathcal{A}$ and $b\\in \\mathcal{B}$. Specifically, we study lower bounds and the asymptotic behavior of $d_{\\mathcal{B},\\mathcal{A}}(n)$ under polynomial density constraints of orders $x^α$ and $x^{1-α}$, where $0 < α< 1$. We first establish a general lower bound for the first moment of $d_{\\mathcal{B},\\mathcal{A}}(n)$. Furthermore, by employing a recursive construction, we prove that this lower bound is essentially optimal under certain regularity assumptions on the counting functions. Finally, utilizing probabilistic methods, we show the existence of sets for which $d_{\\mathcal{B},\\mathcal{A}}(n)$ has a logarithmic point-wise upper bound.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40486v1",
+        "title": "Average pairwise Hamming distance of a subset in a hypercube",
+        "url": "https://arxiv.org/abs/2610.40486v1",
+        "authors": [
+          "Yijia Fang",
+          "Hao Huang"
+        ],
+        "published": "2026-10-29",
+        "summary": "In this note, we prove that for a subset $\\mathcal{F}$ of $\\{0,1\\}^n$ of density $\\frac{1}{8}$, its average pairwise Hamming distance is at least $\\frac{n-3}{2}$, with equality attained only by $(n-3)$-dimensional subcubes. This answers a question of Lei Yu, and solves an important open case of a more general question posed by Ahlswede and Katona in 1977.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40481v1",
+        "title": "Lattice moments and quantum designs",
+        "url": "https://arxiv.org/abs/2610.40481v1",
+        "authors": [
+          "Jonathan Conrad",
+          "Kristian Holm"
+        ],
+        "published": "2026-10-29",
+        "summary": "We show that the ensemble of unimodular Gottesman$-$Kitaev$-$Preskill distributions fails to form a rigged quantum $3$-design and quantify the replica defect that determines this failure. This is established by rederiving a second moment formula for symplectic lattices in a self-contained manner.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40458v1",
+        "title": "Thin ends and topological spanning trees",
+        "url": "https://arxiv.org/abs/2610.40458v1",
+        "authors": [
+          "Nathan Bowler",
+          "Max Pitz"
+        ],
+        "published": "2026-10-29",
+        "summary": "Halin conjectured in 1964 that every connected graph has an end-faithful spanning tree. He proved this for countable graphs, but in the early 1990s Seymour and Thomas and, independently, Thomassen found uncountable counterexamples. Both are infinitely connected and hence one-ended, and their unique end has uncountable degree (i.e.\\ contains uncountably many pairwise disjoint rays). Several authors have since asked how much of the conjecture survives. Diestel asked in 1992 whether a graph has an end-faithful spanning tree as soon as all its one-ended connected subgraphs have one; by a theorem of Polat, this would give end-faithful spanning trees in all connected graphs whose ends have countable degree. Diestel and Kühn introduced topological spanning trees, a topological variant of end-faithful spanning trees that exists in every one-ended connected graph, and asked in 2004 whether every connected graph has one. And Carmesin asked in 2019 whether every graph has a spanning tree that is end-faithful at least for its thin ends, the ends of finite degree. We answer all three questions in the negative. We show that the uncountably chromatic graph from an earlier note of ours on a problem of Erdős and Hajnal has only ends of countable degree, each dominated by only countably many vertices, yet it has neither an end-faithful nor a topological spanning tree. A refinement of this graph moreover has no spanning tree that contains a ray from every end of degree~1.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40439v1",
+        "title": "Shifted convolutions of divisor functions",
+        "url": "https://arxiv.org/abs/2610.40439v1",
+        "authors": [
+          "Miguel N. Walsh"
+        ],
+        "published": "2026-10-29",
+        "summary": "We establish the leading asymptotic for the shifted correlations of divisor functions.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40408v1",
+        "title": "Geometric Proofs of Riemann-Type Theta Relations",
+        "url": "https://arxiv.org/abs/2610.40408v1",
+        "authors": [
+          "Sander Zwegers"
+        ],
+        "published": "2026-10-29",
+        "summary": "We present a geometric method for deriving theta function identities from automorphisms of positive definite quadratic forms. Given an automorphism of a quadratic form with matrix $A$, we construct a rational isometry of $I_n\\otimes A$ that fixes the diagonal subspace pointwise. Elementary lattice decompositions and finite character sums then yield explicit transformation formulas for the associated theta functions. As applications, we give a geometric proof of Schultz's generalization of the Borweins' cubic theta identity and recover two related quadratic theta identities.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2610.40560v1",
+        "title": "FARMS: A Verifiable Foundation for Automated Computational Science",
+        "url": "https://arxiv.org/abs/2610.40560v1",
+        "authors": [
+          "Di Wu",
+          "Ling Liang",
+          "Haizhao Yang"
+        ],
+        "published": "2026-10-29",
+        "summary": "Automated computational science could accelerate discovery by selecting, adapting and developing numerical methods. This prospect requires mathematical knowledge that AI systems can interpret and reuse with explicit guarantees. Here we present FARMS, a faithful and efficient foundation that transforms computational mathematics into AI-ready computing knowledge. FARMS connects formal statements to source context, algorithmic meaning and quantitative guarantees through source preparation, reusable representations and semantic review. Across 171 targets in randomized numerical linear algebra and numerical partial differential equations, 157 were accepted by the pipeline, with mean estimated costs of US \\$0.85-2.29 per target across sources. Lean-checked implications from explicit source premises connect selected statements to computational skills, illustrated by a heat-flow solve and wave-response compression. FARMS therefore supports an affordable, reusable knowledge foundation for trustworthy automated computational science.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40538v1",
+        "title": "crush: Extensible Proof Automation for Lean",
+        "url": "https://arxiv.org/abs/2610.40538v1",
+        "authors": [
+          "Mike He",
+          "Dexin Zhang",
+          "Aarti Gupta"
+        ],
+        "published": "2026-10-29",
+        "summary": "Lean's rich expressiveness supports higher-order functions, inductive datatypes, and user-defined abstractions, making it challenging to translate proof obligations into first-order Satisfiability Modulo Theory (SMT) queries and reconstruct kernel checked proofs. We present crush, an extensible SMT-backed proof automation framework for Lean. To bridge the gap between Lean's higher-order constructs and the solver's first-order logic, crush uses defunctionalization to encode function values and their applications. We formalize this translation for a supported higher-order fragment and prove its soundness. Moreover, crush provides metaprogramming interfaces for extending both Lean-to-SMT translation and the reconstruction of Lean proofs from solver certificates without modifying the translation pipeline. We implement crush as both a tactic and a backend for other third-party automation systems. We show that across four such use cases that target verification and general proof automation, crush discharges more obligations than the competing backends and reconstructs more kernel-checked proofs than the baselines.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40503v1",
+        "title": "Algebraic World Model: From Exploration to Proofs",
+        "url": "https://arxiv.org/abs/2610.40503v1",
+        "authors": [
+          "Guancheng Pan",
+          "Qixin Tan",
+          "Yang Yuan",
+          "Andrew Chi-Chih Yao"
+        ],
+        "published": "2026-10-29",
+        "summary": "AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on predefined mathematical definitions and formal specifications. This raises a natural question: can it reason rigorously about an unknown world? We introduce the Algebraic World Model (AWM), a framework that turns interaction with unfamiliar environments into explicit mathematical models supporting formal reasoning. AWM explores the environment and develops executable Python hypotheses, continually testing and revising them against observations. It then structures these hypotheses into typed objects and shared rules, simplifies their structure through category-theory-guided transformations, and formalizes the resulting model in Lean 4 to prove reachability and impossibility. AWM can formally prove that a goal is unreachable, even beyond explored trajectories. On two impossible game levels, it constructs closed, kernel-checked Lean proofs excluding every legal winning sequence in all six runs, while Claude Opus 5.5 and GPT-6 Astra, equipped with coding tools, produce none in twelve baseline runs. Four of AWM's six initial bounds are correct, compared with one for Opus 5.5 and none for GPT-6 Astra; given only feedback that a cheaper win exists, AWM revises its rules and constructs new proofs, reaching six of six correct bounds. Moreover, AWM produces interpretable mathematical models whose rules can be inspected and tested step by step. Across all 25 public ARC-AGI-3 games, these models enable Lean to replay the winning trajectories of all 183 levels and generalize beyond observed play, predicting unseen transitions and detecting changes in game mechanics. With Claude Opus 5, AWM clears all levels with a score of 99.9, while its certified winning trajectories use only 43% of the human baseline's actions.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40378v1",
+        "title": "On Deciding the Constraint Loop Problem in Dimension Two",
+        "url": "https://arxiv.org/abs/2610.40378v1",
+        "authors": [
+          "Daria Goliasova",
+          "Toghrul Karimov"
+        ],
+        "published": "2026-10-29",
+        "summary": "Recently, Guilmant, Lefaucheux, Ouaknine, and Worrell [2] proved decidability of the termination problem for linear constraint loops over two real-valued variables, thus settling a wellknown open problem. Their algorithm is based on a theoretical result that such a loop does not terminate if and only if it has a witness of an infinite run of a specific shape. By analysing the structure of the witness carefully, we show that termination such loops can be decided in polynomial time, improving on the polynomial space bound argued by Guilmant et al. We also present an efficient implementation of the polynomial-time algorithm based on the satisfiability modulo theories (SMT) solver Z3.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40377v1",
+        "title": "A Hierarchy of Composition Procedures for Logic-Based Workflow Patterns",
+        "url": "https://arxiv.org/abs/2610.40377v1",
+        "authors": [
+          "Radosław Klimek"
+        ],
+        "published": "2026-10-29",
+        "summary": "Logic-based workflow patterns capture recurring behavioural structures together with reusable temporal specifications. Their composition raises distinct problems as workflow structures become richer, including instantiation, nesting, conditional execution, repeated occurrences, and traceability of generated formulae. This paper proposes a hierarchy of Pattern Composition ($ΠC$) procedures, from $ΠC_0$ to $ΠC_4$, that organizes these requirements as progressively richer compositional capabilities. The hierarchy separates compositional complexity from the expressive power of the temporal-logic fragment, represented by $TL_j$, yielding a framework $ΠC_i[TL_j]$ for developing logical workflow specifications. We develop activation-aware Pattern Composition ($ΠC_2$), which distinguishes the structural presence of a nested pattern from its execution in a particular workflow context. We formalise its recursive procedure, analyse its properties, and define an evaluation protocol for conditional activation, conservativity under mandatory composition, and specification growth. The hierarchy also characterizes selective occurrence qualification for iterative patterns ($ΠC_3$) and provenance for tracing generated formulae to their sources ($ΠC_4$). Finally, we outline $ΠC_{\\mathrm{Assist}}$, an orthogonal mode in which AI proposes and refines pattern expressions subject to the hierarchy's compositional checks.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40310v1",
+        "title": "Hammering with Vampire in Lean",
+        "url": "https://arxiv.org/abs/2610.40310v1",
+        "authors": [
+          "Jonas Bodingbauer",
+          "Laura Kovács"
+        ],
+        "published": "2026-10-29",
+        "summary": "We present Vampire-Hammer, a hammer for the Lean interactive theorem prover that discharges goals using the Vampire automated theorem prover and reconstructs proofs checked by the Lean kernel. Vampire-Hammer uses the Lean-auto framework to process goals and premises before dispatching them to Vampire for proof search. Doing so, we rely on standard TPTP problem formats and annotated TSTP proofs that support proof reconstruction. With a 10-second budget on 196,083 eligible Mathlib theorems, Vampire-Hammer solves 21,158 problems not solved by other evaluated tools within the same budget.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40154v1",
+        "title": "A Quantitative Interpretation of Useful Call-by-Value",
+        "url": "https://arxiv.org/abs/2610.40154v1",
+        "authors": [
+          "Pablo Barenbaum",
+          "Delia Kesner",
+          "Mariana Milicich"
+        ],
+        "published": "2026-10-29",
+        "summary": "In this work, we present the first semantic interpretation of useful call-by-value evaluation through a non-idempotent intersection type system called U. One first contribution of this paper is a characterisation of termination of useful call-by-value evaluation via U-typability. That is, a term is typable in system U if and only if it terminates in the useful call-by-value strategy. As a second contribution, we show that system U provides a quantitative interpretation for useful call-by-value evaluation, offering exact step-count information for program evaluation. Even though the specification of the operational semantics of useful evaluation is highly complex, system U is notably simple. As far as we know, system U is one of the scarce quantitative type systems capturing exactly the substitution step-count for variables and abstractions in an open call-by-value strategy. Our third contribution is a termination-equivalence result between standard call-by-value, which may perform erasing reductions, and useful call-by-value, which is non-erasing. To establish this result, we introduce a non-erasing restriction of standard call-by-value, a refinement that serves as an intermediate calculus bridging standard and useful call-by-value. We show that all three calculi have the same termination behaviour, and hence induce the same observational equivalence.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40042v1",
+        "title": "UPPAAi: Towards LLM-Assisted Modeling, Verification, Analysis and Synthesis",
+        "url": "https://arxiv.org/abs/2610.40042v1",
+        "authors": [
+          "Peter Dolog",
+          "Kim G. Larsen",
+          "Marius Mikučionis",
+          "Frederik F. K. Rasmussen"
+        ],
+        "published": "2026-10-29",
+        "summary": "For more than three decades, UPPAAL has supported the modelling and analysis of real-time and cyber-physical systems. Yet building a suitable model, formalising the intended properties, choosing analysis techniques and interpreting counterexamples remain iterative tasks that demand substantial expertise. Large language models (LLMs) can offer plausible explanations and even solutions, but they are not necessarily correct. We present UPPAAI, an extension of UPPAAL in which users construct, explain, debug and specify models in dialogue with an LLM. The guiding principle is that the user requests, the LLM proposes, explains and orchestrates, and UPPAAL verifies. UPPAAI exposes the UPPAAL editor, queries and verifier through a Tools API. We report on seven case studies, from explaining to a newcomer to learning a controller, covering timed automata, stochastic hybrid automata and strategy learning. LLMs proved to be extremely helpful in not just generating solutions but also pro-actively suggesting relevant UPPAAL features it was not asked about.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40025v1",
+        "title": "One Polynomial Field for Every Euler Step and the Flow: Polynomial Dynamics for P and PSPACE",
+        "url": "https://arxiv.org/abs/2610.40025v1",
+        "authors": [
+          "Olivier Bournez"
+        ],
+        "published": "2026-10-29",
+        "summary": "We construct, for each deterministic Turing machine that halts on all inputs, one polynomial vector field with rational coefficients that performs the same logical computation at unit Euler step, at every smaller or variable step in $(0,1]$ with divergent sum, and along the flow. This unifies discrete-time and continuous-time computation by polynomial dynamics, which earlier characterizations treated separately. For a machine making $T$ transitions in space $H$, a logical scale $h=2^{-s}$ with $s=O(H)$ suffices, with physical time $O(s(T+s))$, drift disturbances up to $h^{2K}$ for a fixed exponent $K$, and $2Ks+3$ fractional bits at unit step. On a fixed compact domain, polynomial time and robust eventual decision characterize P and PSPACE, respectively, with polynomial scale thresholds and no supplied stabilization horizon in the space case. Without sign, floor or conditional primitives, margin amplification at bounded speed, overlapping polynomial gates and interval-product estimates give the common realization, from which we derive shared logical traces, fixed-field PSPACE-complete prediction and a robust safety family with polynomial certificates common to all Euler steps and the flow.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39776v1",
+        "title": "Solving quantified constraint satisfaction problems with applications to control",
+        "url": "https://arxiv.org/abs/2610.39776v1",
+        "authors": [
+          "Éric Goubault",
+          "Nuwan Herath Mudiyanselage",
+          "Sylvie Putot"
+        ],
+        "published": "2026-10-29",
+        "summary": "Many problems in control can be expressed as quantified constraints, such as robust forward and backward reachability, synthesis of controllers, solutions to motion planning problems. In this paper, we develop a method for computing inner and outer approximations of global solutions to very general quantified constraints, generalizing widely the state of the art on similar problems, usually restricted to at most one alternation of quantifiers or to local solutions. By global solutions, we mean characterizing accurately the entire set of solutions, within some prescribed bounds. For this, our approach uses a set inversion technique relying on oracles for set inclusion using local solutions to related quantified reachability problems. We exemplify the approach throughout the paper on different examples related to control problems.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39774v1",
+        "title": "Step Recursion: Exact Membership Spectra, Mixed Strides, and Collapse",
+        "url": "https://arxiv.org/abs/2610.39774v1",
+        "authors": [
+          "Kirill Osipov"
+        ],
+        "published": "2026-10-29",
+        "summary": "For a strictly increasing $G:\\mathbb{N}\\to\\mathbb{N}$ with $G(0)\\geq 1$, we study minimal-basis function algebras generated by recursion along generalized inverses of its iterates. Bounded recursion requires an earlier pointwise majorant; unbounded recursion has no such requirement. If the orbit $G^{[t]}(0)$ has no polynomial upper bound, we obtain exact fixed-function membership spectra, reverse-divisibility inclusion, and indexed intersections that need not be single-stride algebras. Every finite divisibility-downset is realized in both regimes, and mixed strides admit fixed functions expressing any finite monotone Boolean condition on their additive stride monoid. For every generator, the realized bounded spectra form a bounded meet-semilattice: a construction sharing a bounding input coordinate realizes finite intersections without an unrestricted selector. Polynomial orbit growth is equivalent to definability of each of ordinary predecessor, unary doubling, and addition in any fixed unbounded stride algebra. In this case the algebra is ordinary primitive recursion relative to its inverse map, giving full collapse for primitive-recursive $G$. Ordinary predecessor belongs to a bounded stride algebra exactly when the orbit is polynomially bounded and $G$ has bounded successive differences; equivalently, ordinary bounded recursion embeds. A locality obstruction explains the additional bounded requirement, and two primitive-recursive generators with quadratic orbits have opposite bounded collapse behavior.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39746v1",
+        "title": "Step Recursion: Rational Strides and Exact Inclusion Orders over the Reals",
+        "url": "https://arxiv.org/abs/2610.39746v1",
+        "authors": [
+          "Kirill Osipov"
+        ],
+        "published": "2026-10-29",
+        "summary": "We study finite-terminating, address-only step recursion on the nonnegative reals, from zero, unit successor and projections. For reduced positive rational strides $s=a/q$ and $t=b/v$, we prove $\\mathcal{C}s\\subseteq\\mathcal{C}t$ if and only if $q$ divides $v$, for both the bounded and unbounded algebras $\\mathcal{C}\\in{\\mathcal{B},\\mathcal{U}}$. The bounded compiler preserves earlier global majorants on every auxiliary input. Mixed rational stride sets are classified by least common denominators and supernatural denominators. Primitive-recursive translated-coordinate grid codes characterize the unbounded algebras and yield $\\mathcal{U}{1/q}\\cap\\mathcal{U}{1/v}=\\mathcal{U}{1/\\gcd(q,v)}$. For bounded intersections, we prove an exact reduction: all corresponding identities hold if and only if the single identity $\\mathcal{B}{1/2}\\cap\\mathcal{B}_{1/3}=\\mathcal{B}_1$ holds, equivalently if the Boolean parts of the integer successor and addition algebras under scalar bounded recursion coincide. A Boolean reconstruction reduces general functions to predicates; a clipped fine-grid simulation with a frozen global resource bound identifies the union of predicate precision classes with the addition level. These reductions do not decide the resulting predicate equality, so literal bounded intersections remain unresolved. We also prove that unbounded-program equality is $Π^0_1$-complete and extensional bounded-algebra membership is $Σ^0_2$-complete. The model has no free real arithmetic or Zeno limits; semantic majorant validity is distinguished from syntax transformation.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39735v1",
+        "title": "From the Transformer to a Formal Semantics of Coordinated Transformations",
+        "url": "https://arxiv.org/abs/2610.39735v1",
+        "authors": [
+          "Marco Giunti",
+          "Fabrizia Giulia Garavaglia"
+        ],
+        "published": "2026-10-29",
+        "summary": "We develop a formal semantics for a general class of coordinated systems of parameterized transformations, taking the Transformer as a paradigmatic starting point but abstracting from its particular mathematical instantiation. Representational vectors receive both extensional reference and ordered intensional interpretations, while parameter structures acquire relative, second-level interpretations that determine how argument properties are preserved, replaced, or combined. This yields the notion of a transforming concept: a parameterized transformation whose numerical action is coordinated with a corresponding property-level map. We then distinguish the common algebraic-semantic core of these systems from their architecture-specific functional organization, allowing different mathematical instantiations and mechanical realizations of the same abstract system type. The framework is applied to attention heads and residual connections, providing semantic explanations that depend only on the shared algebraic-semantic core and their local functional organization and therefore generalize beyond the standard Transformer. These analyses also reveal the modularity of the framework: complex architectures can be decomposed into simpler semantically coordinated subsystems whose organization may recur across different abstract system types.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39723v1",
+        "title": "Countable Nondeterminism in Weighted Programming with an Application to Mechanized Foundations for Probabilistic Program Verification",
+        "url": "https://arxiv.org/abs/2610.39723v1",
+        "authors": [
+          "Sebastian Körner",
+          "Oliver Emil Bøving",
+          "Christoph Matheja"
+        ],
+        "published": "2026-10-29",
+        "summary": "Weighted programming is a framework by Batz et al. for describing mathematical models or optimization problems as imperative programs parametrized over semirings and then analyzing them with program verification techniques like weakest precondition calculi. Applications include reasoning about expected outcomes of probabilistic programs and competitive analysis of online algorithms. We extend weighted programming with (1) countable nondeterminism and (2) user-defined additive rewards, where programs are parametrized over modules instead of semirings. The resulting framework enables reasoning about expected resource consumption of probabilistic programs and about optimal scores of combinatorial games. A technical challenge is that wp-calculi for weighted programs with (1) and (2) over arbitrary modules can be unsound, because it is well-known that continuity properties commonly used in program semantics break in the presence of countable nondeterminism. We study conditions under which a wp-style transformer for reasoning about weighted programs is sound with respect to an operational ground truth defined in terms of weighted decision processes (WDPs) - transition systems that generalize Markov decision processes by drawing transition weights and state rewards from a module. Based on those conditions, we show that a range of concrete instances of the weighted programming framework enjoy sound weakest precondition reasoning. We demonstrate the usefulness of our wp-semantics through case studies for different modules. We mechanized our extended weighted programming framework and our main soundness results in the interactive theorem prover Lean. Instantiating these results for probabilistic programming yields, to the best of our knowledge, the first mechanized proof of a fixed point characterization of minimal expected rewards in Markov decision processes with countable nondeterminism.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2610.40494v1",
+        "title": "AI in the EGI e-infrastructure -- Past experiences and future strategies",
+        "url": "https://arxiv.org/abs/2610.40494v1",
+        "authors": [
+          "Gergely Sipos",
+          "Sergio Andreozzi",
+          "Marco Rorro",
+          "Andrea Manzi",
+          "Tiziana Ferrari"
+        ],
+        "published": "2026-10-29",
+        "summary": "The EGI Federation has provided federated e-infrastructure services to European and global science for over 15 years. We review EGI's early experiences with AI in the interTwin and iMagine Horizon Europe projects, which built digital twins in physics and environmental sciences and an image-analysis platform for aquatic research. We then examine how the AI landscape has changed since 2023 and argue that the focus of AI in science has shifted from model training to adapting and applying AI to specific domains, projects and questions. Building on these lessons, we present the AI strategy emerging from the EGI Federation Strategy 2026-2030, organised around three enablers: (1) an AI-ready infrastructure connecting compute, data and application resources across the continuum; (2) human skills to know what is possible with AI and how to implement it; and (3) trust, to run AI with confidence even in high-risk environments. We describe the projects implementing each enabler, including federated LLM inference, AI-ready data platforms and AI competence centres, and discuss a division of labour with EuroHPC's AI Factories, RAISE, research infrastructures and EOSC, in which EGI specialises in the customisation and long-term operation of AI for research.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40324v1",
+        "title": "Crowds Believe in You: Online Prediction Markets Overestimate How Often People Achieve Their Own Goals",
+        "url": "https://arxiv.org/abs/2610.40324v1",
+        "authors": [
+          "Zihan Chen",
+          "Lei Nico Zheng",
+          "Di Zhu"
+        ],
+        "published": "2026-10-29",
+        "summary": "People increasingly share personal goals online and invite others to forecast them. Research on the planning fallacy finds that observers predict a person's behavior less optimistically than the person does, and prediction markets aggregate such judgments, harnessing the wisdom of crowds. We study 6,150 prediction markets on Manifold in which 1,660 users asked about their own futures (\"Will I ...?\"), reconstruct every order and execution, and compare these self-markets with markets about external events. Self-markets resolved YES 4.4 percentage points less often than their final prices implied, whereas external markets were nearly calibrated (0.9 points); the difference was 2.2 points at the same price level and 1.9 points within creators who made both kinds of market. Absent when markets opened, the overstatement emerged within a day of trading, even where the person never traded, and peaked in the week before close. In a market's first day, observers moved external-market prices down toward the base rate, but moved self-market prices 3.6 points further toward YES, except in markets naming an outcome the person would not want, which were not overpriced. The correction came late and largely from the person, whose orders supplied 38% of the eventual movement toward the outcome in self-markets, against 9% in external markets. Because self-market prices mainly failed to separate successes from failures, a recalibration learned from earlier markets improved later forecasts by only 1.5%. Crowds believe in the futures people pose for themselves, and the information that would correct them lies with the person.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40259v1",
+        "title": "The Price of a Chance in Artificial Societies",
+        "url": "https://arxiv.org/abs/2610.40259v1",
+        "authors": [
+          "Shuqi Zhao",
+          "Boyu Wang",
+          "Shuangyue Niu",
+          "Chenhao Zhang",
+          "Zhanzhan Zhao"
+        ],
+        "published": "2026-10-29",
+        "summary": "Rapid advances in large language models (LLMs) have enabled autonomous agents to interact, coordinate, and pursue individual goals in artificial societies. However, our understanding of how reward structures shape their competitive behavior and collective outcomes remains incomplete. We simulate 200 LLM agents competing over 50 rounds to maximize individual wealth. We define overcompetition and lying flat as population investment above and below a Bayesian adaptive baseline, respectively. At the lowest tested reward, populations lie flat; at the two highest, they overcompete, most strongly at intermediate winner coverage. The investment committed to pursuing an uncertain reward constitutes the price of a chance. Agents near the qualification cutoff can invest heavily yet receive no prize, finishing poorer than nonwinners who invest less. Agents' stated rationales link investment decisions to perceived qualification prospects and expected returns. At the collective level, greater investment does not consistently improve ability selection. With a fixed total prize budget, offering smaller prizes to more winners can reduce investment while preserving selection quality relative to the corresponding top-ability target. Further broadening reward coverage yields additional savings but reduces selection quality. These findings show how reward design shapes overcompetition and lying flat, distributes the costs of pursuing opportunity, and influences what competition collectively achieves.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40172v1",
+        "title": "Measuring Organizational Influence on Digital News: An Information-Theoretic Framework for Media Pluralism and Editorial Independence",
+        "url": "https://arxiv.org/abs/2610.40172v1",
+        "authors": [
+          "Peter Carragher",
+          "Kathleen M. Carley"
+        ],
+        "published": "2026-10-29",
+        "summary": "News consolidation is accelerating, yet regulators have no measurement frameworks for determining whether owners shape editorial decisions. Existing evidence comes from single cases, where pluralism and independence are measured separately, if at all. We ask whether ownership impacts editorial decisions across the digital news ecosystem, and if so, how acquisitions affect this. We derive editorial independence and internal pluralism using partial information decomposition, which separates news coverage overlap with sister outlets from coverage overlap with all outlets. Using public datasets, we apply our measures monthly from 2018 to 2026 to 1,364 US news websites on three editorial decisions: which events they cover, which sources they link to, and what they put on their front pages. We find that co-owned outlets share up to 40 times more information about these decisions than expected by chance. Ownership accounts for far more variation in independence than network affiliation does and, upon being acquired, outlets lose independence sooner than matched controls, quickly converging on their new owner. In broadcast news, by comparison, we find that it is network affiliation, not ownership, that accounts for more content overlap. Finally, we discuss policy implications and suggest that media regulators have blocked large deals rather than editorially detrimental ones. We hope that this work can serve as a framework for comparative media analyses going forward.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40164v1",
+        "title": "Who Owns Digital News, and Who Gets Cited: Measuring Media Concentration Across 77 Countries and Seven AI Systems",
+        "url": "https://arxiv.org/abs/2610.40164v1",
+        "authors": [
+          "Peter Carragher",
+          "Kathleen M. Carley"
+        ],
+        "published": "2026-10-29",
+        "summary": "Digital news outlets compete for audience attention. Search engines equipped with generative AI systems such as Google's AI overviews increasingly decide where that attention goes, as well as the revenue it represents. Yet, the lack of a consistent data collection infrastructure between national-level regulatory bodies has hindered between-country comparative analysis of media concentration, and with it any assessment of how these intermediaries reshape digital news markets. To address this issue, we compile an ownership dataset for 9,761 digital news outlets drawn from Wikipedia and Wikidata, achieving high agreement with independently compiled US and UK news directories. Using this dataset, we derive traffic-weighted concentration indices for 77 countries. We find that journalists report more owner pressure in countries with higher concentration, and that outlet-level measures understate concentration, with owner-level indices a median 1.30x higher. Applying concentration measures to AI-mediated news discovery, we find that citation distributions from major AI systems are up to 2.08x more concentrated than traffic, and that if Google AI Overviews mediated all organic search, the resulting rise in US concentration would be several times that associated with highly regulated media mergers and acquisitions. Finally, our analyses indicate that AI systems preferentially cite state-controlled media outlets when prompted in that country's native language. Together, these findings raise concerns about the effect AI systems may have on digital media. We release the dataset to enable the monitoring of digital news globally, so that the impact of disruptive technologies on digital media markets can be tracked as they emerge.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39949v1",
+        "title": "Reconstructing Missing Mandi Prices in North-East India with Regional Factors",
+        "url": "https://arxiv.org/abs/2610.39949v1",
+        "authors": [
+          "Pritam Deka"
+        ],
+        "published": "2026-10-29",
+        "summary": "Agricultural price panels contain prolonged and clustered reporting gaps, yet their reconstruction is often evaluated by deleting isolated observations. We investigate a regional-factor approach to weekly mandi-price reconstruction in five North-East Indian states, with Bihar and Goa as additional comparison states. The model combines a common price path with persistent market-specific deviations; an adaptive ensemble weights alternative borrowing structures using internally masked reports. On a matched retrospective benchmark against ten baselines, pooled North-East mean absolute percentage error is 19.3%, compared with 26.5% for SAITS. The corresponding calendar-aligned panel/time-block bootstrap interval for the error difference is 2.8-12.7 percentage points. Removing the target state's monthly aggregate leaves pooled error at 19.4%, but eliminates the apparent advantage in Goa. An origin-restricted pipeline combining week-close input processing with revised ensemble validation yields 19.7% error, compared with 30.8% for carry-forward; this contrast does not isolate individual pipeline changes. Gains vary across states, and uncertainty intervals remain too narrow in several small panels. These findings support further study of structured retrospective reconstruction, not deployment claims: model development used earlier results, publication dates for monthly inputs are assumed, and confirmatory evaluation on untouched data remains outstanding.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39869v1",
+        "title": "Incorporating Machine-Others: An Enactive Exploration of Human-LLM Interactions",
+        "url": "https://arxiv.org/abs/2610.39869v1",
+        "authors": [
+          "Elena C. Cuffari",
+          "Marta Pérez-Verdugo",
+          "Xabier E. Barandiaran"
+        ],
+        "published": "2026-10-29",
+        "summary": "New concepts based in interactional thinking are required to understand how humans are changed by relating to LLMs. Standard theories of technological impact upon users' autonomy are inadequate here, because this technology is capable of inducing linguistic interactions with humans in an unprecedented manner. Traditional theories of social cognition also fall short, because LLMs have neither autonomy nor minds nor sociality as such. And yet, humans interact, talk, and create with them. We base ourselves on enactive theory, particularly on the theory of Linguistic Bodies and recent developments of enactive accounts of AI, to explore how we make sense with machines. We argue that we incorporate machine-others in two ways: in the tool-like sense of incorporation as enabling particular skills, but also in the more linguistic and identity-tied sense of incorporating (and incarnating) LLMs' ways of languaging. However, LLMs are themselves excorporated and excarnated phantoms of our own languaging; we give a (machinic) body to our language. As such, we are not just incorporating machinic others; we are incorporating excorporated others. These conceptual advances draw a new map of our linguistic relation to LLMs, putting them in continuation with other forms of languaging involving other linguistic artifacts (e.g., religious books). We attend to some particular forms that this relation takes today, and how they may be impacting the autonomy and becoming of LLM-engaged humans. We introduce the idea of \"susceptive sense-making\" to characterize increased semiotic labour that is carried by the lack of friction that we sometimes encounter within these services.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39846v1",
+        "title": "TokWatt: an open, boundary-annotated database of AI inference energy, from chat answers to agents",
+        "url": "https://arxiv.org/abs/2610.39846v1",
+        "authors": [
+          "Abderaouf Bahi"
+        ],
+        "published": "2026-10-29",
+        "summary": "Electricity supply is becoming a binding constraint on the deployment of artificial intelligence (AI), yet public evidence on the energy used by a single AI task is scattered and hard to compare. Published figures for one chatbot answer differ by two orders of magnitude, largely because studies count different parts of the system and measure different units of work. We present TokWatt, an open database of 134 published estimates of AI inference energy drawn from 13 sources (2023-2026) and covering 20 tasks, from classic machine-learning inferences to chat answers, reasoning answers, long-document queries, image and video generation, and coding agents. Each estimate records its functional unit, five measurement-boundary components, method, reported interval, and the location of the value in its source. A reproducible procedure scales estimates to a common server-plus-facility boundary and derives per-task reference values with ranges. The reference values span six orders of magnitude: 0.34 Wh for a short chat answer (range 0.16-0.99 Wh), 4.7 Wh for a reasoning answer, 124 Wh for a short video clip, and 150 Wh for one task delegated to a coding agent. Five independent estimates for default production chat systems agree within a factor of 1.8, and the reference values shift by at most 12% under alternative harmonization parameters. A simple identity links personal use to grid load: E watt-hours per person per day across one billion people corresponds to an average draw of E/24 gigawatts. Data and code are released at https://github.com/AraoufBh/tokwatt, and an online calculator at https://araoufbh.github.io/tokwatt/.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39831v1",
+        "title": "Behind the Paper Explosion: Author Growth and Widening Gaps in Computer Science",
+        "url": "https://arxiv.org/abs/2610.39831v1",
+        "authors": [
+          "Jiayi Li",
+          "Bowen Niu",
+          "Bingsheng He",
+          "Zhaomin Wu"
+        ],
+        "published": "2026-10-29",
+        "summary": "The rapid growth of computer science (CS) papers increases the work needed to review research and find relevant studies. The growing use of AI tools in scientific writing makes it increasingly important to identify the authors behind this growth. Previous studies have tracked publication growth and followed researchers' careers, documenting the increasing number of authors and the many researchers who publish only briefly. However, annual averages of papers per author reflect different sets of researchers and may hide changes among the same authors. This study addresses this gap by linking individual changes to overall CS paper growth using arXiv, DBLP, and conference submission records for 2010-2025. With each paper divided equally among its authors, the total paper count equals the number of authors multiplied by their average papers per author. This relationship provides a decomposition of the two contributions of paper growth. This decomposition attributes nearly all growth in CS paper volume to an increase in the number of publishing authors. The analysis of author numbers further distinguishes expansion through new and returning arXiv authors from the replacement of authors no longer publishing there. Changes in who publishes also affect the average, motivating comparisons of the same authors over time within groups with similar past paper counts. This comparison identifies substantial replacement within the growing author group. New authors average fewer papers under this counting method, keeping the overall average nearly unchanged despite increases among authors who published in both years. Moreover, statistics show that these increases are uneven, with widening gaps even among authors who previously published similar numbers of papers. These findings provide insights into peer review, community participation, researcher evaluation, and equity within the CS community.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39791v1",
+        "title": "Device-Induced Mobility Heterogeneity and Its Impact on Federated Next-Location Prediction",
+        "url": "https://arxiv.org/abs/2610.39791v1",
+        "authors": [
+          "André Felipe Zanella",
+          "Paula Delgado de Santos",
+          "José Suárez-Varela",
+          "David Solans Noguero",
+          "Andra Lutu",
+          "Jesus Omaña-Iglesias"
+        ],
+        "published": "2026-10-29",
+        "summary": "Predicting human mobility is central to network management, urban planning, and location-based services, yet privacy concerns are increasingly pushing such tasks toward federated learning. A key challenge in this setting is the strong heterogeneity of mobility data across users, which leads to non-IID data distributions and can significantly impact model performance and fairness. In this paper, we present a large-scale measurement study of device-level mobility heterogeneity using data from a major MNO in a dense European capital. Our dataset comprises mobility traces derived from network events, covering over 50,000 UEs across 178 smartphone models. We group devices into tiers based on their market segment and show that mobility characteristics, such as spatial range and regularity, vary systematically across these tiers, revealing a previously underexplored source of bias in mobility data. We investigate the implications of this heterogeneity on the use case of federated next-location prediction. In particular, we find that balancing device tiers across silos through tier-aware client selection yields the best results, improving fairness by up to 34.49% without degrading accuracy. In contrast, a FedProx-only approach achieves a 21.46% fairness improvement, offering a reasonable alternative when device information is unavailable, though with lower overall gains.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39761v1",
+        "title": "GPU-Resident Speculative Decoding for In-Browser LLM Inference with WebGPU",
+        "url": "https://arxiv.org/abs/2610.39761v1",
+        "authors": [
+          "Wei Song",
+          "Yuxin Cao",
+          "Ziqi Ding",
+          "Xiao Cheng"
+        ],
+        "published": "2026-10-29",
+        "summary": "WebGPU enables private, offline LLM inference inside web pages, but browser dispatch, inter-process communication, synchronous readback and single-token kernels slow decoding and make conventional speculative decoding inefficient. We present a WebGPU runtime that addresses these browser-specific costs. Deterministic small-batch integer kernels accelerate multi-token verification while preserving exact agreement with greedy decoding in the same quantized runtime. A GPU-resident loop performs drafting, verification, acceptance and KV-cache maintenance without a per-token CPU decision. A draft-free context-mixing drafter reuses page content, conversation history and session memory, while a device-aware controller adapts the speculation width and the submission window to measured costs. Across seven models from 0.5B to 8B parameters, 11 tasks and three client GPUs, our runtime decodes 3.5 to 5.4$\\times$ faster than WebLLM on a laptop GPU, 4.8 to 6.2$\\times$ faster on an integrated GPU and 4.8 to 8.6$\\times$ faster on a workstation GPU. The GPU-resident loop and speculation contribute a further 1.8 to 3.2$\\times$ over the optimized kernels on the workstation. Outputs match the quantized greedy decoding of the runtime exactly, and the mean GSM8K accuracy matches that of WebLLM. Optional draft heads raise the peak speedup to 10.2$\\times$, while session memory provides additional gains without downloading extra weights.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39747v1",
+        "title": "When the Top Answer Decides: Gender Bias in Decision Models",
+        "url": "https://arxiv.org/abs/2610.39747v1",
+        "authors": [
+          "Yeb Havinga"
+        ],
+        "published": "2026-10-29",
+        "summary": "Decision models are language models built to route, classify and triage: they return option probabilities from one forward pass, and an application acts on the top answer. They are offered off the shelf, trained for the decision format rather than for fairness or any one application, and we found no bias measurement in their cards. We test TypeSafe's closed Jev and five open decision models on gender-swapped yes/no decisions about people (Tamkin et al., 2023), BBQ, StereoSet and the gender-bias studies of Fulgu and Capraro (2024). Five of the six give women significantly more favourable answers than men (+0.05 to +0.10 in log-odds), and a gender swap changes 1-3.5% of top answers (Jev's partly through its call-to-call variation). The makers' recommended confidence gate removes many biased commitments but raises the stereotyped share of those it keeps in ambiguous BBQ gender questions (granite-switch 0.76 to 0.85, pplx 0.81 to 1.00). Probes show gender preferences in the same models: all six rate violence for a greater good as more acceptable against a man than against a woman, and two default to \"girl\" when forced to guess a child's gender without a cue. Decision-level and probability-level measures differ, so audits should read a model as its application does.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39620v1",
+        "title": "Letting AI Formulate the Research Question: Autonomous Research Agents",
+        "url": "https://arxiv.org/abs/2610.39620v1",
+        "authors": [
+          "Ko Fujimura"
+        ],
+        "published": "2026-10-29",
+        "summary": "Systems such as The AI Scientist have shown that AI agents can carry out and write up research, but in those demonstrations humans chose the research area and selected the outputs to show. We study letting the AI formulate the research question itself, and we report every run. Our system gives an off-the-shelf coding agent an instruction document and two skills: one for formulating the question, in which the agent diverges from recent technologies into problems of other fields, screens its candidates for known failure modes and obtains a critique from a different model; and one for peer review, in which a reviewer from another model family reruns the study from its records before the agent revises the paper. Over 13 development runs, changes to the one or two sentences that set the research area coincided with large shifts in what the candidate questions and the chosen papers were about, which led us to the area of a new technology applied to a societal problem. We froze the system after a pilot run and report five consecutive runs: the pilot, counted by a disclosed amendment to the pre-registration, and four pre-registered runs. All five runs went from question formulation to a revised, re-computable paper, with local computation on a laptop and no research input from humans, and external AI reviewers reading only the papers judged them at or near workshop level. We release the system, the five papers and the records needed to reproduce them.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39606v1",
+        "title": "Data Provenance and Ethics in the Curricula of U.S. Health AI Education Programs",
+        "url": "https://arxiv.org/abs/2610.39606v1",
+        "authors": [
+          "Raffaele Giancotti",
+          "Francesca Santucci",
+          "Amama Anjum",
+          "Monique de Villa",
+          "Rupsa Mitra",
+          "Soham Biren Katlariwala",
+          "Vishala Mishra",
+          "Leo Anthony Celi"
+        ],
+        "published": "2026-10-29",
+        "summary": "Failures of deployed clinical artificial intelligence (AI) systems have often originated in how their training data were generated. Whether the programs that train the health AI workforce teach practitioners to examine data provenance is unknown. We conducted a cross-sectional analysis of the publicly advertised curricula of health AI education programs at U.S. universities, identified through a structured multisource web search between April and July 2026. Two investigators coded coverage of data provenance (structural, dataset limitations, or data management only), ethics, and sustainability; collaborative structure; technical prerequisites; and the disciplinary background and gender of named instructors. The primary outcome was provenance coverage at the structural or dataset-limitations level. Of 43 candidate entries, 36 programs at 25 institutional units in 21 universities were included. Ethics was covered by 29 programs (80.6%; 95% confidence interval [CI], 65.0 to 90.2), data provenance by 8 (22.2%; 95% CI, 11.7 to 38.1), and structural provenance by 6 (16.7%; 95% CI, 7.9 to 31.9). None of the seven master's degree programs met the primary outcome, and no program addressed sustainability. Eighteen programs included team-based work, but only 5 assembled teams across clinical and technical backgrounds. Of 92 named instructors, 76.1% came from computational disciplines and 3.3% from the social sciences or humanities; among the 51 whose gender could be determined, 66.7% were men. U.S. health AI education programs widely taught ethics but rarely taught how clinical data are produced. None addressed the environmental cost of computation, and most instructors came from computational disciplines.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.39398v1",
+        "title": "Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms",
+        "url": "https://arxiv.org/abs/2610.39398v1",
+        "authors": [
+          "Oleg Vasilyev"
+        ],
+        "published": "2026-10-29",
+        "summary": "Chatbots are increasingly consulted about public affairs, and their judgments of policies are useful only if they are robust. We measure this robustness in the setting of an ordinary user, through consumer chat interfaces. For 30 days, five chatbot configurations (Mistral, Gemini Flash, Claude Sonnet, and Claude Opus at two effort settings) were asked twice a day to score the long-term effect on the United States of 40 actions of the last four presidential administrations and of 15 hypothetical reforms, each with a confidence and a short comment. The judgments are robust: all configurations agree on the sign and the ranking of the administrations' mean scores, and two different configurations asked on the same day give opposite signs to the same action in about 4% of cases. Responses from different days differ more than same-day responses, but the difference grows slowly over the month, except where the service itself changed. We identify three such changes, which shifted the judgments while leaving little or no trace in the interface. Treating the comments as a retrieval task, we find them specific to each item and consistent across runs and chatbots, with lexical and embedding similarities agreeing. We release the dataset of 16,500 judgments.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-10-30\n\nToday’s preprints demonstrate notable progress in verified automated reasoning, highlighted by the resolution of an open conjecture via an AI-assisted evaluation pipeline and substantive expansions in Lean 4 automation spanning automated first-order hammers, SMT-based defunctionalization, and environment-to-proof world models.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Resolution of Open Number Theory Conjecture via Multi-Format AI Pipeline]**  \n  [Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs](https://arxiv.org/abs/2610.40551v1) — Alan Sorani, Ashvni Narayanan, Michael Shalyt, Tali Monderer, Rotem Kalisch, Hila Barkan, Elyasheev Leibtag, Shachar Weinbaum, Carsten Schneider, John Campbell, Ido Kaminer\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Analyzes research-level mathematical submissions for formulas of constants, successfully discovering conceptually distinct proofs and confirming a proof of a published open conjecture in number theory.\n  - **AI Connection:** Evaluates AI models alongside Computer Algebra Systems (CAS) and Lean verification tools, implementing an AI-assisted evaluation pipeline to score semantic correctness on natural language proofs and code; concrete neural model architectures are not detailed in the abstract (unspecified AI assistance claimed in abstract; architecture not detailed).\n\n* **[Classification of Petersson-Rigid Lattices of Signature (2,1)]**  \n  [Petersson-rigid lattices of signature (2,1) and their harmonic weak Maass forms](https://arxiv.org/abs/2610.40519v1) — Eungang Cho\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Establishes an exact isometry classification showing there exist precisely twelve Petersson-rigid even lattices of signature $(2,1)$, determining their root bases, computing associated harmonic weak Maass forms, and resolving genus differences for Atkin-Lehner quotients.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Environment Discovery to Kernel-Checked Lean Proofs via Category Theory]**  \n  [Algebraic World Model: From Exploration to Proofs](https://arxiv.org/abs/2610.40503v1) — Guancheng Pan, Qixin Tan, Yang Yuan, Andrew Chi-Chih Yao\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Introduces an architecture that synthesizes formal typed abstractions and category-theoretic simplifications from environment interaction, generating closed, kernel-checked Lean 4 proofs that formally verify reachability bounds and impossibility invariants.\n  - **AI Connection:** Combines LLMs (evaluated using Claude Opus 5.5, Claude Opus 5, and GPT-6 Astra) with iterative Python hypothesis testing, category-theory-guided transformations, and formal proof synthesis verified by the Lean 4 kernel.\n\n* **[Mechanized Soundness for Probabilistic Programs and Countable MDPs in Lean]**  \n  [Countable Nondeterminism in Weighted Programming with an Application to Mechanized Foundations for Probabilistic Program Verification](https://arxiv.org/abs/2610.39723v1) — Sebastian Körner, Oliver Emil Bøving, Christoph Matheja\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Delivers the first mechanized proof of a fixed-point characterization of minimal expected rewards in Markov decision processes under countable nondeterminism and general module-based rewards within Lean.\n  - **AI Connection:** Interactive theorem proving in Lean (formal verification; no neural AI).\n\n* **[Vampire-Hammer: First-Order ATP Integration for Lean 4]**  \n  [Hammering with Vampire in Lean](https://arxiv.org/abs/2610.40310v1) — Jonas Bodingbauer, Laura Kovács\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Develops an automated hammer pipeline for Lean 4 that delegates proof search to the Vampire prover via the `Lean-auto` framework and reconstructs Lean kernel-checked proofs from TSTP certificates, solving 21,158 Mathlib theorems within a 10-second budget unreached by evaluated baselines.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[crush: SMT-Backed Proof Automation for Lean via Defunctionalization]**  \n  [crush: Extensible Proof Automation for Lean](https://arxiv.org/abs/2610.40538v1) — Mike He, Dexin Zhang, Aarti Gupta\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Implements a sound defunctionalization translation from Lean's higher-order logic fragment into first-order SMT queries alongside extensible metaprogramming interfaces for reconstructing verified kernel proofs from solver certificates.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 3. AI in Mathematics Education\n\nNo qualifying submissions met the threshold today.\n\n---\n*Synthesized with `gemini-3.7-flash` on 2026-10-30 11:30:29 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.7-flash",
+    "generated_at": "2026-10-30T11:32:59.072157+00:00"
+  }
+}
