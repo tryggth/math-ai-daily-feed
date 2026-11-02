@@ -1,0 +1,634 @@
+{
+  "updated_at": "2026-11-02T12:30:26Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2610.42137v1",
+        "title": "On the Iwasawa invariants of admissible quadratic twists of elliptic curves at ordinary Eisenstein primes",
+        "url": "https://arxiv.org/abs/2610.42137v1",
+        "authors": [
+          "Mulun Yin"
+        ],
+        "published": "2026-10-30",
+        "summary": "We study the Iwasawa $μ$- and $λ$-invariants of quadratic twists of rational elliptic curves at Eisenstein primes $p\\geq 3$. We verify Greenberg's $μ=0$ conjecture for all such twists, which gives an Euler system free proof of Mazur's cotorsion conjecture, and study the $λ$-invariants when the twist is admissible in the sense of [GV00]. As a consequence, we prove the cyclotomic Iwasawa Main Conjecture and obtain the $p$-part BSD formulae in rank $0$ for admissible twists under mild conditions, covering many elliptic curves of potentially ordinary reduction.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42123v1",
+        "title": "Abelianization and moment maps",
+        "url": "https://arxiv.org/abs/2610.42123v1",
+        "authors": [
+          "Elana Kalashnikov",
+          "Ruxandra Moraru",
+          "Francisco Villacis"
+        ],
+        "published": "2026-10-30",
+        "summary": "When $X_G=\\mathbb{C}^n/\\!/G$ is a GIT quotient of a vector space, replacing $G$ with a maximal torus $T \\subset G$ produces a closely related toric variety $X_T:=\\mathbb{C}^N/\\!/T$, the \\emph{Abelianization} of $X_G$. Abelian/non-Abelian correspondences connect structures on $X_G$ with structures on $X_T$. In this paper, we study the interaction between the toric moment map $μ$ of $X_T$ and $X_G$, when $X_G=\\mathrm{Gr}(r,n)$. We do this by looking at the restriction of $μ$ to an intermediate space $Z/T \\subset X_T$, where $Z/G=X_G$. We show that the generic fibres of this map are co-Lagrangians that project to Lagrangians on $X_G$. We completely describe the image in the case where $X_G=\\mathrm{Gr}(2,n)$, and show that in the general $\\mathrm{Gr}(r,n)$ case the image can be sliced so that each piece is determined by a finite set of points, related to matroid circuits.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42107v1",
+        "title": "Band Random Graphs: Connectivity, Geometry, and Transport",
+        "url": "https://arxiv.org/abs/2610.42107v1",
+        "authors": [
+          "Shantanav Chakraborty",
+          "Kyle Luh",
+          "Rudransh Pratap Singh"
+        ],
+        "published": "2026-10-30",
+        "summary": "Let $G(n,p,m)$ be the random subgraph of the cycle power $C_n^m$ obtained by retaining each edge independently with probability $p$. We study connectivity, component geometry, and random walks throughout the regime $\\log n\\ll m<n/2$. We prove that $p\\sim(\\log n)/(2m)$ is a sharp threshold for connectivity. If $n(1-p)^{2m}\\toλ\\in(0,\\infty)$, then the number of isolated vertices converges to $\\mathrm{Poisson}(λ)$, and with high probability every other vertex lies in a single component $C_1$. In particular, the connectivity probability converges to $e^{-λ}$. The component $C_1$ contains a cyclic chain of connected sets occupying all but an $o(1)$ fraction of each consecutive block of length $\\asymp m$, with $Θ(m\\log n)$ edges between consecutive sets. Its diameter has order $n/m+\\log n/\\log\\log n$ with high probability. For every fixed $c>1$, uniformly over $p\\geq c\\log n/(2m)$, the lazy-walk spectral gap is asymptotic in probability to that of $C_n^m$. In the same range, the mean hitting time of simple random walk satisfies, uniformly over distinct $x,y$, $$ H_G(x,y)=\\frac{2|E(G)|}{d_G(y)} +\\frac{r_{xy}(n-r_{xy})}{κ_m} +o_{\\mathrm{Prob}}\\left(n+\\frac{n^2}{m^2}\\right), $$ where $r_{xy}$ is cyclic distance between vertices $x$ and $y$, $d_G(z)$ is the degree of vertex $z$ and $κ_m=(m+1)(2m+1)/6$. Thus, for this random graph model, connectivity has the Erdős--Rényi asymptotics with $2m$ possible neighbours, while distances, relaxation, and hitting times retain the geometry of the underlying cycle.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42099v1",
+        "title": "On nowhere-zero ${3}$-flows in Cayley graphs on groups of order ${p^2n}$",
+        "url": "https://arxiv.org/abs/2610.42099v1",
+        "authors": [
+          "Milad Ahanjideh",
+          "István Kovács"
+        ],
+        "published": "2026-10-30",
+        "summary": "We consider Tutte's $3$-flow conjecture in the class of Cayley graphs on groups $G$ of order $p^2n$, where $p$ is a prime and $n$ is square-free and coprime to $p$. The conjecture has been proved by J. Zhang and Z. Zhang in the case where $n$ is a prime (Discrete Mathematics, 2023); and by the authors in the case where $p=2$ (arXiv:2603.24175). In this paper, we prove the conjecture in the case where $p > 2$ and either a Sylow $p$-subgroup or a Hall $n$-subgroup of $G$ is a cyclic group.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42094v1",
+        "title": "A Counterexample to the Alon-Krivelevich Conjecture and a New Lower Bound for Choosability of Bipartite Graphs",
+        "url": "https://arxiv.org/abs/2610.42094v1",
+        "authors": [
+          "Junran Yu",
+          "Gexin Yu"
+        ],
+        "published": "2026-10-30",
+        "summary": "For an integer $k\\ge 2$ and $r^2>2(2k-1)\\ln (2k-1)$, we construct a bipartite graph $G$ whose two vertex classes are disjoint copies of the family of all $k$-subsets of a $(2k-1)$-element set, two vertices being adjacent when their sets intersect in at most $r$ elements. Assigning each vertex its corresponding subset as its color list, $G$ is not colorable, and thus its choice number $\\ch(G)\\ge k+1$. This implies that there are graphs with maximum degree $Δ$ and $$\\ch(G)\\ge\\Bigl(\\frac1{32}-o(1)\\Bigr)\\frac{(\\lnΔ)^2}{(\\ln\\lnΔ)^3}.$$ When $k\\to\\infty$, consequently $\\ch(G)/\\lnΔ$ tends to infinity, which disproves the Alon--Krivelevich conjecture. In order to show the uncolorability, we use tools from probability (conditional product measure, nested coupling, and Doob martingale), which we write in an elementary language of weighted counting, and topology (Brouwer fixed-point theorem).",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42088v1",
+        "title": "Delocalized region of bipartite Erdős-Rényi graphs",
+        "url": "https://arxiv.org/abs/2610.42088v1",
+        "authors": [
+          "Johannes Alt",
+          "Serafina Wald"
+        ],
+        "published": "2026-10-30",
+        "summary": "We consider bipartite Erdős-Rényi graphs $\\mathbb{G}(n, p, d/\\sqrt{np})$ with two parts of sizes $n$ and $p$, respectively, and edge probability $d/\\sqrt{pn}$. We show that for $d > b_* \\log (n+p)$ all eigenvectors of its adjacency matrix, with eigenvalues away from zero, are delocalized with high probability. The threshold $b_*$ is an explicit function of the size ratio $n/p$ and optimal for eigenvector delocalization near the spectral edges. Our results extend to bulk eigenvectors down to the optimal threshold $d\\geq \\mathcal{D}\\sqrt{\\log (n+p)}$ for a constant $\\mathcal D \\geq 1$. In the supercritical scale $d \\gg \\log (n+p)$ we show that all eigenvectors are delocalized. Our results also hold for sparse rectangular random matrices with independent entries.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42067v1",
+        "title": "Two choices suffice: $k$-out sampling leaves $O(n/k)$ intercomponent edges for $k\\geq 2$",
+        "url": "https://arxiv.org/abs/2610.42067v1",
+        "authors": [
+          "Yanyu Chen",
+          "Yu Chen"
+        ],
+        "published": "2026-10-30",
+        "summary": "Given a simple undirected graph on $n$ vertices, random $k$-out sampling forms a spanning subgraph by having each vertex independently choose $k$ incident edges uniformly with replacement. We prove that, for every integer $k\\geq2$, the expected number of original edges joining distinct sampled components is $O(n/k)$. This resolves the conjecture of Holm, King, Thorup, Zamir, and Zwick in its full range, improving their logarithmic sampling requirement to the optimal threshold of two choices per vertex. The bound fails for $k=1$, and the dependence $O(n/k)$ is tight up to constant factors. Our result holds with replacement and consequently also without replacement. In particular, this implies that contracting just two independent local choices per vertex suffices to reduce an arbitrary simple graph to a quotient with $O(n)$ edges in expectation, which is crucial in reducing the instance size for many contraction-based algorithms. Our proof uses switching arguments to relate intercomponent edges to bridges and a degree-weighted component potential, whose expectation we also bound with a switching argument.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42038v1",
+        "title": "Berenstein-Zelevinsky polytopes for type $\\mathrm{G}_{2}$",
+        "url": "https://arxiv.org/abs/2610.42038v1",
+        "authors": [
+          "Thomas Magnuson",
+          "Tyrrell McAllister"
+        ],
+        "published": "2026-10-30",
+        "summary": "In 2001, Berenstein and Zelevinsky presented a polyhedral model for the problem of computing tensor-product multiplicities for semi\\-simple Lie algebras. We provide explicit linear equations and inequalities for Berenstein--Zelevinsky (BZ) polytopes of type-$\\mathrm{G}_{2}$ Lie algebras. We prove that the denominator of a type-$\\mathrm{G}_{2}$ BZ~polytope divides $180$, and that this bound is sharp, while the quasi-period of the Ehrhart quasipolynomial of such a polytope is always a divisor of $6$. We also show that BZ~polytopes of type-$\\mathrm{G}_{2}$ Lie algebras can fail to satisfy Ehrhart positivity, in contrast to a conjectured property of BZ~polytopes for all classical types.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42033v1",
+        "title": "Treedepth is NP-Hard on Planar Graphs of Maximum Degree 3",
+        "url": "https://arxiv.org/abs/2610.42033v1",
+        "authors": [
+          "Kolja Kühn"
+        ],
+        "published": "2026-10-30",
+        "summary": "Treedepth is an important parameter in algorithmic graph theory. It is known that the problem of computing the treedepth of a graph is NP-hard. It has been an open problem whether treedepth can be computed in polynomial time when the input graph is restricted to be planar, or of bounded degree. Assuming $P \\neq NP$, we answer both questions in the negative: Under polynomial-time Turing reductions, it is NP-hard to compute the treedepth of planar graphs with maximum degree 3. This degree bound is best possible, since treedepth can be computed efficiently on graphs of maximum degree 2.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42022v1",
+        "title": "Spectral Beurling-Selberg Approximation and Applications to Effective Motivic Chebotarev-Sato-Tate Estimates",
+        "url": "https://arxiv.org/abs/2610.42022v1",
+        "authors": [
+          "Yassine El Kaouni"
+        ],
+        "published": "2026-10-30",
+        "summary": "We establish a spectral Beurling-Selberg approximation theorem on compact connected Riemannian manifolds for sets whose boundaries have finite upper Minkowski content. Our majorants and minorants have controlled spectral coefficients and explicit stability under Hausdorff perturbations, uniformly over families satisfying a common Minkowski content bound. We extend the construction to singular spaces arising from Riemannian submetries with basic mean curvature, and apply it to equidistribution on quaternionic Shimura varieties. Assuming the conjectural formalism of the specified motivic L-functions, including the motivic Riemann hypothesis, we develop effective Chebotarev-Sato-Tate estimates for fixed sets and varying families with controlled boundary geometry and Hausdorff variation, and describe how additional symmetries improve the error exponents. The proofs combine classical analytic methods with new methods from differential geometry, analytic geometry, and Riemannian spectral analysis. Applications include an asymptotic formula for a motivic analogue of Atkin-Serre estimates and tubular estimates for Picard-rank jumps of K3 surfaces via their transcendental motives.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42019v1",
+        "title": "Modulo k-orientations of highly edge-connected signed graphs",
+        "url": "https://arxiv.org/abs/2610.42019v1",
+        "authors": [
+          "You Lu",
+          "Zhengke Miao",
+          "Zhenyu Tian",
+          "Cun-Quan Zhang"
+        ],
+        "published": "2026-10-30",
+        "summary": "A modulo $k$-orientation of a signed graph is an orientation in which the outdegree and indegree are congruent modulo $k$ at every vertex. We show that, for every odd integer $k\\ge3$, every essentially $k$-unbalanced $(6k-10)$-edge-connected signed graph admits a modulo $k$-orientation. This improves the edge-connectivity bound of Zhu [JCTB, 112 (2015)] from $6k-7$ to $6k-10$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42008v1",
+        "title": "Central values of additive twists of automorphic $L$-series",
+        "url": "https://arxiv.org/abs/2610.42008v1",
+        "authors": [
+          "Sandro Bettin",
+          "Sandro Bettin",
+          "Jungwon Lee"
+        ],
+        "published": "2026-10-30",
+        "summary": "We study series $L(x,s):=\\sum_n ρ(n)e^{2πi n x}/n^s$, where $ρ(n)$ are Fourier coefficients of an automorphic form $φ$ for a discrete cofinite subgroup $Γ\\subset \\mathrm{SL}(2,\\mathbb{R})$ and $x\\in\\mathbb{R}$. Let $\\mathfrak{b}\\in\\mathbb{R}\\cup\\{\\infty\\}$ represent a cusp of $Γ$. Ordering the orbit $Γ\\mathfrak{b}$ by increasing denominators, we prove that the values $L(x,1/2)$ for $x\\inΓ\\mathfrak{b}$, suitably normalized, become equidistributed according to a standard complex Gaussian law, under natural assumptions on the Laplace eigenvalue of $φ$. Previously this was known either when $Γ=\\mathrm{SL}(2,\\mathbb{Z})$ or when $φ$ is associated to a holomorphic cusp form. This applies in particular to central values at $s=1/2$ of additive twists of Maass form $L$-functions $\\sum_{n\\geq1}λ(n)e^{2πi n x}/n^s$, or to the Dirichlet-theta series $\\sum_{n\\geq1}χ(n)e^{2πi n^2 x}/n^s$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42006v1",
+        "title": "Extremal character spectra of finite projective systems",
+        "url": "https://arxiv.org/abs/2610.42006v1",
+        "authors": [
+          "Shitao Li",
+          "Yang Li",
+          "Gaojun Luo"
+        ],
+        "published": "2026-10-30",
+        "summary": "Let $\\mathcal M$ be a finite spanning multiset of points in ${\\rm PG}(k-1,q)$, and let ${\\rm Char}_{\\mathcal M}$ be its character function. For $1\\le r\\le k$, we study the maximum number of distinct values attained by ${\\rm Char}_{\\mathcal M}$ on the codimension-$r$ flats under a total-multiplicity budget. The spectrum is subject to two natural upper bounds, whose extremal cases lead respectively to $r$-maximum character spectrum ($r$-MCS) and $r$-full character spectrum ($r$-FCS) systems. We establish the existence of $r$-FCS systems in a broad parameter range, and solve the size-constrained extremal problem completely when $r=k-1$, including the minimum-cost multiplicity profiles. For $1\\le r<k$, put $M_r=\\qbinom{k}{r}$ and $B_r=\\qbinom{k-1}{r}$. The minimum size $ν_r(k,q)$ of an $r$-MCS system satisfies \\[\\left\\lceil\\frac{\\binom{M_r}{2}}{B_r}\\right\\rceil\\le ν_r(k,q)\\le \\binom{M_r-1}{2}+\\frac{q^k-q^{k-r}}{q-1}.\\] The upper bound is at most $\\binom{M_r}{2}$, strictly less when $r\\le k-2$, and exact when $r=k-1$. Its proof applies positive additive labelings to the complement of one flat, whose trace is empty while all remaining traces are distinct. For $r=1$, we improve the known upper bounds on the minimum length of such systems. We also develop global moment identities and local flat-incidence bounds that impose strong structural constraints on large character spectra. Under the projective-system correspondence, complementary character spectra are the support-weight spectra of $r$-dimensional subcodes.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42005v1",
+        "title": "Tiling without a subspace complement: a sharp counterexample in dimension nine over the field with two elements",
+        "url": "https://arxiv.org/abs/2610.42005v1",
+        "authors": [
+          "Samuel J. Ferguson",
+          "Joshua Iosevich"
+        ],
+        "published": "2026-10-30",
+        "summary": "We construct an explicit 64-point subset of $\\mathbb F_2^9$ which tiles by translation but has no linear-subspace tiling complement. Together with our earlier dimension-eight theorem and a product argument, this shows that every nonempty tile in $\\mathbb F_2^d$ has a linear-subspace complement precisely when $d\\le8$. The example is spectral, so it is not a counterexample to Fuglede's conjecture. Its construction uses six three-dimensional subspaces of $\\mathbb F_2^6$, specified by a small table. We classify all its tiling complements and spectra: there are exactly 512 complements and 64 spectra, with one translation class of each. Every spectrum has normalized Wiener norm $15/8$. An appendix proves that Goyal's related construction is affinely inequivalent but has the same tiling complements and spectra. The construction and both classifications are proved from first principles. We also give elementary proofs of the positive assertion in dimensions at most seven and for all tile sizes other than sixteen in dimension eight. The remaining case uses our previously established theorem based on the classification of perfect binary codes of length fifteen.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41999v1",
+        "title": "Ramsey numbers $R(K_{1,4},K_{m,n})$ for small $m$",
+        "url": "https://arxiv.org/abs/2610.41999v1",
+        "authors": [
+          "Khaidar Abdullin",
+          "Dmitrii Taletskii"
+        ],
+        "published": "2026-10-30",
+        "summary": "We determine all currently unknown values of the generalized two-color Ramsey number $R(K_{1,4},K_{m,n})$ for $\\min(m,n) \\leq 8$. We also prove that the number $R(K_{1,4},K_{m,m})$ equals $26, 29, 31, 33$ for $m = 9, 10, 11, 12$ respectively.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2610.41974v1",
+        "title": "Model Checking for Metric Extensions of Monadic Second-Order Logic",
+        "url": "https://arxiv.org/abs/2610.41974v1",
+        "authors": [
+          "Dibyayan Chakraborty",
+          "Sebastian Ordyniak",
+          "Sebastian Siebertz"
+        ],
+        "published": "2026-10-30",
+        "summary": "Monadic second-order logic yields powerful algorithmic meta-theorems, but cannot express that a vertex set induces a shortest path. We study metric extensions of counting monadic second-order logic and identify structural parameters supporting efficient model checking, optimization, and counting. We show that shortest paths and equidistance guarded by geodesic cycles are definable in ordinary vertex-set MSO on graph classes of bounded cycle-basis length. This yields fixed-parameter tractable model checking for the corresponding extensions of CMSO2, parameterized by formula length and bag-connected treewidth, and of CMSO1, parameterized by formula length and geodesic cliquewidth: the sum of cliquewidth and cycle-basis length. The translations preserve free variables, yielding additive optimization and counting. Applications include Minimum Geodetic Set and Strong Metric Dimension for geodesic cliquewidth, and Minimum Isometric Path Partition for bag-connected treewidth. We also introduce restricted packing-covering templates that allow numerical distance thresholds to remain outside the parameter. For each fixed template, feasibility, additive vertex-weight optimization, and counting are fixed-parameter tractable in bag-connected treewidth. Applications include Distance-r Dominating Set, d-Scattered Set, and Minimum Eccentricity Shortest Path. Finally, we characterize bounded bag-connected treewidth and bounded geodesic cliquewidth through monadic dependence for the corresponding guarded logics. Unguarded distance comparisons have stricter structural boundaries: first-order model checking is AW[*]-complete already on uncolored caterpillars, and model checking a fixed existential monadic sentence is NP-complete on this class.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41941v1",
+        "title": "Type classifiers",
+        "url": "https://arxiv.org/abs/2610.41941v1",
+        "authors": [
+          "Martin E. Bidlingmaier"
+        ],
+        "published": "2026-10-30",
+        "summary": "We extend dependent type theory by type classifiers and construct an interpretation in the category of contextual categories with families. Type classifiers extend contexts by type variables, complementing the usual context extensions by term variables of specified types. This allows statements with arbitrary type parameters to be formulated without assuming a universe. We show that substituting isomorphic types induces isomorphisms between the resulting types even in extensional type theory, giving an analogue of the invariance supplied by the univalence axiom in homotopy type theory. Omitting function types from the theory, so that all type formers are covariant, extends this naturality to arbitrary, possibly noninvertible maps.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41832v1",
+        "title": "Pareto climate economics: optimism, pessimism and the polarization of societies",
+        "url": "https://arxiv.org/abs/2610.41832v1",
+        "authors": [
+          "Nicola Botta",
+          "Patrik Jansson",
+          "Tim Richter"
+        ],
+        "published": "2026-10-30",
+        "summary": "We argue that simple conceptual models of the relation between short-term efforts in climate mitigation and adaptation policies (STECM&AP) and possible climate damages can help understanding the difficulties of increasing public support for a transition towards sustainable, decarbonized economies. Specifically, we show that, under fairly general conditions, mistrust and pessimism tend to polarize support for either minimal ``business as usual'' policies or maximal ``all-in climate mitigation efforts'' choices. Under the same conditions, trust and optimism tend to de-polarize societies towards moderate climate mitigation and adaptation (CM&A) policies and promote social consensus. If the relation between short-term efforts and possible climate damages can be quantified via empirical or model data, Pareto climate economics can be applied to extend these conceptual models and support climate decision making with trustable computational methods.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41536v1",
+        "title": "DAPS: Dependency-Aware Premise Selection for LLM Theorem Proving",
+        "url": "https://arxiv.org/abs/2610.41536v1",
+        "authors": [
+          "Zixuan Chen",
+          "Wenyuan Jiang",
+          "Junling Wang",
+          "Mrinmaya Sachan",
+          "Yinya Huang"
+        ],
+        "published": "2026-10-30",
+        "summary": "LLM-based theorem proving in Lean 4 has advanced rapidly, but provers are difficult to leverage newly contributed lemmas, because retrieval skews toward popular foundational lemmas, leaving the right premises buried among hundreds of thousands of candidates. Existing neural selectors rank candidates by semantic similarity, with three intrinsic limitations: frequency-skewed retrieval, isolated pairwise ranking, and degradation on out-of-distribution queries such as competition problems and informal language. Given that mathematics is structured by dependencies rather than similarities, we restore this signal to both the training data and the model. We curate two underused dependency resources. We conduct the first systematic mining of 53 Lean Blueprint projects, a previously untapped corpus of 3,805 manually curated informal+formal nodes that capture rare, research-level premises absent from Mathlib4. We further pair it with the extraction of comprehensive, typed, multi-level Mathlib4 dependencies. We then introduce DAPS, a dependency-aware premise selector with a structural neighborhood encoder, a group-level contrastive objective, and a Mathlib-then-Blueprint adaptation procedure. DAPS reaches mean Recall@32 of 89.25 on Mathlib4-Heldout (+11.41 over the strong selector LeanHammer), and maintains this lead on two out-of-distribution benchmarks. Further experiments demonstrate that DAPS premises improve theorem proving on miniF2F and IMO-ProofBench. Project page: https://daps-eth.github.io/.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41184v1",
+        "title": "General semiring conditions for weighted L* termination",
+        "url": "https://arxiv.org/abs/2610.41184v1",
+        "authors": [
+          "Noah Bertram",
+          "Daniel Luckhardt",
+          "Alexandra Silva"
+        ],
+        "published": "2026-10-30",
+        "summary": "Weighted automata learning has been well-studied over (semi)rings which have a dimension theory. In this work, we investigate active learning for weighted automata over semirings that lack such a structure. We first show that the principal ideal domain variant of the L* algorithm also terminates for a larger class of semirings containing Noetherian semirings, commutative rings, and bounded distributed lattices. We then present a variant of this algorithm for learning deterministic weighted automata, and prove that this algorithm terminates for commutative semirings.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40830v1",
+        "title": "Tableaux Rules for Theories of Definite Descriptions in Positive Free Logic with Some Philosophical Remarks",
+        "url": "https://arxiv.org/abs/2610.40830v1",
+        "authors": [
+          "Nils Kürbis"
+        ],
+        "published": "2026-10-29",
+        "summary": "While Russell's theory of definite descriptions, expressions of the form 'the F', is almost incontrovertible in classical logic, in free logic matters stand differently. Several alternatives have been proposed. In Lambert's hierarchy, the weakest theory is his minimal free theory of definite descriptions (MFD), which only says that anything is the F iff it is the unique existing F, the strongest one is a chosen object theory in which all improper definite descriptions refer to the same object (FD2). Intermediate is Lambert's FD1, which adds ix(x = t) = t as an axiom to MFD. MFD is very weak. FD2 is very strong. One might hope to find intermediate systems in which ix(x = t) = t is provable from more fundamental principles. The present paper considers one avenue where one might hope to find them and closes it. Two theories, FDA and FDH, will be considered that are motivated by considerations from proof-theoretic semantics. The former turns out to be equivalent to FD2, the latter to have unreasonable consequences. A third theory, similarly motivated, is also not viable. The philosophical upshot of this is briefly discussed.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40829v1",
+        "title": "Arithmetical Characterizations of Two Intuitionistic Logical Principles",
+        "url": "https://arxiv.org/abs/2610.40829v1",
+        "authors": [
+          "Kaito Ichikura"
+        ],
+        "published": "2026-10-29",
+        "summary": "This paper investigates the role of negation in arithmetic by analyzing subsystems based on subminimal logic. We introduce NA^PR, a system of subminimal arithmetic equipped with all primitive recursive functions, and answer the following four questions: (1) Can we develop reasonable arithmetic within NA^PR? (2) Can we characterize logical rules Absorption of Negation (An) and Ex Falso Quodlibet (ECQ) by arithmetical principles? (3) Are there strict differences in deductive power among NA^PR, MA^PR, and HA? (4) Do MA^PR and MA, and NA^PR and NA have a similar mutual interpretability relationship as HA? We show the following: First, Heyting Arithmetic (HA) is shown to be a conservative extension of NA^PR for positive formulas. Based on NA^PR, we prove that (ECQ) is equivalent to the definability of disjunction, and that (An) is equivalent to a variant of the least number principle. Furthermore, using the constant domain neighbourhood semantics, we show that the systems NA^PR, MA^PR (written as NA^PR+(An)) and HA (written as NA^PR+(An)+(ECQ)) form a strictly increasing hierarchy of strength. Finally, we demonstrate the essential role of primitive recursive functions in weak arithmetic using classical countermodels.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40817v1",
+        "title": "Cyclic Nonassociative Bilinear Logic With Additive Constants as Extension of Full Nonassociative Lambek Calculus",
+        "url": "https://arxiv.org/abs/2610.40817v1",
+        "authors": [
+          "Paweł Płaczek",
+          "Cheng-Syuan Wan"
+        ],
+        "published": "2026-10-29",
+        "summary": "Cyclic Linear Logic (CyMALL, CyBL) is a compromise between Commutative Linear Logic (MALL) and Noncommutative Linear Logic (Bilinear Logic, BL). We do not admit commutativity of the tensor, but we still admit only one De Morgan negation. MALL and its variants are natural extensions of Full Lambek Calculus (FL). Abrusci proved that CyBL is not a conservative extension of FL, if we admit additive constants in these logics. In this paper we show that Cyclic Nonassociative Bilinear Logic (CyNBL) with both additive constants is a strongly conservative extension of Full Nonassociative Lambek Calculus with only one additive constant - the upper bound - and that this holds even in the presence of an arbitrary set of nonlogical axioms.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40816v1",
+        "title": "Normalisation for a Neutral Free Logic with Definite Descriptions",
+        "url": "https://arxiv.org/abs/2610.40816v1",
+        "authors": [
+          "Yaroslav Petrukhin"
+        ],
+        "published": "2026-10-29",
+        "summary": "In this paper, we present a natural deduction system for a strong Kleene-based neutral free logic with definite descriptions. The system combines a three-valued propositional basis with free quantification, identity, existence, and rules for definite descriptions. The main result is a normalisation theorem for a proof-theoretically equivalent restricted formulation of the system; we also establish a corresponding modified subformula property for its fragment.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40814v1",
+        "title": "Paraclassical Logics with Two Negations",
+        "url": "https://arxiv.org/abs/2610.40814v1",
+        "authors": [
+          "Pawel Pawlowski",
+          "Pietro Vigiani"
+        ],
+        "published": "2026-10-29",
+        "summary": "We study three paraclassical propositional logics with two negations, CLoaN, CLouN, and CLauN, obtained by pairwise combining the one-negation systems CLuN, CLaN, and CLoN. CLuN's negation is glut-tolerant and paraconsistent, CLaN's negationis gap-tolerant and paracomplete, and CLoN's negation is both paraconsistent and paracomplete. We provide sound and complete two-valued non-deterministic semantics for each of the two-negations systems. We then focus on CLauN, the system containing the primitive dual pair of CLaN and CLuN negations. In this setting, we show deductive relationships between different negations expressible in CLauN; we show two diferent ways to recapture classical logic by means of translations, locally and globally; and we show a duality results for the multiple conclusion consequence relation of the logic.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40813v1",
+        "title": "Restricted Peirce's Law and Natural Deduction",
+        "url": "https://arxiv.org/abs/2610.40813v1",
+        "authors": [
+          "Satoru Niki"
+        ],
+        "published": "2026-10-29",
+        "summary": "The constructive logic JP' is known to be the weakest logic between intuitionistic and minimal logic that satisfies Glivenko's theorem. In spite of this natural and desirable formal property, the motivation for its notion of negation remains rather elusive: it can be characterised by a restriction of Peirce's law or by the double negation of ex falso quodlibet, neither of which is very intuitive. In order to have an alternative perspective on this negation, we study in this paper a couple of natural deduction systems for JP'. We first present a system that is normalisable and satisfies a restricted form of the subformula property. Then a modification of this system is introduced, whose rules satisfy the separation of connectives and the full subformula property. Afterwards we turn our attention to a typed lambda-calculus, with respect to which our natural deduction enjoys the Curry-Howard correspondence, followed by a concluding discussion.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40812v1",
+        "title": "Merging and Evolution of Data Bases: A Many-Logic Approach",
+        "url": "https://arxiv.org/abs/2610.40812v1",
+        "authors": [
+          "Manuel A. Martins",
+          "Abilio Rodrigues"
+        ],
+        "published": "2026-10-29",
+        "summary": "A new approach to information-based logics using many-logic modal structures (MLMSs) was recently proposed by Martins et al. In such a setting, it is possible to have worlds with different underlying logics within the same frame, all anchored to a base lattice that contains the semantics of each logic as a down-complete sublattice. In this paper, we take the lattice L6, defined by the six-valued semantics of the logic of evidence and truth LET + K , as our base lattice. We also consider four-, three-, and two-valued formal systems associated with down-complete sublattices of L6. These logics are capable of representing paracomplete, paraconsistent, and classical contexts with six, four, three, and two informational scenarios, respectively. As applications of MLMSs, we will discuss the merging and temporal evolution of databases whose underlying logics are two-, three-, four-, and six-valued. We will also investigate inconsistency measures in this context.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40809v1",
+        "title": "On Łukasiewicz Topological Semantics",
+        "url": "https://arxiv.org/abs/2610.40809v1",
+        "authors": [
+          "Muhammad Afaq Khan",
+          "Manuel A. Martins",
+          "Alexandre Madeira",
+          "Babar Zaman"
+        ],
+        "published": "2026-10-29",
+        "summary": "In this paper, we propose fuzzy topological semantics for Łukasiewicz valued modal logic, based on the standard Łukasiewicz algebra. Within this setting, formulas are interpreted as fuzzy sets of truth values, while the modal operators are realized through fuzzy interior and closure operators. We define a Kripke-induced fuzzy Alexandroff topology and establish a precise correspondence between Łukasiewicz fuzzy Kripke semantics and its topological counterpart. The proposed topological semantics validates the S4 modal axioms that include reflexivity, transitivity, monotonicity, normality, and the necessitation of truth.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40807v1",
+        "title": "On the Reconstruction of Orthomodular Logic via Restricted Negation",
+        "url": "https://arxiv.org/abs/2610.40807v1",
+        "authors": [
+          "Tomoaki Kawano",
+          "Ryo Kashima"
+        ],
+        "published": "2026-10-29",
+        "summary": "Orthomodular logic has long been studied as a fundamental logical framework within quantum logic. In addition to its lattice-theoretic foundations, various formulations have been proposed that incorporate specialized implication connectives and more complex logical connectives. In this study, we reconstruct orthomodular logic by introducing a connective referred to as restricted negation, which has received comparatively little attention in the existing literature. We demonstrate that this connective provides a natural and expressive basis for formulating the core principles of orthomodular logic. Furthermore, as a main result, we construct a new proof system for orthomodular logic founded on this connective.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.40803v1",
+        "title": "A Basic Modal Logic for the Abstract Treatment of Quantum Mixed States",
+        "url": "https://arxiv.org/abs/2610.40803v1",
+        "authors": [
+          "Tomoaki Kawano"
+        ],
+        "published": "2026-10-29",
+        "summary": "Quantum logic has developed in various directions since its inception. However, many existing logical approaches either focus only on pure states, or use Hilbert-space models in which the abstract relationship between pure states, mixed states, and probabilities is not made explicit. In this work, we introduce a model designed to handle quantum mixed states abstractly. Furthermore, we construct a proof system for the proposed logic and establish its completeness with respect to the intended semantics.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2610.42121v1",
+        "title": "Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines",
+        "url": "https://arxiv.org/abs/2610.42121v1",
+        "authors": [
+          "Doyeon Jang"
+        ],
+        "published": "2026-10-30",
+        "summary": "Crash-rate comparisons between automated driving systems (ADS) and human drivers require an exposure denominator that only a few operators publish. We instead ask a composition question: given a crash, does the mix of crash types differ between ADS and human-driven vehicles? The question needs no mileage and can therefore cover every ADS operator. We assemble the NHTSA Standing General Order (SGO) ADS incident files across both file generations into 2,450 distinct in-scope incidents (2021-2026), of which 828 fall within the 2021-2024 window covered by the Crash Report Sampling System (CRSS), the national police-reported human comparator. A schema-constrained large language model (LLM) codes each SGO narrative into the CRSS crash-type taxonomy. Because SGO compels reporting far below the police-reporting threshold, we bracket reportability with an objective severity floor and a reasonable-person rubric, and claim a difference only where it survives both. Two composition differences hold under every reportability definition, tow definition and weighting of the human side, and under both definitions of driverless operation: turn-across-path crashes are under-represented among ADS crashes (0.23-0.46x the CRSS share under the primary driverless definition) and so are single-vehicle crashes (0.19-0.56x). In severity-floor rear-end crashes the ADS vehicle is the striking party at a quasi-induced-exposure ratio of 0.121 (95% CI [0.05, 0.23]) against a human baseline of 1.000. If the ADS vehicle is also struck more often than its exposure implies, this ratio overstates the ADS-human difference. We also document three pitfalls in the federal data: an operator-specific coding of driverless operation, a tow-away criterion confounded by fleet recovery practice, and an occupancy confound that accounts for about 42% of the apparent ADS-human severity gap.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42081v1",
+        "title": "Differentially Private Synthetic Data from Sliced Chebyshev Moments",
+        "url": "https://arxiv.org/abs/2610.42081v1",
+        "authors": [
+          "Lucas Rosenblatt",
+          "R. Teal Witter",
+          "Christopher Musco"
+        ],
+        "published": "2026-10-30",
+        "summary": "Research on practical differentially private (DP) synthetic data has largely focused on methods that approximately preserve low-dimensional marginals of a target distribution, and can thus only hope to preserve higher-dimensional, global structure as a lucky by-product. At the same time, existing methods that target global accuracy guarantees pay a price exponential in the data dimension, $d$. In this work, we address this ``curse of dimensionality'' by presenting a new DP synthetic data algorithm, SPLICE, that comes with a compelling global distributional guarantee, even in high-dimensions, and moreover, is practically state-of-the-art. Our algorithm is based on measuring noisy sliced Chebyshev polynomial moments of the target distribution and fitting a distribution to match, a twist on recent polynomial methods for 1-D synthetic data. We prove that, given a dataset of $n$ examples, SPLICE returns a private distribution with Sliced Wasserstein-1 distance $\\tilde{O}(1/\\sqrt{n})$ from the target, for constant privacy parameters. Notably, this bound is independent of the data dimension, $d$. Along the way, we prove a moment matching result of independent interest: for a distribution on the unit ball, matching the first $O(1/α)$ Chebyshev moments along $\\tilde{O}(d/α^2)$ random directions guarantees $α$ Sliced Wasserstein error. Finally, we provide a practical implementation of the algorithm that borrows tools from the tensor decomposition literature and achieves state-of-the-art performance compared to prior DP synthetic data methods on an extensive benchmark.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.42001v1",
+        "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
+        "url": "https://arxiv.org/abs/2610.42001v1",
+        "authors": [
+          "Michelle Vaccaro",
+          "Abdullah Almaatouq",
+          "Thomas W. Malone"
+        ],
+        "published": "2026-10-30",
+        "summary": "As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the empirical evidence in this space offers conflicting recommendations, which leaves individuals and organizations without clear guidance on when to combine human and AI capabilities. Existing meta-analyses can help reconcile these findings, but they require substantial manual effort and cannot readily incorporate new evidence as it emerges. To address this challenge, we introduce AutoAnalysis: an automated, self-updating meta-analysis of when humans and AI work better together, and when they work better alone. AutoAnalysis' most recent run synthesizes 1,955 effect sizes from 420 papers. Across this body of work, we found that, on average, human-AI combinations performed significantly better than humans alone, but they performed significantly worse than the better of humans or AI alone. These findings highlight the important distinction between improving human performance and achieving human-AI synergy and underscore the need to evaluate collaboration against both human and AI performance alone. As new studies emerge, AutoAnalysis will integrate their findings into the meta-analysis, providing cumulative evidence about when humans and AI perform better together and how human-AI performance varies across AI agents, tasks, and processes.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41918v1",
+        "title": "A Multimodal Type 2 Diabetes Registry on DHIS2: A Design and Feasibility Study with the AI-READI Dataset",
+        "url": "https://arxiv.org/abs/2610.41918v1",
+        "authors": [
+          "Saptarshi Purkayastha",
+          "Aiswarya Nandan Perumbilly",
+          "Zhenan Yin",
+          "Sherri L. Bucher"
+        ],
+        "published": "2026-10-30",
+        "summary": "Care for type 2 diabetes increasingly draws on continuous glucose monitors, wearable devices, home sensors, clinical records and retinal images, yet few open platforms have been shown to hold all of these for the same person. We asked three questions of DHIS2, the open-source health information system that ministries of health in about 80 countries run nationally: whether an unmodified Tracker program can represent these modalities together (RQ1), which design choices its row-per-event data model forces for dense sensor streams (RQ2), and what a bulk loader must do to load such data correctly (RQ3). We designed a registry of 27 program stages and 445 data elements, loaded the AI-READI dataset of 2,280 participants into it, and verified the result field by field against the source files. The program held every loaded modality in 8.09 million events. Dense streams were stored as hourly summaries aligned across modalities; electrocardiograms, diagnoses and 118,480 retinal images were stored as one event per record. The event model ruled out storing raw readings, and hourly summaries reduced the wearable and glucose volume about 26-fold. An audit of the loader found defects that shared one pattern: a failure that looked like success. We state five lessons for DHIS2 Tracker clients that address this pattern. Verification of all 64.9 million stored values found four defects, all missing, duplicated or artifactual records rather than wrong values, and none after their repair; an independent recomputation of the glucose summaries agreed on all 464,210 values compared. The paper offers implementation guidance for DHIS2 implementers and for users of AI-READI; it does not evaluate clinical use. Analytics at this scale, use by clinicians and live device feeds remain to be shown.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41911v1",
+        "title": "Recommendation Feedback Loops Shape Urban Income Segregation and Venue Visitation",
+        "url": "https://arxiv.org/abs/2610.41911v1",
+        "authors": [
+          "Guangyuan Weng",
+          "Lin Chen",
+          "Ciro Beneduce",
+          "Giovanni Mauro",
+          "Massimiliano Luca",
+          "Takahiro Yabe",
+          "Bruno Lepri",
+          "Luca Pappalardo",
+          "Esteban Moro"
+        ],
+        "published": "2026-10-30",
+        "summary": "Location-based recommender systems shape where people go in cities and learn from the visits they steer, forming a human-AI feedback loop. This feedback loop shapes whom people share places with across income groups and which venues keep attracting customers. Yet platforms judge these systems by their offline accuracy on past visits, a test in which the suggestions never change where people go and which therefore cannot capture long-term effects. Studying these effects in cities is challenging because, unlike online resources, travel constraints and limited venue capacity shape where people can go, while each recommended visit also changes whom other visitors encounter. To capture such features, we build a long-term simulation framework based on fine-grained human mobility data from four U.S. metropolitan areas, with distance and capacity constraints. Focusing on food venues, we study two urban consequences: how unevenly people's exposure is distributed across income groups (experienced income segregation) and the share of venues receiving no visits from simulated residents (venue disappearance). We find that, under every algorithm and in every metropolitan area, at least a fifth of venues stop receiving visits, and that more than half of this loss arises from retraining. More importantly, more accurate algorithms leave people more segregated, and the most accurate algorithm leaves people 15-21% more segregated than they actually are. We then test a re-ranking intervention that favours less popular venues and runs on top of a platform's existing algorithm. It lowers both venue disappearance and segregation across algorithms, largely without directing people to venues where they may feel less comfortable. Our results suggest that impact assessments of recommender systems should account for the feedback loop and report segregation and venue disappearance beyond accuracy.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41888v1",
+        "title": "On-Chain Behavioral Signatures for Classifying Centralized Exchange Addresses on Ethereum Using Proof-of-Reserves",
+        "url": "https://arxiv.org/abs/2610.41888v1",
+        "authors": [
+          "Seongchan Park",
+          "Hyunho Jeon",
+          "Byungsoo Kang",
+          "Gaeun Kim",
+          "Minseob So",
+          "Seongyong Kim"
+        ],
+        "published": "2026-10-30",
+        "summary": "Centralized exchanges (CEXs) are key gateways between traditional finance and digital asset markets, yet identifying their blockchain addresses remains challenging. Existing approaches often rely on opaque attribution labels or treat exchanges as secondary classification targets, leaving generalization to unseen exchanges insufficiently examined. This study develops a classification framework using Proof-of-Reserves (PoR) disclosures, with 3,033,857 Ethereum addresses from 15 CEXs and five Non-CEX categories. We derive 58 on-chain behavioral features and evaluate LightGBM against logistic regression (LR) under a leave-one-exchange-out protocol. Across five lookback windows (30-730 days), LightGBM consistently outperformed LR, with macro PR-AUC increasing from 0.6611 to 0.9594 using the selected 17 features, compared with 0.7697 for LR at 730 days. Robustness checks showed comparable performance when feature selection and hyperparameter optimization were repeated across splits and held-out exchanges, while exchange-balanced reweighting improved macro PR-AUC. SHAP analysis and feature-group ablation identified gas behavior, ERC-20 token activity, and internal transactions as key predictive signals in the constructed dataset. These findings support interpretable CEX address screening for blockchain monitoring, while the released feature dataset enables reproducible follow-up research.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41883v1",
+        "title": "Text as an Index for Zero-Shot Cross-Domain Knowledge Tracing",
+        "url": "https://arxiv.org/abs/2610.41883v1",
+        "authors": [
+          "Yin Yi",
+          "Haiping Ma",
+          "Siyu Song",
+          "Ziwen Wang",
+          "Shangshang Yang"
+        ],
+        "published": "2026-10-30",
+        "summary": "Knowledge tracing (KT) predicts a student's next response from their history. New platforms often have question texts but no response logs for training, motivating zero-shot cross-domain KT. Existing transfer and cold-start methods use question semantics, but cross-platform semantic discrepancies limit transferability. We propose TIZSKT, which separates behavioral sequence modeling from domain-local historical evidence construction and uses text as an index rather than a directly transferable predictive representation. The Mastery-Dynamics Encoder learns correctness dynamics without question identifiers or text embeddings. Domain-Local Question Addressing builds fixed question addresses using a frozen text encoder and an unsupervised per-domain projection. The Text-Addressing Kernel uses these addresses to aggregate the current student's previous outcomes into a question-specific historical correctness summary. Cross-Segment Continuation retains access to earlier responses without extending the behavioral encoder's input sequence. Evidence-Volume Read-Out preserves the total kernel mass discarded by normalization and combines its log-compressed value with the behavioral state and historical correctness summary to predict the next response. All trainable parameters are learned from source domains; target inference uses public question texts and the current student's observed history without target-domain training. Leave-one-domain-out experiments on three public datasets show that TIZSKT achieves the highest mean AUC and accuracy among evaluated baselines on all target domains. Ablations confirm the contributions of text addressing and cross-segment continuation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41866v1",
+        "title": "AI evaluators favor job applications written by certain AI models, independent of candidate quality",
+        "url": "https://arxiv.org/abs/2610.41866v1",
+        "authors": [
+          "Nicolò Pagan",
+          "Michael Andreas Ebling",
+          "Stefania Ionescu",
+          "Anikó Hannák"
+        ],
+        "published": "2026-10-30",
+        "summary": "Job applicants increasingly use large language models (LLMs) to write cover letters, while employers deploy LLMs to screen them. In this all-AI setting, we ask whether the \\emph{choice of model} affects hiring outcomes independently of candidate qualifications. We introduce a multi-model auditing framework pairing eleven LLM writer agents with nine API-hosted evaluator agents across ten job descriptions and fifty candidates per job. Four findings emerge. First, we identify a generative preference hierarchy: a consistent global ranking of writer models by evaluator acceptance, in which locally hosted models are systematically disadvantaged regardless of their license, compounded by self-preference bias where evaluators favour their own outputs. Second, evaluator models differ substantially in how much bias they introduce based on applicants' tool choice, offering actionable guidance for fairer screening design. Third, this hierarchy has measurable competitive consequences: in the most adverse pairing, approximately two (1.8) out of twenty-five qualified candidates are filtered out purely due to model mismatch. Fourth, a common mechanism explains the patterns above: writer preference and self-preference trace to a combination of how much each writer leans on specific stylistic cues and how strongly evaluators, often unanimously, reward or penalise those same cues. A further check finds little evidence that an unmeasured \"writer fingerprint\" remains once these same features are accounted for. We discuss implications for algorithmic fairness in employment, regulation of AI-assisted screening, and the design of auditing frameworks that can be reapplied as the model landscape evolves.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41854v1",
+        "title": "LLM Recommenders Produce Demographic Inequality Through Content Preferences",
+        "url": "https://arxiv.org/abs/2610.41854v1",
+        "authors": [
+          "Nicolò Pagan",
+          "Petter Törnberg",
+          "Christopher A. Bail",
+          "Christopher Barrie"
+        ],
+        "published": "2026-10-30",
+        "summary": "Large language models (LLMs) are increasingly being integrated into systems that rank and recommend online content. We examine how this shift can produce demographic inequality in whose voices are surfaced. Using 10,000 Twitter/X posts written by 1,000 survey respondents and linked to verified self-reported characteristics across nine demographic attributes, we conduct a controlled recommendation experiment across three LLM providers, six recommendation objectives, and five levels of contextual information. By varying whether models receive post text alone, platform metadata, or explicit author demographics, we isolate three pathways to unequal recommendation: preferences for demographically patterned content, reliance on unequal engagement signals, and direct use of disclosed identity. We find that demographic inequality emerges from text alone. Models consistently favour longer, more negative, and more opinionated posts, particularly those concerning news and social issues, producing systematic differences in the demographic composition of recommended authors. Platform metadata generally amplifies these inequalities, while explicitly disclosing authors' demographic characteristics produces little additional change. Recommendation objectives mainly affect the magnitude of these patterns: controversial framing intensifies both content and demographic skew, whereas popularity-oriented framing dampens it, although for some attributes - most notably age - the objective can also reverse which group is favoured. LLM-based recommenders can therefore reproduce demographic inequality by proxy, not through explicit demographic targeting, but through preferences for content and engagement signals already structured by social inequality.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41776v1",
+        "title": "MERIDIAN: Memory-Encoded Rituals for Intimacy across Distance in an Interactive, Asynchronous Neighbourhood",
+        "url": "https://arxiv.org/abs/2610.41776v1",
+        "authors": [
+          "Jingyi Chen",
+          "Yifan Yang"
+        ],
+        "published": "2026-10-30",
+        "summary": "How can shared memories become playable structures for partners who live in different time zones? We present MERIDIAN, a pre-deployment design case of Yi Town, a bilingual browser game developed by one member of a long-distance couple as a gift for the other. Nine levels translate personally meaningful events, places and cultural references into tasks within a navigable pixel town. A birthday prologue and a fictional wedding frame the intended experience. Drawing on research through design, we reconstruct four design changes from 109 development commits, 28 changelog versions and three design specifications. These records support six situated design commitments, including memory-derived mechanics, staged access, local progress storage and bilingual coverage. The implementation combines a union-based progress model with manually exchanged, checksummed codes and time-zone-dependent scenery. An implementation audit reproduced 153 passing unit tests and examined all 1,024 canonical progress codes, while identifying limits involving resets, unversioned level registries and residual transcription errors. The application has no author-operated backend for progress, but external media services and browser speech recognition limit its privacy and offline guarantees. No recipient evaluation or relationship outcomes are reported. The contribution is an inspectable account of design decisions and their trade-offs, including the tension between authoring a personal gift and preserving the recipient's freedom to interpret, decline or reshape it. The game is playable at https://jingyifan.love and its source is public at https://github.com/rayford295/yi-town.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41691v1",
+        "title": "Does Reasoning Make Language Models Agree?",
+        "url": "https://arxiv.org/abs/2610.41691v1",
+        "authors": [
+          "Mila Gorecki",
+          "Moritz Hardt"
+        ],
+        "published": "2026-10-30",
+        "summary": "Language models face two opposing concerns: monoculture, in which models err in correlated ways, and multiplicity, in which equally accurate models make conflicting decisions. The rise of reasoning models has complicated this debate: On the one hand, reasoning may increase model agreement if models anchor on the same salient features or follow similar reasoning paths. On the other hand, stochastic reasoning traces may introduce additional branch points leading to more diverse predictions. We resolve this tension by distinguishing reasoning as an intervention from reasoning as an observed behavior. We compare agreement under controlled changes in reasoning effort with agreement across observed reasoning lengths, measuring both against the agreement expected from model accuracy. Across nine models from two developers and three classification tasks, enabling reasoning increases agreement between models evaluated on the same individuals. Yet the individuals who elicit longer reasoning traces receive less consistent predictions across models. Both patterns persist after accounting for differences in accuracy. Asking models to reason more thus promotes agreement, while observing them reason longer signals disagreement.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41682v1",
+        "title": "The Ineliminable Anchor: Human Judgment as a Structural Requirement of Autonomous Artificial Intelligence Systems",
+        "url": "https://arxiv.org/abs/2610.41682v1",
+        "authors": [
+          "Junjie Li",
+          "Haoran Liu",
+          "Yidan Zhang",
+          "Jian Xu",
+          "Zhaoyuan Ma"
+        ],
+        "published": "2026-10-30",
+        "summary": "As artificial intelligence (AI) agents carry out longer chains of tasks, oversight must establish whether their behavior still serves an authorized goal. Here, we introduce the anchor: the point at which reference information and human-authorized standards enter an autonomous system. We argue that oversight design should first identify the reference needed to assess goal drift and whether the system's internal record can supply it, then decide who checks and how often, and finally specify who may revise the goal. Goal drift can be impossible to certify from a system's internal record. The missing reference must come from outside that record. Combining a reliability model of checkpoint spacing with evidence from training, execution, and multi-agent coordination, we develop a task taxonomy to guide anchor placement and decisions about which checks to automate. For AI systems that serve human purposes, human judgment is an ineliminable structural requirement in authorizing and revising the purposes and standards that govern autonomous operation, even when routine checking and execution are automated.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41441v1",
+        "title": "GESIS Surf: An Open-Source Infrastructure for Privacy-Preserving Longitudinal Web Browsing Data Collection",
+        "url": "https://arxiv.org/abs/2610.41441v1",
+        "authors": [
+          "Mario Alberto Ramirez",
+          "Frank Mangold",
+          "Sebastian Stier"
+        ],
+        "published": "2026-10-30",
+        "summary": "Understanding how people navigate digital media environments requires behavioral data beyond survey self-reports. However, existing infrastructures for collecting such data reproducibly, sustainably, and with strong privacy guarantees remain limited: commercial solutions lack transparency and data governance, while academic tools are typically designed for narrow, short-term use cases and do not support general-purpose academic panel data collections. We address this gap with GESIS Surf, a research infrastructure for large-scale longitudinal collection of web behavioral data in naturalistic environments. The system consists of a browser extension (Chrome and Firefox), a backend with a REST application programming interface (API), and a relational database. It passively captures user interactions, page metadata, and full HTML snapshots of each rendered page, embedding each observation within a hierarchical session model that preserves the structure of browsing behavior. GESIS Surf implements privacy-by-design through strict opt-in participation, per-domain collection rules, and client-side data minimization, ensuring that sensitive data are controlled at the point of collection. The system has been deployed with more than 1,000 participants in a large-scale academic panel infrastructure that includes surveys of participants, and supports reproducible, content-level, and structurally rich analysis of digital behavior. By combining hierarchical session modeling, content-level capture, and integrated privacy enforcement within a unified system, GESIS Surf provides a general-purpose infrastructure for studying digital behavior in a reproducible manner over time.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41135v1",
+        "title": "Language Non-Invariance in the Ideological Evaluation of Large Language Models",
+        "url": "https://arxiv.org/abs/2610.41135v1",
+        "authors": [
+          "Eduardo Levy Yeyati",
+          "César Ciappa",
+          "Milagros Onofri"
+        ],
+        "published": "2026-10-30",
+        "summary": "Recent multilingual studies show that political evaluations of large language models (LLMs) can vary across languages. This paper examines how robust this non-invariance is to questionnaire translation, surface wording, stochastic model variation, and instrument choice, and how much it matters for cross-model comparison. Using the Political Compass, the analysis compares the positions of five LLMs, GPT-3.5, GPT-4o, GPT-5.2, Qwen-2.5, and Mistral Large, on its economic and social axes in English, Spanish, and French, with repeated stochastic draws. Additional exercises use independent Spanish and French translations, paraphrased versions in all three languages, and an alternative ideological instrument. Measured ideological positions are not language-invariant: relative to English, between four and five of the ten pairwise model rankings reverse in Spanish or French, depending on the language and axis. The broad cross-language pattern persists under independent translations, indicating that it is not solely an artifact of the official questionnaire versions. Yet the magnitude of particular shifts, and in some cases their sign, remains sensitive to wording and instrument choice. The evidence therefore supports a measurement interpretation: ideological audits recover language- and instrument-conditioned outcomes rather than a language-free political attribute. Because a single provider serves distinct linguistic constituencies through a common product, without users observing what other constituencies receive, this lack of comparability also bears on political accountability and cross-model comparisons.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2610.41057v1",
+        "title": "Out of sync: Accommodation, evaluation, and emergence in five weeks with an agentic AI teammate",
+        "url": "https://arxiv.org/abs/2610.41057v1",
+        "authors": [
+          "Nia Nixon",
+          "Jaeyoon Choi",
+          "Pedro Martins de Bastos",
+          "Mohammad Amin Samadi"
+        ],
+        "published": "2026-10-29",
+        "summary": "As agentic AI in education shifts from reactive tools toward partners that take initiative and persist over time, a central question is how learners relate to, evaluate, and benefit from artificial agency. We conducted a longitudinal experiment in an undergraduate learning analytics course, in which 17 student teams (N = 48) collaborated with a persistent LLM-based teammate across weekly sessions. The agent decided when to intervene through a trigger-based architecture, and its social role was manipulated between teams: a Cognitive Agent that challenged quick consensus or a Supportive Agent that invited quieter members to contribute. Combining chat discourse, post-session surveys, and spoken reflections, we identified distinct patterns unfolding across three timescales. Students accommodated their language to the agent's role immediately, using more social language toward the Supportive Agent from the first session. Their helpfulness evaluations were recalibrated from session to session in relation to the agent's observed behavior, rather than remaining anchored to students' pre-existing attitudes toward AI. A slower crossover emerged in perceived collaboration process and positive-affect word use in reflections: Supportive-Agent teams began below Cognitive-Agent teams and ended above them, although students rated the Supportive Agent less helpful throughout. Because these responses follow different trajectories, single-session evaluations of agentic AI may miss changes that emerge only through repeated interaction.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-11-02\n\nToday's candidate pool features a landmark resolution disproving the long-standing Alon–Krivelevich conjecture on graph choosability, alongside key technical advances in Lean 4 premise selection leveraging informal-formal blueprint dependencies and zero-shot cross-domain knowledge tracing for educational platforms.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Disproof of the Alon–Krivelevich Conjecture on Bipartite Choosability]**  \n  [A Counterexample to the Alon-Krivelevich Conjecture and a New Lower Bound for Choosability of Bipartite Graphs](https://arxiv.org/abs/2610.42094v1) — Junran Yu, Gexin Yu  \n  - **Mathematical Impact:** (Score: 5 — Landmark Breakthrough). Disproves the open Alon–Krivelevich conjecture by constructing an explicit family of bipartite graphs whose choice number $\\operatorname{ch}(G)$ satisfies $\\operatorname{ch}(G) \\ge (\\frac{1}{32} - o(1)) \\frac{(\\ln \\Delta)^2}{(\\ln \\ln \\Delta)^3}$, establishing that $\\operatorname{ch}(G)/\\ln \\Delta \\to \\infty$ as maximum degree $\\Delta \\to \\infty$.  \n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Exact Dimension Threshold for Vector Space Subspace Tiling Complements]**  \n  [Tiling without a subspace complement: a sharp counterexample in dimension nine over the field with two elements](https://arxiv.org/abs/2610.42005v1) — Samuel J. Ferguson, Joshua Iosevich  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves the exact dimension boundary ($d \\le 8$) for linear-subspace tiling complements in $\\mathbb{F}_2^d$ by explicitly constructing a 64-point spectral tile in $\\mathbb{F}_2^9$ that tiles by translation but possesses no subspace complement.  \n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Dependency-Aware Premise Selection for Lean 4 Interactive Theorem Proving]**  \n  [DAPS: Dependency-Aware Premise Selection for LLM Theorem Proving](https://arxiv.org/abs/2610.41536v1) — Zixuan Chen, Wenyuan Jiang, Junling Wang, Mrinmaya Sachan, Yinya Huang  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Provides a major architectural enhancement for auto-formalization and automated proof search in Lean 4 by replacing semantic similarity retrieval with a structural dependency model, achieving an 89.25 Mean Recall@32 on Mathlib4-Heldout and improving downstream proving performance on miniF2F and IMO-ProofBench.  \n  - **AI Connection:** Structural neighborhood encoder trained with a group-level contrastive objective and a Mathlib-then-Blueprint adaptation procedure, exploiting typed dependencies extracted from Mathlib4 and structural graph nodes mined from 53 Lean Blueprint projects.\n\n* **[FPT Model Checking Meta-Theorems for Metric Extensions of MSO]**  \n  [Model Checking for Metric Extensions of Monadic Second-Order Logic](https://arxiv.org/abs/2610.41974v1) — Dibyayan Chakraborty, Sebastian Ordyniak, Sebastian Siebertz  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes structural boundaries and fixed-parameter tractable (FPT) model checking algorithms for metric extensions of counting monadic second-order logic (CMSO1 and CMSO2) parameterized by geodesic cliquewidth and bag-connected treewidth.  \n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 3. AI in Mathematics Education\n\n* **[Zero-Shot Knowledge Tracing via Text-Indexed Behavioral Dynamics]**  \n  [Text as an Index for Zero-Shot Cross-Domain Knowledge Tracing](https://arxiv.org/abs/2610.41883v1) — Yin Yi, Haiping Ma, Siyu Song, Ziwen Wang, Shangshang Yang  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Introduces TIZSKT, a zero-shot cross-domain knowledge tracing model that enables adaptive learning platforms to evaluate student mastery across new math domains without needing historical response logs.  \n  - **AI Connection:** Frozen text encoder paired with an unsupervised per-domain projection, combined with a Mastery-Dynamics Encoder, a Text-Addressing Kernel, and an Evidence-Volume Read-Out mechanism.\n\n---\n\n### Provenance Footer:\n---\n*Synthesized with `gemini-3.6-flash` on 2026-11-02 12:30:26 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-11-02T12:30:55.801324+00:00"
+  }
+}
