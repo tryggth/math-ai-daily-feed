@@ -1,0 +1,608 @@
+{
+  "updated_at": "2026-11-05T12:30:25Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2611.06917v1",
+        "title": "Using topology to reveal all mutually unbiased bases in dimension six",
+        "url": "https://arxiv.org/abs/2611.06917v1",
+        "authors": [
+          "Mateo Cárdenes Wuttig",
+          "Joseph Tindall"
+        ],
+        "published": "2026-11-04",
+        "summary": "Mutually unbiased bases (MUBs) describe complementary quantum measurements: certainty in one basis gives no information about the others. In dimension six, triples of MUBs are known, but whether a fourth basis could exist remained unresolved for over three decades. OpenAI recently reported a proof that none exists. Here we use the topology of the space of complex Hadamard matrices, which describe transitions between MUBs, to characterize all sets in dimension six. We prove that every mutually unbiased triple belongs to a two-parameter family or is a single isolated triple built from the Fourier matrix. Since none of them extend to a fourth basis, this also proves that no four MUBs exist. Our proof rests on a new topological result that all order-six complex Hadamard matrices except Tao's form a connected space. Connectedness reduces the classification of triples to finitely many overlapping four-dimensional phase balls. We certify with interval arithmetic that these balls cover the space and for every pair of MUBs represented in a ball, we then determine all third bases that extend it. Dimension six is now the first non-prime-power dimension in which all sets of MUBs are classified.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06907v1",
+        "title": "Conformal field theory from automorphic forms on a quantum group",
+        "url": "https://arxiv.org/abs/2611.06907v1",
+        "authors": [
+          "Dalimil Mazac"
+        ],
+        "published": "2026-11-04",
+        "summary": "We reformulate two-dimensional conformal field theory (2d CFT) in the language of noncommutative geometry. To this end, we introduce automorphic forms for the von Neumann algebraic quantum group $\\mathrm{SL}^+_b(2,\\mathbb{R})$. A quantum measure space is a von Neumann algebra equipped with a weight. We study such spaces carrying a weight-preserving action of $\\mathrm{SL}^+_b(2,\\mathbb{R})$. We argue that every unitary bosonic 2d CFT with central charge $c=1+6(b+b^{-1})^2>1$ is equivalent to a quantum measure space with an action of $\\mathrm{SL}^+_b(2,\\mathbb{R})\\times\\mathrm{SL}^+_b(2,\\mathbb{R})$. In this dictionary, Virasoro primary operators are quantum automorphic forms and their scaling dimensions correspond to the spectrum of a quantum Laplace operator. The Virasoro crossing equations express associativity of multiplication on the quantum measure space. For compact theories, the algebra is a type III$_1$ factor. Liouville CFT is realized as $\\mathrm{SL}^+_b(2,\\mathbb{R})$ acting on itself by left and right translations. Virasoro boundary conditions correspond to quantum measure spaces with an action of a single copy of $\\mathrm{SL}^+_b(2,\\mathbb{R})$. When the boundary spectrum is discrete, these are noncommutative counterparts of compact hyperbolic surfaces. The formulation accommodates models both with and without extended chiral algebras. It bridges the Virasoro conformal bootstrap with categorical and von Neumann algebraic approaches to 2d CFT.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06886v1",
+        "title": "Off-Diagonal Induced Ramsey Numbers",
+        "url": "https://arxiv.org/abs/2611.06886v1",
+        "authors": [
+          "Bruno Andrades",
+          "Marcelo Campos",
+          "Rafael Filipe",
+          "Anastasiia Kats"
+        ],
+        "published": "2026-11-04",
+        "summary": "Given graphs $F$ and $H$, the induced Ramsey number $r_{\\mathrm{ind}}(F,H)$ is the smallest integer $n$ for which there exists a graph $G$ on $n$ vertices such that every red-blue colouring of $E(G)$ contains either a blue induced copy of $F$ or a red induced copy of $H$. A conjecture of Kohayakawa, Prömel and Rödl asserts that, for every fixed graph $F$, this number is polynomial in $v(H)$. We prove this conjecture, showing that there is an absolute constant $C > 0$ such that $$r_{\\mathrm{ind}}(F,H) \\leq v(H)^{Cv(F)^2}$$ for all graphs $F$ and $H$. The proof combines a variant of a random geometric construction of Kohayakawa, Prömel and Rödl with the hypergraph container method.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06862v1",
+        "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part I: Stabilization Graphs and Euler Characteristics",
+        "url": "https://arxiv.org/abs/2611.06862v1",
+        "authors": [
+          "Giordano Cotti"
+        ],
+        "published": "2026-11-04",
+        "summary": "In this paper, we develop an explicit calculation of ordinary topological Euler characteristics of the coarse moduli spaces underlying Hassett spaces in the minimal all-light chamber and the Deligne-Mumford compactification. For genus $g\\ge2$, we organize the calculation through a decomposition indexed by stabilization graphs and their decorations. The Burnside-Lefschetz formula allows us to compute the resulting contributions, taking into account graph symmetries and their fixed loci. The calculation in genus two illustrates the method explicitly and, in the Deligne-Mumford case, recovers the generating function of G. Bini, G. Gaiffi, and M. Polito (arXiv:math/9806048), with the corrections of G. Bini and J. Harer (arXiv:math/0506083), providing a check on the construction. We also carry out the calculation in genus three in an appendix. Together with an elementary genus-one calculation based on collision partitions and rational necklaces, these formulas yield complete asymptotic expansions as the number of labeled markings tends to infinity. The passage from all-light to ordinary Euler characteristics is governed by the universal change of variables $Φ(z)=(2-z)e^z-2$, which we derive by a direct wall-crossing argument. For arbitrary fixed genus $g\\ge2$, the same framework identifies the leading contribution of rational trivalent graphs and gives the ordinary asymptotic scale $n!(e-2)^{-n}n^{(3g-5)/2}$. The leading constants are the symmetry weights of these graphs; we derive their generating function, recurrence, and large-genus behavior. We also determine the asymptotic ratio of all-light to ordinary Euler characteristics, answering a question of S. Kannan, S. Serpente, and C. H. Yun (arXiv:2207.02800).",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06860v1",
+        "title": "Largest Sperner families with bounded VC-dimension",
+        "url": "https://arxiv.org/abs/2611.06860v1",
+        "authors": [
+          "Gennian Ge",
+          "Hanyu Wang",
+          "Zixiang Xu",
+          "Yixuan Zhang"
+        ],
+        "published": "2026-11-04",
+        "summary": "A conjecture of Frankl proposed in the 1980s states that for $n\\ge2d$, every Sperner family $\\mathcal{F}\\subseteq 2^{[n]}$ of VC-dimension at most $d$ has at most $\\binom{n}{d}$ members. We prove this conjecture for every fixed $d$ and large $n$, and show that equality holds only when $\\mathcal{F}$ is $\\binom{[n]}{d}$ or $\\binom{[n]}{n-d}$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06857v1",
+        "title": "Deterministic Fault-Tolerant Connectivity Oracles with Subquadratic Space",
+        "url": "https://arxiv.org/abs/2611.06857v1",
+        "authors": [
+          "Merav Parter",
+          "Elad Tzalik"
+        ],
+        "published": "2026-11-04",
+        "summary": "A fault-tolerant (FT) connectivity oracle for an $n$-vertex graph $G=(V,E)$ determines whether $G- F$ is connected for any query set $F\\subseteq E$. When the number of failures is unrestricted, prior constructions exhibited a sharp contrast between randomization and determinism: randomized oracles use only $\\widetilde{O}(n)$ space [Duan and Pettie, SICOMP 2020], whereas no deterministic construction was known to improve upon storing $G$ explicitly, requiring $Θ(n^2)$ bits in the worst case. The promise that $F\\subseteq E$ is essential for subquadratic space: allowing arbitrary queries $F\\subseteq V\\times V$ forces quadratic space. For queries containing at most $f$ failures, Khanna, Konrad, and Putterman [SODA 2027] recently constructed deterministic oracles using $\\widetilde{O}(\\sqrt{f}n)$ space that also report approximate distances with polylogarithmic stretch. Their result improves upon the classical $O(fn)$ space bound for deterministic connectivity oracles [Pătraşcu and Thorup, FOCS 2007], but offers no space savings over storing $G$ when $f=Θ(n^2)$. We present the first deterministic connectivity oracles with subquadratic space for failure sets of unrestricted size, using $\\widetilde{O}(n^{7/4})$ space. We also establish the first polynomial separation between deterministic and randomized connectivity oracles, proving that every deterministic oracle requires $\\widetildeΩ(n^{3/2})$ bits in the worst case. For queries containing at most $f$ failures, we obtain deterministic connectivity oracles using $\\widetilde{O}(f^{2/5}n)$ space, improving the dependence on $f$ in the bound of Khanna et al., and prove a lower bound of $\\widetildeΩ(f^{1/4}n)$ bits.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06852v1",
+        "title": "Hessenberg character",
+        "url": "https://arxiv.org/abs/2611.06852v1",
+        "authors": [
+          "Patrick Brosnan",
+          "Jaehyun Hong",
+          "Donggun Lee"
+        ],
+        "published": "2026-11-04",
+        "summary": "Let $G$ be a connected reductive group with Borel subgroup $B$, flag variety $\\mathcal B=G/B$, and Weyl group $W$. We define the \\emph{Hessenberg functor} on the geometric Hecke category by microlocalizing along the diagonal in $\\mathcal B\\times\\mathcal B$ and pushing forward along the Springer map. It induces the \\emph{Hessenberg character} of the Iwahori--Hecke algebra, with values in graded $W$-representations. On Kazhdan--Lusztig basis elements indexed by smooth elements of $W$, this character recovers the cohomology of the associated regular semisimple Hessenberg varieties. We identify the Hessenberg functor with the microlocalization of Lusztig's character functor and compute the Hessenberg character using Lusztig's nonabelian Fourier pairing. More generally, for families of Hessenberg schemes defined by pure-dimensional $B$-stable closed cones in the tangent space $T_{eB}\\mathcal B$, we show that monodromy on the intersection cohomology of regular semisimple fibers factors through $W$. When the cone is the tangent cone of a Schubert variety, we give a local condition at $eB$ under which the same character formula computes the graded $W$-character of this intersection cohomology. Combined with the methods of Precup and Sommers, our character formula can be used to compute the graded $W$-characters of all regular semisimple Hessenberg varieties in all Lie types of rank at most ten, including all exceptional types. These computations also motivate positivity and unimodality conjectures for Hessenberg varieties and Lusztig varieties in types $B$, $C$, and $D$, together with positivity conjectures for their partial flag versions.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06845v1",
+        "title": "Matching Random Point Sets with Minimum Distortion",
+        "url": "https://arxiv.org/abs/2611.06845v1",
+        "authors": [
+          "Itai Benjamini",
+          "Mark Braverman",
+          "Elad Tzalik",
+          "Georgii Zakharov"
+        ],
+        "published": "2026-11-04",
+        "summary": "How well can two independent random samples from a metric measure space be matched while preserving pairwise distances? Concretely, given two independent copies, each of $n$ points sampled from the space, what is their typical metric distortion as finite $n$-point metric spaces? We prove that the space $[0,1]$ equipped with the uniform measure already exhibits a rich behavior. We show that with high probability the distortion of the two independent samples is $n^{2/3}$ up to polylogarithmic factors. The lower bound reflects two competing obstructions. A bijection that maps points close to their original positions or their reflections in $[0,1]$ must expand the smallest gaps, in both directions. On the other hand, we show that large displacement from both the identity and reflection itself forces large distortion. Balancing these obstructions yields the lower-bound exponent $2/3$. For the upper bound, we construct a partial matching of the points that maps each gap between consecutive points of length $d\\lesssim n^{-4/3}$ to a pair at distance $\\widetilde{O}(dn^{1/3})$, with analogous control in the reverse direction. We then use a delicate multiscale oscillation construction to extend this partial matching to a low-distortion bijection.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06816v1",
+        "title": "Boxicity of Power Graphs of Finite Nilpotent Groups",
+        "url": "https://arxiv.org/abs/2611.06816v1",
+        "authors": [
+          "L. Sunil Chandran",
+          "Jinia Ghosh",
+          "Suraj Kumar Sahoo"
+        ],
+        "published": "2026-11-04",
+        "summary": "The \\textit{boxicity} of an undirected graph $Γ$, denoted as $\\operatorname{box}(Γ)$, is the smallest non-negative integer $d$ such that $Γ$ can be represented as the intersection graph of axis-parallel rectangular boxes in $\\mathbb{R}^d$. The \\emph{power graph} of a group $G$, denoted as $\\operatorname{Pow}(G)$, is an undirected graph whose vertex set is the group itself, with two elements being adjacent if one is a power of the other. We determine the exact boxicity of power graphs of finite nilpotent groups. For a cyclic group of order $n=\\prod_{i=1}^{r}p_i^{e_i}>1$, where the $p_i$ are distinct primes, we prove that its power graph has boxicity $\\sum_{i=1}^{r}e_i-\\max_i e_i$. For a finite nilpotent group $G$, let the number of noncyclic odd Sylow subgroups be denoted by $t(G)$. If $G$ has odd order or if $G$ has a cyclic Sylow $2$-subgroup, then $\\operatorname{box}(\\operatorname{Pow}(G))=\\operatorname{box}(\\operatorname{Pow}(\\mathbb{Z}_{\\operatorname{exp}(G)}))+t(G)$, where $\\operatorname{exp}(G)$ denotes the \\emph{exponent} of a group $G$. When the Sylow $2$-subgroup is noncyclic, and the odd part is nontrivial, the boxicity equals this value or one more, and we characterise precisely when each of these values is attained. The boxicity of power graphs of arbitrary finite groups and the exact boxicity of the comparability graph of the Boolean lattice were posed as open questions in Discrete Mathematics, 349(7):115017, 2026. As a consequence of our results, we answer the latter question completely and the former question partially, by computing the exact boxicity of the power graphs of nilpotent groups.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06804v1",
+        "title": "Monadically Dependent Graph Classes Have Almost Bounded Merge-Width",
+        "url": "https://arxiv.org/abs/2611.06804v1",
+        "authors": [
+          "Jan Dreier",
+          "Nikolas Mählmann",
+          "Michał Pilipczuk",
+          "Szymon Toruńczyk"
+        ],
+        "published": "2026-11-04",
+        "summary": "A graph class $\\mathcal{C}$ is monadically dependent if one cannot interpret all graphs in vertex-colored graphs from $\\mathcal{C}$ using a fixed formula of first-order logic. We prove that every monadically dependent graph class has almost bounded merge-width, thereby confirming a conjecture of the first and the last author [STOC '25]. Our proof is algorithmic and the witnessing decompositions in the form of merge sequences can be computed in nearly-cubic time. This is a step towards the proof of fixed-parameter tractability of model checking first-order logic on monadically dependent graph classes, which is achieved in a companion paper.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06798v1",
+        "title": "Unit fraction representations using shifted Golomb primes",
+        "url": "https://arxiv.org/abs/2611.06798v1",
+        "authors": [
+          "Rishika Agrawal"
+        ],
+        "published": "2026-11-04",
+        "summary": "We prove that every positive rational number is a sum of distinct unit fractions with denominators of the form $g-h$, where $g$ is a Golomb prime and $h$ is a fixed nonzero integer, as long as the necessary congruence conditions are satisfied. Golomb primes, introduced by Golomb in 1955, are a natural analogue of the primes. Erdős showed that the relative density of Golomb primes among the primes up to $N$ is about $1/\\log\\log N$, so they form a sparse subset of the primes. Our result is an analogue of Bloom's result on unit fraction representations using shifted primes, for this sparse subset of the primes. A key ingredient in our proof is a Siegel--Walfisz-type theorem for Golomb primes in arithmetic progressions, which we also prove here.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06776v1",
+        "title": "Finding full immersions is fixed-parameter tractable in labeled tour graphs",
+        "url": "https://arxiv.org/abs/2611.06776v1",
+        "authors": [
+          "Hadas Barabash",
+          "Jim Geelen",
+          "Rose McCarty",
+          "Caleb McFarland",
+          "Paul Wollan"
+        ],
+        "published": "2026-11-04",
+        "summary": "We give an $O_H(n^5)$-time algorithm to test whether an $n$-vertex labeled tour graph has a full immersion isomorphic to a labeled tour graph $H$. A labeled tour graph is a connected $4$-regular graph whose edges are labeled by binary vectors of fixed length. To obtain a full immersion, a vertex may be removed only by pairing up its four incident edges and \"splitting off\" both pairs, summing the labels within each pair. Even for one-bit labels, no polynomial-time algorithm was previously known for arbitrary fixed $H$. Our main tool is of independent interest: we give an algorithmic min-max theorem that, in particular, characterizes the maximum number of odd-length circuits in a rooted circuit decomposition of an Eulerian graph. Our results have implications for vertex-minors, whose study is motivated by applications in quantum networking, connections with graph minor theory, and the goal of developing an irrelevant vertex technique for dense graphs. For vertex-minors, circle graphs play the same role as planar graphs do for graph minors. As a corollary of our main theorem, we obtain a fixed-parameter tractable algorithm for apex-vertex-minor testing in $k$-apex circle graphs. We also prove an irrelevant vertex theorem for such graphs of large rank-width. More broadly, our results are essential to forthcoming work of three of the authors proving a structure theorem for graphs with a forbidden vertex-minor. There, our min-max theorem plays the role of both the algorithmic $A$-paths and Two Paths Theorems.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06757v1",
+        "title": "Proof of two conjectures on the log-concavity of partition ranks and cranks",
+        "url": "https://arxiv.org/abs/2611.06757v1",
+        "authors": [
+          "Jianxi Mao",
+          "Wenle Shi",
+          "Bao-Xuan Zhu"
+        ],
+        "published": "2026-11-04",
+        "summary": "Let $M(m,n)$ and $N(m,n)$ denote the numbers of partitions of $n$ with crank $m$ and rank $m$, respectively. Ji and Zang proved that the crank sequence $(M(m,n))_{|m|\\le n-1}$ is unimodal for every $n\\ge44$. Bringmann, Man, and Rolen subsequently established the unimodality of the rank sequence $(N(m,n))_{|m|\\le n-2}$ for every $n\\ge39$. Ji and Zang also conjectured that $(M(m,n))_{|m|\\le n-71}$ is log-concave for every $n\\ge72$, and that $(N(m,n))_{|m|\\le n-72}$ is log-concave for every $n\\ge73$. In this paper, we prove both conjectures.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06753v1",
+        "title": "The Exact Number of Pentagons in Book-Free Graphs",
+        "url": "https://arxiv.org/abs/2611.06753v1",
+        "authors": [
+          "Wentao Hu"
+        ],
+        "published": "2026-11-04",
+        "summary": "Let $B_k$ denote the book consisting of $k$ triangles sharing a common edge. We prove that there exist absolute constants $ρ>0$ and $N$ such that, for every pair of integers $n,k$ with $n\\ge N$ and $2\\le k\\le ρn$, writing $n=5q+r$ with $0\\le r<5$, \\[ \\operatorname{ex}(n,C_5,B_k)=q^{\\,5-r}(q+1)^r, \\] with the balanced complete $C_5$-blow-ups as the only extremal graphs. The linear order of this range is best possible since for all sufficiently large $n$, the formula fails whenever $k\\ge0.14n$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06747v1",
+        "title": "Fixed-Radius Neighbourhoods in Three-Dimensional Unit-Cube Graphs",
+        "url": "https://arxiv.org/abs/2611.06747v1",
+        "authors": [
+          "Guangjian Zhang"
+        ],
+        "published": "2026-11-04",
+        "summary": "We prove Conjecture 4 of Chan, Chang, Gao, Kisfaludi-Bak, Le, and Zheng (SoCG 2026): for every fixed integer $r\\ge0$, the radius-$r$ neighbourhoods of a unit-cube graph in $\\mathbb{R}^3$ have bounded VC-dimension. Our bound is $2^{2^{O(r)}}$, independent of the number of vertices. The main ingredient is a VC-dimension bound for reachability through arbitrary fixed-length sequences of three-dimensional generalized dominance relations. Its proof uses groups ordered in two coordinates, with neighbouring groups acting as barriers that preserve this invariant when one layer is removed. Combining these bounds with the existing interval-representation framework, we obtain a Las Vegas algorithm that, for every fixed integer $Δ\\ge1$, decides whether a graph given by $n$ cube centres has diameter at most $Δ$ in expected $O_Δ(n^{2-\\varepsilon_Δ})$ time, for an explicit constant $\\varepsilon_Δ>0$. Finally, for every integer $r\\ge7$, we construct unit-cube graphs with rational centres whose radius-$r$ neighbourhoods have VC-dimension $Ω(r^3)$.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2611.06641v1",
+        "title": "The Logic of Emergence",
+        "url": "https://arxiv.org/abs/2611.06641v1",
+        "authors": [
+          "David H. Wolpert",
+          "David C. Krakauer"
+        ],
+        "published": "2026-11-04",
+        "summary": "``Emergence'' refers to the fact that different mathematical languages and theories seem to be required to describe scientific theories that operate at different spatial and temporal scales. Highly circumscribed, special cases of emergence have been investigated using many different formal tools, including coarse-graining (over space and / or time), renormalization, dimension reduction, broken symmetry, and various formulations of causality. Here we extend the mathematics of model theory to unify and extend these earlier investigations. As a preliminary application of our framework, we investigate canonical examples of emergence, including the emergence of genetics from chemistry, of psychology from neurobiology, and of different forms of collective behavior from the laws governing their constituent parts. By exploiting the power of model theory we also uncover many aspects of emergence that were previously obscured. In particular, we uncover some of the rich hierarchical structure that relates different scientific fields. For example, we show that scientific fields can be related via a collection of multiple partial orders, all defined over the same set. On the other hand, under an alternative relation among scientific fields, one which allows cycles, we show that it is possible that the set of all of scientific fields must collapse into a single scientific field. Going forward, these investigations point to the formal tools that might need to be developed in order to arrive at a deeper understanding of this emergent hierarchy of scientific reality.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06628v1",
+        "title": "From Certified Pairs to a Certified Hub: Reasoner-Checked Crosswalks for the Information Exchange Standard",
+        "url": "https://arxiv.org/abs/2611.06628v1",
+        "authors": [
+          "Fabio Rovai"
+        ],
+        "published": "2026-11-04",
+        "summary": "A national digital twin was conceived as an ecosystem of twins connected through mappings to a common foundation, but the roadmap that promises to confirm those mappings are valid never says what valid means. We give the test a precise form, coherence and conservativity of the merged ontology, borrowed from logic-based alignment repair, and apply it to the Information Exchange Standard (IES), first pair by pair and then to whole hubs. Crosswalks from IES into thirteen ontologies across seven sector groups, anchored on the building ontologies BOT, Brick, and SAREF4BLDG, pass through separate stages of matching, human review, certification of each SKOS correspondence against the two class hierarchies, and reasoning with HermiT. Pair by pair, the stages catch different failures: certification alone removed all 526 conservativity violations of the raw crosswalks, review alone left 73, and together they made eleven of twelve overlapping pairs coherent and conservative. Pairwise certification does not compose. Merging the three certified building crosswalks into one hub made five Brick classes unsatisfiable, through a homonym between the IES and Brick notions of a floor that only BOT's disjointness axioms expose; rejecting that one row gave a coherent and conservative hub that entails 290 cross-ontology links nobody wrote down. The core hub is inconsistent before any crosswalk is added, because two published standards, the Open Energy Ontology and BFO 2020, contradict each other; with either one left out it is coherent and conservative. A hub, not a pair, is the unit an ecosystem of twins has to certify.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06450v1",
+        "title": "Timed Games under Environmental Interference with Real-Time Objectives",
+        "url": "https://arxiv.org/abs/2611.06450v1",
+        "authors": [
+          "Andrea Manini",
+          "Matteo Rossi",
+          "Pierluigi San Pietro"
+        ],
+        "published": "2026-11-04",
+        "summary": "Classical Timed Games formulations may be unsuitable, or require substantial modeling effort, to capture complex interaction patterns between a controller and its surrounding environment, in which non-determinism must be resolved after the controller has chosen which action to perform. In this paper, we develop the theory of Timed CLTLoc Games (TCGs), a Timed Game variant designed to facilitate the modeling of such patterns. Unlike classical Timed Games formulations, TCGs partition locations rather than transitions, and use Constraint Linear Temporal Logic over clocks (CLTLoc) to specify the controller's objectives. We develop algorithms for solving TCGs and synthesizing winning controller strategies for games whose objectives include formal properties such as reachability and safety. For reachability objectives, our synthesis algorithm yields winning controller strategies that minimize the number of moves required to reach a goal state. Solving reachability TCGs is EXPTIME-complete, matching the complexity of solving reachability Timed Games. All of our algorithms operate backwards and are implemented in our C++ region-based library TARZAN, leveraging OpenMP for efficient parallelization. Experimental results demonstrate the feasibility of TARZAN.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06208v1",
+        "title": "Executable Specifications in Transition Algebra",
+        "url": "https://arxiv.org/abs/2611.06208v1",
+        "authors": [
+          "Daniel Găină",
+          "Adrián Riesco",
+          "Ionuţ Ţuţu"
+        ],
+        "published": "2026-11-04",
+        "summary": "Transition Algebra can be viewed as an extension of many-sorted first-order logic by borrowing essential features from dynamic logic. This leads us to new, more expressive sentences that include transitions labelled with actions, which are built from terms using union, composition, and iteration operators. We define a suitable notion of Horn clause, develop a system of proof rules for reasoning about clauses, and subsequently show that the proof system is sound and complete. We then introduce a rewriting relation based on Horn clauses, capturing transitions along established paths expressed as actions. This rewriting relation is naturally extended to a narrowing procedure for solving queries, thereby laying foundation for logic programming in Transition Algebra. As usual, soundness for both rewriting and narrowing is straightforward, whereas completeness requires additional conditions. Finally, we provide a prototype tool that demonstrates the practical aspects and shows the effectiveness of the proposed method.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06137v1",
+        "title": "Essential Unitarity for Higher-Order Quantum Computation (Extended Abstract)",
+        "url": "https://arxiv.org/abs/2611.06137v1",
+        "authors": [
+          "Samson Abramsky",
+          "Radha Jagadeesan"
+        ],
+        "published": "2026-11-04",
+        "summary": "We develop a boundary-centric semantic framework for higher-order quantum computation, building on the Kelly-Laplaza description of compact closure and Abramsky's execution account. In the semantic carrier Perm(C), morphisms are complex-linear combinations of polarized boundary linkings, composed by execution. Finite-family addresses provide coherent control over finite-level quantum registers (qudits) while retaining the multiplicative boundary structure. We identify essential unitarity, a boundary condition extending ordinary unitarity to higher-order interfaces. On positive qudit registers it coincides with ordinary matrix unitarity; at higher order it expresses preservation of information across the full polarized boundary. We define a unit-free coherent quantum core generated bymultiplicative wiring, unitary gates on positive qudit registers, and contextual coherent control, and prove that every one of its morphisms is essentially unitary. The framework realizes an applied coherent quantum switch and the unitary stages of equal-ratio one-slot supermap dilations with explicit memory. Complete proofs appear in the full version of this paper.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06003v1",
+        "title": "How Unbalanced Must a Latin Rectangle Be?",
+        "url": "https://arxiv.org/abs/2611.06003v1",
+        "authors": [
+          "Zhengyu Li",
+          "Vijay Ganesh"
+        ],
+        "published": "2026-11-04",
+        "summary": "We view a $k\\times n$ Latin rectangle as $n$ points in the grid $[n]^k$. Each symbol gives one point, whose coordinates are the columns it occupies. The rectangle is balanced when these points are pairwise equidistant in the $\\ell_1$ metric. Its imbalance measures the distance from this ideal. We study the minimum imbalance from three sides. Constructively, we use a simulated annealing that moves symbols within rows and only penalises column clashes. Against the reference table of Voboril et al. (2025), it improves 33 of the 51 non-square values for $8\\le n\\le 13$, by up to 39.4%, and matches the rest. A cheap invariant, the row group, certifies that none of the 33 new rectangles is isotopic to rows of a group table, so the earlier column-swapping local search cannot reach any of them. Exactly, a computer-assisted branch and bound proves that the minimum imbalance of a $3\\times 9$ rectangle is $56$. Díaz et al. found this value, but its optimality was open. A sharper pruning bound, derived from the identity $I=2\\sum(d-t)^+$, reduces the search tree by a factor of $2.4$ to $3.3$ on the instances with $k\\ge3$ that we solve. Asymptotically, the minimum imbalance is $Θ(n^3)$ for every fixed $k$. A pigeonhole argument gives a lower constant of order $k\\,4^{-k}$, and random rectangles give an upper constant of order $\\sqrt k$. For $k=2$, the limit of $\\min I/n^3$ exists, a permuton attains it, and it lies between $4/375$ and $0.1196$. Perfect balance is an $\\ell_1$-equilateral problem, so it forces $k=Ω(n/\\log n)$ rows. For $2\\times n$ rectangles, single two-minute annealing runs improve five of the seven six-hour MIP upper bounds for $14\\le n\\le 20$. Finally, the Lean 4 kernel checks every rectangle reported in this paper against a 74-line specification that imports only Lean's core library. We also prove the pigeonhole lower bound in Lean with Mathlib.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.05924v1",
+        "title": "How to prove equations using diagrams: A categorical and operational semantics for e-graphs",
+        "url": "https://arxiv.org/abs/2611.05924v1",
+        "authors": [
+          "Evan Patterson"
+        ],
+        "published": "2026-11-04",
+        "summary": "E-graphs are a powerful algorithmic technique for automated equational reasoning but have resisted a conceptual understanding independent of issues of presentation and implementation. We propose an operational semantics for e-graphs based on the fundamental category-theoretic concepts of diagrams, limits, and initial functors. We illustrate the formalism through numerous example calculations and establish its soundness and completeness. Technical prerequisites are kept to a minimum in the main text; less standard elements of the mathematical theory are developed in two appendices.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.05668v1",
+        "title": "Sundance: A Simple SMT Solver for Program Verification",
+        "url": "https://arxiv.org/abs/2611.05668v1",
+        "authors": [
+          "Amar Shah",
+          "Benjamin F. Jones",
+          "Can Cebeci",
+          "Jason Z. S. Hu",
+          "Lee A. Barnett",
+          "Rémi Delmas",
+          "Marijn Heule",
+          "Bryan Parno",
+          "Bruno Dutertre"
+        ],
+        "published": "2026-11-03",
+        "summary": "We present Sundance, an SMT solver for program verification written in about 13,600 lines of Rust. Sundance combines the Cadical SAT solver with congruence closure, linear arithmetic, algebraic datatypes, and pattern-based quantifier instantiation. Sundance produces eDRAT proofs for every unsat answer. On 21,531 queries from Verus, Dafny, and F*, Sundance is comparable to existing solvers, with 26--38 times fewer lines of code than Z3 and cvc5. We further show that its components can be swapped for Z3's arithmetic solver, MiniSat, and the Semper e-graph. We have open sourced Sundance.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.05614v1",
+        "title": "The CNF Encoding Complexity of Boolean Functions",
+        "url": "https://arxiv.org/abs/2611.05614v1",
+        "authors": [
+          "Andrew Krapivin",
+          "Benjamin Przybocki",
+          "Bernardo Subercaseaux"
+        ],
+        "published": "2026-11-03",
+        "summary": "We study the minimum number of clauses required to encode a boolean function into a CNF formula with auxiliary variables. Our main result is that if a boolean function can be evaluated in nondeterministic time $t$ (in the RAM model) with $m$ bits of advice such that at most $b$ bits of advice are accessed for each input, then it admits a CNF encoding with $\\widetilde{O}(t + \\sqrt{mb})$ clauses. This constitutes a nonuniform generalization of Robson's (TCS'91) variant of the Cook--Levin theorem, for which a naïve generalization would yield $\\widetilde{O}(t+m)$ clauses; our applications leverage $b = o(m)$ to obtain significantly better bounds. Since preprocessed data structures can be modeled as computation with advice, our result allows us to translate space- and time-efficient data structures to compact CNF encodings. As an application, we derandomize a data structure of Larsen and Williams (SODA'17) to show that every $k$-CNF function on $n$ inputs can be encoded with $n^k/2^{Ω_k(\\sqrt{\\lg n})}$ clauses. Notably, despite encoding a $k$-CNF function, the encoding itself necessarily contains clauses of unbounded width, since an information-theoretic argument shows that the minimum number of bounded-width clauses to encode such functions is $Ω_k(n^{k}/\\lg n)$ in the worst case. In general terms, our results imply that for a wide variety of NP-complete problems, one can reduce to CNF-SAT in a way that results in asymptotically fewer clauses than previously known methods.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.05612v1",
+        "title": "Whiel: A Neurosymbolic Platform for Certified Relational Program Verification",
+        "url": "https://arxiv.org/abs/2611.05612v1",
+        "authors": [
+          "Jesse Comer",
+          "Fangzhu Shen",
+          "Shuo Zhang",
+          "Mayur Naik",
+          "Sudeepa Roy",
+          "Val Tannen"
+        ],
+        "published": "2026-11-03",
+        "summary": "We present the Whiel (a contraction of Whi(le-R)el) system for Lean-certified reasoning about imperative relational programs. The system can encode containment and equivalence problems for Datalog, its extensions with negation, and the core fragment of graph query languages. It can also represent optimized or incremental evaluation algorithms that are not expressible in the original query language, as well as first-order specifications of integrity constraints, schema mappings, and views arising in data integration, exchange, and sharing. Whiel's program states are database instances, and its imperative structure enables compositional Hoare-style reasoning with first-order relational specifications, using prophecy variables and leveled invariants to support inductive arguments. Whiel supports neurosymbolic discovery of loop invariants whose verification conditions can be checked using the Vampire first-order theorem prover. Counterexamples are fed back into the neurosymbolic pipeline, while proposed solutions are translated into Lean proof certificates. To validate the Whiel system, we evaluate its performance on a curated benchmark suite. In summary, we envision the Whiel system as a tool for tackling mathematically demanding, typically undecidable problems involving complex query and constraint languages, with a high degree of trust in its output.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.05540v1",
+        "title": "ProofStudio: Five Proof Assistants in the Browser",
+        "url": "https://arxiv.org/abs/2611.05540v1",
+        "authors": [
+          "Yutaka Nagashima"
+        ],
+        "published": "2026-11-03",
+        "summary": "Recent advances in AI-assisted proof automation are extending the use of proof assistants in software verification and mathematics. However, greater proof automation does not remove users' responsibility to assess whether formal statements capture their intended requirements, making education in formal specification and reasoning essential. To lower the installation and learning barriers associated with mature proof assistants, we present ProofStudio, a browser-based environment integrating Isabelle/HOL, Lean, Rocq, HOL4, and HOL Light with corresponding worked examples, preconfigured proof search, and contextual AI assistance. With ProofStudio, users can explore formal specifications and proofs across five systems without local installation, inspecting native prover feedback and experimenting with automation through a common interface.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2611.05609",
+        "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+        "url": "https://huggingface.co/papers/2611.05609",
+        "authors": [
+          "Yichen Wang",
+          "Yufa Zhou",
+          "Siqi Zhu",
+          "Haozheng Luo",
+          "Jingzhi Bao",
+          "Zhichao Liu",
+          "Zijun Wei"
+        ],
+        "published": "2026-11-03",
+        "summary": "Multi-teacher on-policy distillation (MOPD) extends on-policy distillation (OPD) to consolidate capabilities from multiple teachers. Although prior work reports near-perfect in-distribution (IND) distillation performance, we find that this can mask incomplete capability consolidation beyond the supervised distribution. A preliminary study on synthetic reasoning shows that OPD does not fully transfer teachers' generalization capabilities. We then extend this investigation to real-world tasks, evaluating extrapolative and compositional generalization across mathematical reasoning, coding, agent, and long-context capabilities using Qwen3 models. Across extrapolative settings, OPD and MOPD reach 96.04-102.73% of their teachers' IND scores. Yet their out-of-distribution (OOD) scores remain 2.45-16.25% below the base model's. Across three compositional settings, MOPD improves IND performance over the base model, but its performance on composed tasks as OOD remains 18.19-24.34% below that of the best teachers. To understand these gaps, we examine teacher capability and data coverage as two potential bottlenecks. Jointly alleviating these bottlenecks eliminates OOD forgetting in our experiments and suggests the potential for generalization beyond the teacher. (M)OPD also reduces OOD forgetting on average relative to its reinforcement learning (RL) baselines. Analysis of the associated update geometry reveals smaller and more spectrally concentrated updates on average than those of the RL baselines, along with greater shared update structure under MOPD. Motivated by these findings, we propose geometry-based patching and base-preserving replay to improve OOD performance while largely preserving IND performance. Our findings identify a blind spot in capability consolidation via (M)OPD, highlighting the need for algorithms that explicitly support OOD retention and generalization.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2611.06846v1",
+        "title": "Navigating Disagreement Among Criteria for Evaluating Explanation Faithfulness",
+        "url": "https://arxiv.org/abs/2611.06846v1",
+        "authors": [
+          "Grant Shanklin",
+          "Jiří Němeček",
+          "Asia Biega"
+        ],
+        "published": "2026-11-04",
+        "summary": "Faithfulness requires that algorithmic explanations accurately reflect the model's behavior. Yet existing operationalizations of faithfulness can disagree about whether the same explanation is faithful, leaving developers and auditors to choose among conflicting evaluations. In this paper, we investigate disagreement among evaluation criteria and offer a practical path forward for evaluating explanation faithfulness. We first identify how operationalizations of faithfulness differ. We introduce a faithfulness functional that locates their disagreements in what an explanation claims about the model, which comparisons bear on that claim, and how agreement across those comparisons should be aggregated, and we reconstruct existing evaluation criteria within it. We argue these reconstructions support understanding faithfulness as a common though incompletely specified relation between the model and explanation, so the differences reflect choices left open by the general requirement. Justifying an operationalization then comes down to justifying these choices, which, on our view, draws on explanatory, institutional, and normative considerations. We support this argument with a case study of adverse action notices, reconstructing the evaluation implicit in an industry-proposed procedure and identifying which of its choices the setting justifies and which remain open. Our work gives auditors and practitioners a way to navigate disagreeing evaluations of faithfulness. It also explains why the literature should expect multiple operationalizations, while showing how concrete settings can narrow the choice among them. More broadly, our analysis shows how a shared requirement of faithfulness can support contextually justified evaluations despite disagreement among existing metrics.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06830v1",
+        "title": "Alignment Myopia in Generative AI",
+        "url": "https://arxiv.org/abs/2611.06830v1",
+        "authors": [
+          "Remi Denton",
+          "Aida Davani",
+          "Cynthia L Bennett",
+          "Michael Madaio",
+          "Roma Patel",
+          "Himabindu Lakkaraju"
+        ],
+        "published": "2026-11-04",
+        "summary": "Current generative AI alignment relies on a myopic paradigm that prioritizes immediate conversational satisfaction. By relying on short-horizon feedback, this approach ignores the profound, longitudinal externalities of persistent human-AI interaction, which can lead to adverse outcomes such as cognitive atrophy, social erosion, and diminished human agency. To address this, we propose a paradigm shift toward long-horizon alignment that accounts for how AI reshapes human experience over time. To this end, we map the tensions between near-term utility and long-term costs of AI use across four facets of human well-being to reveal outcomes that current reward models fail to capture. Ultimately, we advocate for moving beyond simple preference optimization toward alignment strategies that actively foster long-term human well-being by navigating these complex temporal scales.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06806v1",
+        "title": "Measuring Risk, Not Harm: Detecting Psychological Harm Risk Factors in LLM Conversations",
+        "url": "https://arxiv.org/abs/2611.06806v1",
+        "authors": [
+          "Nil-Jana Akpinar",
+          "Eugenia Kim",
+          "Natalie Isak",
+          "Amanda Minnich",
+          "Victoria Westerhoff",
+          "Matthew Dressman"
+        ],
+        "published": "2026-11-04",
+        "summary": "Psychological harms from interactions with large language models cannot be monitored directly because they may emerge over repeated interactions and depend strongly on subjective individual user context. We propose measuring risk, not harm: detecting observable AI behaviors that constitute risk factors for psychological harm at the AI response level and aggregating these signals to support longitudinal monitoring. We operationalize eight such behaviors and construct a synthetic multi-label corpus of 47,062 AI responses and 373,873 response-factor labels, with targeted human annotations for validation and evaluation. We then compare trained embedding-based classifiers, direct LLM judging, and a classifier--judge cascade. All detectors are model-agnostic and operate only on LLM outputs, requiring no access to internal model states. We apply these detectors to several out-of-distribution human-AI conversation data sets from prior research. On held-out human-labeled data, the best cascade achieves macro precision of 0.86, recall of 0.76, and F1 of 0.79. On WildChat, it reduces LLM-judge calls by 97.1\\% relative to direct judging. On DelusionEval, risk-factor detections cluster within conversations. Together, our results show that response-level behavioral risk-factor detection can provide a scalable measurement layer for longitudinal psychological-safety monitoring without conflating observable AI behavior with latent user harm.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06762v1",
+        "title": "U.S. State Guidance on AI in K-12 Education: A Comparative Content and Citation Analysis",
+        "url": "https://arxiv.org/abs/2611.06762v1",
+        "authors": [
+          "Shahan Ali Memon",
+          "Anna-Maria Gueorguieva",
+          "Anukriti Kumar",
+          "Lucy Lu Wang",
+          "Jevin D. West",
+          "Nic Weber"
+        ],
+        "published": "2026-11-04",
+        "summary": "In the years following the public release of ChatGPT in late 2022, more than half of U.S. states have published formal guidelines around AI usage in K-12 education, creating a record of largely independent state education departments responding to a shared technological disruption. In this work, we analyze publicly available AI usage guidance documents from 35 states in the U.S. and Puerto Rico. We compare the guidance in these documents across various dimensions, including pedagogy and instruction, audience, actionability, workforce and career readiness, responsible use and equity, and alignment with state-level demographics and administrative capacity. Finally, we investigate who authored these documents and their cited sources, identifying epistemic foundations underlying their claims. We find that guidance priorities converge on topics anchored in laws such as data privacy and academic integrity, each addressed in 97% of documents. While most documents mention equity of access (86%) and algorithmic bias (97%), fewer discuss specific marginalized populations. Across documents, there is a common framing of urgency around AI integration to prepare students for workforce readiness (86%) and promote loosely-defined personalized learning (86%), which is not matched by specific guidance for capacity-building, actionability, or accountability. State priorities show no relationship to state demographics, capacity, or partisanship. Instead, we identify notable interdependencies between states with shared citations to non-profit organizations like TeachAI and Code.org, with some states reproducing TeachAI's model guidance near-verbatim, and peer citations concentrating on a few early states such as Oregon and Washington. No state includes parents as contributors on these documents, and only five include students.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06743v1",
+        "title": "Using AI Predictions to Augment Rather Than Replace Surveys",
+        "url": "https://arxiv.org/abs/2611.06743v1",
+        "authors": [
+          "Lai Wei",
+          "Yifei Zhu"
+        ],
+        "published": "2026-11-04",
+        "summary": "LLMs can predict human survey responses with nontrivial accuracy. What this means for the future of social surveys remains hotly contested. Optimists anticipate a coming era of synthetic respondents; skeptics see a fragile and overhyped substitute. This article advocates a position: AI predictions cannot replace surveys, but they can augment them. Using prediction-powered inference (PPI), a statistical framework rooted in survey methodology and known in sociology as \"mixed subjects design\", the study tests whether AI predictions can improve the statistical efficiency of social surveys when combined with census-scale auxiliary information. Applying the framework to 83 social outcomes in the General Social Survey (GSS) and National Health Interview Survey (NHIS), with American Community Survey (ACS) being the auxiliary file, we find that supervised predictors yield effective-sample-size gains of about 7-12 percent when estimating the mean, while LLM gains are smaller but positive.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06709v1",
+        "title": "Beyond the principle-practice gap: Responsible AI as situated epistemic and ethical practice",
+        "url": "https://arxiv.org/abs/2611.06709v1",
+        "authors": [
+          "Thao Do Ngoc",
+          "Emma Carmel"
+        ],
+        "published": "2026-11-04",
+        "summary": "Responsible AI scholarship has found that ethical principles are frequently not reflected in AI design and development. Conceptualised as a `gap' between principle and practice, this is framed as a problem of implementation, awareness or compliance, and by implication, a deficit of systems or individual behaviour. This paper sets out an alternative explanation. Drawing on fourteen semi-structured interviews with actors designing and governing AI-enabled anti-trafficking systems across law enforcement, commercial, research, and survivor-support contexts, it argues that such apparent gaps emerge from the varied and complex institutional and professional conditions through which actors come to recognise some issues, but not others, as ethical problems requiring action. We show that epistemic choices are intertwined with ethical judgements, and trace four interconnected moments---perception, judgement, situated action and socio-technical materialisation---through which concerns become intelligible, are weighed and acted upon, and are embedded in technical artefacts and governance arrangements. Actors often hold genuine ethical commitments, but these commitments are shaped by institutional logics and professional moral economies: some concerns are materialised, while others are narrowed, deferred or left unrealised. We show that ethical agency is exercised within and between competing constraints of profession, role, prior experience, and institutional settings. The paper argues that responsible AI governance requires purposeful and well-developed epistemic infrastructures that can cut across these constraints to establish institutional conditions through which the knowledge of affected communities and potential harms becomes receivable and actionable in design.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06706v1",
+        "title": "ALTO: African and Levantine Tech-Facilitated Gender-Based Violence Corpus",
+        "url": "https://arxiv.org/abs/2611.06706v1",
+        "authors": [
+          "Tianwei Zhang",
+          "Ivy Njoki Nyagwencha",
+          "Zahraa Dirani",
+          "Shalini Joshi",
+          "Scott A. Hale"
+        ],
+        "published": "2026-11-04",
+        "summary": "Tech-facilitated gender based violence (TFGBV) is a pervasive online harm affecting women and gender minority groups through its many direct and covert forms. Current models and annotated datasets for gendered harm detection are dominated by data from, and models trained in, Global North languages. In collaboration with civil society organizations (CSOs) from Jordan, Francophone West Africa, and Kenya, we developed a community-led approach to crowdsource culturally and linguistically relevant instances of TFGBV in Levantine Arabic, African French, and Swahili. We annotated the crowdsourced data using active learning to develop a small but performant dataset (N=3022) called ALTO to improve TFGBV detection in the three languages. Through benchmarking and fine-tuning experiments, we show that existing harmful content detection models show poor TFGBV recall within ALTO and improve with fine-tuning. We found that models often miss covert harms across all languages, while error rates are markedly higher in Swahili. We report the experimental results and release the annotation taxonomy, dataset, and trained models.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06655v1",
+        "title": "Beyond accuracy: what AI assurance needs to establish in public services",
+        "url": "https://arxiv.org/abs/2611.06655v1",
+        "authors": [
+          "Louise Yorke"
+        ],
+        "published": "2026-11-04",
+        "summary": "Public bodies increasingly rely on AI-produced evidence, including classifications, summaries and assessments. These outputs can inform policy decisions and service delivery, making their reliability a matter of public accountability. Establishing whether this evidence can be relied upon requires testing its outputs and examining how organisations decide whether those tests are sufficient. We combine technical evaluation with analysis of AI governance requirements, informed by measurement theory and management-based regulation. We compare eight GPT-4o configurations classifying 1,200 UK Prime Minister's Questions into 21 policy topics, against human-coded labels and across unchanged repeats. Accuracy ranges from 68.2% to 70.3%, yet 24.3% of questions receive different labels, with changes in topic shares and rankings. Configurations agree more with one another than with human coding: agreement does not guarantee correctness. Under the implemented score-extraction procedure, the proportion flagged for human review ranges from 0.9% to 41.0%. We analyse 37 UK and EU policy documents. Both sets expect testing and oversight, but reporting expectations do not consistently cover changing answers, shared errors, selective evaluation, substantive conclusions or review routing. Some UK guidance explicitly addresses stability. The UK sample emphasises public bodies checking their own use; the EU places substantial testing duties on providers while leaving them important choices about measures and acceptance thresholds. Without appropriate checks, evidence could misrepresent policy issues, redirect attention or resources, and leave errors undetected. Public policy should require organisations to justify reliance through checks beyond aggregate accuracy, clear responsibility, access to expertise and scrutiny of results.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06639v1",
+        "title": "Replicability, Reproducibility, and Robustness in Political and Social Science Research with Large Language Models",
+        "url": "https://arxiv.org/abs/2611.06639v1",
+        "authors": [
+          "Joan C. Timoneda",
+          "Sebastián Vallejo Vera"
+        ],
+        "published": "2026-11-04",
+        "summary": "This chapter addresses the central reproducibility problem of research with large language models. LLM output is probabilistic and varies across models and versions, which can have significant effects on downstream statistical results. The chapter distinguishes between replicability, reproducibility, and robustness, and proposes a probabilistic standard based on the distribution of results, not identical outputs. It introduces a standardized prompt script, tests within-model variation for encoders and decoders, and develops error-structure analysis to diagnose where models err and whether their errors align. Using three datasets, the chapter shows that measurement choice can reverse the sign of downstream regression coefficients. Existing design-based corrections with gold-labeled subsamples restore validity, but come at the cost of estimate precision. The main contribution of the chapter is a stacked ensemble of open-weight models that improves precision in the correction step while retaining estimate validity.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06623v1",
+        "title": "Amortized Optimization for Calibrating Stochastic Social Simulators",
+        "url": "https://arxiv.org/abs/2611.06623v1",
+        "authors": [
+          "Muyao Zhong",
+          "Peng Yang"
+        ],
+        "published": "2026-11-04",
+        "summary": "Stochastic simulators need suitable parameter values to reproduce observed behaviour in complex systems. Searching for these values through repeated simulations makes frequent recalibration computationally expensive. We develop an amortized optimizer that uses simulations collected in advance to learn how to choose parameters that make simulated outcomes agree with observations. Once fitted, it maps new observations to feasible parameters without further simulator calls. The method retains alternative parameter settings that can explain similar observations and compares their responses, avoiding the conflicting labels that arise when training a single parameter regressor. Historical observations also provide supervision by showing which simulated responses agree with the data, even when the underlying parameters are unknown. Experiments across four simulators compare calibration accuracy and query time. Dedicated cost analyses quantify traffic preparation and the recorded financial reuse costs.On new traffic targets, local correction more than halves query time relative to empirical and surrogate selection; a learned inverse is faster still, with similar mean error. In a retrospective comparison on real financial data, our method returns parameters about $1.07\\times10^{7}$ times faster than a 10-minute Gaussian-process Bayesian optimization search, with mean calibration error 3.06% higher. Reusing simulation work across observations supports repeated parameter updates when the available time is too short for a new search.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06572v1",
+        "title": "Does Personality Persuade? Investigating Personality Trait Prompting and Persuasion in Large Language Models",
+        "url": "https://arxiv.org/abs/2611.06572v1",
+        "authors": [
+          "Ruben Boone",
+          "Gilles Eerlings",
+          "Sebe Vanbrabant",
+          "Davy Vanacken",
+          "Kris Luyten"
+        ],
+        "published": "2026-11-04",
+        "summary": "Large language models (LLMs) can be prompted to express different personality profiles, but it remains unclear how reliably they do so or whether personality affects their persuasiveness. We investigate these questions in two evaluations. First, we assess Big Five personality prompting using the IPIP-NEO-120, examining reproducibility, trait controllability, cross-trait effects, and unconditioned model profiles. Second, we conduct a within-subjects user study (N=32) in which participants discuss moral dilemmas with LLM agents whose personalities are aligned, mismatched, neutral, or unconditioned. We find that prompted profiles can be reproducible and responsive to requested traits, although controllability varies across models and changes to one trait can affect others. Unconditioned models also exhibit systematic personality profiles rather than neutral baselines. In the user study, personality alignment did not significantly affect perceived persuasiveness, stance switching, or confidence changes. Participants switched their initial stance in only 8 of 128 conversations, while confidence changes were more common. Participants' Big Five traits were not significantly associated with susceptibility to persuasion, but higher self-reported AI persuasion literacy was associated with less frequent confidence changes. Exploratory analysis showed that logical appeals dominated agent messages. These findings distinguish technical control over prompted LLM personality from observable influence on users and motivate evaluating persuasive interactions beyond explicit changes in decisions.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06550v1",
+        "title": "Who Gets Counted? Large Language Models, Informative Refusal, and Downstream Bias in Name-Based Demographic Classification",
+        "url": "https://arxiv.org/abs/2611.06550v1",
+        "authors": [
+          "Christian Pipal",
+          "Morgan Wack",
+          "Eva-Maria Vogel"
+        ],
+        "published": "2026-11-04",
+        "summary": "Researchers routinely infer gender, race, and ethnicity from names, yet the standard tools used for this task misclassify the groups that diversity research most needs to measure. Large language models (LLMs) have been proposed as a remedy because they label diverse names accurately. We ask whether that accuracy carries over to the estimates researchers report. Across 10,000 Chinese names, 19,998 North Carolina voters with self-reported race, and 300 political science authors with human reference codes, we compare three LLMs with seven traditional tools and link the voter sample to party registration and age. Selective labeling explains part of the LLMs' accuracy advantage. Claude Haiku labels half of the voters, and a traditional tool limited to its most confident half is more accurate. Hard labels from every tool understate the White--Black gap in Democratic registration by 36% to 65%, while BIRDiE estimation on BISG posteriors comes within 0.03 of it. Haiku's missing labels select on age, inflating the age gap by six years. Combined with BISG, LLM answers sharpen individual labels without a demonstrated gain in BIRDiE accuracy. Classifiers should be judged by the estimates they produce, including the consequences of missing labels",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06346v1",
+        "title": "Today's Work, Tomorrow's Workforce: Incentivizing Learning in AI-Assisted Work",
+        "url": "https://arxiv.org/abs/2611.06346v1",
+        "authors": [
+          "Moritz Diener",
+          "Daniel Hendriks",
+          "Philipp Spitzer",
+          "Gerhard Satzger",
+          "Joshua Holstein",
+          "Wei Sun"
+        ],
+        "published": "2026-11-04",
+        "summary": "At work, people develop skills through experience: novices acquire skills by completing tasks, while experts retain theirs through continued practice. AI assistance changes this process by offering workers a choice between solving tasks independently and accepting the AI's answers. While relying on AI saves immediate effort, it can also displace the practice needed to acquire and retain skills, including those required to oversee the AI. We extend an existing accept-or-solve model to a sequence of tasks in which workers' skills evolve through independent practice and reliance on AI. We compare myopic workers, who maximize immediate utility, with strategic workers, who also value their future skills. We show that novices can become trapped at low skill levels, while experts may lose skill, even as AI-assisted outcome accuracy remains high. Strategic workers, by contrast, may choose to solve independently even when AI is more accurate, recognizing the future value of acquiring and retaining their skills. We then study incentives that reward correct independent work and characterize the payments needed to encourage skill acquisition and retention. We show that independent work can become self-sustaining once workers acquire sufficient skill, eliminating the need for continued incentives. Counterintuitively, supporting a higher skill target can sometimes reduce long-run incentive costs, either by enabling self-sustaining independent work or by lowering the payments needed to maintain proficiency. Our findings thereby shift the focus from whether workers should rely on AI on individual tasks to how organizations can sustain human expertise over time, and which skills are worth investing in.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06286v1",
+        "title": "Clear Human Web: Where a Person Vouches for Every Client",
+        "url": "https://arxiv.org/abs/2611.06286v1",
+        "authors": [
+          "Lorenzo Porcelli"
+        ],
+        "published": "2026-11-04",
+        "summary": "The web cannot tell whether a request comes from a person or from a program. Sites have checked the network address and puzzles in its place, and both have given way: automated traffic exceeds human traffic, and puzzles are solved for pay and by agents. This paper proposes the Clear Human Web, the part of the public web that sites open only to clients a person vouches for. A person's wallet presents their person identification data (PID) to one issuer, the only party that registers as a relying party, and receives a bounded number of blind-signed tokens, proofs of personhood that carry no attribute. The browser spends one token at each site that runs the gate, and the site learns that a valid token of a trusted issuer was spent, and nothing else. No field is added to the PID, no protocol is introduced, no site registers, and the publisher of a site holds the same proof as its readers. We define the Clear Human Web through five properties and seven adversaries, and state which properties the construction satisfies against each adversary. The identities a person can hold on one site in an epoch are bounded to k. The bound holds once the wallet limits a person to one pseudonym at the issuer. In the optimum k = 1, and a zero-knowledge proof of PID possession and a pseudonym per site replace the tokens.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.06281v1",
+        "title": "Building a Method: Challenges and Lessons from Developing an Impact Evaluation Framework for Public Investment in Open Source Software",
+        "url": "https://arxiv.org/abs/2611.06281v1",
+        "authors": [
+          "Laia Domenech Burin"
+        ],
+        "published": "2026-11-04",
+        "summary": "Modern societies and institutions depend on an invisible layer of open digital infrastructure: foundational, openly accessible digital technologies that support a broad range of social and economic activities. Open source software is a core component of this infrastructure, underpinning everyday technologies and critical systems in various critical sectors. As open source software becomes increasingly recognised, funded, and governed as open digital infrastructure, policymakers face growing demands for accountability, transparency, and credible evidence of impact. However, methods for evaluating public investment in open source software remain underdeveloped, with no widely accepted methodological standard. This paper describes the Sovereign Tech Agency's transition from qualitative reporting and funding-recipient self-assessment towards a mixed-methods approach that incorporates quantitative, goal-oriented evaluation to inform funding decisions. Drawing on the development of this framework, it examines its initial design, the practical and structural challenges encountered, and the responses adopted. The work identifies three central challenges: evaluation indicators must reflect heterogeneous project goals and contexts; quantitative assessment relies on fragmented and fragile data infrastructure; and observed changes before, during, and after investment do not establish causal attribution without additional research designs. The paper argues that evaluating investment in open source software is not only a methodological task but also a governance practice, dependent on sustainable open research infrastructure, community knowledge, and ongoing methodological refinement.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-11-05\n\nToday's candidate pool features a notable breakthrough in quantum information theory certifying the non-existence of a fourth mutually unbiased basis in dimension six using interval-arithmetic topology, as well as a strong selection of formal verification systems bridging neurosymbolic loop invariant discovery, Lean 4 kernel checks, and proof-producing SMT solvers.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Complete Topological Classification of Mutually Unbiased Bases in Dimension Six]**\n  [Using topology to reveal all mutually unbiased bases in dimension six](https://arxiv.org/abs/2611.06917v1) — Mateo Cárdenes Wuttig, Joseph Tindall\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves a 30-year-old open question in quantum information theory by proving that every mutually unbiased basis (MUB) triple in dimension six belongs to a two-parameter family or is an isolated triple built from the Fourier matrix. This completes the classification of all MUB sets in the first non-prime-power dimension and confirms no set of four MUBs exists in dimension six.\n  - **AI Connection:** Unspecified AI assistance claimed in abstract regarding a prior OpenAI report asserting non-existence; architecture not detailed. The authors' proof reduces the space of order-six complex Hadamard matrices to finitely many four-dimensional phase balls and uses classical symbolic computation / constraint solver techniques (interval arithmetic verification) without neural AI.\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Whiel: Neurosymbolic Discovery and Lean 4 Certification for Relational Programs]**\n  [Whiel: A Neurosymbolic Platform for Certified Relational Program Verification](https://arxiv.org/abs/2611.05612v1) — Jesse Comer, Fangzhu Shen, Shuo Zhang, Mayur Naik, Sudeepa Roy, Val Tannen\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Introduces an imperative relational program verification system capable of formalizing Datalog containment, schema mappings, and view integration, while generating end-to-end verified proof certificates in Lean 4.\n  - **AI Connection:** Uses neurosymbolic discovery of loop invariants coupled with Vampire first-order automated theorem proving and counterexample feedback loops, translating proposed invariant solutions into machine-checkable Lean proof certificates.\n\n* **[Lean 4 Formalization and Minimized Imbalance of Latin Rectangles]**\n  [How Unbalanced Must a Latin Rectangle Be?](https://arxiv.org/abs/2611.06003v1) — Zhengyu Li, Vijay Ganesh\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves exact and asymptotic minimum $\\ell_1$-imbalance bounds for Latin rectangles, proves optimality for the $3\\times 9$ case via branch-and-bound, and provides kernel-verified Lean 4 formalizations for all claimed upper/lower bounds.\n  - **AI Connection:** Employs a simulated annealing algorithm for metric optimization alongside computer-assisted branch-and-bound pruning. All produced Latin rectangles and the combinatorial pigeonhole lower bound are verified directly within the Lean 4 kernel and Mathlib.\n\n* **[Sundance: Proof-Producing SMT Solver for Program Verification]**\n  [Sundance: A Simple SMT Solver for Program Verification](https://arxiv.org/abs/2611.05668v1) — Amar Shah, Benjamin F. Jones, Can Cebeci, Jason Z. S. Hu, Lee A. Barnett, Rémi Delmas, Marijn Heule, Bryan Parno, Bruno Dutertre\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Implements a lightweight (~13,600 lines of Rust) certified SMT solver that automatically generates verified eDRAT UNSAT certificates across thousands of program verification benchmarks from Verus, Dafny, and F*.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI). Integrates the CaDiCaL SAT solver with congruence closure, linear arithmetic solvers, algebraic datatypes, and pattern-based quantifier instantiation.\n\n* **[ProofStudio: Multi-Prover Web Environment with AI Assistance]**\n  [ProofStudio: Five Proof Assistants in the Browser](https://arxiv.org/abs/2611.05540v1) — Yutaka Nagashima\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Delivers a zero-installation, unified web workspace supporting Isabelle/HOL, Lean, Rocq, HOL4, and HOL Light to lower barriers for multi-system formal specification and interactive proof engineering.\n  - **AI Connection:** Contextual AI assistance claimed in abstract alongside preconfigured automated proof search backends across five proof assistants; specific neural model architecture not detailed.\n\n---\n\n### 3. AI in Mathematics Education\n\nNo qualifying submissions met the threshold today.\n\n---\n*Synthesized with `gemini-3.6-flash` on 2026-11-05 12:30:25 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-11-05T12:31:07.137398+00:00"
+  }
+}
