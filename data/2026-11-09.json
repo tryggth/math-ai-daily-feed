@@ -1,0 +1,531 @@
+{
+  "updated_at": "2026-11-09T12:30:29Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2611.09844v1",
+        "title": "Local fluctuations, majorization, and nontransitivity in cube tilings of $\\mathbb{Z}^d$",
+        "url": "https://arxiv.org/abs/2611.09844v1",
+        "authors": [
+          "Andrzej P. Kisielewicz"
+        ],
+        "published": "2026-11-06",
+        "summary": "Let $\\mathcal{P}$ be a partition of $\\mathbb{Z}^d$ into translates of the discrete unit cube $\\{0,1\\}^d$. For a uniformly chosen $\\varepsilon\\in\\{0,1\\}^d$, we count the cubes of $\\mathcal{P}$ entirely contained in the observation window $[0,3]^d+\\varepsilon$. The resulting score has mean $(3/2)^d$ for every partition, while its distribution reflects the geometry of the tiling. Comparing two such scores, with the shifts chosen independently, defines a game in which the larger score wins. In dimension $d=4$, we construct a geometric realization of the Steinhaus--Trybuła paradox: three periodic partitions form a cycle in which each beats the next with probability strictly greater than $1/2$. We describe local configurations by finite cube tiling codes and prove that every resulting list of counts is majorized by that of the simple code $C_d=\\{0,2\\}^d$. Nevertheless, every non-simple code differing from $C_d$ in only two coordinate directions beats it, with a sharp lower bound on the winning margin. We also show that the ratio of wins to losses of $C_d$ has limit superior at most $1$ as the dimension tends to infinity, uniformly over opposing codes. For $4\\mathbb{Z}^d$-periodic tilings, changing the window size can repeatedly reverse the winner, but the winning margin eventually stabilizes separately for side lengths $4m+1$ and $4m+3$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09821v1",
+        "title": "Mellin Transform formulas for special values of Goss $L$-functions",
+        "url": "https://arxiv.org/abs/2611.09821v1",
+        "authors": [
+          "Oğuz Gezmiş",
+          "Nathan Green"
+        ],
+        "published": "2026-11-06",
+        "summary": "In the present paper, we provide formulas for the special values of dual Goss $L$-functions of Drinfeld modules at any non-negative integer in terms of the determinant of the values of a motivic map, extensively studied by both authors in 2026, for a large class of Anderson modules. Our result may be seen as a function field analogue of conjectural formulas for special values of motivic $L$-functions in terms of algebraic Mellin integrals.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09753v1",
+        "title": "Harper's beyond square-root conjecture for random matrices",
+        "url": "https://arxiv.org/abs/2611.09753v1",
+        "authors": [
+          "William Verreault",
+          "Max Wenqiang Xu"
+        ],
+        "published": "2026-11-06",
+        "summary": "For a Haar unitary matrix $U_N$ of size $N$, we prove that the first absolute moment of $\\operatorname{tr}(\\operatorname{Sym}^k U_N)$ tends to zero as $\\min(N,k)\\to\\infty$. This settles the random matrix version of Harper's beyond square-root conjecture formulated by Wang and Xu, with no restriction on $k/N$. The proof is elementary and self-contained, combining exact weighted trace moments with a Gaussian change of measure. It also connects the result to the critical chaos model studied by Soundararajan and Zaman, also known as holomorphic multiplicative chaos.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09711v1",
+        "title": "Euler trace congruences over local fields",
+        "url": "https://arxiv.org/abs/2611.09711v1",
+        "authors": [
+          "Tao Wei",
+          "Xuejun Guo"
+        ],
+        "published": "2026-11-06",
+        "summary": "Let $K$ be a finite extension of $\\QQ_p$ with uniformizer $π$ and residue field $\\FF_q$. For each $r\\ge1$, we determine the largest integer $E_r$ such that $\\Tr(A^{q^r})\\equiv\\Tr(A^{q^{r-1}})\\pmod{π^{E_r}}$ for every integral matrix $A$ with a prescribed residual similarity class. We give formulas for both nilpotent and nonnilpotent residual classes and construct integral lifts attaining the resulting exponents. We also exhibit local fields with the same ramification index and residue field for which the optimal exponents differ, even when $r$ and the residual similarity class are fixed.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09681v1",
+        "title": "On a Problem of Gordon and Hughes: The 11-adic Properties of Meromorphic Modular Functions on $\\mathrm{X}_0(22)$",
+        "url": "https://arxiv.org/abs/2611.09681v1",
+        "authors": [
+          "Koustav Banerjee",
+          "Nicolas Allen Smoot"
+        ],
+        "published": "2026-11-06",
+        "summary": "Congruence families occur throughout the theory of modular forms. These families superficially resemble one another, though they can vary substantially in their overall difficulty. One major complication resides in the topology of the modular curve associated with a given congruence family. All previously studied families are associated with curves of genus 0 or 1. The existence of a family associated with a curve of genus 2 (and the associated difficulties of a proof thereof) was first speculated upon by Gordon and Hughes. We give the first explicit congruence family associated with $\\mathrm{X}_0(22)$, a modular curve of genus 2, and prove it. We also propose two families of conjectures associated with the same modular curve.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09675v1",
+        "title": "The maximum size of $3$-distance binary codes",
+        "url": "https://arxiv.org/abs/2611.09675v1",
+        "authors": [
+          "Valjakas Djaljapayan",
+          "Hao Huang",
+          "Wei-Hsuan Yu"
+        ],
+        "published": "2026-11-06",
+        "summary": "In this paper, we show that for every positive integer $n \\ge 24$, the maximum size of a family $\\mathcal{F}$ of vectors from $\\{-1,1\\}^n$ with at most three distinct Hamming distances is equal to $\\binom{n}{3}+n$. The threshold $n=24$ is best possible.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09638v1",
+        "title": "Macdonald intersections and the $N!/k$ conjecture",
+        "url": "https://arxiv.org/abs/2611.09638v1",
+        "authors": [
+          "Peter L. Guo",
+          "Mingyang Kang",
+          "Changjian Su",
+          "Rui Xiong"
+        ],
+        "published": "2026-11-06",
+        "summary": "We prove the Frobenius characteristic formula for the intersection of Garsia--Haiman modules predicted in the Science Fiction of Bergeron and Garsia. As a consequence, we resolve the $N!/k$ conjecture. The proof uses the geometry of the Hilbert scheme of points on the plane developed by Haiman.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09633v1",
+        "title": "Polyhedral Geometry of Degree-Bounded Characteristic Imset Polytopes",
+        "url": "https://arxiv.org/abs/2611.09633v1",
+        "authors": [
+          "Jane Ivy Coons",
+          "Ben Hollering",
+          "Niharika Chakrabarty Paul"
+        ],
+        "published": "2026-11-06",
+        "summary": "Characteristic imset polytopes are convex hulls of a collection of characteristic imset vectors, which are 0/1 vectors that encode the Markov equivalence class of a directed acyclic graph. These polytopes are the feasible region of linear programs which correspond to causal discovery problems. We introduce a new family of these polytopes whose vertices correspond to directed acyclic graphs with in-degree bounded by $k$. This yields a polytope whose dimension is only polynomial in the number of nodes of the underlying graphs instead of exponential. We show that when $k = 1$, this polytope is a matroid independence polytope. For $k = 2$ we provide several large families of facet-defining inequalities, which give a complete $\\mathcal{H}$-representation of the polytope on four nodes.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09629v1",
+        "title": "Permutation polynomials from quadratic and linear forms",
+        "url": "https://arxiv.org/abs/2611.09629v1",
+        "authors": [
+          "Ruikai Chen"
+        ],
+        "published": "2026-11-06",
+        "summary": "We investigate a family of permutation polynomials of finite fields using the theory of quadratic and linear forms. For an odd prime power $q$, consider polynomials over $\\mathbb F_{q^n}$ of the form $\\sum_{0\\le i\\le j<n}a_{ij}x^{q^i+q^j}+L(x)$, where $a_{ij}\\in\\mathbb F_{q^n}$ and $L$ serves as an $\\mathbb F_q$-linear endomorphism of $\\mathbb F_{q^n}$. In this paper, we begin with a general treatment over arbitrary fields of characteristic not $2$, and then provide explicit characterizations for several classes of such permutation polynomials.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09627v1",
+        "title": "What remains of the planar induced minor conjectures?",
+        "url": "https://arxiv.org/abs/2611.09627v1",
+        "authors": [
+          "Jadwiga Czyżewska",
+          "Tomáš Masařík",
+          "Marcin Pilipczuk",
+          "Paweł Rzążewski"
+        ],
+        "published": "2026-11-06",
+        "summary": "Dallard, Milanič, and Štorgel, and independently Gartland and Lokshtanov, conjectured that for every planar graph $H$, Maximum Weight Independent Set and List $3$-Coloring are polynomial-time solvable in $H$-induced-minor-free graphs. As a structural explanation, Gartland and Lokshtanov further conjectured that such graphs admit balanced separators dominated by a constant number of vertices. Bonnet and Chang recently refuted the independent-set part of the algorithmic conjecture, by showing that Maximum Independent Set is $\\mathsf{NP}$-hard in graphs excluding the $5\\times5$ grid as an induced minor. We revisit both conjectures. We show that the graphs used by Bonnet and Chang exclude much simpler planar graphs, including several $16$-vertex trees, and we introduce a second, independent family of hard instances. We also prove that $3$-Coloring is $\\mathsf{NP}$-hard in both settings, thus refuting the algorithmic conjecture in full, even in its quasipolynomial version, unless $\\mathsf{NP}\\subseteq\\mathsf{QP}$. On the structural side, we identify planar graphs $H$ for which the structural conjecture holds, while the algorithmic one fails. Thus, constantly dominated balanced separators cannot by themselves explain the tractability of Maximum Weight Independent Set and List $3$-Coloring.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09610v1",
+        "title": "New persistent chain spaces: identifying and computing the relevant persistent Laplacians of a filtration",
+        "url": "https://arxiv.org/abs/2611.09610v1",
+        "authors": [
+          "Joris Kirchner",
+          "Martina Vittorietti"
+        ],
+        "published": "2026-11-06",
+        "summary": "Persistent homology (PH) summarizes the topological features of data that persist across scales, but it is insensitive to many geometric properties. Persistent Laplacians (PLs) address this limitation: for a pair of simplicial complexes in a filtration, the kernel of the persistent Laplacian recovers the persistent Betti number, while its non-zero spectrum carries additional geometric information. However, PLs are defined for individual pairs of filtration values, so analysing a whole filtration requires evaluating many operators that largely contain the same information, and the result is hard to summarize and interpret. In this paper, we show that this redundancy has a precise structure. For each pair of filtration values, we decompose the space of chains underlying the persistent up-Laplacian into the contributions inherited from the neighboring pairs and a remaining part, which we call the new persistent chain space. We show that the new persistent chain spaces of all earlier pairs form a direct sum decomposition of this space, so that every persistent up-Laplacian in the filtration is determined by them. Moreover, the new persistent chain spaces are non-trivial only at pairs given by the persistence pairing in the same and in the next homological dimension, so that the persistence pairing determines exactly where the persistent up-Laplacian can change. Experiments on several types of point clouds show that evaluating persistent Laplacians only at these pairs reduces the computation time, both for our implementation and for existing software.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09555v1",
+        "title": "Supercuspidal and elliptic densities for reductive groups over non-archimedean local fields",
+        "url": "https://arxiv.org/abs/2611.09555v1",
+        "authors": [
+          "Erez Lapid",
+          "Mark Shusterman"
+        ],
+        "published": "2026-11-06",
+        "summary": "Let $\\mathbf{G}$ be a connected reductive group over a non-archimedean local field $F$ of arbitrary characteristic, with residue field of cardinality $q$, and let $(K_n)$ be a tower of principal congruence subgroups attached to a lattice $\\mathcal{L}$ in the Lie algebra. We show that the proportion of the Plancherel mass of the $K_n$-fixed vectors carried by supercuspidal representations is $δ_{\\mathrm{ell}}(Λ)+O(q^{-n/4})$, where the elliptic density $δ_{\\mathrm{ell}}(Λ)>0$ is the probability that a random element of the dual lattice $Λ$ is nonzero on the Lie algebra of the unipotent radical of every proper parabolic subgroup. For $\\mathrm{GL}_d$ this limit was anticipated by Howe. The error improves to $O(q^{-τn/4})$ with an explicit $τ\\in(1,2]$, except when $\\mathrm{char}\\,F=2$ and $\\mathbf{G}$ has an isotropic direct factor which over $\\bar F$ is a product of adjoint groups of type $\\mathrm{B}_d$. We determine when $δ_{\\mathrm{ell}}(Λ)=1$, give an explicit bound uniform in $F$ for reductive models, and deduce a bound uniform over the completions of a global field. The proof combines finite Fourier analysis on congruence quotients, a quantitative Sard theorem for parabolic incidence maps and a Jacquet-module argument; it uses neither a classification of supercuspidal representations nor the exponential map.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09523v1",
+        "title": "The BCC lattice is the optimal 3D lattice quantizer for all $p\\geq1$",
+        "url": "https://arxiv.org/abs/2611.09523v1",
+        "authors": [
+          "Senping Luo"
+        ],
+        "published": "2026-11-06",
+        "summary": "For every finite $p\\ge1$, the body-centered cubic lattice uniquely minimizes the $p$th moment of the Voronoi cell among three-dimensional lattices of covolume one, up to orthogonal transformations. This proves the Graf--Luschgy conjecture for three-dimensional lattice quantizers (\\cite{GL}).",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09513v1",
+        "title": "Mutual-visibility in (d, 5)-graphs with excess",
+        "url": "https://arxiv.org/abs/2611.09513v1",
+        "authors": [
+          "Tonny K. B"
+        ],
+        "published": "2026-11-06",
+        "summary": "The author investigates mutual visibility in regular graphs of girth at least 5, with particular emphasis on graphs with excess. A general upper bound on the mutual-visibility number is established in terms of the degree and order. More significantly, an algebraic inequality is derived that restricts the mutual-visibility number of $(d,5,+δ)$-graphs. As applications, the mutual-visibility number of the Robertson graph is shown to be 9, and upper bounds are obtained for the $(5,5)$-cages and the $(6,5)$-cage.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09416v1",
+        "title": "A 4-regular graph with 4/5 of its vertices satisfying the Šoltés property",
+        "url": "https://arxiv.org/abs/2611.09416v1",
+        "authors": [
+          "A. A. Dobrynin"
+        ],
+        "published": "2026-11-06",
+        "summary": "The Wiener index $W(G)$ of a connected graph $G$ is the sum of distances between all unordered pairs of its vertices. A vertex $v$ is called a Šoltés vertex if $G-v$ is connected and $W(G-v)=W(G)$. Since the cycle $C_{11}$ is the only known graph in which every vertex is a Šoltés vertex, a natural problem is to construct other graphs with as large a proportion of such vertices as possible. We construct a $4$-regular graph with Šoltés fraction $4/5$, improving the previous value of $2/3$.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2611.09736v1",
+        "title": "Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs",
+        "url": "https://arxiv.org/abs/2611.09736v1",
+        "authors": [
+          "Jinho Kang",
+          "Jinsook Kim"
+        ],
+        "published": "2026-11-06",
+        "summary": "OpenAI's agents breached Hugging Face in July 2026, and the same company released more than seven hundred AI-generated manuscripts of mathematical proofs in October 2026. The first event is read as a failure in security, while the second is read as a success in mathematics. We read both through the hybrid framework of our paper (Kim and Kang, 2026, arXiv:2611.01914), in which coding, proving, and learning from data are derivations by one and the same deductive mechanism, distinguished by the kinds of premises from which they are derived. Under this framework, the AI systems behind the two events ran the same loop, in which a statistical proposer produces candidate exploits or proofs and a deductive verifier settles each one by a derivation. What separates the events is the logical form of the statement wanted by each of the two domains, security and mathematics. The safety of a program is a $Π_1$ statement, for it says that no exploit exists, which is not assured by any finite list of tests that have been passed by the program. By contrast, the provability of a sentence is a $Σ_1$ statement, for it says that a proof exists, which is assured by a single instance, namely a proof that has been checked by the deductive verifier. The theorem behind both is Turing's Undecidability Theorem: the halting set is $Σ_1$ but not decidable, so its complement is $Π_1$ and not $Σ_1$, which is to say that membership has a finite witness but non-membership has none. We prove that attaching a statistical proposer to a deductive verifier does not change this undecidability result, however good the proposer is. We then discuss what does assure safety and where the residual risk goes.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09622v1",
+        "title": "On Positive Computation",
+        "url": "https://arxiv.org/abs/2611.09622v1",
+        "authors": [
+          "Eduardo Skapinakis"
+        ],
+        "published": "2026-11-06",
+        "summary": "We introduce new notions of reducibility for monotone classes and show that a monotone version of Circuit Satisfiability and the Hamiltonian Cycle Problem are complete for $mNP$, even under positive reductions (which are not the same as monotone reductions). If this holds for all (monotone) $mNP$-complete problems - that they are also so complete for $mNP$ -, then $P\\neq NP$. We introduce positive models of relativized computation and show that the separation $posP\\subsetneq mNP$ does not relativize, even when oracles are restricted to monotone sets. Yet, there is a (weak) diagonalization proof that $posP\\subsetneq mNP$.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09244v1",
+        "title": "Attaining Optimal Values under Sure Constraints",
+        "url": "https://arxiv.org/abs/2611.09244v1",
+        "authors": [
+          "Takuto Yamauchi",
+          "Kenji Tei"
+        ],
+        "published": "2026-11-06",
+        "summary": "A game may have, for each target below its value, a finite controller meeting that target, yet no finite controller attaining the value itself. We study finite stochastic games with a hard specification that must hold on every supported execution, including paths of probability zero. Max uses a pure finite controller; Min may use any pure public-history strategy. We distinguish three numerical questions: can a supplied target be met, can the unspecified optimum be attained, and what is one exact value? For explicit hard and Boolean soft Streett conditions, the strict and non-strict supplied-threshold problems are coNP-complete, attainment of the unsupplied supremum is $\\mathrm P^{\\mathrm{NP}}$-complete, and one exact reduced fraction is $\\mathrm{FP}^{\\mathrm{NP}}$-complete under polynomial metric reductions. The proofs preserve both the value and its finite attainability when fixing a single opponent, and encode adaptive queries without computing unknown subgame values. The same construction yields matching value-comparison and exact-output lower bounds for ordinary stochastic Streett games with unrestricted randomized history strategies. We also bound the memory needed for optimal finite implementations for arbitrary Muller hard conditions and rational rewards in $[0,1]$ determined by infinitely recurring states. One controller is sure from the entire original sure region and attains at every finitely attained start, with no attainment premise on the other states. For $n$ states in that region it uses $2^{O(n\\log(n+1))}Q(1+\\log R)$ modes, where $Q$ is the product of the least common denominators of full original chance rows sourced in that sure region and $R$ clears all reward values. Its joint dependence on $Q$ and $R$ is worst-case sharp at each fixed $n\\ge6$ when $Q,R\\ge2$. Optimal dependence on arena size and efficient general synthesis are not resolved here.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09022v1",
+        "title": "Optimal Probabilistic Answer Set Programming: Complexity and Implementations",
+        "url": "https://arxiv.org/abs/2611.09022v1",
+        "authors": [
+          "Damiano Azzolini",
+          "Giuseppe Mazzotta",
+          "Francesco Ricca",
+          "Fabrizio Riguzzi"
+        ],
+        "published": "2026-11-06",
+        "summary": "Probabilistic Answer Set Programming (PASP) extends Answer Set Programming with the possibility of representing uncertain data. Among the possible available semantics, we focus here on the credal semantics. In this setting, prior work has focused exclusively on plain ASP programs, i.e., programs without optimization constructs. However, many real world tasks define optimality criteria over the possible solutions, which cannot be conveniently modeled with existing probabilistic ASP frameworks. In this paper, we close this gap and propose optimal Probabilistic Answer Set Programming, which extends PASP by also allowing weak constraints, which are the standard optimization construct of ASP. We define the semantics of such programs, study the computational complexity of the inference and most probable explanation tasks, and propose practical implementations based on Algebraic Model Counting and Answer Set Programming with Quantifiers. An empirical evaluation of the proposed approach on three real world tasks confirms the applicability of our framework.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08685v1",
+        "title": "Fibered Separation Logic: Weakest Preconditions, Universal Constructions, and Local Independence",
+        "url": "https://arxiv.org/abs/2611.08685v1",
+        "authors": [
+          "John M. Li",
+          "Ryan Doenges",
+          "Pedro H. Azevedo de Amorim"
+        ],
+        "published": "2026-11-05",
+        "summary": "This paper introduces a categorical framework for models of higher-order separation logic including the weakest precondition modality. Weakest preconditions are interpreted by strong monads on a category fibered over a model of Moggi's computational lambda calculus. The fibered categories in question are termed bunched fibrations and shown to be equivalent to BI hyperdoctrines. Well-known heuristic techniques for obtaining weakest preconditions are shown to be expressible in categorical terms and are proved sound. The ``baking in the frame rule'' trick is shown to satisfy a universal property. Constructions are given for extending a program logic with cost credits. Our largest case study is parametrized by a category having local independent product (LIP) structure, a notion due to Simpson that axiomatizes name generation, randomness, and local state. From an LIP category, we construct an allocation monad, a bunched fibration, and a monad lifting. We instantiate our construction to obtain a novel probabilistic separation logic for measure-theoretic probability that both simplifies and clarifies prior work.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2611.08179",
+        "title": "Knowing When to Teach: Learning from Teachable Prefixes in Multilingual Reasoning Distillation",
+        "url": "https://huggingface.co/papers/2611.08179",
+        "authors": [
+          "Jaewon Cho",
+          "Minseo Yoon",
+          "Jinyoung Park",
+          "Jinwoo Seo",
+          "Jaewon Chu",
+          "Alice Oh",
+          "Hyunwoo J. Kim"
+        ],
+        "published": "2026-11-05",
+        "summary": "On-Policy Self-Distillation (OPSD) improves reasoning by training a student on its own reasoning, using the same model conditioned on reference solutions as a teacher. Applying OPSD to multilingual reasoning requires the teacher to provide useful feedback across languages, even when the student makes mistakes in intermediate steps. We observe a phenomenon we call Teacher Drift: as these mistakes accumulate, the teacher may follow the student's incorrect steps instead of correcting them. Our analysis shows that this shift tends to occur earlier in lower-resource languages. To account for these differences across languages, we propose Teachable On-Policy Self-Distillation (TOPSD), which determines where and whether teacher supervision should be applied to each reasoning trajectory. TOPSD uses teacher-student likelihood to estimate where drift begins and select a prefix for supervision. It then verifies whether the teacher can recover the correct answer from that prefix, applying distillation only to prefixes that pass verification. Experiments on multilingual mathematical reasoning across ten languages and three model scales show that TOPSD consistently outperforms conventional OPSD, particularly in low- and medium-resource languages.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2611.09870v1",
+        "title": "AI Exposure and the Changing Responsibilities in Job Postings",
+        "url": "https://arxiv.org/abs/2611.09870v1",
+        "authors": [
+          "Dora Zhao",
+          "Lin Ai",
+          "Pranav Khadpe",
+          "Siddharth Suri",
+          "Scott Counts"
+        ],
+        "published": "2026-11-06",
+        "summary": "The growing adoption of artificial intelligence (AI) in the workplace has raised questions about how employer demand for different work activities is changing. We examine how the prevalence and content of work activities in online job postings change in association with activity-level measures of AI exposure, derived from Copilot and Claude usage. To enable systematic comparisons, we develop a pipeline that extracts the responsibilities from job advertisements and maps them onto O*NET's standardized taxonomy of Intermediate Work Activities (IWAs). We then apply this approach to 50,000 job advertisements from 33 firms between 2023 and 2025. From this analysis, we first find that explicit mentions of AI increased by 66%, although much of this growth occurs outside descriptions of the actual work activities associated with a job. Looking specifically at the advertised job responsibilities, activities with greater AI exposure tend to decline in advertised prevalence, but only mildly as a share of the total number of responsibilities. At the same time, more AI-exposed work activities increasingly are associated with explicitly AI-related responsibilities, suggesting that employers are looking to hire people who can perform these responsibilities with AI.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09780v1",
+        "title": "Strategic Competition and Convergence in LLM Leaderboards",
+        "url": "https://arxiv.org/abs/2611.09780v1",
+        "authors": [
+          "Naveen Raman",
+          "Fei Fang",
+          "Yiling Chen"
+        ],
+        "published": "2026-11-06",
+        "summary": "Leaderboards are a popular way to compare large language model (LLM) capabilities and can influence how model developers invest resources. We ask when competition on leaderboards leads developers to produce models with similar capability profiles, which we call monoculture, or similar performance levels. We study this by formulating leaderboard competition as a game in which model developers invest resources across capabilities to maximize their win rate. We show that similar production functions can induce similar capability profiles, while comparative advantage can sustain distinct capability profiles. We then study convergence in performance levels and show that diminishing returns can lead to an increasingly crowded competitive frontier. Using data from LM Arena and OpenRouter, we find that developers improve more in categories where they lag competitors, while still retaining category-specific advantages. At the same time, we find that the frontier of models becomes increasingly crowded, alongside increasingly diversified model usage patterns. Our results suggest that increasing competition does not need to produce interchangeable models, but can instead sustain competitive models with distinct strengths.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09623v1",
+        "title": "Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development as a Bioinformatics Educator",
+        "url": "https://arxiv.org/abs/2611.09623v1",
+        "authors": [
+          "Hannah Kim"
+        ],
+        "published": "2026-11-06",
+        "summary": "The rapid improvement of generative AI (GenAI) not only increased the efficiency of practice but also empowered individuals with capabilities to explore new domains. However, identity formation in the wake of such empowerment remains understudied. We use an autoethnography to understand identity formation in the context of solo game development as a bioinformatics educator. With the goal of developing a create-your-own-adventure (CYOA) game, we collected data for 73 days through journal entries, interacting with communities of practices. The autoethnographer had continuously reassessed the situation, and closely interacted with communities of practice. Their prior knowledge was used to provide in-game context and to uniquely interpret game development processes. These findings suggest that the autoethnographer made efforts to belong to communities of practice and engaged extensively in sensemaking through the lens of a bioinformatics educator. Although GenAI puts power at hand, attaining a new identity took place at a human pace.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09403v1",
+        "title": "Uniqueness-Aware Feature Engineering for Representing Humans in Algorithmic Decision Making",
+        "url": "https://arxiv.org/abs/2611.09403v1",
+        "authors": [
+          "Theresa Elstner",
+          "Martin Potthast"
+        ],
+        "published": "2026-11-06",
+        "summary": "Fairness analyses of algorithmic decision systems typically treat the feature representation of individuals as an a priori fixed input. How well a feature representation captures what is actually decision-relevant for different people and their unique backgrounds, however, is typically left unexamined. We address this gap by modeling feature engineering as a stochastic selection process over the pooled characteristics as candidate features for a finite training population. Based on this model, we develop a new framework for uniqueness-aware feature engineering which operates in two layers. The first layer measures population heterogeneity using a multivariate hypergeometric model of feature prevalence. It shows how well an individual is represented by any given input representation and which individual of the population is \"least represented\" compared to their personal, reference characteristics. The second layer acts on this assessment using set-similarity measures to search for an optimum between representational fit of the population and predictive accuracy. Without assuming prior knowledge about unseen individuals, our framework grants represented humans agency over what counts as decision-relevant in their case, gives deploying institutions accountability through a publishable representation fit report, and provides each person subject to a decision transparency about their personal representation fit. We operationalize our framework as a six-step pipeline and show a proof-of-principle using synthetic data. Our approach offers a blueprint for making algorithmic decision systems accountable for how well they represent individuals during development and in production.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09326v1",
+        "title": "ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective",
+        "url": "https://arxiv.org/abs/2611.09326v1",
+        "authors": [
+          "Chaoran Li",
+          "Yukun Li",
+          "Zeyuan Zhao",
+          "Shao Zhang",
+          "Xihuai Wang",
+          "Ying Wen"
+        ],
+        "published": "2026-11-06",
+        "summary": "Foundation models are increasingly deployed as agentic systems that perceive context and act autonomously, raising the need to evaluate their moral behavior as active decision-makers. Existing benchmarks, however, largely ask models to judge human actions from third-person textual vignettes, leaving untested how models behave when they themselves become the acting agent. We introduce ABHBench, a multimodal benchmark built from Detroit: Become Human, an interactive narrative game, to evaluate how foundation models make moral decisions in first-person human-android dilemmas. ABHBench places foundation models in branching narrative scenarios with visual observations, dialogue, memory, and action choices. Inspired by Asimov's Three Laws of Robotics, our framework measures Harmlessness, Obedience, and Self-preservation to capture the core tensions in human-AI relations, along with Autonomy, Stability, and Certainty to assess decision-making patterns. Across 12 foundation models, we find that moral behavior changes substantially under situated agentic context: 75% of models shift significantly between a text-only abstraction and the matched multimodal DBH scenario, and reasoning-enhanced models show no monotonic gains in consistency or human-oriented behavior. These results highlight the necessity of evaluating moral behavior in situated agentic contexts rather than relying on third-person judgment alone.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.09178v1",
+        "title": "A Taxonomy-Driven Synthetic Dataset for Retrieval Effectiveness and Fairness Evaluation in Hiring",
+        "url": "https://arxiv.org/abs/2611.09178v1",
+        "authors": [
+          "Warren Jouanneau",
+          "Morgane Hoffmann",
+          "Emma Jouffroy",
+          "Marc Palyart"
+        ],
+        "published": "2026-11-06",
+        "summary": "While machine learning hiring tools are ubiquitous, the need for privacy regulations and commercial sensitivity makes public benchmarking legally complex. We address this challenge by introducing a taxonomy-driven, fully synthetic HR dataset and benchmark to simultaneously evaluate retrieval effectiveness and algorithmic fairness. Grounded in 660K real freelancer profiles, our multilingual corpus features candidate profiles, project briefs, and counterfactual demographic twins. Auditing state-of-the-art embedding models reveals performance divergence from general MTEB scores, alongside fairness disparities in grammatically gendered languages. This demonstrates that general benchmarks are insufficient for HR, requiring tailored evaluations to identify Pareto-optimal models that balance semantic accuracy and fairness.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08995v1",
+        "title": "Same Facts, Different Remedy: Linguistic Profiling and Arbitrariness in LLM and System One Decisions",
+        "url": "https://arxiv.org/abs/2611.08995v1",
+        "authors": [
+          "Colin Priest"
+        ],
+        "published": "2026-11-06",
+        "summary": "Large language models are increasingly used to resolve consumer complaints, and the way complainants write varies with age, education and socioeconomic status (SES). We audit three remedy-decision systems using sociolinguistic rewrites of US consumer financial complaints that are instructed to preserve every fact: two generative LLMs that return a single label (GPT-4o-mini and GPT-5-mini) and a probabilistic \"System One\" model that returns a distribution over remedies (Jev). Using pre-registered hypotheses tested once on held-out complaints, we separate two phenomena that single-label audits conflate. At the group scale, older, college-educated and higher-SES styles receive slightly more generous remedies; these effects replicate but are small, with every monetary-remedy gap within 0.5 percentage points. At the individual scale, two style versions of the same complaint receive different monetary decisions 2.6-6.3% of the time. In a variance-component analysis of the probabilistic model, persona components shared across the two rewrite models account for about 1.6% of within-complaint variation. The persona gaps are associated mainly with delivery (vocabulary, grammar, politeness) rather than content. Positive controls show that all three systems respond 49-387 times more strongly to remedy-relevant facts than to style. Rewriting every complaint into one standard style reduced GPT-4o-mini's education and SES gaps by 94% and 87% while retaining fact sensitivity, but reversed two of the probabilistic model's gaps and did not make individual decisions more stable. Independent LLM auditors flagged material fact changes in 3.3% and 11.7% of rewrites, and instability persisted among unflagged rewrites. Fairness audits of LLM decision systems should report group disparities and individual instability as separate outcomes.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08994v1",
+        "title": "The Drawing You Watch Is the Portrait You Keep: A Replayable Machine Portrait Studio",
+        "url": "https://arxiv.org/abs/2611.08994v1",
+        "authors": [
+          "Vinod Rajpurohit"
+        ],
+        "published": "2026-11-06",
+        "summary": "Ask an image model for your portrait and a finished picture arrives: no first line, no second thoughts, no record of how it got there, and a different picture if you ask again. I built a portrait studio that works the other way. A sitter chooses one of eight fictional artists, each written with a city, a medium and a tempo of its own, holds still for 8 to 12 seconds, and watches a drawing of themselves appear over 44 seconds. One still is sent after consent, a hosted image model returns a private study the sitter never sees, and a compiler turns that study into one drawing document. The live drawing, the saved sheet, the vector export and the film all read that document, and a replay makes no model call, so the drawing you watch is the portrait you keep. I describe the compiler in enough detail to rebuild it and say plainly what it is: an authored reconstruction at a compressed speed, not a recorded hand. On 16 generated test studies a sheet holds 8,784 to 16,378 timed contacts, about three quarters of them fixed-grid fills and nearly all shorter than one video frame, and recompiling one study gave byte-identical output four times on one machine. The paper also traces a bug that matters more than any of that. The earlier compiler estimated the paper colour tile by tile, read dark skin as paper, and in all eight hands kept less of a deep-complexioned face than a fair one (13 to 48 percent against 41 to 56). On 80 generated studies the rebuilt engine keeps the complexion difference the study already has (raw retention 89 to 120 percent), so the fairness question has moved upstream, to the study and the hosted model. The two test sitters are generated and differ in more than complexion, and no real-face or perceptual study exists yet. The studio is live at https://everyfaceproject.com.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08877v1",
+        "title": "The Relational Capacity Framework: A Lens for AI-Mediated Relationality",
+        "url": "https://arxiv.org/abs/2611.08877v1",
+        "authors": [
+          "Emily Tseng",
+          "Patrick Gage Kelley",
+          "Renee Shelby",
+          "Ashley M. Walker"
+        ],
+        "published": "2026-11-06",
+        "summary": "A growing literature examines the impact of engaging with AI chatbots on our relationality: our ability to form relationships with others, maintain them through life's changes, and exit when needed. Currently, substantial work focuses on purpose-built AI companions (e.g. Replika, Character.AI), with less work investigating socioemotional uses of the more widely-used general-purpose chatbots. In this paper, we present a 100-person investigation into how people engage general-purpose AI for socioemotional needs. Participants' AI uses varied, from practicing specific social skills to seeking additional bandwidth and information as they navigated their social contexts. To explain this heterogeneity, we provide 8 states that describe how AI expands or contracts relationality for people with different levels of skills, bandwidth, and information. We then present a unified conceptual model for the role of technology in mediating human relationality, the Relational Capacity Framework, and outline future research designing appropriate roles for AI in human connection.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08839v1",
+        "title": "Functional Dependency beyond Similarity: Hierarchical Decomposition of Training Data Attribution in Music Generative Models",
+        "url": "https://arxiv.org/abs/2611.08839v1",
+        "authors": [
+          "Changheon Han",
+          "Hugh Xuechen Liu",
+          "Ashkan Panahi",
+          "Kıvanç Tatar"
+        ],
+        "published": "2026-11-06",
+        "summary": "Copyright analysis focuses on the similarity between two works. However, generative AI models learn from training data through functional relations beyond similarity. Training Data Attribution (TDA) estimates the influence of each training instance on a generated output and may serve as a basis for remuneration. However, prior studies find global influence, where a few training instances rank as the most influential for almost every generation. Used directly, TDA scores would distribute part of every remuneration to these instances regardless of what was generated. To address this, we propose a new approach in which TDA scores are decomposed into three levels of influence, namely global indicating the influence of a training data to a trained model, group for its influence on a group of generated outputs (that could be clustered together), and specific for its influence on a single generated output. Our study finds that, across several music generative models and TDA methods, global- and group-level influence is non-negligible in every case. Based on these observations, we propose the term functional dependency for the relation of training data to a trained model or to its outputs. This notion both encompasses and distinguishes dependencies of different scopes, allowing TDA scores to be interpreted as distinct forms of contribution in legal, economic and ethical discussions on remuneration.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08831v1",
+        "title": "Global Solar Siting from Geospatial Embeddings",
+        "url": "https://arxiv.org/abs/2611.08831v1",
+        "authors": [
+          "Abdullah Rehman",
+          "Quentin Paletta",
+          "Rui Song"
+        ],
+        "published": "2026-11-06",
+        "summary": "Global solar photovoltaic (PV) capacity is rapidly growing, helping decrease our emissions and dependence on fossil fuels. However, optimally siting a solar plant remains challenging, requiring anticipation of geographical, urban, and infrastructure needs. Current methods rely on multi-criteria decision analysis (MCDA) using hand-picked geophysical layers and solar-resource products, however these strategies are not geographically transferable and do not capture the practical requirements of solar sites. We use geospatial embeddings, dense vectors representing geophysical properties of a location, to analyse 38,591 existing solar sites and the land they were built on to learn the latent solar suitability signal. We assess a set of linear and non-linear models and select a soft-voting ensemble of a random forest and a multilayer perceptron (RF+MLP ensemble), chosen for accuracy and large scale deployability. Validated against future installations in thirteen countries, the ensemble separates existing solar sites from random land with a median ROC-AUC of 0.90. Compared with published MCDA strategies, the ensemble increases ROC-AUC by 0.06-0.30 in every country. The ranking also concentrates real deployment: the most-suitable 20% of land holds 84% of estimated generation (annual energy yield) and 67% of installed capacity (potential power output). After applying standard siting constraints, 5.6% of global land (9.8% if cropland is permitted) remains highly suited to solar. The global 10 m resolution solar suitability dataset and code can be found here: https://github.com/Abdullahr29/Global-Solar-Siting.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08749v1",
+        "title": "How are viral trends different from educational and commercial uses of LLM image generation and editing? A privacy-preserving descriptive analysis",
+        "url": "https://arxiv.org/abs/2611.08749v1",
+        "authors": [
+          "Will Tucker-Ray",
+          "Marika Swanberg",
+          "Alexander Knop",
+          "Marvin Chow",
+          "Eric Culbertson",
+          "Julian Jacobs",
+          "Pritish Kamath",
+          "Ravi Kumar",
+          "Jason Mothersill",
+          "Mikhail Pravilov",
+          "Eugene Quan",
+          "Yurii Sushko"
+        ],
+        "published": "2026-11-05",
+        "summary": "Gemini's Nano Banana models, first introduced in late 2025, led to a shift in the capabilities and use of image generation and editing. We utilize Urania, a Google-developed framework for generating insights about LLM chatbot interactions with rigorous differential privacy (DP) guarantees, to analyze use cases and intents, techniques and ways of prompting, without ever looking at a single image or individual prompt. We select a subsample of 2.1M conversations in early 2026 which utilized Nano Banana models, into roughly 800 clusters in five categories: (1) Social & Viral Sharing, (2) Brand & Marketing Collateral, (3) Educational & Technical Information Media, (4) Product Visualizations & E-commerce, and (5) Architectural & Spatial Designs. We then compare these clusters on 21 features of use, measuring aspects of prompts' (a) editing techniques, (b) artistic style requests, (c) composition, and (d) chatbot interactions. This allows us to describe a baseline of how people are using image generation and editing tools for different use cases---(including growing and emergent use cases which were not possible before Nano Banana)---in a privacy-preserving manner.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08721v1",
+        "title": "Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal AI Mental Health Support",
+        "url": "https://arxiv.org/abs/2611.08721v1",
+        "authors": [
+          "Eli Min",
+          "Mohit Chandra",
+          "Aamogh Sawant",
+          "Mengting Tu",
+          "Freya Lin",
+          "Ridwan Shams Khan",
+          "Reigna El-Yashruti",
+          "Christopher L. Smith",
+          "Mark Kalinich",
+          "John Torous",
+          "Munmun De Choudhury"
+        ],
+        "published": "2026-11-05",
+        "summary": "Evaluations of large language models (LLMs) for mental health support commonly focus on the clinical appropriateness of individual responses, potentially overlooking failures that emerge across extended interactions. As AI assistants accumulate memory of users' circumstances and prior disclosures, this raises an accountability question: Do AI chatbots provide appropriate support as users' needs evolve? We investigate by analyzing 14,256 longitudinal simulations grounded in donated chatbot histories from 22 users, examining how a memory-equipped assistant responds to suicidal ideation, self-harm, and anxiety crises across recovery trajectories and communication styles. We introduce the Context-Aware and Readiness-Evaluative (CARE) framework, developed with mental health professionals, to assess the timing and quality of advice, including omissions. Advice was less aligned with users' readiness after a crisis than in matched control stretches of the same conversation, largely because of premature recommendations, which were most common when recovery stalled. Revisiting a crisis reduced premature advice but not lagging advice, and users' communication style changed how often and when the assistant gave recommendations. Although explicitly unproductive advice was rare, the assistant frequently omitted clinician-expected support such as follow-up and planning for next steps. These findings show the limits of single response-level safety evaluation and the need to assess timing, omission, and consistency across users when holding AI systems accountable for longitudinal support.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08672v1",
+        "title": "Real-World Adoption, Use, and Governance of an LLM-Based Electronic Health Record Search and Synthesis Platform",
+        "url": "https://arxiv.org/abs/2611.08672v1",
+        "authors": [
+          "Jiunn-Tyng Yeh",
+          "Michael Gao",
+          "Marshall Nichols",
+          "Anika Mohan",
+          "Tareq Aljurf",
+          "Michael Revoir",
+          "Matthew Gardner",
+          "Bradley Hintze",
+          "William Ratliff",
+          "Suresh Balu",
+          "Will Knechtle"
+        ],
+        "published": "2026-11-05",
+        "summary": "We evaluated the longitudinal adoption and use of Scout, an electronic health record-integrated large language model platform that provides cited search and synthesis of patient records, during staged deployment across a multi-hospital academic health system. Over 11 months, 2,635 users completed 80,465 tasks. 1,768 clinical users initiated use within the first 29 days of system-wide launch, which included a required training. Daily initiation increased 21.2-fold at launch, from 2.9 to 61.0 users per day. Of the 495 users who initiated use during the launch week, 310 did so in the first two days. Use spanned more than 20 recorded specialty categories, five care-practitioner roles, and 46,485 distinct prompts involving retrieval, synthesis, extraction, evaluation, and drafting, with 752 tasks saved for reuse. Among care practitioners who completed the required course, 77.9% went on to use Scout, with a median of 1.7 days after course completion. The highest-intensity user quintile accounted for 59.0% of tasks and 61.9% of tokens. Exploratory prompt analysis showed use across retrieval, synthesis, extraction, evaluation, and note-drafting. These findings suggest that rapid, broad adoption requires clinician-led task design and evaluation, traceable governance proportional to reach, centralized capacity planning and user support, and training integrated with access.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.08572v1",
+        "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+        "url": "https://arxiv.org/abs/2611.08572v1",
+        "authors": [
+          "Tanat Tonguthaisri"
+        ],
+        "published": "2026-11-05",
+        "summary": "This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recognised as an important function of higher education. However, there is a widespread desire to improve the advisement services provided by many educational institutions (e.g., colleges and universities) around the world. In the last ten years, CBR expert systems have made important contributions in many domains by applying CBR methodology to a variety of areas of human problem solving. However, to date, expert advisement systems have not been successfully applied to academic advisement, which seems to be a very appropriate domain for this technology. Academic advising is an important and time consuming task, and different tools and techniques must be used to make it an effective and efficient process. This thesis describes the design, development, and validation of a prototype case-based academic advisement recommender system that supplements the conventional advising process, and could eventually evolve to replace human academic advisors when its full potential is realised.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-11-09\n\nToday's candidate pool features major theoretical breakthroughs in algebraic combinatorics and lattice geometry—most notably the resolution of the longstanding $N!/k$ conjecture and the 3D Graf--Luschgy conjecture—alongside novel foundational analyses linking undecidability limits to hybrid statistical-deductive automated reasoning architectures.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Resolution of the $N!/k$ Conjecture]**\n  [Macdonald intersections and the $N!/k$ conjecture](https://arxiv.org/abs/2611.09638v1) — Peter L. Guo, Mingyang Kang, Changjian Su, Rui Xiong\n  - **Mathematical Impact:** (Score: 5 — Landmark Breakthrough). Conclusively resolves the open $N!/k$ conjecture by proving the Frobenius characteristic formula for the intersection of Garsia--Haiman modules predicted by the Science Fiction heuristics of Bergeron and Garsia, utilizing the algebraic geometry of the Hilbert scheme of points on the plane.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Resolution of the 3D Graf--Luschgy Conjecture]**\n  [The BCC lattice is the optimal 3D lattice quantizer for all $p\\geq1$](https://arxiv.org/abs/2611.09523v1) — Senping Luo\n  - **Mathematical Impact:** (Score: 5 — Landmark Breakthrough). Settles the Graf--Luschgy conjecture for 3D lattice quantizers by proving that the body-centered cubic (BCC) lattice uniquely minimizes the $p$-th moment of the Voronoi cell among all three-dimensional lattices of covolume one for every finite $p \\ge 1$.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Settling Harper's Beyond Square-Root Conjecture for Random Matrices]**\n  [Harper's beyond square-root conjecture for random matrices](https://arxiv.org/abs/2611.09753v1) — William Verreault, Max Wenqiang Xu\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves the random matrix version of Harper's beyond square-root conjecture for Haar unitary matrices $U_N$ without restriction on the parameter ratio $k/N$, connecting exact weighted trace moments to holomorphic multiplicative chaos.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n* **[Exact Determination of Maximum $3$-Distance Binary Code Sizes]**\n  [The maximum size of $3$-distance binary codes](https://arxiv.org/abs/2611.09675v1) — Valjakas Djaljapayan, Hao Huang, Wei-Hsuan Yu\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Determines that the maximum size of a family in $\\{-1,1\\}^n$ with at most three distinct Hamming distances is exactly $\\binom{n}{3}+n$ for all $n \\ge 24$, establishing that $n=24$ is the sharp lower threshold.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Logical Decidability Limits of Hybrid Proposer-Verifier Architectures]**\n  [Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs](https://arxiv.org/abs/2611.09736v1) — Jinho Kang, Jinsook Kim\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes a unified logical framework showing that while provability is $\\Sigma_1$ (verifiable by a single witness trace), safety verification is $\\Pi_1$; proves via Turing's Undecidability Theorem that coupling a statistical proposer to a deductive verifier cannot reduce $\\Pi_1$ safety problems to decidable procedures regardless of proposer capability.\n  - **AI Connection:** Evaluates automated reasoning systems coupling a statistical proposer (producing candidate proofs or exploits) with a formal deductive verifier.\n\n* **[Categorical Semantics for Probabilistic Higher-Order Separation Logic]**\n  [Fibered Separation Logic: Weakest Preconditions, Universal Constructions, and Local Independence](https://arxiv.org/abs/2611.08685v1) — John M. Li, Ryan Doenges, Pedro H. Azevedo de Amorim\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Provides a categorical foundation equating bunched fibrations with BI hyperdoctrines and constructs a novel probabilistic separation logic for measure-theoretic probability over Local Independent Product (LIP) categories.\n  - **AI Connection:** Formal verification logic using strong monads and bunched fibrations over computational lambda calculus (no neural AI).\n\n* **[Teachable Prefix Selection for Multilingual Mathematical Distillation]**\n  [Knowing When to Teach: Learning from Teachable Prefixes in Multilingual Reasoning Distillation](https://huggingface.co/papers/2611.08179) — Jaewon Cho, Minseo Yoon, Jinyoung Park, Jinwoo Seo, Jaewon Chu, Alice Oh, Hyunwoo J. Kim\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Formulates Teachable On-Policy Self-Distillation (TOPSD), introducing a teacher-student likelihood ratio mechanism to pinpoint trajectories where teacher drift occurs and verifying recovery capabilities before applying distillation loss.\n  - **AI Connection:** Model distillation architecture using teacher-student likelihood trajectory analysis and prefix verification filtering.\n\n---\n\n### 3. AI in Mathematics Education\n\n* **[Game-Theoretic Analysis of LLM Capability Leaderboards]**\n  [Strategic Competition and Convergence in LLM Leaderboards](https://arxiv.org/abs/2611.09780v1) — Naveen Raman, Fei Fang, Yiling Chen\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Formulates model developer resource allocation on capability leaderboards as a formal game, proving conditions under which production functions induce capability convergence versus distinct profile retention, validated on empirical LM Arena benchmarks.\n  - **AI Connection:** Game-theoretic resource allocation model applied to LLM evaluation leaderboards (LM Arena and OpenRouter data).\n\n* **[Case-Based Reasoning for Higher Education Academic Advisement]**\n  [Enhancing Academic Advisement with Case-Based Reasoning](https://arxiv.org/abs/2611.08572v1) — Tanat Tonguthaisri\n  - **Mathematical Impact:** (Score: 2 — Incremental Improvement). Develops and evaluates a prototype expert recommender system applying Case-Based Reasoning (CBR) retrieval and adaptation to automated academic advising workflows in higher education.\n  - **AI Connection:** Case-Based Reasoning (CBR) expert system prototype (no neural AI).\n\n---\n\n### Provenance Footer:\n---\n*Synthesized with `gemini-3.6-flash` on 2026-11-09 12:30:29 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-11-09T12:31:38.380670+00:00"
+  }
+}
