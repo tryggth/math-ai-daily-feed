@@ -1,0 +1,640 @@
+{
+  "updated_at": "2026-11-19T12:30:24Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2611.24934v1",
+        "title": "Low Moments, Small Balls and Star Discrepancy",
+        "url": "https://arxiv.org/abs/2611.24934v1",
+        "authors": [
+          "Nicola Wengiel"
+        ],
+        "published": "2026-11-18",
+        "summary": "Let $D_P$ be the discrepancy function of a configuration $P$ of $N$ points in the $d$-dimensional unit cube, and let $\\|D_P\\|_q$ be its $L^q$ discrepancy. We prove that for all fixed $d\\ge2$ and $0<q\\le1$ the $L^q$ discrepancy of every configuration of $N\\ge2$ points is at least $c_{d,q}(\\log N)^{(d-1)/2}$ with a constant $c_{d,q}>0$. This bound is sharp; together with the classical results for $q>1$, it determines the minimal order of the $L^q$ discrepancy for every $0<q<\\infty$ in every dimension $d\\ge2$, and for $q=1$ it answers Chen's problem on the sharp lower bound for the $L^1$ discrepancy in dimension $d\\ge3$. We prove the small ball inequality for Haar functions in every fixed dimension $d\\ge3$ and for arbitrary real coefficients with the conjectured power of $n$, up to a polylogarithmic factor; here $2^{-n}$ is the smallest volume of the dyadic boxes involved. The method also extends to a class of piecewise polynomial mother functions. For the $L^\\infty$ discrepancy $\\|D_P\\|_\\infty=ND^*(P)$, where $D^*(P)$ is the star discrepancy, we prove the conjectured lower bound $c(\\log N)^{3/2}$ in dimension three, and the lower bound $(\\log N)^{d/2}$ up to a power of $\\log\\log N$ in every fixed dimension $d\\ge4$. Finally, we construct $N$-point sets whose $L^\\infty$ discrepancy is $O_d((\\log N)^{d-1-1/16})$ in every fixed dimension $d\\ge3$; this disproves the conjectured optimality of the order $(\\log N)^{d-1}$ of the classical constructions.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24933v1",
+        "title": "On the refined Kaneko--Zagier conjecture",
+        "url": "https://arxiv.org/abs/2611.24933v1",
+        "authors": [
+          "Shin-ichiro Seki"
+        ],
+        "published": "2026-11-18",
+        "summary": "We extend our results on Zhao's conjectural basis to finite multiple zeta values modulo arbitrary prime powers and to the corresponding completed algebra. As a consequence, the refined Kaneko--Zagier conjecture, which gives a precise description of relations modulo arbitrary prime powers in terms of ordinary multiple zeta values, follows from the dimension and direct-sum conjectures for ordinary and finite multiple zeta values. We also prove Rosen's lifting conjecture under the dimension conjecture for finite multiple zeta values. The proofs use confluence relations and $p$-adic associators and do not use motivic theory.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24875v1",
+        "title": "Cameron--Martin theorem for SLE welding measures",
+        "url": "https://arxiv.org/abs/2611.24875v1",
+        "authors": [
+          "Shuo Fan"
+        ],
+        "published": "2026-11-18",
+        "summary": "For $κ\\in(0,4]$, we prove a Cameron--Martin theorem for the welding law induced by SLE$_κ$ loop measure. Under simultaneous left and right composition $h\\mapsto\\varphi\\circ h\\circψ^{-1}$, the transformed law is mutually absolutely continuous with respect to the original law exactly when both maps belong to the Weil--Petersson group, and is mutually singular otherwise. Thus the Weil--Petersson group is the quasi-invariance group of the welding law under composition on either side. We also prove that it is its own normalizer in the group of orientation-preserving circle homeomorphisms. For Weil--Petersson pairs, we derive an explicit Radon--Nikodym derivative in terms of a relative action well defined for SLE weldings and prove that it belongs to $L^{1+\\varepsilon}$ for some $\\varepsilon>0$ depending on the pair.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24868v1",
+        "title": "The Ceresa Cycle on $X_0^+(p)$",
+        "url": "https://arxiv.org/abs/2611.24868v1",
+        "authors": [
+          "Jonathan Grube"
+        ],
+        "published": "2026-11-18",
+        "summary": "We consider the curve $X_0^+(p)$ with prime $p$, which is the quotient of the modular curve $X_0(p)$ by the Fricke involution. We describe how one can explicitly calculate the shadow of a Hecke operator on $X_0^+(p)$, which is a rational divisor on $X_0^+(p)$ whose nonvanishing is an obstruction to the Ceresa cycle of $X_0^+(p)$ being torsion in the Chow group of the Jacobian of $X_0^+(p)$. We also provide an implementation of this procedure in PARI/GP and SageMath and use this on all primes below 5000.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24865v1",
+        "title": "The limits of inertia bounds on graph powers",
+        "url": "https://arxiv.org/abs/2611.24865v1",
+        "authors": [
+          "Aida Abiad",
+          "Nils Van de Berg",
+          "Sam Mattheus"
+        ],
+        "published": "2026-11-18",
+        "summary": "We investigate the tightness of inertia and inertia-type bounds related to graph powers. This class of graphs appears in several contexts, such as the theory of distance-regular graphs, quantum information theory and coding theory. They are a priori not covered by previous separation constructions involving locally sparse graphs, see Kwan and Wigderson (2024), or Alon's pseudorandom graphs, see Elphick, Tang and Zhang (2025). Instead, we apply the latter's lower bound for complements of pseudorandom graphs to random graphs and random Cayley graph constructions, whose graph-power structure is ensured by additive combinatorial arguments. From this we are able to conclude that also for graph powers there can be a large gap between inertia bounds and the actual independence number. For the inertia-type bound, which is based on polynomials, we achieve even larger separation by considering sequences of graphs whose spectrum converges to a continuous distribution. Our methods draw from several areas of mathematics, ranging from additive combinatorics and probabilistic methods, to character sums over finite fields and arithmetic geometry.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24860v1",
+        "title": "Divisibility of Character Values of Wreath Products of Symmetric Groups",
+        "url": "https://arxiv.org/abs/2611.24860v1",
+        "authors": [
+          "Jayanta Barman",
+          "Kamalakshya Mahatab"
+        ],
+        "published": "2026-11-18",
+        "summary": "Let $G$ be a finite group whose character table is integer-valued, and let $K$ be any fixed positive integer. We prove that almost every entry of the character table of the wreath product $G\\wr S_N$ is divisible by $K$ as $N\\to\\infty$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24847v1",
+        "title": "Two almost sure upper bounds for sums of random multiplicative functions",
+        "url": "https://arxiv.org/abs/2611.24847v1",
+        "authors": [
+          "Christopher Atherfold"
+        ],
+        "published": "2026-11-18",
+        "summary": "Let $f,g$ be a squarefree and extended Rademacher random multiplicative functions, respectively. We prove that, for every $\\varepsilon>0$, almost surely $$\\big|\\sum_{n \\le x}\\frac{f(n)}{\\sqrt{n}}\\big| \\ll (\\log\\log x)^{1/4+\\varepsilon}, \\qquad \\big|\\sum_{n\\le x}g(n)\\big|\\ll\\sqrt{x}(\\log\\log x)^{1/4+\\varepsilon}.$$ We also show that almost surely, there exist arbitrarily large values of $x$ such that $\\sum_{n \\le x}\\frac{f(n)}{\\sqrt{n}} \\gg (\\log\\log x)^{1/4+o(1)}$. We follow Caich and Durkan and Pearce-Crump by using a version of the Azuma--Hoeffding inequality for martingale difference sequences.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24835v1",
+        "title": "On the Vertex Growth Rate of Integer Partition Polytopes and Their Non-Vertex Structure",
+        "url": "https://arxiv.org/abs/2611.24835v1",
+        "authors": [
+          "Vladimir A. Shlyk"
+        ],
+        "published": "2026-11-18",
+        "summary": "The Hardy-Ramanujan formula states that the asymptotic growth of the number of integer partitions of $n$ is $\\exp(Θ(\\sqrt{n}\\,))$. We prove that the number of vertices of the integer partition polytope is bounded by $\\exp\\left(\\mathcal{O}(\\ln^2 n)\\right)$. This implies that all partitions of $n$ can be generated from a negligible subset of vertex partitions using convex combinations. We also present new computational data on the structure of non-vertex partitions, which cause the huge gap between the number of vertices and the total number of partitions.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24832v1",
+        "title": "List packing for graphs with small arboricity",
+        "url": "https://arxiv.org/abs/2611.24832v1",
+        "authors": [
+          "Stijn Cambie",
+          "Wouter Cames van Batenburg",
+          "Xuding Zhu"
+        ],
+        "published": "2026-11-18",
+        "summary": "We prove that every graph $G$ whose edge set is the union of $r$ forests has list packing number at most $2^r$. This means that for all $k\\ge 2^r$ and every list-assignment $L$ with lists of size $k$, the graph $G$ admits $k$ disjoint proper $L$-colourings. While for large $r$ this bound is far from optimal, for $r\\in\\{1,2\\}$ it is sharp. As a direct corollary of the case $r=2$, we obtain that every triangle-free planar graph has list packing number at most $4$, thus improving upon a result of Dvořák, Masařík, Musílek and Pangrác and providing the optimal answer to a question of Dvořák, Postle and Norin on (weighted) $ε$-flexibility of such graphs. As a corollary of the case $r=3$, we obtain a short alternative proof that every $K_5$-minor-free (and hence every planar) graph has list-packing number at most $8$, matching the state of the art. All results above also hold for the stronger notion of correspondence packing.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24820v1",
+        "title": "Sixth and twelfth moments of Dirichlet $L$-functions in prime power moduli",
+        "url": "https://arxiv.org/abs/2611.24820v1",
+        "authors": [
+          "Xinchen Miao",
+          "Huimin Zhang"
+        ],
+        "published": "2026-11-18",
+        "summary": "For a fixed odd prime $p$ and $q=p^n$, we establish power-saving bounds for the sixth and twelfth moments of central values of primitive Dirichlet $L$-functions, with exponents $5/4-3/332$ and $2-51/261961$, respectively. More generally, our methods yield a power saving over the classical interpolation bound for every moment of order $4<j\\le12$. Our approach begins with short second moments over character cosets and preserves the dependence on the character parameter. An exact linearization of the $p$-adic stationary phases reduces the critical large-value range to exponential sums with perturbed square-root phases over prime-power rings. We establish a large-value estimate for these sums by combining congruence-spacing bounds, higher congruence energies, and an average of quadratic Gauss sums over the dual frequency. For the remaining high-value range, we develop an incomplete-correlation estimate using $p$-adic exponent pairs.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24802v1",
+        "title": "Local-global compatibility with $p$-adic Langlands program for completed (co)homology of $\\mathrm{GL}_2$ over CM fields",
+        "url": "https://arxiv.org/abs/2611.24802v1",
+        "authors": [
+          "Jelena Ivančić"
+        ],
+        "published": "2026-11-18",
+        "summary": "For each place $v \\mid p$ such that $F_v \\simeq \\mathbf{Q}_p$, we establish a compatibility with $p$-adic Langlands program for completed homology with integral coefficients for $\\mathrm{GL}_2$ over CM fields $F$ with $[F:\\mathbf{Q}]>2$, after localization with respect to a non-Eisenstein decomposed generic maximal ideal of a Hecke algebra.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24775v1",
+        "title": "A disproof of the van Emde Boas--Kruyswijk conjecture on the Davenport constant",
+        "url": "https://arxiv.org/abs/2611.24775v1",
+        "authors": [
+          "Weidong Gao",
+          "Alfred Geroldinger",
+          "Guoqing Wang",
+          "Xiangneng Zeng"
+        ],
+        "published": "2026-11-18",
+        "summary": "The Davenport constant $D(G)$ of a finite abelian group $G$ is the smallest positive integer $\\ell$ such that every sequence $S$ with terms from $G$ and with length $|S| \\ge \\ell$ has a nontrivial zero-sum subsequence. A long-standing conjecture, first proposed by van Emde Boas and Kruyswijk in 1969, states that $D(C_n^r)=r(n-1)+1$ for all positive integers $n$ and $r$. In this paper, we disprove this conjecture by showing that $D(C_6^r)>5r+1$ for every $r\\ge23$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24751v1",
+        "title": "On the asymmetry polynomial of Schubert varieties",
+        "url": "https://arxiv.org/abs/2611.24751v1",
+        "authors": [
+          "Gaston Burrull",
+          "Zhitong Alex Li",
+          "Shixuan Zeng",
+          "Xinyuan Zhang"
+        ],
+        "published": "2026-11-18",
+        "summary": "Let $W$ be a finite Weyl group with length function $\\ell$ and longest element $w_0$. For $w\\in W$, let $P_w(q)$ be the Poincaré polynomial of the Schubert variety $X_w$. We introduce its asymmetry polynomial $D_w(q):=q^{\\ell(w)}P_w(q^{-1})-P_w(q)$. Let $n\\geq4$ and $W=S_n$ or $W(B_n)$. For $w\\in W$ whose Kazhdan--Lusztig polynomial $P_{\\mathrm{id},w}(q)$ satisfies $P_{\\mathrm{id},w}(1)=2$, we prove the sharp bound $[q^k]D_w(q)\\leq[q^{k-1}]P_{w_0}(q)$ for $1\\leq k<\\ell(w)/2$. For every $n\\geq3$ and $1\\leq h\\leq2n-4$, we construct an element $b=b_h^n\\in W(B_n)$ with $P_{\\mathrm{id},b}(q)=1+q^h$, and determine the asymmetry polynomial $D_b(q)$ and all Kazhdan--Lusztig polynomials $P_{x,b}(q)$ for $x\\leq b$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24748v1",
+        "title": "On Hilbert's tenth problem for number fields",
+        "url": "https://arxiv.org/abs/2611.24748v1",
+        "authors": [
+          "Hector Pasten",
+          "Xavier Vidaux"
+        ],
+        "published": "2026-11-18",
+        "summary": "Given a quadratic number field $K$ we show that the $abc$ conjecture over $K$ implies that $\\mathbb{Z}$ is Diophantine in $K$ and, hence, a negative answer to Hilbert's tenth problem over $K$. More generally, the same conclusions hold for an arbitrary number field $K$ provided that the $abc$ conjecture holds over $K$ and that there is an elliptic curve over $\\mathbb{Q}$ whose rank is positive and does not increase over $K$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24740v1",
+        "title": "An Upper Bound on the Proportional Choice Number of a Graph",
+        "url": "https://arxiv.org/abs/2611.24740v1",
+        "authors": [
+          "Kevin Grace",
+          "Jeffrey A. Mudrock"
+        ],
+        "published": "2026-11-18",
+        "summary": "Proportional choosability is a list analogue of equitable coloring introduced in 2019 that imposes both upper and lower bounds on color class sizes based on the availability of each color. The proportional choice number of a graph $G$, denoted by $χ_{pc}(G)$, is the smallest positive integer $k$ such that $G$ is proportionally $k$-choosable. A recently proposed conjecture states that for any graph $G$ with at least one edge, $χ_{pc}(G) \\leq Δ(G) + \\text{col}(G) - 1$, where $Δ(G)$ is the maximum degree of $G$ and $\\text{col}(G)$ is its coloring number. In this paper, we prove this conjecture using a generalization of Edmonds' matroid intersection theorem due to Aharoni and Berger, in which one of the matroids is replaced with an abstract simplicial complex. As a consequence, we can completely determine the proportional choice number of every path: $χ_{pc}(P_1)=1$, $χ_{pc}(P_n)=2$ for $2 \\leq n \\leq 5$, and $χ_{pc}(P_n)=3$ for $n \\geq 6$. This resolves a question about paths that has remained open since the introduction of proportional choosability.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2611.24902v1",
+        "title": "Mine Locally, Verify Globally: Exact Recovery, Compilation, and Distortion of Mined Temporal Rules",
+        "url": "https://arxiv.org/abs/2611.24902v1",
+        "authors": [
+          "Nikolaos Kekatos",
+          "Priyanka Sinha",
+          "Stylianos Basagiannis",
+          "Antonio Anastasio Bruto da Costa",
+          "Alexios Lekidis",
+          "Pabitra Mitra",
+          "Tom Nianios"
+        ],
+        "published": "2026-11-18",
+        "summary": "Specification mining extracts temporal rules that describe relationships between events in recorded system traces. Applying these rules in distributed monitoring systems is more difficult because observations come from different nodes, whose clocks may not be synchronized, and events may be lost or reordered during transmission. In this paper, we study how to aggregate the coverage of mined rules across observers, determine whether their temporal windows are needed during monitoring, and characterize their detection under event loss. Our evaluation uses IPv6 packet traces collected from 21 receivers across four continents. We show that local mining followed by global confirmation recovers centralized rule coverage under suitable conditions while substantially reducing communication overhead. In contrast, merging traces with unaligned clocks can distort coverage by introducing incorrect temporal matches. A window-gain criterion identifies rules that require temporal state, while our loss analysis and broker experiments demonstrate why contiguous losses can be more damaging than independent losses. The results identify separate requirements for aggregating observations, selecting monitor state, and handling event loss.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24788v1",
+        "title": "Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving",
+        "url": "https://arxiv.org/abs/2611.24788v1",
+        "authors": [
+          "Xuanwei Ren",
+          "Wenda Li"
+        ],
+        "published": "2026-11-18",
+        "summary": "Isabelle Pool Server (IPS), a verification service with a pool of warm headless Isabelle sessions behind an HTTP API, with session leasing and reclamation, memory-aware admission control, and a time budget on every call. Its verification interface spans single-step execution, block-level proof checking and whole-theory builds, with checkpoints for cheap branching and backtracking, and a build from scratch as the final arbiter. The service runs as a single container with monitoring and is accessible via a Python client, two MCP servers and a raw HTTP API. In our measurements IPS is level with PIDE MCP, a PIDE frontend for agents, at one worker and ahead of it at eight, at its commit of October 2026 (the tool is now PIDE AI). Once its sessions are up it scales to 32 concurrent workers on one host at 24 times the single-worker rate, and under memory pressure it refuses new sessions rather than losing existing ones. IPS is free software and publicly available at https://github.com/Deep-LCF/Isabelle-Pool-Server",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24722v1",
+        "title": "Proof-Relevant Interpolation for Circular Proofs in Linear Logic",
+        "url": "https://arxiv.org/abs/2611.24722v1",
+        "authors": [
+          "Daniel Osorio-Valencia",
+          "Alexis Saurin"
+        ],
+        "published": "2026-11-18",
+        "summary": "First introduced for proving Craig's interpolation theorem, Maehara's method provides a constructive, proof-theoretic procedure for extracting interpolants in sequent calculus proofs. Building on this method, Saurin developed a ``proof-relevant'' interpolation theorem for first-order linear logic, in the sense that the interpolated proof is obtained by cut-introduction steps that can be reversed via cut-elimination. In this work, we extend Saurin's proof-relevant interpolation to linear logic proofs with cuts as well as to circular proofs in linear logic with fixed-points. We specifically show how Maehara's method can be extended in a proof-relevant way to work on non-cut-free and non-well-founded (but regular) proof objects, and guarantee that the interpolation procedure preserves strong validity. We also study conditions under which one can interpolate system L terms that are not necessarily in normal form.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24718v1",
+        "title": "Meta-LSQ: A Closed-Form Sobolev Inner Solver for Few-Shot Meta-Learning",
+        "url": "https://arxiv.org/abs/2611.24718v1",
+        "authors": [
+          "Antonin Sulc"
+        ],
+        "published": "2026-11-18",
+        "summary": "Gradient-based meta-learners such as model-agnostic meta-learning (MAML) adapt to a new task with an inner loop of gradient descent that has to be differentiated through, and they meta-learn every network weight. Meta-LSQ instead fits each task with one regularised least-squares solve over a fixed random Fourier basis and meta-learns only three scalars, a bandwidth, a ridge and a derivative weight. Since the derivative of a sinusoid is again a sinusoid, the same solve can also take derivative observations, and the fitted model has exact closed-form derivatives of any order. On 10-shot sinusoid regression Meta-LSQ trains in 14 s and ends with a 5.5 times lower error than a first-order MAML baseline that trains 36 times longer, and a Gaussian-process control suggests that most of this gain comes from sharing one kernel across tasks. In simulated beam tuning at DESY's ARES facility with model derivatives it is slightly more accurate than an ALPaCA-style model and well ahead of gradient descent. Over DESY's full range of target beams, again in simulation and from measurements alone, its best setting has a median error of 7.3 $μ$m, against 14.4 for the published final beams of their reinforcement-learning agent, which has the lower median on their 300 trials of small targets. On real sensor-calibration data a learned prior mean puts it ahead of MAML on two of four targets, but an exact Gaussian process with the same change and an ALPaCA-style model stay more accurate on most targets, and it breaks down on non-smooth targets. On noiseless targets outside the span of the basis, in-sample criteria such as generalised cross-validation choose too small a ridge.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24648v1",
+        "title": "Zonotopic Analysis of Quantization Error in Neural Networks",
+        "url": "https://arxiv.org/abs/2611.24648v1",
+        "authors": [
+          "Robert Debbas",
+          "Éric Goubault",
+          "Sylvie Putot"
+        ],
+        "published": "2026-11-18",
+        "summary": "Quantized neural networks achieve computational efficiency by reducing precision, but bounding their quantization error remains a challenge due to discrete rounding and clamping operations. We present a zonotope-based abstract interpretation framework for quantized ReLU feed-forward network verification, introducing a unified round-clamp abstract transformer that jointly handles both operations. We extend this framework to constrained zonotopes, which add linear constraints to tighten bounds, and derive sound quantization error representations. We establish soundness and affine-strip optimality of the round-clamp abstract transformer, as well as convex-hull optimality of its complete constrained formulation. On the ACAS Xu benchmarks, our constrained zonotope method reduces average error-bound widths by approximately 70-85% and runtimes by 65-80% compared to QEBVerif's symbolic DRA propagation at the two smallest tested perturbation radii (r=3 and r=6). These improvements are not uniform across bitwidths, and symbolic DRA achieves tighter bounds at larger radii. Our plain zonotope method delivers competitive sound bounds nearly 300 times faster on average.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24235v1",
+        "title": "Canonical Proof Nets for Intuitionistic Multiplicative Linear Logic",
+        "url": "https://arxiv.org/abs/2611.24235v1",
+        "authors": [
+          "Matteo Acclavio",
+          "Willem Heijltjes",
+          "Dominic J. D. Hughes"
+        ],
+        "published": "2026-11-18",
+        "summary": "We study the problem of finding canonical representations of proofs in the multiplicative fragment of intuitionistic linear logic with units. We show that, contrary to the classical case, it is possible to define a notion of proof nets for this fragment which is provided with a polynomial-time sequentialization procedure and is both canonical and efficient. In particular, we show that sequent calculus derivations differing only by a permutation of independent rule applications are translated to the same proof net, and that the translations between sequent calculus and proof nets are inverse to each other.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24169v1",
+        "title": "Matching-Logic-Based Understanding of Polynomial Functors and their Initial/Final Models Revisited",
+        "url": "https://arxiv.org/abs/2611.24169v1",
+        "authors": [
+          "Dorel Lucanu"
+        ],
+        "published": "2026-11-18",
+        "summary": "Many data types used in programming are initial algebras or final coalgebras of polynomial functors. We show how to specify them uniformly in matching logic, using the representation of polynomial functors as unary container functors $X\\mapsto\\sum_{a:A}X^{B[a]}$. For each container functor, we give a matching logic theory of its initial algebra and one of its final coalgebra. Besides the no-junk and no-confusion axioms and their duals, these theories include axioms about the elements that represent functions, for the initial algebra, and a bisimilarity axiom and a realisation axiom, for the final coalgebra; the existence axioms use free set variables to range over all subsets of a model. We prove that, in every model, the algebra extracted from the model is an initial algebra (a W-type) and the extracted coalgebra is a final coalgebra (an M-type) of the container extracted from the model, i.e., the one given by the model's interpretation of the shapes and positions, and that such models exist. So the data types are captured relative to the interpretation of the sorts of shapes and positions, and absolutely whenever these sorts are fixed by auxiliary specifications, which we show for finite sets, products, dependent sums, and (co)inductive sorts built from them. We derive the induction, coinduction, and bisimulation principles as theorems, and illustrate the approach on lists and on Moore machines. This paper revises and substantially extends a paper published in EPTCS 389 (FROM 2023): several axioms are corrected, and the adequacy and satisfiability proofs are new.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23753v1",
+        "title": "Interpreting Timestamp Permutations in Dynamic Link Prediction",
+        "url": "https://arxiv.org/abs/2611.23753v1",
+        "authors": [
+          "Ilia Karpov",
+          "Kirill Koloskov",
+          "Valeriy Kuleshov",
+          "Dmitry Ilvovsky"
+        ],
+        "published": "2026-11-18",
+        "summary": "Timestamp permutations are used to test whether dynamic link predictors exploit temporal information, but a performance gap can reflect changes in training, evaluation history, or both. We separate these effects with a crossed diagnostic and measure input exposure: whether altered histories actually change the predictor's inputs. On MOOC, TCL trained with binary cross-entropy gains approximately eight pairwise-accuracy points from original-chronology training under either evaluation history, while changing history at fixed weights gives only 0.03 points. The small history contrast reflects unchanged inputs for 68.37% of queries, stable rankings for most others, and cancellation of gains and losses. Under original evaluation history, suppressing explicit time encoding reduces the training contrast from 8.03 to 3.64 points, a paired reduction of 4.39 points (95% interval [3.68, 5.09]) across six seeds. DyGFormer shows corresponding training and history contrasts of 22.34 and 0.38 points across two seeds, despite greater exposure. Partial history permutations further separate nominal intervention strength, input changes, and aggregate accuracy. These comparisons turn a single permutation gap into interpretable statements about training conditions and model responses, while leaving the internal mechanisms of temporal learning open.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23708v1",
+        "title": "Rational Ensemble Logic for Cohort Discovery with Real-World Electrophysiology Data",
+        "url": "https://arxiv.org/abs/2611.23708v1",
+        "authors": [
+          "Guo-Qiang Zhang",
+          "Xubing Hao",
+          "Yan Huang",
+          "Xiaojin Li",
+          "Licong Cui"
+        ],
+        "published": "2026-11-18",
+        "summary": "Biomedical knowledge representation should make the passage from observations to conclusions transparent, rigorous, understandable, explainable, and reproducible (TRUER). We introduce Rational Ensemble Logic (QEL) for specifying temporal phenotypes in real-world electrophysiology data (RWED), with a meaning independent of the implementation software. QEL combines three parameterized modal operators (exact displacement, bounded existence, and bounded universality) over rational time with Boolean connectives and first-order quantification. Its Labeled Interval Ensemble (LINE) semantics represents annotated records as finite interval ensembles. We relate the operators to morphological operations and develop endpoint-array algorithms and finite rational evidence sets for model checking. We prove closure and semantic correctness of the interval operations, obtain finite evidence sets by quantifier elimination, and establish polynomial data complexity for fixed formulas. On 54 manually constructed records, a prototype agreed with the assigned outcomes for base and strict post-ictal generalized EEG suppression (PGES) queries. A separate feasibility experiment over 1,976 patients identified 37 qualifying patients and 45 annotation patterns in 16 seconds. The released prototype uses endpoint candidates and numerical tolerances. QEL supports the TRUER principle through explicit phenotype definitions, precise semantics, and provably correct evaluation procedures, with rational witnesses for existential queries. These provide a logical foundation for formal specification and correctness of algorithms that are independent of specific clinical interpretation, data annotation quality, and software implementation.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23574v1",
+        "title": "Apply All, Prove Once: Embedding Parameterized Lemmas in DRAT",
+        "url": "https://arxiv.org/abs/2611.23574v1",
+        "authors": [
+          "Randal E. Bryant",
+          "Zachary Battleman",
+          "Marijn J. H. Heule"
+        ],
+        "published": "2026-11-17",
+        "summary": "The deletion-resolution-asymmetric-tautology (DRAT) proof format is widely used to express unsatisfiability proofs of Boolean formulas. Our DRATL format extends DRAT with parameterized lemmas, allowing a single proof to succinctly capture the common case where multiple instances of a pattern occur in a formula, differing in the identities and phases of the variables. Proofs expressed in DRATL can be hierarchical, with the proof of one lemma containing instantiations of others. Our elaborator program expands a DRATL proof containing multiple, nested lemmas into a standard DRAT proof. Most significantly, the elaboration yields compact proofs, where a single sequencing of the proof steps for each lemma covers all of its instantiations. Several case studies demonstrate that lemmas can provide a powerful method to generate short proofs for challenging problems.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23003v1",
+        "title": "Probabilistic Simple Types for Almost-Sure Termination (Extended Version)",
+        "url": "https://arxiv.org/abs/2611.23003v1",
+        "authors": [
+          "Ugo Dal Lago",
+          "Willem Heijltjes"
+        ],
+        "published": "2026-11-17",
+        "summary": "We present a type system for almost-sure termination (AST) in higher-order probabilistic computation. Our vehicle is the recent Functional Machine Calculus (FMC), which combines the lambda-calculus with effectful imperative computation. Importantly for our purpose, it models branching and looping computation with sum types and a typed iterator construct. Our key observation is that by replacing sum types with probability distributions, types ensure that iteration has a non-zero chance of exiting, which then gives AST in a simple and natural way. Concretely, our type system assigns explicit probability distributions to termination outcomes, allowing probabilistic behaviour to be tracked compositionally at the type level. Types then soundly guarantee almost-sure termination, even in the presence of higher-order functions. The fragment of ground terms, which consists purely of the branching and iteration constructs with probabilistic sampling, is equivalent to finite Markov chains and is positively AST (expected evaluation time is finite). The full calculus is more expressive, which we demonstrate through an example term with infinite expected evaluation time.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.22663v1",
+        "title": "A Unifying Metatheorem on Weak-Memory Robustness",
+        "url": "https://arxiv.org/abs/2611.22663v1",
+        "authors": [
+          "Giovanna Kobus Conrado",
+          "Stephan Spengler",
+          "Mohamed Faouzi Atig",
+          "Andreas Pavlogiannis"
+        ],
+        "published": "2026-11-17",
+        "summary": "Memory models specify the behaviors that concurrent programs may exhibit under compiler and hardware optimizations, which often deviate from Sequential Consistency (SC). Robustness is the property of a program P not exhibiting any weak behaviors when executing under a weak memory model MM, compared to SC. As such, the algorithmic problem of deciding whether $P$ is robust against MM has been studied extensively, and has been repeatedly shown to be in PSPACE for many memory models, such as TSO, PSO, and Release/Acquire. However, each model has required its own, dedicated proof, raising the natural question of whether robustness admits a unifying treatment across memory models. In this work, we answer this question affirmatively for a broad class of memory models definable in Kleene Algebra with Tests (KAT). We prove that robustness against any prefix-closed, KAT-definable memory model is in PSPACE. This metatheorem recovers nearly all prior PSPACE robustness results, and establishes PSPACE membership for several new models, including the full RC11 and the OCaml memory model. We have further formalized the correctness of our approach in Lean. On the other hand, we prove that robustness against the KAT-definable Relaxed model is undecidable, and thus prefix-closedness cannot be dropped, in general. Finally, we implement our algorithm in a prototype tool RoboKAT, and demonstrate its flexibility by checking robustness against nine memory models, several of which are not handled by prior work.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.22621v1",
+        "title": "Entanglement Lower Bounds for Symmetric Quantum Circuits",
+        "url": "https://arxiv.org/abs/2611.22621v1",
+        "authors": [
+          "Davi Castro-Silva",
+          "Ryan Dancy",
+          "Sergii Strelchuk"
+        ],
+        "published": "2026-11-17",
+        "summary": "Symmetric circuits require every symmetry of the input to extend to an automorphism of the circuit. In the classical setting, their connection to descriptive complexity yields strong unconditional lower bounds. We extend this approach to the quantum model of symmetric computation defined by Castro-Silva, Gur, and Strelchuk (ITCS 2026), proving a tradeoff between circuit size and entanglement width (the smallest $b$ such that, on every computational-basis input, the state after each layer factors into states on at most $b$ qubits each). Our main result identifies a graph property decidable in classical polynomial time that no polynomial-size family of symmetric quantum circuits on $n$-vertex graphs with entanglement width $o(n/\\log n)$ can compute. The bound holds for circuits with arbitrary one-qubit and two-qubit gates and unrestricted depth, and remains valid under the weaker notion of symmetry with respect to even permutations of vertices. Our proof is based on a new quantum pebble game based on the partial trace. The resulting indistinguishability theorem transfers classical pebble-game lower bounds to quantum circuits with restricted entanglement. By contrast, without entanglement restrictions, we show that every graph property in BQP can be computed by a uniform family of polynomial-size symmetric quantum circuits. Restricting to circuits with no entanglement at all, we show that polynomial-size symmetric quantum circuits with entanglement width 1 can compute every graph property definable in fixed-point logic with counting. Finally, we give an efficient symmetric implementation of QAOA for MAX 3XOR, providing a starting point for studying entanglement lower bounds in quantum optimization algorithms.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.22613v1",
+        "title": "Python Code Generation for Isabelle/HOL",
+        "url": "https://arxiv.org/abs/2611.22613v1",
+        "authors": [
+          "Nikolaus Huber",
+          "Roly Perera",
+          "Dominic Orchard"
+        ],
+        "published": "2026-11-17",
+        "summary": "The Isabelle theorem prover provides an environment for formalising mathematics and reasoning about programs. To make verified implementations practically usable, its code generator translates functions expressed in the executable fragment of its logic into conventional programming languages. Its targets have traditionally been functional languages (Standard ML, OCaml, Haskell, and Scala), recently joined by Go. Python, which is becoming the dominant language of scientific computing, data science, and education, has remained out of reach. In this work, we close this gap with a Python backend for Isabelle's code generator. This generator enables verified algorithms to be used in Python applications, or to serve as verified references against which established Python libraries can be differentially tested, without leaving the Python ecosystem. We validate the backend on regression suites covering large parts of the HOL library and by testing six verified data structures and algorithms against established Python libraries. The generated code is slower than hand-written libraries, but well suited as a verified reference.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.22523v1",
+        "title": "Path Abstraction for Markov Reward Models: An Isabelle Formalisation in a Free Monoid View",
+        "url": "https://arxiv.org/abs/2611.22523v1",
+        "authors": [
+          "Arnd Hartmanns",
+          "Robert Modderman"
+        ],
+        "published": "2026-11-17",
+        "summary": "The classical definition of discrete-time Markov chains maps pairs of states to transition probabilities. An alternative, proposed in the context of path abstraction in probabilistic counterexample refinement, is to view them as a transition kernel on the free monoid on the state space, mapping paths directly to path probabilities. In this paper, we first extend the free monoid view and path abstraction algorithm to cumulative rewards on Markov reward models. We then use Isabelle/HOL to formalise Markov chains and reward models in this view, exploiting the discrete finite-prefix semantics to work with Isabelle's standard HOL-Analysis library. We mechanise the path abstraction algorithm and its key correctness properties of well-definedness and monotonic absorption, establishing the preservation of reachability probabilities and expected rewards. Proving the convergence of these quantities on relevant path sets is aided by our use of the lightweight free monoid semantics in place of the standard measure-theoretic one used in established Isabelle formalisations of Markov models. We obtain a verified abstract implementation of path abstraction in Isabelle/HOL, providing a foundation for refinement to efficient executable code and integration with probabilistic model checkers.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "hf:2611.24654",
+        "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning",
+        "url": "https://huggingface.co/papers/2611.24654",
+        "authors": [
+          "Zeguan Xiao",
+          "Zhuocheng Liang",
+          "Yun Chen",
+          "Yong Wang",
+          "Guanhua Chen",
+          "Pinyan Lu"
+        ],
+        "published": "2026-11-18",
+        "summary": "A central challenge in adapting large language models (LLMs) is capability preservation: an adaptation can achieve its target while degrading general capabilities. We introduce CurvDelta, a scalable framework that incorporates the preservation constraint into the parameterization of the model update. By analyzing the local geometry of the preservation constraint around the pre-adaptation model, CurvDelta constructs a low-curvature space in which parameter updates leave the preservation loss nearly invariant. We make its construction practical for LLMs through Kronecker-factored approximate curvature (K-FAC) and a factorized projection. We also introduce CurvLoRA, a low-rank variant within the same preservation geometry, designed for more efficient adaptation. Both methods apply to preservation-constrained adaptation tasks such as capability learning and selective unlearning. We evaluate our methods on mathematical reasoning, code generation, and knowledge unlearning. For mathematical reasoning and code generation, our approaches achieve competitive downstream performance while better preserving general capabilities, offering a favorable acquisition--retention trade-off relative to the baselines. For knowledge unlearning, our main results on TOFU and MUSE show a better balance between targeted forgetting and knowledge retention than the baselines, with retention performance close to the from-scratch retraining reference.",
+        "source": "Hugging Face",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2611.24927v1",
+        "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+        "url": "https://arxiv.org/abs/2611.24927v1",
+        "authors": [
+          "Sarah H. Cen",
+          "Lindsey A. Gailmard",
+          "Joohan Kim",
+          "Rishi Bommasani",
+          "Daniel E. Ho",
+          "Percy Liang"
+        ],
+        "published": "2026-11-18",
+        "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration, power, chokepoints, cascading failures, fragmented accountability, and risk---then describe our pipeline for mapping the AI supply chain. Our pipeline yields our main contribution: a multilayered, large-scale dataset of actors and relationships in the AI ecosystem, annotated with dates, descriptions, types, tags, and more. This work takes a step toward systematically mapping and measuring the AI supply chain and its properties, cataloging how models, data, chips, infrastructure, capital, and even talent flow between organizations. This data enable critical examinations of industry relationships and yield insights into the political economy of AI development and concentration. We provide several illustrative analyses, including studying the most central actors, analyzing network concentration, and identifying communities and chokepoints. While our dataset is fairly comprehensive, it is also necessarily incomplete: public documents omit private deals, and coverage is shaped by search design. Together, the approach, data, and findings aim to serve as a resource for studying the AI ecosystem. The dataset is publicly available at https://huggingface.co/datasets/sarahcen/ai-supply-chain and can be explored interactively at https://aisupplychains.org/.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24899v1",
+        "title": "\"I Don't Think It's a Scam\": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba",
+        "url": "https://arxiv.org/abs/2611.24899v1",
+        "authors": [
+          "Yipeng Wang",
+          "Huy Gia Han Vu",
+          "Jiaming Liu",
+          "Mihika Mehta",
+          "Poojitha Thota",
+          "Shirin Nilizadeh",
+          "Mohit Singhal"
+        ],
+        "published": "2026-11-18",
+        "summary": "When older adults trust scammers despite warnings, families face obstacles to intervention. Complainants aged 60 and older reported \\$4.9 billion in losses in 2024 to the U.S. Internet Crime Complaint Center. To investigate family intervention barriers to elder scams, we collected 2M Reddit posts from May 2021 to June 2026 and 2B Baidu Tieba posts from 2007 to 2026. The final corpora contain 13,082 Reddit posts and 3,933 Baidu Tieba posts, labeled using platform-specific codebooks, manual reference annotations, and LLM coding. Through a mixed-methods analysis, we find that scams often extend beyond a single incident and are reported alongside debt problems and broken family relationships. In 68.0\\% of Reddit posts recording reactions, older adults showed resistance or continued involvement; in Baidu Tieba family-confrontation posts, 41.9\\% showed continued belief. Relatives identified fraud in 74.4\\% of Reddit posts and narrated cases on Baidu Tieba, but without the victim's consent, relatives may lack the legal authority to intervene. In Reddit posts recording reactions, account locks or credential changes appeared in 8.9\\% under resistance or continued involvement, compared with 33.3\\% under acceptance. Measures such as phone or network monitoring and financial takeover were reported more often under resistance. Recovering funds is very limited in posts recording follow-up results of fraud; Baidu Tieba users reported that police classified older adults' voluntary transfers as civil disputes.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24741v1",
+        "title": "Sex Differences in the Detection of Parkinson's Disease from Speech",
+        "url": "https://arxiv.org/abs/2611.24741v1",
+        "authors": [
+          "Hiba Akhaddar",
+          "Peter Plantinga",
+          "Mirco Ravanelli",
+          "Tristan Glatard"
+        ],
+        "published": "2026-11-18",
+        "summary": "Parkinson's disease (PD) is the second most common neurodegenerative disease in the world, and 70\\% to 75\\% of PD patients suffer from speech disorders at some stage. Since PD affects men more frequently than women, previous publications tend to rely on unbalanced datasets that potentially introduce sex biases into trained models. This study investigates sex differences in PD detection from speech using deep learning and traditional machine learning approaches. We evaluated speech-based PD detection using embeddings from three pre-trained speech models, combined with handcrafted acoustic features and different classifiers. Sex-specific experiments were conducted on balanced subsets of four sustained phonation datasets, controlling for sex, disease status, and, where possible, age. All recordings were obtained during a sustained phonation task. Results show that female speakers were more accurately classified than male speakers in the larger dataset. Sex-specific results show that when the models are trained on one sex, they fail to generalize to the other one. Our results highlight the importance of including sex as a variable in the development of PD detection systems.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24684v1",
+        "title": "Hi Gemini, Who Should I Vote For? The Benefits (and Problems) of Using LLMs As Voting Advice Applications",
+        "url": "https://arxiv.org/abs/2611.24684v1",
+        "authors": [
+          "William John Atkinson",
+          "Paul Saproza"
+        ],
+        "published": "2026-11-18",
+        "summary": "Large language models (LLMs) can provide voters information about political issues, party positions, and even advise on which party to vote for. However, no previous study explores how well off-the-shelf LLMs function as voting advice applications (VAAs). In this article, we address this gap by examining how Gemini 3 Flash advises a sample of 6,022 German survey respondents on which party to vote for, based on their policy preferences and priorities alone. In brief, we find that for most respondents, following the LLM's advice would benefit voter-party policy alignment (i.e. congruence), with a significantly stronger remedial effect among voters with low levels of political interest and formal education. However, our analysis also reveals concerning biases in the LLM's recommendations. For instance, the LLM suggested voting for the AfD at approximately 1.5 times the frequency of a standard salience-weighted proximity model. In addition, the LLM hardly ever advised voting for either Die Linke or the BSW. We conclude that while LLMs can approximate the behaviour of VAAs, users should be aware that the LLM's recommendations are still biased in ways that are extremely difficult to trace.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24383v1",
+        "title": "What Majority Labels Hide: Annotator Disagreement and Model Errors in Multi-Dialect Arabic Sexism Detection",
+        "url": "https://arxiv.org/abs/2611.24383v1",
+        "authors": [
+          "Alaa Bazaid",
+          "Arkaitz Zubiaga"
+        ],
+        "published": "2026-11-18",
+        "summary": "Judgements of sexism are subjective and may vary across communities, yet sexism detection datasets usually reduce annotator judgements to a single majority label, obscuring disagreement and how models behave on contested cases. We introduce MuDAS, a dataset of YouTube comments in Saudi, Egyptian and Moroccan Arabic, each labelled by three native speakers of its dialect, with the individual annotations preserved. We use it to evaluate Arabic encoders fine-tuned with hard-label, soft-label and perspectivist objectives, GPT-5.6 Terra, and four Arabic-centric large language models. Model errors are more frequent on comments with annotator disagreement. Despite relatively close Macro-F1 scores, GPT-5.6 Terra and the fine-tuned encoders exhibit contrasting error patterns: GPT-5.6 Terra, even with the annotators' definition of sexism, over-classifies gender-related content such as religious advice on modesty, whereas the encoders miss implicit and prescriptive sexism. The Arabic-centric models also over-predict sexism and remain below the encoders. Disagreement-aware learning preserves Macro-F1, but soft labels improve alignment with annotators on contested comments at the expense of unanimous ones, and neither paradigm reliably identifies contested comments. Lower performance on Egyptian Arabic, clearest for the large language models, is not fully explained by the examined measures of test-set composition and dialectness. Majority-label scores can therefore hide contrasting error patterns that matter for content moderation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.24149v1",
+        "title": "Human-LLM Cognitive Extension: A Framework for Studying Coupled Cognition",
+        "url": "https://arxiv.org/abs/2611.24149v1",
+        "authors": [
+          "Ernesto Biempica",
+          "Emiliano Bruner",
+          "Juan F Poyatos"
+        ],
+        "published": "2026-11-18",
+        "summary": "Recent research on the use of Large Language Models (LLMs) reports divergent cognitive outcomes, including improved assisted performance, limited transfer, and compromised unaided learning. Here, we argue that part of this seeming inconsistency arises because studies often assess different cognitive systems without making the unit of analysis explicit. Building on work in extended and distributed cognition, we propose the Human-LLM Cognitive Extension (HLCE) as a methodological framework for matching experimental designs, measures, and causal inferences to four distinct systems: the human acting independently, the artificial agent, the joined human-LLM configuration, and the human after division. The framework also treats the coupling architecture as part of the experimental object. HLCE separates performance augmentation, system-level complementarity, post-interaction human change, and stronger claims of constitutive cognitive integration. This separation can improve the interpretation of existing evidence and guide the design of human-LLM interactions without assuming in advance that these configurations constitute extended minds. We illustrate the application of HLCE with a synthetic diagnostic experiment comparing two connecting configurations that differ in how supporting information is communicated. The example highlights how distinct couplings can shape the organization of joint problem-solving, even when the final outcome remains unchanged. Overall, HLCE provides a methodological basis for designing controlled experiments and interpreting evidence across distinct forms of human-LLM cognitive interaction.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23903v1",
+        "title": "AI Surge Accelerates the Transition to Liquid Cooling: Rethinking Energy and Water Use in Data Center Cooling",
+        "url": "https://arxiv.org/abs/2611.23903v1",
+        "authors": [
+          "Yingbo Zhang",
+          "Eric Masanet",
+          "Shengwei Wang"
+        ],
+        "published": "2026-11-18",
+        "summary": "The power density of AI workloads is rapidly driving shifts to liquid cooling. This study rethinks and assesses the global impact on energy and water demand of this cooling transformation. Results suggest that liquid cooling can reduce cooling energy use by 25-56% relative to air cooling, offering substantial energy savings for GW-scale AI data centers. Best-practice PUE values could be as low as 1.07-1.08 for today's systems and 1.03-1.04 for emerging designs, and WUE values range from 0.38 to 2.63 L/kWh, depending on temperature conditions. We identify global free-cooling rack inlet temperature thresholds of 33 $^\\circ$C for evaporative systems and 49 $^\\circ$C for dry systems, demonstrating the practicality of 100% free cooling in many locations. The model finds that minimum PUEs do not necessarily coincide with minimum total energy use, because warmer coolant raises server power. Results quantify the large sustainability potential of liquid cooling and provide actionable targets for data center design and policies.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23795v1",
+        "title": "A Dual-SOM Learner Model of Instructional Efficiency within Cognitive Load Theory",
+        "url": "https://arxiv.org/abs/2611.23795v1",
+        "authors": [
+          "Spyridon Revithis"
+        ],
+        "published": "2026-11-18",
+        "summary": "This paper presents a novel methodological framework, integrating a dual self-organising map (SOM) neural network architecture with Cognitive Load Theory (CLT), for assessing instructional efficiency within learning environments. By representing curriculum content as a directed acyclic graph of topic dependencies, the proposed model captures collective learning behaviour across two core dimensions: academic performance and subjective/introspective mental effort. During SOM training, representative data sets of successful learner trajectories are compressed into two topologically ordered, identically structured neural networks: PSOM (performance space) and ESOM (mental effort space). By pairing these behavioural maps, the model serves as a decision-support tool that enables instructors to simultaneously pinpoint structural instructional design defects, such as hidden topic prerequisites, and evaluate collective cognitive load profiles. The implementation and performance of the PSOM component (and, by extension, its symmetrical twin, ESOM) is linked to an earlier modelling study employing a SOM with identical structure and encoding semantics situated in the same domain (i.e., a learning environment). This paper combines the study of behavioural phenomena with theoretical work on human cognitive architecture via SOM neurocomputational cognitive behavioural modelling.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23757v1",
+        "title": "Decent Work Standards and Non-Conventional Work: Measurement Gaps and Uneven Capability Formation in Kenya's Online Platform Labour Markets",
+        "url": "https://arxiv.org/abs/2611.23757v1",
+        "authors": [
+          "Farhan Latif"
+        ],
+        "published": "2026-11-18",
+        "summary": "Online freelancing through digital platforms is a precarious but sought-after livelihood pathway in contexts with weaker conventional labour markets. This article examines how worker-level decent-work assessments intersect with livelihood strategies and outcomes among experienced online freelancers in Kenya. A convergent mixed-methods study combines survey indicators from 52 workers with interviews with 20 participants. Findings show relatively favourable assessments of work-life balance, inclusion, safety and skill development, alongside weak income consistency, protection and voice. Interviews reveal that measured conditions differ in durability, whether they are institutionally provided or produced through workers' unpaid effort, and their convertibility into livelihood security and agency. The article argues that decent work provides a necessary normative baseline, but cross-sectional worker-level operationalisations alone cannot reveal the durability, production or livelihood consequences of measured conditions. A capability-informed livelihood perspective complements decent-work assessment by explaining who can convert platform participation into security, agency and future opportunity.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23657v1",
+        "title": "Same Model, Different People: Numerical Execution Contracts and the Reproducibility of Fairness Audits",
+        "url": "https://arxiv.org/abs/2611.23657v1",
+        "authors": [
+          "Erzheng Zhang",
+          "Agnes Chu"
+        ],
+        "published": "2026-11-18",
+        "summary": "Fairness audits treat a trained model as a fixed decision function, but the arithmetic that evaluates it is part of that function. This study holds the model, records, threshold and audit code fixed and varies the numerical execution contract in two tiers. Tier 1 changes only how products and sums are computed, with the serialized weights byte-identical, and is the causal test of arithmetic. Tier 2 runs reduced-precision deployment configurations (BF16 compute, FP8 and 8-bit weights), which can also round weights and change engines and kernels, so its effects belong to the configuration. It audits three tabular model families and two open-weight language models (4B and 24B parameters) on four public tasks, including hospital readmission, on CPUs and GPUs from NVIDIA, AMD and Apple. Tier 1 changed decisions near the threshold, and which ones depended on the GPU and its software stack, but no verdict under the prespecified, unweighted tests. Tier 2 configurations changed more decisions and some diagnostic verdicts, but no four-fifths verdict. Serving the 24B model with vLLM FP8 selected 54% of people rather than 45% and passed an employment-status audit by sex that its strict FP32 reference failed: its demographic-parity and equalized-odds gaps fell from 0.0567 and 0.0515 to 0.0417 and 0.0394, against a diagnostic tolerance of 0.05. At the reference's selection count FP8 failed demographic parity, and no reading gave its equalized-odds change a paired interval excluding zero. The declared audit depends on the configuration; FP8 is not shown to be fairer. At the frozen thresholds, every pass-fail verdict a configuration changed had a sampling interval containing its criterion. It proposes an audit stability protocol in which the auditor declares contracts, groups, weights and tests before scoring and records each verdict's range over them apart from its sampling uncertainty.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23638v1",
+        "title": "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction",
+        "url": "https://arxiv.org/abs/2611.23638v1",
+        "authors": [
+          "Jennifer Zhang",
+          "Amanda Coston"
+        ],
+        "published": "2026-11-18",
+        "summary": "Generative AI is increasingly used to assist with data science tasks, yet fundamental questions remain about its ability to correctly formulate analytical problems. We investigate how well large language models (LLMs) can formulate prediction problems when developing models for high-stakes decision making. We focus on one particular challenge to validity: decision dependency, which arises when historical decisions affect observed outcomes. We evaluate this aspect of problem formulation in LLM-generated code and explanations across child-welfare, healthcare, and employment settings, using 11 models from OpenAI and Anthropic and seven prompt conditions. We assess whether the LLM-generated code implements a procedure appropriate for estimating the intended outcome under the study's assumptions and whether the explanation acknowledges decision dependency. We find that LLMs do not reliably address decision dependency without guidance in the prompt. When prompts specify the target, the assumption needed to estimate it, and the estimation procedure, target-aligned implementation reaches 99-100%. Among frontier models, a simple prompt description of how decisions affect outcomes appears sufficient to elicit target-aligned implementation. Some responses also acknowledge decision dependency without addressing it in their code. Our findings suggest that analysts should not rely on LLMs to correctly formulate prediction problems without explicit methodological guidance and careful review. We propose validity-centered guidelines for LLM-assisted predictive modeling, covering prompt formulation, validation of the target and estimation procedure, and identification of key assumptions. Establishing validity is a necessary early step in evaluating whether to deploy a predictive model in a high-stakes setting, but deployment requires weighing broader ethical, institutional, and practical considerations.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23518v1",
+        "title": "From Arraignment to Resolution: Transformer Models of Court Cases",
+        "url": "https://arxiv.org/abs/2611.23518v1",
+        "authors": [
+          "Kory Rosen",
+          "Aron Culotta"
+        ],
+        "published": "2026-11-17",
+        "summary": "The criminal legal system is composed of many complex decision points, such as which charges are pursued, how bond is determined, plea deal negotiations, and sentencing. Given the profound impact of such decisions, there is a growing need to increase the transparency within this system. While prior machine learning approaches have focused on modeling single decisions (e.g., recidivism), this paper proposes a transformer-based time series model to forecast the outcome of the next proceeding in a case (e.g., charges accepted, bond set, plea deal made, etc.). By modeling a case as an event sequence, we enable a more nuanced analysis to support better oversight and understanding of decision making. We conduct an empirical analysis of thousands of cases using a newly constructed dataset derived from publicly available court records of a mid-sized U.S. city. We fit models that combine textual data from clerk notes with structured information about the defendant, prior charges, and courtroom. Our transformer model achieves $.57$ micro-F1 on a 20-class multi-label task, a significant improvement over several baselines and comparable to a GRU trained on the same input. We demonstrate how the model can be used to provide insights into decision-making and help court observers identify emerging issues within the jurisdiction studied.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23474v1",
+        "title": "AllotNet: an Interpretable Mixture-of-Experts Choice Model for Moral Judgement in Humanitarian Aid Allocation, Validated against a Planted Synthetic Population",
+        "url": "https://arxiv.org/abs/2611.23474v1",
+        "authors": [
+          "Mark Nowak"
+        ],
+        "published": "2026-11-17",
+        "summary": "Official development assistance fell by 23.1 per cent in 2025, and the decision of who is helped first when there is not enough for everyone is moving into software. A leading published machine-learning targeting system excluded 53 per cent of eligible households as deployed. If the rule of distribution ends up in code, it should carry the judgement of many cultures, and the machine should execute while a person judges. AllotNet is an interpretable mixture-of-experts conditional logit for the allocation judgements elicited by Allot, a pre-registered six-language instrument: eight linear taste experts over seven ethical criteria, weighted by a gate over participant context, with a damped residual, an encoder for household intake, an outcome head and a budget-constrained planner that builds a review queue and never rejects anyone. A model of human judgement has no answer key on real data, so we wrote one first: a planted synthetic population of 5.6 million sessions and 104 million responses (98 million usable choices), generated by the production code path from a ground truth hidden from the loss. All sixteen pre-specified checks passed: criterion ranking $ρ= 1.000$, hidden segments recovered (ARI 0.671), outcome head at 99 per cent of the noise ceiling, planner at 99.4 per cent of oracle. The caveats are reported with them: two checks are weaker than their titles, and a live-generation failure cost 260,712 seeds. The model has 23,550 parameters, is trained quantisation-aware for NVFP4 with its interpretable core in fp32 (welfare-rank parity $ρ= 0.9937$ at W4A16 on the shipped bundle; one parity threshold was relaxed post hoc), and ships as a 125 KB bundle with C11, Java, Rust and Python runtimes. Nothing has been trained on real data yet; at the study's real scale a hierarchical Bayesian mixed logit is the registered comparator.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23443v1",
+        "title": "RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra Learning with Jokers",
+        "url": "https://arxiv.org/abs/2611.23443v1",
+        "authors": [
+          "Luis Adrián Lizama-Pérez"
+        ],
+        "published": "2026-11-17",
+        "summary": "Connecting symbolic expressions to manipulable objects is a recurring challenge in introductory algebra. This paper presents RummiAlgebra, a design-oriented framework and browser-based prototype that maps a Rummikub-style tile-rearrangement task to polynomial addition, common-factor extraction, finite geometric sums, and context-dependent substitution. A numbered colored tile is encoded as a monomial c x^v, while a physical joker is represented by a distinct symbol J_i whose algebraic role is fixed only for a particular candidate arrangement. We define admissible polynomial forms for runs and groups and establish an inventory-conservation invariant. A soundness-and-completeness proof shows that physical-tile accounting together with the algebraic run/group templates characterizes valid final arrangements under the stated classroom rules; polynomial equality alone is insufficient. Four detailed examples illustrate decomposition, competing factorizations, one- and two-joker substitutions, and optimization as an optional extension. A targeted review distinguishes the approach from established Rummikub solvers, Rummikub-inspired arithmetic-sequence activities, algebra-tile manipulatives, and polynomial games. The prototype implements six small challenges and a separate rule-and-expression checker; their optimal scores were checked against an independent exhaustive reference enumerator. These checks establish agreement for the examples but do not establish learning effectiveness or novelty of the underlying algebraic operations. We close with a classroom sequence, assessment constructs, and a controlled evaluation protocol. The claimed contribution is a formally specified pedagogical correspondence and an interactive proof-oriented activity, not a new asymptotically faster Rummikub solver.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.23422v1",
+        "title": "Record Sufficiency: What a Decision Record Must Preserve When an Unsettled Claim Becomes an Operative Status",
+        "url": "https://arxiv.org/abs/2611.23422v1",
+        "authors": [
+          "Amadeus Brandes"
+        ],
+        "published": "2026-11-17",
+        "summary": "Organisations keep evidence, logs and approvals, but often not the step by which an unsettled claim became an operative status, such as an accepted label or a released image, so later readers cannot tell what the status was allowed to mean. We call a decision record sufficient if it is true and a reader who has only the record and the items it cites can explain the status, bound it, re-derive it and challenge it. From these four uses we argue for ten questions a record must answer, map them onto the author's earlier JSON Schema for decision records (DRK v0.1), and define four mechanical checks. We separate conformance, which the checks decide; adequacy, whether the answers are specific enough to use, which needs a reader; fidelity, which no check on the record decides; and merits, which sufficiency does not require. On 164 single-defect variants of three synthetic records, schema validation, the only check DRK v0.1 implements, rejects every variant with a deleted required property and none of the others, and it accepts a record whose claim, rule, scope, limits and challenge route are empty. These are properties of the schema shown on defects we seeded, not estimates of performance on real records. A false record passes every check. The statement-of-reasons schema of the EU Digital Services Act Transparency Database answers 4 of the questions in full, 2 in part and 4 not at all: why the matter was unsettled, what the status depends on, whether it can be re-derived, and how to challenge it. In 25 real statements from 25 platforms, drawn by a seeded rule and coded by a language model and checked by the author, free text addressed any of those four in only 2, and in 18 (24 under a stricter reading adopted during coding) no free text said why the item fell under the rule. No deployment or legal claim is made.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "_Brief could not be synthesized due to an API error._ (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}})",
+  "synthesis_metadata": {
+    "model": "none",
+    "generated_at": "2026-11-19T12:30:28.572535+00:00"
+  }
+}
