@@ -1,0 +1,621 @@
+{
+  "updated_at": "2026-11-22T12:30:26Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2611.26622v1",
+        "title": "Quasipolynomial pyjamas",
+        "url": "https://arxiv.org/abs/2611.26622v1",
+        "authors": [
+          "Sida Li"
+        ],
+        "published": "2026-11-19",
+        "summary": "The ``pyjama stripe\" $E(\\varepsilon)$ is the set of all complex numbers whose real part lies within $\\varepsilon$ of the nearest integer. The Pyjama Problem asks whether, for each $\\varepsilon > 0$, there exists some union of finitely many rotations of $E(\\varepsilon)$ about the origin that covers the plane. This was answered in the affirmative by Manners. Kravitz and Leng subsequently showed that $\\exp(\\exp(\\exp(\\varepsilon^{-O(1)})))$ rotations suffice. In this paper, we prove an upper bound of \\[\\exp((\\log \\varepsilon^{-1})^{50000})\\] rotations. We also show that at least $(π/2 + 0.003 + o(1))\\varepsilon^{-1}$ rotations are necessary, improving upon the natural lower bound of $(π/2 + o(1))\\varepsilon^{-1}$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26597v1",
+        "title": "Equivariant iterated Eisenstein integrals for congruence subgroups of level 2",
+        "url": "https://arxiv.org/abs/2611.26597v1",
+        "authors": [
+          "Emiel Claasen",
+          "Mehregan Doroudiani",
+          "Claude Duhr",
+          "Axel Kleinschmidt",
+          "Franca Lippert",
+          "Oliver Schlotterer",
+          "Yoann Sohnle"
+        ],
+        "published": "2026-11-19",
+        "summary": "The modular properties of holomorphic Eisenstein series for $\\mathrm{SL}_2(\\mathbb{Z})$ and its congruence subgroups do not carry over to their primitives. Instead, the transformation of iterated Eisenstein integrals under congruence subgroups of level $N$ introduces inhomogeneous terms comprising (among others) cyclotomic multiple zeta values of level $N$. We combine iterated Eisenstein integrals for the congruence subgroups of level $N=2$ of arbitrary iteration depth with their complex conjugates and (single-valued) level-2 cyclotomic multiple zeta values such that they define non-holomorphic modular forms. Our construction of these so-called equivariant iterated Eisenstein integrals for $Γ(2)$ and $Γ_0(2)$ proceeds at the level of generating series that take values in an infinite-dimensional (pro-unipotent) Lie group and closely follow Brown's analogous construction in the $\\mathrm{SL}_2(\\mathbb{Z})$ case. The required insertions of cyclotomic multiple zeta values are controlled by zeta generators for level 2 that normalise the corresponding (pro-nilpotent) Lie algebra of the generating series and whose Lie-bracket relations we determine systematically. Upon restriction to Eisenstein series of modular weight~2, we recover single-valued multiple polylogarithms on the genus 0 modular curve $Γ(2)\\backslash \\mathbb{H}$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26570v1",
+        "title": "On Romik's rationality conjectures for critical percolation",
+        "url": "https://arxiv.org/abs/2611.26570v1",
+        "authors": [
+          "Melda Akyazi-Zavadski",
+          "Nathanaël Berestycki",
+          "Sunil Chhita"
+        ],
+        "published": "2026-11-19",
+        "summary": "The completely packed $O(1)$ loop model can be viewed as an interface representation of critical bond percolation on the square lattice. We consider submatching events, which prescribe how these interfaces pair finitely many consecutive boundary points. Romik's rationality conjectures predict that the probabilities of these events on the semi-infinite cylinder are given by specific rational functions, which even become dyadic rationals in the half-plane limit. We derive explicit Pfaffian formulae for the probability of $k$ nested arches on the semi-infinite cylinder of circumference $2N$, valid for $k<N$. We deduce that these probabilities are rational functions of $N$ and, by taking the limit $N\\to\\infty$, that the corresponding half-plane probabilities remain rational. This establishes key aspects of Romik's conjectures. Our proof uses identities of Fonseca and Zinn-Justin, derived through the qKZ formalism, which express these probabilities as ratios of enumeration numbers for totally symmetric self-complementary plane partitions (TSSCPPs). These plane partitions admit a dimer representation, allowing us to apply Kasteleyn theory. We evaluate the resulting hypergeometric sum using Zeilberger's and Gosper's algorithms and then take the half-plane limit $N\\to\\infty$. Along the way, we derive a somewhat simplified expression for the inverse Kasteleyn matrix entries (encoding correlations in TSSCPPs) of Ayyer and Chhita, which might be of independent interest.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26556v1",
+        "title": "Edge cuts of bounded degree in sparse graphs",
+        "url": "https://arxiv.org/abs/2611.26556v1",
+        "authors": [
+          "Anna Neopryatnaya",
+          "Vladimir Verdenko",
+          "Vsevolod Voronov"
+        ],
+        "published": "2026-11-19",
+        "summary": "Every simple graph on $n \\ge 2$ vertices with at most $2n-2$ edges can be split into two nonempty parts with at most two crossing edges at each vertex. For $d \\ge 3$ we bound the minimum number of edges in an n-vertex graph without a d-cut.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26555v1",
+        "title": "Multiplicative Sidon basis",
+        "url": "https://arxiv.org/abs/2611.26555v1",
+        "authors": [
+          "Sándor Z. Kiss",
+          "Csaba Sándor"
+        ],
+        "published": "2026-11-19",
+        "summary": "For a $h \\ge 2$ integer a sequence of positive integers $A$ is called asymptotic basis of order $h$ if every sufficiently large positive integer $n$ can be written as a sum of $h$ elements of $A$. We say a sequence of positive integers $A$ is a multiplicative Sidon sequence if all the products of two elements of the sequence $A$ are distinct. In this paper we prove the existence of a multiplicative Sidon set which is an asymptotic basis of order 2 by using the probabilistic method.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26539v1",
+        "title": "Large $k$-cross-free families",
+        "url": "https://arxiv.org/abs/2611.26539v1",
+        "authors": [
+          "Jack H. Koolen",
+          "Anyuan Tian"
+        ],
+        "published": "2026-11-19",
+        "summary": "Two subsets $A,B$ of a finite set $X$ are crossing if $A\\cap B$, $A\\setminus B$, $B\\setminus A$, and $X\\setminus(A\\cup B)$ are all nonempty. A family is $k$-cross-free if it contains no $k$ pairwise crossing members. We construct such families on $n$ elements of size $(\\frac{1}{3}+o(1))kn\\log k$, where the asymptotic is taken as $k$ tends to infinity and is uniform over all integers $n\\ge k$. This disproves the uniform $O(kn)$ bound conjectured by Karzanov and Lomonosov. Our construction consists of cyclic intervals with at most one point deleted, together with their complements. We also prove an $O(kn\\log k)$ upper bound for $k$-cross-free families closed under all cyclic shifts of a fixed cyclic ordering of the ground set.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26513v1",
+        "title": "Hypergraph Hajnal-Szemerédi",
+        "url": "https://arxiv.org/abs/2611.26513v1",
+        "authors": [
+          "Michelle Delcourt",
+          "Cicely Henderson",
+          "Thomas Lesgourgues",
+          "Luke Postle"
+        ],
+        "published": "2026-11-19",
+        "summary": "A seminal result of Hajnal and Szemerédi from 1970 asserts that every graph on $n$ vertices with $q\\;|\\;n$ and minimum degree at least $\\Big(1-\\frac{1}{q}\\Big)n$ admits a $K_q$-factor (a collection of vertex-disjoint copies of $K_q$ spanning all vertices). There has been sustained interest in extending this result to hypergraph $K_q^r$-factors. For general $q$ and $r$, Lu and Székely in 2007 showed that every large enough, $r$-graph $G$ with $q\\mid v(G)$ and $δ_{r-1}(G) \\ge \\left(1- \\frac{c}{q^{r-1}}\\right)v(G)$ admits a $K_q^r$-factor (where $c$ is a constant depending on $r$ but not $q$), and there have been various subsequent improvements to the constant (but not the order) of this bound over the ensuing decades. Meanwhile, results from codegree Turán theory show that $δ_{r-1}(G) \\ge \\left(1 - \\frac{c \\cdot \\log q}{q^{r-1}} \\right)v(G)$ is necessary. Surprisingly, our main result shows that the order of this upper bound is not correct and, in fact, the codegree $K_q^r$-factor threshold is much closer to this codegree Turán theory bound. In particular, we show that $δ_{r-1}(G) \\ge \\left( 1-c\\cdot \\frac{\\log^{1-1/(r-1)}q}{q^{r-1}}\\right)v(G)$ suffices for the existence of a $K_q^r$-factor. Our key contribution is showing the same is true for the fractional threshold. Inspired by the first and fourth author's recent proof of the Nash-Williams' Conjecture, we accomplish this by combining a linear programming framework with ideas from discharging. Additionally, we establish a technical result about finding large independent sets in sparse, non-uniform hypergraphs, which may be of independent interest.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26457v1",
+        "title": "Comprehensive Gröbner Bases in Macaulay2",
+        "url": "https://arxiv.org/abs/2611.26457v1",
+        "authors": [
+          "María Agustina Cagliero",
+          "Oliver Clarke",
+          "Lorenzo De Biase",
+          "Angelo El Saliby",
+          "Giulia Gaggero",
+          "Weijia Wang"
+        ],
+        "published": "2026-11-19",
+        "summary": "Studying parameter-dependent polynomial systems often requires stratifying parameter space according to the algebraic or geometric properties of the specialised systems. Comprehensive Gröbner bases and systems, which provide Gröbner bases valid under every specialisation, either uniformly or on specified regions of parameter space, are classical tools for studying polynomial ideals under specialisation. We introduce ComprehensiveGBs, a Macaulay2 package for computing comprehensive Gröbner bases and systems, either over the full parameter space or under specified parameter conditions. We describe its use and implementation, with examples involving Weierstrass cubics and graphs.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26446v1",
+        "title": "Degree Lower Bounds for Symmetric Boolean Functions: Breaking the Prime-Gap Barrier",
+        "url": "https://arxiv.org/abs/2611.26446v1",
+        "authors": [
+          "Xiaoming Sun",
+          "Chengu Wang"
+        ],
+        "published": "2026-11-19",
+        "summary": "We prove that every nonconstant symmetric Boolean function on $n$ variables has exact real polynomial degree at least $n-O(n^{1/3}(\\log n)^{2/3})$. This makes progress toward the conjecture of von zur Gathen and Roche that the degree is always at least $n-3$. The original prime-gap argument of von zur Gathen and Roche yields a degree deficit of $O(n^{0.525})$ using the theorem of Baker, Harman, and Pintz, or $O(n^{0.52})$ using an estimate claimed in a recent preprint. Our $\\widetilde{O}(n^{1/3})$ bound on the degree deficit improves upon the $\\widetilde{O}(\\sqrt{n})$ bound obtainable from the prime-gap approach, even assuming the Riemann hypothesis or Legendre's conjecture. Notably, our proof avoids prime-gap estimates entirely. The proof combines vanishing binomial moments with the arithmetic of linear recurrences. A quantitative form of the integer Hankel determinant method in the Pólya--Carlson theorem forces the function's values on a central interval of Hamming weights to satisfy a short rational recurrence. A second determinant argument bounds the number of characteristic roots near $-1$. Through the binomial transform, these roots can then be cancelled by a polynomial test of degree below the deficit. An integer annihilator and contour estimates make the test isolate the first failure of the recurrence, yielding a contradiction with the vanishing-moment conditions. If the recurrence agrees with the function on a sufficiently long interval, arithmetic height bounds instead force a bounded period, which is ruled out by a separate polynomial test. Every numbered result in the paper has been formally verified in Lean~4.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26439v1",
+        "title": "An operator $b$-positivity conjecture for Jack characters",
+        "url": "https://arxiv.org/abs/2611.26439v1",
+        "authors": [
+          "Jean-Yves Thibon"
+        ],
+        "published": "2026-11-19",
+        "summary": "Goulden and Jackson defined a Jack deformation $a_{μν}^λ(α)$ of the connection coefficients of the symmetric group and conjectured that these were polynomials in $b=α-1$ with nonnegative interger coefficients. This conjecture was extended to the structure constants of (stable) Jack characters by Śniady. We formulate a stronger operator conjecture: the differential operators $Δ_μ(α)$ that multiply by stable Jack characters should have coefficients in ${\\mathbb N}[b]$ in the normally ordered Heisenberg basis $p_ID_J$. We provide numerical evidence, as well as theoretical consequences of the conjecture which can be rigorously proved. Namely, we exhibit two families of $α$-shifted symmetric functions whose associated differential operators are ${\\mathbb N}[b]$ positive simultaneously on the bases $p_ID_J$ and $Δ_μ(α)$. These operators correspond to the Boolean cumulants of the Jack transition measure and to the Cartan generators of the affine Yangian $Y(\\widehat{\\mathfrak gl}_1)$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26429v1",
+        "title": "Algebraic matroids with non-algebraic duals exist in any positive characteristic",
+        "url": "https://arxiv.org/abs/2611.26429v1",
+        "authors": [
+          "Lukas Grund"
+        ],
+        "published": "2026-11-19",
+        "summary": "We show that for every field $K$ of positive characteristic there exists an algebraic matroid $M$ over $K$ such that the dual matroid $M^*$ is not algebraic over any field. Our conceptual proof relies on the theory of matroids over one-dimensional algebraic groups. As an application, we deduce that the classes of supports of realizable volume polynomials and of realizable covolume polynomials differ in positive characteristic.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26397v1",
+        "title": "Hook histories and a two-parameter Murnaghan--Nakayama rule for dual canonical Grothendieck functions",
+        "url": "https://arxiv.org/abs/2611.26397v1",
+        "authors": [
+          "Siddheswar Kundu",
+          "Santosha Pattanayak"
+        ],
+        "published": "2026-11-19",
+        "summary": "We establish a two-parameter Murnaghan--Nakayama rule for power-sum multiplication in the dual canonical stable Grothendieck basis. The coefficients admit a closed boundary product formula and a signed combinatorial description by hook histories. We determine their exact support and prove an exact divisibility law for off-diagonal coefficients governed by the edge-connected components of the indexing skew diagram. We also obtain a hook expansion of power sums, an explicit binomial reduction to the dual stable rule, and a Grassmannian $K$-homological interpretation of the one-parameter specialization. Finally, we deduce complementary rules for power-sum multiplication in the canonical basis and the corresponding lowering operation in the dual canonical basis.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26330v1",
+        "title": "Equality in the clique bound for critical graphs",
+        "url": "https://arxiv.org/abs/2611.26330v1",
+        "authors": [
+          "Hongyang Wang"
+        ],
+        "published": "2026-11-19",
+        "summary": "A graph is $k$-critical if its chromatic number is $k$ and every proper subgraph is $(k-1)$-colorable. Gao and Ma (2023) proved that every $n$-vertex $k$-critical graph with $n > k \\ge 4$ contains at most $n - k + 3$ cliques of size $k - 1$, and asked which graphs attain this bound. We answer this question by showing that equality holds if and only if $n - k + 3$ is odd and the graph is isomorphic to the join of a complete graph on $k - 3$ vertices and a cycle of length $n - k + 3$. More generally, for $n>k\\ge3$, we determine when the size of a nonempty family of distinct $(k-1)$-cliques in an $n$-vertex $k$-critical graph attains the upper bound $s-k+3$, where $s$ is the number of vertices covered by the family. Equality holds if and only if the graph is such a join (with the complete part empty when $k = 3$) and the family consists of all its $(k-1)$-cliques.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26300v1",
+        "title": "A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger--Horne--Zeilinger States Discovered with AlphaProof Nexus",
+        "url": "https://arxiv.org/abs/2611.26300v1",
+        "authors": [
+          "Mario Krenn",
+          "Moritz Firsching",
+          "George Tsoukalas",
+          "Rishikesh Gajjala",
+          "Xuemei Gu",
+          "Swarat Chaudhuri"
+        ],
+        "published": "2026-11-19",
+        "summary": "Photonic GHZ states generated with probabilistic pair sources can be described by edge-coloured, complex-weighted graphs. In this representation, conditioning on an event with one photon in every detector turns the output amplitudes into coherent sums over perfect matchings, and generating an \\(N\\)-photon \\(D\\)-dimensional GHZ state is equivalent to constructing a monochromatic quantum graph. Here, we prove that no complex-weighted monochromatic quantum graph exists for any even \\(N\\ge4\\) when \\(D\\ge N\\). The proof, discovered through AI-assisted formal proof search in Lean using AlphaProof Nexus, constructs a weighted sum \\(\\mathcal F\\) of amplitudes whose coefficients factor vertex by vertex. Summing over the colours at one fixed vertex reduces the problem to an \\((N-1)\\times N\\) matrix of effective edge weights. For the graph amplitudes \\(ω\\) and GHZ target \\(Δ\\), the row--column imbalance yields \\(\\mathcal F(ω)=0\\) but \\(\\mathcal F(Δ)\\neq0\\), contradicting the required equality \\(ω=Δ\\). Finally, we give a physical interpretation of the AI-discovered mathematical proof.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26280v1",
+        "title": "Rainbow Matchings in $K_{r+1}$-free Graphs",
+        "url": "https://arxiv.org/abs/2611.26280v1",
+        "authors": [
+          "Hongliang Lu",
+          "Xinxin Ma",
+          "Xing Peng"
+        ],
+        "published": "2026-11-19",
+        "summary": "Let $n,m,r$ be positive integers with $n\\ge 2m+2$, where $n$ is sufficiently large relative to $r$. Alon and Frankl determined the maximum number of edges in an $n$-vertex graph containing neither $K_{r+1}$ nor a matching of size $m+1$. In this paper, we establish a rainbow analogue of their result. More precisely, if $G_1,\\ldots,G_{m+1}$ are $K_{r+1}$-free graphs on a common vertex set of size $n$, each having more than $\\operatorname{ex}(n,\\{K_{r+1},M_{m+1}\\})$ edges, then $\\{G_1,\\ldots,G_{m+1}\\}$ admits a rainbow matching.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2611.26507v1",
+        "title": "Hereditary permutations for simple types revisited: A baby case for University Algebra",
+        "url": "https://arxiv.org/abs/2611.26507v1",
+        "authors": [
+          "Thorsten Altenkirch"
+        ],
+        "published": "2026-11-19",
+        "summary": "It is a classical result that the definable isomorphisms of the simply typed lambda-calculus with function types are exactly the hereditary permutations, and that they are generated by $A \\to B \\to C \\cong B \\to A \\to C$ and congruence. We give a new proof of this result that stays inside beta-normal eta-long typed terms and uses no completeness theorem: an induction that descends through both components of an isomorphism at once. We then go one level up and prove a coherence theorem: two derivations of an isomorphism denote the same isomorphism if and only if they are equal modulo an explicit list of equations (groupoid laws, functoriality, involution, naturality and the braid equation), so these equations present the groupoid of isomorphisms, a hereditary version of the Coxeter presentation of the symmetric groups. All results are formalised in Agda, on intrinsically typed syntax with hereditary substitution, without postulates. The work is a case study for the syntactic completeness conjecture of University Algebra, a proposed solution of Tarski's high school algebra problem using dependent types, whose semantic counterpart is open. We explain the motivation and which parts of the method we expect to carry over.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26400v1",
+        "title": "On the semantics of conditional branching",
+        "url": "https://arxiv.org/abs/2611.26400v1",
+        "authors": [
+          "Fredrik Dahlqvist"
+        ],
+        "published": "2026-11-19",
+        "summary": "Motivated by the non-standard interpretations of if-then-else in probabilistic and quantum programs we review the different semantics of conditional branching and propose a unifying categorical structure for the interpretation of if-then-else. We show that many semantically important categories possess this structure, covering inter alia classical, probabilistic, quantum or non-deterministic computations. We examine algebraic structures related to and generated by this categorical structure, in particular on collections of predicates. In this setting we show that the skew-associativity rules of GKATs and barycentric algebras are two instances of a common skew-associativity rule.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26261v1",
+        "title": "Similarity-based OSF Logic for Flexible SPARQL Query Answering",
+        "url": "https://arxiv.org/abs/2611.26261v1",
+        "authors": [
+          "Gian Carlo Milanese",
+          "Gabriella Pasi"
+        ],
+        "published": "2026-11-19",
+        "summary": "We present an updated version of fosf, a reasoner for fuzzy order-sorted feature (OSF) logic, with support for flexible SPARQL query answering over RDF knowledge graphs. Fuzzy OSF logic is a knowledge representation and reasoning language where feature symbols denote functions and sort symbols denote fuzzy sets. Sorts are organized in a fuzzy subsumption relation that extends to OSF terms, record-like structures representing classes of entities. The unification algorithm for these structures provides a calculus of fuzzy type subsumption. The latest release of fosf introduces support for similarity-based reasoning by extending the OSF language with a similarity relation among sorts, alongside a translation engine for compiling OSF terms into standard SPARQL. Queries expressed as OSF terms undergo fuzzy ontology-aware rewriting prior to translation. This process incorporates an OSF theory of sort definitions, feature domain and range declarations, and fuzzy subsumption and similarity relations through fuzzy OSF constraint normalization. This rewriting enables flexible query answering by returning approximate solutions, allowing queries that would otherwise be inconsistent with the underlying ontology to yield relevant results.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26244v1",
+        "title": "Invariance and Expressiveness: Modal Variations",
+        "url": "https://arxiv.org/abs/2611.26244v1",
+        "authors": [
+          "Martin Otto"
+        ],
+        "published": "2026-11-19",
+        "summary": "This contribution focuses on bisimulation invariance as the hallmark of modal model theory and of modal modelling. It exemplifies traditional as well as more recent ramifications \\&\\ extensions of classical results -- involving variant modes of bisimulation equivalence and matching modalities also beyond plain Kripke structures, and emphasising especially the technical challenges in finite model theory and other non-elementary settings. Main results to be discussed revolve about the theme of expressive completeness phenomena: beside expressive completeness under bisimulation invariance in relation to first-order background logics, in the style of van Benthem--Rosen characterisations, this also concerns maximality results under criteria form abstract model theory, in the style of Lindstroem theorems.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26221v1",
+        "title": "Sightline: Calibrated Data-Flow Summaries for LLM-Integrated Applications",
+        "url": "https://arxiv.org/abs/2611.26221v1",
+        "authors": [
+          "Zihao Xu",
+          "Yuekang Li",
+          "Ruitao Feng",
+          "Haifeng Shen"
+        ],
+        "published": "2026-11-19",
+        "summary": "Programs increasingly call large language models (LLMs), filling prompt placeholders with program values and consuming the output. Such a call crosses the boundary between natural language and programming language (NL/PL). To follow data across it, an analysis needs a data-flow summary of which placeholders the output uses, but no code describes what the model does. Analyses of these LLM-integrated applications therefore taint every output with every input, creating spurious flows, or ask a second model to label each call, which is costly. We prove, and mechanize in Lean 4, that a placeholder flows to the output of a transformer, to first order, only through the attention that reads it (no reading, no flow), and that a faint reading or sensitivity cannot certify that a placeholder does not flow. Unlike reading, the log-probability gradients and Fisher signals of existing methods vanish on confident outputs, and single-span removal fails on duplicated content. Our tool, Sightline, reads a recorded call in one forward pass, learns from labels which reads are uses, and calibrates the pruning to miss at most a chosen fraction $α$ of true flows, on average over call sites, when deployment is exchangeable with calibration. On 2,103 unseen repository families and four models, Sightline is the most accurate summary against the seven closest methods and a hidden-state probe. Calibrated at $α$ = 1%, it misses about 1% of true flows and prunes 43.9-65.6% of spurious flows, 1.6 to 2.6 times as many as the best baseline, and still 43.8-60.1% when calibrated on another collection. Through an open surrogate, it reads models treated as closed about as accurately as they read themselves, without their labels. In the information-flow control of an LLM agent, it removes about half of the labels from inputs that do not flow.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26212v1",
+        "title": "The Necessity of Acceptance & Rejection in Inferential Reasoning",
+        "url": "https://arxiv.org/abs/2611.26212v1",
+        "authors": [
+          "Khashayar Irani"
+        ],
+        "published": "2026-11-19",
+        "summary": "In this paper, we argue that acceptance and rejection constitute two fundamental positions necessary for inferential reasoning. Our central thesis is that a proposition acquires an inferential role when it is considered from a position of acceptance or rejection, rather than purely understood as propositional content. We distinguish between understanding a proposition, entertaining it hypothetically, and employing it within an inference. Particular attention is given to hypothetical reasoning and suspended judgement, which appear to challenge the necessity of adopting either position. We maintain that these cases do not undermine our thesis, since inferential reasoning can involve provisional acceptance or rejection without requiring personal belief or permanent commitment. Accordingly, the necessity of these positions should be understood as inferential rather than psychological. By examining the relationship between propositional content, inferential positions, and rational commitment, we defend the view that acceptance and rejection provide the fundamental conditions under which propositions can function within reasoning. This establishes a philosophical foundation for understanding inference through opposed rational positions.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26143v1",
+        "title": "Revisiting Finiteness of Matrix Monoids",
+        "url": "https://arxiv.org/abs/2611.26143v1",
+        "authors": [
+          "Rida Ait El Manssour",
+          "Roland Guttenberg",
+          "Nathan Lhote",
+          "Mahsa Shirmohammadi",
+          "James Ben Worrell"
+        ],
+        "published": "2026-11-19",
+        "summary": "This paper concerns decision problems related to finite monoids of rational matrices. We show that determining finiteness of a given finitely presented monoid is in PSPACE, improving the known $\\text{co}{-}\\text{NEXP}^{\\text{NP}}$ bound. We also show that the membership problem for finite matrix monoids is PSPACE-complete, improving the known NEXP-upper bound. Our two complexity results are corollaries of a new polynomial bit-size bound on matrix entries in finite monoids. This is obtained by reduction to the case of matrix groups, using the structure theory of noncommutative algebras and of matrix monoids. Our techniques also give us a polynomial-time algorithm for deciding whether a monoid of rational matrices is conjugate to a monoid of integer matrices.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26102v1",
+        "title": "Burnside Problems for Matrix Semigroup Quotients with Applications to Border Complexity",
+        "url": "https://arxiv.org/abs/2611.26102v1",
+        "authors": [
+          "Roland Guttenberg",
+          "Nathan Lhote",
+          "Mahsa Shirmohammadi",
+          "James Worrell"
+        ],
+        "published": "2026-11-19",
+        "summary": "The Burnside theorem for matrix semigroups states that a finitely generated matrix semigroup is finite whenever each element has only finitely many distinct powers. We study analogous finiteness questions for quotients of matrix semigroups by congruences, which need not themselves admit faithful finite-dimensional matrix representations. We show three finiteness criteria based on uniform bounds on the quotient images of (rank-)stable subsemigroups and groups in the Zariski closure. Our proofs use exterior algebra and the Ramsey theorem to develop variations of Simon's factorisation forest to matrix semigroups modulo congruences. We also present applications of our results to border complexity. One such involves separating homogeneous algebraic branching programs of fixed width and degree from its Zariski closure.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26091v1",
+        "title": "The Density of Interpolants in Modal Logic: First Results",
+        "url": "https://arxiv.org/abs/2611.26091v1",
+        "authors": [
+          "Roman Kontchakov",
+          "Louwe Kuijer",
+          "Frank Wolter"
+        ],
+        "published": "2026-11-19",
+        "summary": "We initiate a quantitative study of interpolation in propositional modal logic. Instead of asking only whether a logic has Craig or uniform interpolation, we measure the density of formulas, or pairs of formulas, admitting interpolants. For quasi-normal modal logics, formulas of bounded modal depth over finite signatures are counted modulo logical equivalence. We show that interpolation failure is local to cells determined by the retained signature, yielding product decompositions of both uniform and Craig interpolation densities. These decompositions allow us to analyse their asymptotic behaviour as either the retained or the forgotten signature grows. When the retained signature grows, we obtain general results for all quasi-normal modal logics; when the forgotten signature grows, the behaviour is subtler, particularly when formulas are counted after existential quantification over forgotten variables. For locally tabular logics, we introduce cell incompatibility graphs and use them for a fine-grained analysis covering tabular logics, the difference logic Diff, and bounded-depth extensions of Grz.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26044v1",
+        "title": "Variational Trajectory Flow Matching with a Non-Linear Interpolant",
+        "url": "https://arxiv.org/abs/2611.26044v1",
+        "authors": [
+          "Gurjeet Sangra Singh",
+          "Frantzeska Lavda",
+          "Alexandros Kalousis"
+        ],
+        "published": "2026-11-19",
+        "summary": "Simulation-free methods such as Trajectory Flow Matching learn dynamics by regressing the time derivative of a local interpolant placed between consecutive observations. The interpolant defines the regression target, and under sparse, irregular sampling, it underrepresents the dynamics and bounds what can be learned. We show that no fixed interpolant dominates: the best of linear, quadratic, spline and quintic changes with the system and with the sampling density. We propose to learn the interpolant instead. An amortized implicit neural representation (INR) is fitted to the training trajectories and frozen as a teacher supplying the target velocity to a learnable velocity field. We further frame the velocity field within a variational framework, yielding a probabilistic forecaster that, at inference, requires only the velocity field and no SDE solver. We evaluate our method on a range of dynamical systems: it consistently achieves high accuracy and more stable long-horizon rollouts under sparser observations, at matched velocity-field capacity.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25799v1",
+        "title": "Computational trust as intuitionistic knowledge",
+        "url": "https://arxiv.org/abs/2611.25799v1",
+        "authors": [
+          "Ivo Pezlar"
+        ],
+        "published": "2026-11-19",
+        "summary": "In this paper, we will argue that the notion of computational trust can be understood as a form of fallible intuitionistic knowledge grounded in verification. This approach naturally captures a key aspect of trust: it involves vulnerability. Specifically, it validates the principle that verification leads to trust but does not validate the opposite principle that trust leads to verification. Thus, we can trust on good grounds that some program will perform according to its specification but the program might still fail. We present a simple logic for capturing this notion of computational trust based on constructive modal propositional logic extended with a trust modality, which will be specified in an inferential fashion and by utilizing the proofs-as-programs correspondence.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25654v1",
+        "title": "DARSY: A Tool for Data-Driven Abstraction and Policy Synthesis for Stochastic Systems with Unknown Dynamics",
+        "url": "https://arxiv.org/abs/2611.25654v1",
+        "authors": [
+          "Thom Badings",
+          "Ibon Gracia",
+          "Mahdi Nazeri",
+          "Morteza Lahijanian",
+          "Alessandro Abate"
+        ],
+        "published": "2026-11-19",
+        "summary": "This paper presents DARSY: a software tool for abstraction-based verification and policy synthesis in discrete-time stochastic control systems with unknown dynamics and noise distributions. DARSY requires only a simulator of the system and a Lipschitz bound on its dynamics, and needs no knowledge of dynamics or noise distributions. The tool is fully automated and constructs a finite interval Markov decision process (IMDP) abstraction from sampled transitions, whose probability intervals are obtained via statistical techniques and Lipschitz reasoning. Robust dynamic programming on this IMDP then yields a policy together with a lower bound on the probability that the unknown system satisfies a desired specification. This lower bound holds with a user-specified confidence; that is, it is probably approximately correct (PAC). The tool is implemented in Python and supports general Lipschitz-continuous system dynamics and specifications expressed in syntactically co-safe LTL (scLTL), which includes reach-avoid and finite-horizon safety specifications as special cases. Beyond standard IMDPs, DARSY implements a two-layer IMDP (2IMDP) abstraction that also bounds the probability of transitioning to aggregated state blocks, yielding smaller abstraction errors than IMDP abstractions and, as a result, tighter satisfaction guarantees. We demonstrate DARSY's broad applicability across a variety of benchmarks and specifications.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25603v1",
+        "title": "On the Informativeness of Structural Stability Bounds for GNNs: GINs versus GATs",
+        "url": "https://arxiv.org/abs/2611.25603v1",
+        "authors": [
+          "Alan Gany",
+          "Paul Landrier",
+          "Bogdan Cautis",
+          "Laks V. S. Lakshmanan",
+          "Silviu Maniu"
+        ],
+        "published": "2026-11-19",
+        "summary": "Stability bounds for graph neural networks limit how much node representations can drift when the graph changes, but they are rarely compared with the simplest alternative: a bound on the distance between any two outputs, whatever the graph. We derive structural stability bounds for Graph Isomorphism Networks (GINs) and single-head GATv1 networks under deterministic edge perturbations that need not be small, and compare each with such a perturbation-independent diameter bound. For GINs, we characterize exactly when the stability bound is tighter, through a condition linking perturbation size, depth and maximum degree; it holds with a wide margin on Cora, but fails beyond a few layers on the low-degree MUTAG graphs. For GATv1, the bound is never tighter, which calls for analyses based on attention masses.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25599v1",
+        "title": "Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents",
+        "url": "https://arxiv.org/abs/2611.25599v1",
+        "authors": [
+          "Meghana Aparna Sistla",
+          "Alaia Solko-Breslin",
+          "Somesh Jha",
+          "Aditya Kanade",
+          "Krishnamurthy Dj Dvijotham"
+        ],
+        "published": "2026-11-19",
+        "summary": "Autonomous AI agents are increasingly deployed for long-running tasks that execute arbitrary shell commands or programs. However, these actions can result in unauthorized network requests or persistent, malicious changes to the user's file system, processes, or privileges. Existing defense mechanisms rely on either LLM-based monitors, which lack provable safety guarantees, or stateless policy enforcement layers, which miss multi-step data flows and execution side-effects unmodeled by the policy language (e.g., network calls initiated inside a Python script). We introduce Tether, a framework for runtime enforcement of stateful security policies over the observed side-effects of an agent's actions. Tether executes each proposed action in an ephemeral, isolated sandbox, inferring abstract action semantics from observed system calls. Tether then enforces stateful policies over these inferred semantics, permitting actions to proceed only if they comply with the policy. Policies and action semantics are defined in an embedded DSL in Lean 4 capable of expressing diverse constraints, including information flow control (IFC), access control, and network security policies. Because actions can propagate labels from sources to destinations, a single rule can enforce fine-grained IFC policies across multi-step execution flows of arbitrary length. Expressing policies in Lean enables formal verification that they satisfy global security invariants (e.g., preventing network access after reading a sensitive file). We evaluate Tether on realistic coding-agent benchmarks across both benign and adversarial trajectories. With a single policy shared across all tasks, Tether blocks 100% of in-scope attacks while maintaining a benign false-positive rate under 5%.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25533v1",
+        "title": "Compact MaxSAT Encodings for Balanced Waiting in B2B Meeting Scheduling",
+        "url": "https://arxiv.org/abs/2611.25533v1",
+        "authors": [
+          "Tuyen Van Kieu",
+          "Long Duc Nguyen",
+          "Minh Duc Dang Vu",
+          "Khanh Van To"
+        ],
+        "published": "2026-11-19",
+        "summary": "Business-to-business (B2B) meeting schedules can leave participants with long and uneven waits. Earlier break-based B2B models count interruptions without measuring their duration. Our earlier work minimizes the range of participant idle totals, but a minimum range can still leave long waits. We study lexicographic optimization of idle range, maximum idle, and total idle, in that order. Waiting is measured in empty slots between a participant's first and last meetings. Balance compares idle totals among participants requesting at least two meetings. Using weighted maximum satisfiability (MaxSAT), we prove preservation of feasible schedules, objective costs, and priorities. Compact-Base retains our earlier feasibility encoding; Compact-Objective adds objective-specific representations. We compare both with Direct, an independent implementation based on the 2022 MaxSAT model. Encoding comparisons use three repetitions per encoding-objective-instance combination on 226 variants of 20 base instances. Schedule-quality comparisons use break, range, and lexicographic objectives with the same encoding and feasible set. Across nine objective-dataset comparisons, Compact-Objective had the lowest median clause count and lower median peak memory than Direct. Runtime rankings changed in comparisons with the same solver build and computing environment. On 84 instances solved optimally under all three quality objectives, selected lexicographic schedules preserved the optimal idle range. Compared with selected range-only schedules, maximum idle decreased on 11 instances and total idle on 56. On 68 instances also solved optimally under range-then-total optimization, the selected schedules matched the three-tier criterion values. Compact-Base supplied the larger clause reduction relative to Direct; Compact-Objective reduced clauses further.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2611.26583v1",
+        "title": "A Success Model at the End of Its Life Cycle: 30 Years of Regionalised Regional Rail in Germany",
+        "url": "https://arxiv.org/abs/2611.26583v1",
+        "authors": [
+          "Lukas Iffländer"
+        ],
+        "published": "2026-11-19",
+        "summary": "On 1 January 1996, Germany transferred responsibility for regional passenger rail services from the federal government to the states. Three decades later, passenger-kilometres have doubled and competitive tendering has lowered operating costs substantially, making regionalisation the most successful element of the German rail reform. Its organisational model, however, has reached the end of its life cycle: tenders now attract on average only 1.3 bids, 26 contracting authorities and some 60 transport associations maintain overlapping structures, rolling-stock procurement has repeatedly shifted risk onto passengers, and since the Court of Justice of the European Union struck down the German track-access charge cap in 2026, funding no longer covers the ordered service volume. This article reviews the motives and results of regionalisation, identifies three structural design flaws, and argues for a second reform: consolidating authorities, standardising rolling stock, deciding between a repaired market model and integrated public operation, and indexing funding to real infrastructure cost development. The submission contains an English translation followed by the German original.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.26573v1",
+        "title": "Neighbourhood Walkability and Cardiometabolic Morbidity in Greater London: A Fine-Grained Spatial Analysis",
+        "url": "https://arxiv.org/abs/2611.26573v1",
+        "authors": [
+          "Benjamin T. Pike",
+          "Stephen Law",
+          "Sanja Šćepanović",
+          "Linus W. Dietz"
+        ],
+        "published": "2026-11-19",
+        "summary": "Cardiometabolic diseases are leading causes of ill health, and neighbourhoods that support everyday walking may help reduce them. Studies often report lower disease prevalence in more walkable neighbourhoods. However, because walkability operates across multiple spatial scales, city-wide associations may conflate local neighbourhood form with broader metropolitan structure and co-varying environmental exposures. Here we show that while much of the walkability--morbidity association in Greater London operates through the city's macro-scale spatial structure, local alignment persists beyond it. Using an open five-component walkability index for 4,994 London census units and recorded prevalence of eight cardiometabolic conditions from primary-care registers, we found that higher walkability was inversely associated with all eight outcomes after adjusting for demographic composition and deprivation; one standard deviation higher walkability corresponded to 1.43 percentage points lower hypertension prevalence. Walkability followed a centre--periphery gradient, with a radial model explaining 74.2\\% of its variation. Coefficients were reduced by 2--43\\% within boroughs and 11--75\\% after centre--periphery adjustment. After spatial-error adjustment, no clear association remained for obesity; coefficients for the other seven were reduced by 83--99\\% relative to comparable log-scale models. Nevertheless, observed associations were more extreme than those from surrogate walkability surfaces preserving this spatial structure, for all eight outcomes in the primary analyses and for five after adjustment for nitrogen oxides. These findings caution against interpreting city-wide walkability coefficients as neighbourhood effects independent of wider metropolitan structure, and highlight the need for studies of neighbourhood form and health to disentangle global and local spatial structure explicitly.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25955v1",
+        "title": "Web search in Latin America: language models use less local and diverse news than search engines",
+        "url": "https://arxiv.org/abs/2611.25955v1",
+        "authors": [
+          "Francisco W. Kerche",
+          "Franziska Sofia Hafner",
+          "Felix M. Simon",
+          "Luc Rocher"
+        ],
+        "published": "2026-11-19",
+        "summary": "AI platforms are becoming a major gateway to news and current events. This shift risks amplifying existing geographical biases that favour narratives from wealthier countries over those from the Global South. This is particularly relevant in Latin America, which accounts for the largest share of AI usage in the Global South. We examine how information about Latin America changes when users shift from conventional search engines to LLM-based search. We construct a dataset of 1,901 current events across nine Latin American countries, craft realistic queries, and submit them to three search engines and four language models. We vary query language and user location to represent local, diaspora, tourist, and foreign user scenarios. Across 49,207 requests and 8,834 unique domains, language models return a less diverse set of news sources than search engines. Across user types, the share of domestic news returned by language models is inconsistent. For local users, while search engines already return only 41.3\\% local news, language models return a further 3.6 to 11.6 percentage points less. Taken together, our findings suggest that LLM-based search can reproduce and, in some settings, amplify geographical hierarchies in the reach and visibility of news sources. We release an open dataset to support multilingual and geographically diverse evaluation of LLM-based search, and highlight implications for more equitable information systems design.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25898v1",
+        "title": "Verifiable Logic in Medical LLMs: A Critical Review of Agentic Clinical Reasoning Optimization and Neuro-Symbolic Grounding",
+        "url": "https://arxiv.org/abs/2611.25898v1",
+        "authors": [
+          "Youssef ElNahas",
+          "Adel Ammar",
+          "Soumaya Chaffar",
+          "Wadii Boulila"
+        ],
+        "published": "2026-11-19",
+        "summary": "Clinical large language models are usually judged by whether the final answer is right. Yet a model can reach a fluent, plausible output through invalid reasoning that static benchmarks do not detect, and confident hallucination, causally invalid inference, and spurious demographic shortcuts can pass conventional evaluation. This critical review covers four paradigms in turn: how clinical hallucination arises and why static metrics miss it; the agentic hallucination cascade, in which multi-agent and tool-augmented systems propagate and amplify early reasoning errors; process reward modeling as step-level supervision; and neuro-symbolic grounding, in which formal logic engines, ontology reasoners, and knowledge graphs place verifiable constraints on neural output. Within their encoded domains, systems with symbolic veto layers offer guarantees that hold relative to their encoded knowledge, and they report large gains on the safety measures they use. These results come from single studies, mostly in simulated or small-sample settings, and are not directly comparable with neural baselines. Process reward models remain bounded by the statistics of their training data. We propose a conceptual framework that maps each agentic failure mode to a symbolic intervention point, and we argue that clinical AI safety depends substantially on system architecture. Because current regulation emphasizes performance and does not require verification of reasoning steps, we argue that responsible certification should also audit reasoning trajectories alongside accuracy on static benchmarks.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25649v1",
+        "title": "KeyMem: Temporal Occupancy Control for Robust Streaming VideoLLM Memory",
+        "url": "https://arxiv.org/abs/2611.25649v1",
+        "authors": [
+          "Wei Song",
+          "Yuxin Cao",
+          "Xiao Cheng",
+          "Christy Jie Liang",
+          "Xi Zheng",
+          "Leo Yu Zhang"
+        ],
+        "published": "2026-11-19",
+        "summary": "Streaming VideoLLMs retain a bounded cache of visual tokens. Yet score-based eviction lets the stream determine its own temporal occupancy, so a short salient segment can monopolize the cache and displace evidence needed later. We identify this uncontrolled temporal occupancy as a fundamental limitation and introduce KeyMem, a training-free wrapper that rank-normalizes any base score, divides the video stream into fixed-duration temporal buckets and limits how many visual tokens each bucket can retain, and optionally samples survivors with a secret key. This hard cap bounds a segment's memory share from its first chunk. On Qwen2.5-VL-7B, 20 s of burned-in captions occupies 84% of an 8 s memory and lowers accuracy over all clips from 79.4% to 58.3%. Across five natural stressors, three VideoLLMs and two budgets, temporal quotas raise the worst accuracy of attention-based retention at the smaller budget from 42.2% to 73.3-76.1% and exceed that of InfiniPot-V by 6.1-16.7% on two of the three models. Deterministic and keyed quotas perform comparably under natural stress. Under an adaptive adversary, a secret key preserves 4.4-9.5% more early-clip accuracy than a leaked key, but does not consistently beat the best deterministic quota. A decide-once variant keeps old evidence that fresh draws erode. Temporal allocation is the primary robustness control, with secrecy reserved for adversarial predictability.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25585v1",
+        "title": "AI-Driven Transformation of Digital Platform Work: A Task-Based Model for Measuring Labour Disruption and Vulnerability, with Early Evidence from Online Freelancing in Kenya",
+        "url": "https://arxiv.org/abs/2611.25585v1",
+        "authors": [
+          "Farhan Latif"
+        ],
+        "published": "2026-11-19",
+        "summary": "Assessments of AI's impact on labour often rely on conventional occupational categories or broad market indicators. This dominant trend, however, obscures how tasks within the same occupation vary in practice across work arrangements. This limitation is particularly important in online freelancing, where workers are typically remote and devote substantial time performing unpaid tasks. This article introduces a task-based framework that distinguishes AI-driven disruption, defined as the extent of change in how work is performed, from livelihood vulnerability associated with that change. The framework is subsequently applied to assess the potential for automation, substitution, and enhancement across four categories of platform work: writing, virtual assistance, transcription, and web and software development. The model estimates high disruption across all four categories, while livelihood vulnerability scores are lower and vary by occupation. Potential efficiency gains on unpaid tasks partly offset potential wage impact associated with paid work in the model. The article compares these estimates with evidence from a survey of 52 online freelancers and 20 follow-up interviews in Nairobi, Kenya. Workers report changes in how they perform tasks and intensifying competition, while their accounts show how adapting their skills and using AI strategically shape their concerns about job loss. The findings show how task-based modelling can provide a baseline for assessing AI-driven changes in platform work and how workers' experiences differ from projections and help explain how these changes may threaten their livelihoods.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25502v1",
+        "title": "Coordinated Use of Large Language Models in Academic Research",
+        "url": "https://arxiv.org/abs/2611.25502v1",
+        "authors": [
+          "Vladislav Marinov"
+        ],
+        "published": "2026-11-19",
+        "summary": "This study proposes a methodological framework for the coordinated use of multiple large language models in academic research. Its central argument is that involving more models does not in itself guarantee more reliable results; what matters is how cognitive and verification operations are organised. The framework is based on seven principles (procedural independence, functional allocation, the diagnostic value of divergence, the diagnostic value of convergence, external verification, proportionality of checking, and human epistemic responsibility) and sets out a non-linear multi-LLM protocol in which independently obtained results are compared, critically examined and, where necessary, verified against external sources. The approach is illustrated through real-world cases drawn from research practice. The study concludes that moving from a single language model to a coordinated multi-LLM process represents a change in the organisation of research, in which the researcher makes the final decisions and bears scholarly responsibility.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25302v1",
+        "title": "Whose Safety? Addressing Anti-Blackness in the Age of AI Safety",
+        "url": "https://arxiv.org/abs/2611.25302v1",
+        "authors": [
+          "Mírian Silva",
+          "Serena Oduro"
+        ],
+        "published": "2026-11-18",
+        "summary": "\"AI safety\" has grown from a niche contingent of actors into the dominant framing for artificial intelligence (AI) assessment and evaluation, overshadowing AI ethics. Through political and monetary influence, AI safety has shifted political focus within the US and abroad. The focus has shifted away from harms that currently affect the public toward threats framed as \"existential risks\". We argue that safety cannot be achieved while anti-Blackness is left unaddressed. We ground this argument in Sylvia Wynter's critique of the \"overrepresentation\" of Man: the modern, Western conception of the Human that is predicated on the subjugation and othering of Blackness. To analyze the state of addressing anti-Blackness in the age of AI safety, we conduct a two-stage, language model-assisted content analysis of 69,290 accepted main-track papers from ten leading machine learning (ML), natural language processing (NLP), and AI ethics conferences (2020--2025). Safety research grew from 0.5% of accepted papers in 2020 to 6.4% in 2025, overtaking ethics. Yet 94% of safety papers rely on automated metrics, and only 11% of safety papers mention harms that affect society directly, compared with 78% of ethics papers. Of the 2,182 safety papers, 8 mention race; none make it central, and none name Black or African-diaspora communities. Across all 254 identified as race-focused papers, only 3 describe racial harm in safety terms, and 55% appear at three ethics venues that publish 2.5% of the corpus. We offer this interdisciplinary examination of AI safety to argue that a just technological future depends on confronting anti-Blackness directly.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25269v1",
+        "title": "AI-Induced Social Erosion: Using LLMs for Work Tasks Reduces Help-Seeking Intentions Towards Colleagues",
+        "url": "https://arxiv.org/abs/2611.25269v1",
+        "authors": [
+          "Kevin Chow",
+          "Sophia Deng",
+          "Bowen He",
+          "Hanyi Min",
+          "Qiaosi Wang",
+          "Koustuv Saha",
+          "Vedant Das Swain"
+        ],
+        "published": "2026-11-18",
+        "summary": "Generative AI is becoming embedded in knowledge work as an intelligent collaborator to assist in completing tasks. However, this readily available assistance risks displacing key interactions through which colleague relationships are built and sustained at work. This paper leverages the concept of help-seeking behaviour to investigate whether and how AI usage shapes colleague relationships. We conducted an online experimental vignette study where 248 knowledge workers evaluated scenarios that systematically varied whether and how AI was used across different work tasks. Using linear mixed-effects models, we found that AI-enabled work reduced help-seeking intentions compared to non-AI work across tasks, and especially for brainstorming. Visible AI usage was associated with greater help-seeking intentions towards colleagues, and individual contributors' colleague relationships were more vulnerable than managers. Our findings identify opportunities for workplace AI tools, practices, and policies to preserve colleague relationships in increasingly AI-integrated workplaces.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25263v1",
+        "title": "AI Deactivation Reduces Loneliness and Increases Social Interaction",
+        "url": "https://arxiv.org/abs/2611.25263v1",
+        "authors": [
+          "Dora Zhao",
+          "Grace Wang",
+          "Yutong Zhang",
+          "Lujain Ibrahim",
+          "Robert E. Kraut",
+          "Diyi Yang"
+        ],
+        "published": "2026-11-18",
+        "summary": "General-purpose artificial intelligence (AI) assistants are increasingly embedded in everyday life, transforming how people accomplish tasks and potentially reshaping how they interact with others. Prior research has focused on how using AI for explicitly social purposes affects users' psychological well-being and social lives. Yet such uses account for only a small portion of interactions with general-purpose AI assistants. Whether using AI for everyday, instrumental tasks affects users' psychological well-being and social behavior remains unclear. Here we investigate these effects through a longitudinal deactivation experiment with active ChatGPT users (N=625), in which participants were randomly assigned to abstain from using AI assistants for either fourteen days (treatment) or one day (control). Participants used AI predominantly for instrumental purposes, with 84.7% reporting productivity as their most frequent use case. Two weeks of deactivation significantly reduced loneliness relative to the control group ($β= -0.10$, $p=0.03$), with reductions persisting two weeks after participants resumed using AI ($β= -0.16$, $p=0.02$). Deactivation also significantly increased the number of people participants interacted with in person and the time they spent socializing over the intervention period. Open-ended responses indicate that during the deactivation period participants sought help from others for tasks they otherwise would have delegated to AI and redirected attention toward social interaction. Overall, our findings suggest that even when AI is used primarily to accomplish instrumental tasks, it may inadvertently reduce opportunities for social interaction and connection.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25258v1",
+        "title": "When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation",
+        "url": "https://arxiv.org/abs/2611.25258v1",
+        "authors": [
+          "Tunazzina Islam"
+        ],
+        "published": "2026-11-18",
+        "summary": "Post-hoc rewriting is used to reduce demographic disparities in LLM-generated text when the source model is inaccessible. A rewrite can look successful merely because it improved its own target or satisfied its selector. We study this as a transfer problem on 660 gender pairs and 1,980 age contrasts of demographic-conditioned climate messages. A rewriter proposes edits, a selection model chooses among constraint-satisfying candidates, and an independent evaluator uninvolved in either rates pairwise framing disparity. A fixed policy that always targets the message with the lower Persuasion Bias Index (PBI) transfers inconsistently across axes and outcome aggregations. An adaptive policy that proposes edits on both sides but accepts at most one significantly improves on that rule, applied to the same candidates, in seven of eight comparisons across two evaluator families, mostly by editing more pairs, not by guided direction choice, at higher preservation risk. A policy editing both messages gives the largest point reductions on fewer pairs. These two policies reduce disparity across a preservation-threshold sweep; absolute ratings vary across evaluator families and prompts. Shrinking the PBI gap increases dimension-mean disparity under both evaluator families. Mitigation should be reported as transfer across objectives, evaluators and their prompts, and editing policies.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25202v1",
+        "title": "Crisis Governance at the Joints. Mapping the Ethical and Societal Territory of Crisis Management Technologies: The Case of Human-Swarm Teaming",
+        "url": "https://arxiv.org/abs/2611.25202v1",
+        "authors": [
+          "Anthony Longo"
+        ],
+        "published": "2026-11-18",
+        "summary": "Crisis and disaster governance increasingly relies on technologies that sense, classify and act faster than humans can. Drone swarms coordinated with human operators, known as human-swarm teaming, provide a productive case to review the field of crisis governance. They promise better situational awareness in disaster response, but they also raise questions about human control, responsibility, surveillance, triage, dual use and public legitimacy. This report maps the ethical and societal territory that HST opens up. It unpacks this territory with a 3i-framework, the Interface, where operators and swarms work together, the Infrastructure, where organisations distribute tasks, decisions and blame, and the Imaginary, where law, policy and shared societal assumptions define what a crisis is and which interventions it justifies. The central claim is that these concerns cannot be addressed one level at a time. Many of the most pressing problems, such as responsibility gaps and the erosion of meaningful human control, arise at the joints between levels, through four translations, habits harden, routines become stories, principles become procedures, and procedures become prompts. Drawing on a critical review of literature across philosophy of technology, political theory, moral psychology, philosophy of mind, AI ethics, and critical disaster and security studies, the report develops this framework, illustrates it with two worked examples, and derives design and governance implications and a set of questions for developers, emergency organisations and policymakers.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.25140v1",
+        "title": "Asymmetric rhetorical strategies drive partisanship in television news",
+        "url": "https://arxiv.org/abs/2611.25140v1",
+        "authors": [
+          "Upasana Dutta",
+          "Homa Hosseinmardi",
+          "Amir Ghasemian",
+          "Aaron Clauset",
+          "Duncan J. Watts"
+        ],
+        "published": "2026-11-18",
+        "summary": "Television remains a dominant source of political information in the United States, yet systematic evidence on how partisanship is expressed in televised news remains limited. Prior research has largely treated partisanship as a one-dimensional construct, offering limited insight into the rhetorical strategies that underlie ideological bias. Here, by analyzing over 400,000 news episodes using large language models (LLMs), we provide a multi-dimensional measure of partisanship bias in television news across six major U.S. news stations (2013--2025). We identify eight interpretable linguistic features that explain 73% of partisanship variance in television news.\\ Our findings reveal systematic asymmetries across stations. While MSNBC and CNN shifted leftward during Republican presidencies and moderated under Democratic presidencies, Fox News increased its conservative alignment following each election regardless of the electoral outcome. Beyond aggregate trends, MSNBC and CNN emphasized attacks on Republican actors more than reinforcement of Democratic positions, whereas Fox News reinforced Republican viewpoints substantially more than it attacked Democratic viewpoints. The association between in-group praise and out-group attacks was also threefold stronger on Fox News than on MSNBC. These results are validated against trained human raters and replicated with four additional LLMs with differing political leanings. Together, our study reveals systematic station-level differences in the rhetorical strategies with which ideological slant is communicated in television news, opening new opportunities for future research on media effects, audience attitudes, and political communication.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-11-22\n\nToday's candidate pool highlights major milestones at the intersection of AI proof search, interactive theorem proving, and theoretical mathematics. Key advances include a physics no-go theorem discovered directly via AlphaProof Nexus in Lean 4, a major theoretical result on Boolean function degree lower bounds fully verified in Lean 4, and novel formalizations in Agda and Lean 4 for program semantics and LLM security monitoring.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[AlphaProof Nexus Discovers No-Go Theorem for Photonic GHZ States]**  \n  [A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger--Horne--Zeilinger States Discovered with AlphaProof Nexus](https://arxiv.org/abs/2611.26300v1) — Mario Krenn, Moritz Firsching, George Tsoukalas, Rishikesh Gajjala, Xuemei Gu, Swarat Chaudhuri  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves an open problem in quantum graph theory by proving that no complex-weighted monochromatic quantum graph exists for any even number of photons $N \\ge 4$ when the local dimension $D \\ge N$, ruling out high-dimensional photonic GHZ state generation via pair sources.  \n  - **AI Connection:** AI-assisted formal proof search in Lean using AlphaProof Nexus, which constructed a weighted sum of graph amplitudes whose row-column imbalance yields a physical contradiction.\n\n* **[Breaking the Prime-Gap Barrier for Symmetric Boolean Functions]**  \n  [Degree Lower Bounds for Symmetric Boolean Functions: Breaking the Prime-Gap Barrier](https://arxiv.org/abs/2611.26446v1) — Xiaoming Sun, Chengu Wang  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Advances progress toward von zur Gathen and Roche's conjecture by establishing that every nonconstant symmetric Boolean function on $n$ variables has exact real polynomial degree at least $n - \\widetilde{O}(n^{1/3})$, surpassing the traditional $O(n^{0.525})$ limit of prime-gap methods without relying on number-theoretic conjectures.  \n  - **AI Connection:** Interactive theorem prover Lean 4; every numbered result in the paper has been formally verified in Lean 4.\n\n* **[Resolution of Romik's Rationality Conjectures for Critical Percolation]**  \n  [On Romik's rationality conjectures for critical percolation](https://arxiv.org/abs/2611.26570v1) — Melda Akyazi-Zavadski, Nathanaël Berestycki, Sunil Chhita  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes key aspects of Romik's rationality conjectures by proving explicit Pfaffian formulas for submatching probabilities in the $O(1)$ loop model on semi-infinite cylinders and establishing their rationality in the half-plane limit.  \n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI). Hypergeometric sums were evaluated using Zeilberger's and Gosper's algorithms.\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Agda Formalization of Lambda-Calculus Isomorphisms & Groupoid Presentation]**  \n  [Hereditary permutations for simple types revisited: A baby case for University Algebra](https://arxiv.org/abs/2611.26507v1) — Thorsten Altenkirch  \n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Constructs an intrinsic, syntactic proof that definable isomorphisms in simply typed lambda-calculus correspond to hereditary permutations and proves a structural coherence theorem giving a Coxeter-style presentation of the underlying groupoid.  \n  - **AI Connection:** Formalised in Agda on intrinsically typed syntax with hereditary substitution without postulates.\n\n* **[Lean 4 Mechanization of First-Order Data-Flow in Transformers]**  \n  [Sightline: Calibrated Data-Flow Summaries for LLM-Integrated Applications](https://arxiv.org/abs/2611.26221v1) — Zihao Xu, Yuekang Li, Ruitao Feng, Haifeng Shen  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Proves and formalizes a data-flow theorem establishing that natural language placeholders flow to transformer outputs to first order exclusively through attention mechanisms, yielding calibrated data-flow pruning bounds.  \n  - **AI Connection:** Formal proof mechanized in Lean 4; the Sightline tool analyzes transformer model forward passes, attention weights, log-probability gradients, and Fisher signals to track information flow.\n\n* **[Lean 4-Verified Stateful Policy Enforcement Engine for AI Agents]**  \n  [Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents](https://arxiv.org/abs/2611.25599v1) — Meghana Aparna Sistla, Alaia Solko-Breslin, Somesh Jha, Aditya Kanade, Krishnamurthy Dj Dvijotham  \n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Provides a formal framework in Lean 4 for defining and verifying stateful security invariants (such as non-interference and information flow control) over OS-level side effects executed by autonomous AI agents.  \n  - **AI Connection:** Policies and action semantics are implemented in an embedded DSL in Lean 4 to enable formal verification of global security invariants over AI agent sandbox execution traces.\n\n---\n\n### 3. AI in Mathematics Education\n\nNo qualifying submissions met the threshold today.\n\n---\n\n### Provenance Footer:\n---\n*Synthesized with `gemini-3.6-flash` on 2026-11-22 12:30:26 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-11-22T12:31:04.871373+00:00"
+  }
+}
