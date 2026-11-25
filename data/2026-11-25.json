@@ -1,0 +1,628 @@
+{
+  "updated_at": "2026-11-25T12:30:28Z",
+  "pillars": {
+    "results": [
+      {
+        "id": "http://arxiv.org/abs/2611.33154v1",
+        "title": "Dominoes tiling a common figure",
+        "url": "https://arxiv.org/abs/2611.33154v1",
+        "authors": [
+          "Peter Keevash",
+          "Jeck Lim"
+        ],
+        "published": "2026-11-24",
+        "summary": "Call a two-element subset of $\\mathbb{Z}^2$ a domino. Given finitely many dominoes $D_1,\\ldots,D_k$, we show that there exists a finite non-empty $B\\subset \\mathbb{Z}^2$ such that $B$ can be partitioned into disjoint translates of $D_i$ for all $i$. The proof uses a new absorption mechanism for perfect matchings in algebraically defined hypergraphs.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33136v1",
+        "title": "A canonical Euclidean Gallai theorem",
+        "url": "https://arxiv.org/abs/2611.33136v1",
+        "authors": [
+          "Benedict Randall Shaw"
+        ],
+        "published": "2026-11-24",
+        "summary": "In this note, we prove a canonical Euclidean Gallai theorem: for any finite set of points $S\\subset \\mathbb{R}^d$, any colouring of $\\mathbb{R}^d$ contains a scaled (and possibly rotated) copy of $S$ that is either monochromatic or rainbow.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33127v1",
+        "title": "Winning and losing NoGo is PSPACE-complete",
+        "url": "https://arxiv.org/abs/2611.33127v1",
+        "authors": [
+          "Kyle Burke",
+          "Alfie Davies",
+          "Craig Tennenhouse"
+        ],
+        "published": "2026-11-24",
+        "summary": "We resolve an open problem of Burke and Hearn and show that the combinatorial game NoGo is PSPACE-complete on grids. This is the usual geometry the game is played on, including at the tournament at a 2011 Banff workshop. In addition to this result, we show that it is also PSPACE-complete under misère play on grids. We prove both of these results using reductions from Bounded Two-Player Constraint Logic. Finally, we show that it is PSPACE-complete under normal play on connected bipartite subcubic graphs.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33120v1",
+        "title": "Efficient reconfiguration, polynomial decompositions and approximate counting",
+        "url": "https://arxiv.org/abs/2611.33120v1",
+        "authors": [
+          "Peter Keevash",
+          "Jeck Lim"
+        ],
+        "published": "2026-11-24",
+        "summary": "We consider reconfigurations of integer assignments to planar lattice regions that preserve specified line totals, which are motivated by questions of combinatorial construction, algorithmic sampling and approximate counting. An elementary prototype is provided by contingency tables, i.e. two-dimensional grids of non-negative integers with prescribed row and column sums, which can be reconfigured by basic switches of the form $\\left(\\begin{smallmatrix}1&-1\\\\-1&1\\end{smallmatrix}\\right)$. More difficult combinatorial instances include reconfiguration of Latin squares or queens configurations. Our main technical ingredient is the following polynomial decomposition lemma. Fix a positive integer $k$. Let $F(x)\\in \\mathbb{Z}[x]$ be a polynomial of degree at most $n$ such that $(1-x)^k\\mid F(x)$ and the sum of the absolute values of the coefficients of $F$ is $m$. We prove that $F$ can be written as a sum of $O(m+n)$ basic polynomials of degree at most $n$ of the form $\\pm x^a(1-x^{a_1})\\cdots (1-x^{a_k})$ where $a,a_1,\\ldots,a_k$ are non-negative integers. The proof uses the existence of a miraculous high-dimensional coupling of signed distributions on cross polytopes that has independent interest. We will apply this lemma to questions of combinatorial construction in other papers; in this paper we illustrate its application to approximate counting.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33116v1",
+        "title": "Brauer classes of representations of division algebras and their Langlands parameters",
+        "url": "https://arxiv.org/abs/2611.33116v1",
+        "authors": [
+          "Ryan Xu"
+        ],
+        "published": "2026-11-24",
+        "summary": "For every depth-zero supercuspidal representation $π$ of $\\mathrm{GL}_n(K)$ with algebraic-valued central character, we prove that the Brauer obstructions to realizing its Jacquet-Langlands transfer and its normalized Langlands parameter $\\varphi_π\\otimes|\\cdot|^{-(n-1)/2}$ over their common field of rationality $E=\\mathbb{Q}(π)$ sum to $(n-1)[B_{p,\\infty}\\otimes_{\\mathbb{Q}} E]$. Here $K/\\mathbb{Q}_p$ is finite, the transfer is to the units of the central division algebra over $K$ of invariant $1/n$, and $B_{p,\\infty}$ is the quaternion algebra over $\\mathbb{Q}$ ramified exactly at $p$ and $\\infty$. We conjecture this identity without the depth restriction. For arbitrarily large $n=p-1$, we construct simple supercuspidal representations satisfying the same sum formula. Their transfers have finite-order central character and Schur index $n$, whereas their normalized parameters have index $n/2$. Since these transfers are not self-dual, the unequal indices contradict the isomorphism of Schur algebras conjectured by Prasad and Ramakrishnan.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33114v1",
+        "title": "Forms and polynomial covers in many variables",
+        "url": "https://arxiv.org/abs/2611.33114v1",
+        "authors": [
+          "Yijie Diao",
+          "Lena Wurzinger"
+        ],
+        "published": "2026-11-24",
+        "summary": "Let $F \\in \\mathbb{Z}[x_1,\\ldots,x_n]$ be a homogeneous form of degree $d \\ge 2$, and let $σ$ be the affine dimension of the singular locus of $F = 0$. We prove that the hypersurface $F = 0$ satisfies the smooth Hasse principle whenever \\[ n - σ\\ge 2^{d + 1} - 3. \\] This is the first improvement in the order of magnitude of Birch's classical result. We also apply the method to the counting problem for polynomial covers $F(x_1,\\ldots,x_n) = g(y)$, and give a condition on $n - σ$ under which Serre's conjectural upper bound holds and another condition under which the expected asymptotic formula holds.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33113v1",
+        "title": "Max-degree filtration, Koszul complexes, and Multicolor Permutation Wordle",
+        "url": "https://arxiv.org/abs/2611.33113v1",
+        "authors": [
+          "Lawren M. Smithline"
+        ],
+        "published": "2026-11-24",
+        "summary": "We explore the Koszul resolutions of a family of ideals, each generated by multivariate polynomials that split completely into linear factors. The motivating examples come from the game Permutation Wordle of Kutin and Smithline, as analyzed by Kutin, Smithline, and Vatter, and an open question, Conjecture 4.5 in Kutin and Smithline's work on Multicolor Permutation Wordle. For each ideal in this family, with our chosen generators, the Koszul differentials are strict for the max-degree filtration and, more generally, at every multidegree whose coordinates form a set of consecutive integers. The resulting dimension count resolves Kutin and Smithline's conjecture. The proof is an induction in which each inductive step is an iteration. The core argument is human generated. The present proof, developed with AI assistance, separates the iteration of multidegree reductions from the mapping cone induction. This method avoids the need to chase compatibility of lifts up to the top grade of the complex.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33108v1",
+        "title": "Large blow-ups of uniform hypergraphs",
+        "url": "https://arxiv.org/abs/2611.33108v1",
+        "authors": [
+          "Dhruv Mubayi"
+        ],
+        "published": "2026-11-24",
+        "summary": "Let \\(k\\ge2\\), let \\(H\\) be a fixed \\(k\\)-uniform hypergraph on \\(h\\) vertices with at least one edge, and let \\(a>0\\). We prove that every sufficiently large \\(n\\)-vertex \\(k\\)-uniform hypergraph with at least \\(a n^h\\) copies of \\(H\\) contains a blow-up of \\(H\\) with at least \\(b(\\log n)^{1/(k-1)}\\) vertices in each part, where \\(b=b(H,a)>0\\). The exponent of $\\log n$ is best possible. This answers a question of Rödl and Schacht and proves a conjecture of Bollobás, Erdős and Simonovits from 1976. For fixed \\(q\\ge2\\) and \\(0<α<1/2\\), it follows that every \\(q\\)-coloring of the \\(k\\)-subsets of \\([n]\\) contains a set of order \\((\\log n)^{1/(k-1)}\\) on which one color has density at least \\(1-α\\). For triples this recovers the sharp bound of Conlon, Fox and Sudakov. For \\(k\\ge4\\), this improves their general exponent to the optimal value \\(1/(k-1)\\) and answers a 1990 question of Erdős for which he offered a \\$500 prize.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33087v1",
+        "title": "The tower transition in majority bootstrap percolation",
+        "url": "https://arxiv.org/abs/2611.33087v1",
+        "authors": [
+          "Vyacheslav Koval",
+          "Yuval Peres"
+        ],
+        "published": "2026-11-24",
+        "summary": "How large must a high-dimensional torus be for majority bootstrap percolation to fill it at a given density below one half? For a torus of side length $n\\ge3$, let $H(n)$ be the smallest $h$ such that a tower of $h$ twos has value at least $n$. If $H(n)/d\\toρ\\in[0,1]$, the critical density on the $d$-dimensional torus tends to $(1-ρ)/(2-ρ)$. In particular, the smallest side length $n$ for which the critical density is at most $1/4$ satisfies $H(n)\\sim 2d/3$. The same curve holds for ordinary boxes of side at least $d$. For boxes with $n/d\\to a>0$ we obtain the limiting density $\\max\\{1/2,1-2^{-1/a}\\}$. We determine the first correction to the tower curve away from $ρ=1$.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33073v1",
+        "title": "Properties of the Sawin--Wood Model for Unramified Galois Groups of Global Fields",
+        "url": "https://arxiv.org/abs/2611.33073v1",
+        "authors": [
+          "Mark Shusterman",
+          "Gonen Zimmerman"
+        ],
+        "published": "2026-11-24",
+        "summary": "We prove almost-sure finite generation and finite presentation in the pro-$|Γ|'$ $Γ$-category for the Sawin--Wood measure $ν_{Γ,n,U}$, where $Γ$ is a non-trivial finite group, $n$ is coprime to $|Γ|$, and $U$ is a nonempty multiset of conjugacy classes of $Γ$. The $Γ$-generator rank of the random group $X$ has the sharp tail $\\mathbf{P}(d_Γ(X) \\geq r) = Ce^{-κr^2-ζr}(1+O(e^{-\\varepsilon r}))$, where $C>0$, $κ>0$, and $ζ\\in\\mathbb{R}$ are explicit constants depending on $n$, $Γ$ and $U$, and $\\varepsilon>0$. Almost surely, $X$ admits a presentation with the minimum number of $Γ$-generators, using at most $|U|$ more defining $Γ$-relations than generators. We also prove that every open subgroup of $X$ has finite abelianization almost surely under the assumption that for every complex representation of $Γ$ there is an element in $U$ that fixes a nonzero vector. Finally, we prove that $H_2(X,\\widehat{\\mathbb{Z}})=0$ almost surely when $n=1$, $Γ$ is cyclic, and $U$ contains only the conjugacy class of a generator of $Γ$ (with multiplicity one).",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33066v1",
+        "title": "$S$-preclones and the Galois connection ${}^S\\mathrm{Pol}$-${}^S\\mathrm{Inv}$, Part II: Boolean $\\pm$-preclones",
+        "url": "https://arxiv.org/abs/2611.33066v1",
+        "authors": [
+          "Peter Jipsen",
+          "Erkko Lehtonen",
+          "Reinhard Pöschel"
+        ],
+        "published": "2026-11-24",
+        "summary": "We continue the investigation of $S$-preclones initiated in Part I, specializing to the case of Boolean $\\pm$-preclones where $S = \\{+,-\\}$ is the two-element group and the base set is $A = \\{0,1\\}$. The main results include the complete classification of maximal and minimal Boolean $\\pm$-preclones in the lattice ${}^{\\pm}\\mathcal{L}_2$ of all Boolean $\\pm$-preclones. We prove that there are exactly nine maximal Boolean $\\pm$-preclones. Hence we obtain a completeness theorem for $\\pm$-preclones: a set of $\\pm$-operations generates all $\\pm$-operations if and only if it contains an operation that fails to preserve each of the nine defining $\\pm$-relations of the maximal $\\pm$-preclones. Next we classify the twenty minimal Boolean $\\pm$-preclones (atoms of the lattice), each described via a generating $\\pm$-operation. We also investigate self-dual $\\pm$-preclones, characterizing the eight maximal and nine minimal self-dual $\\pm$-preclones and proving a corresponding completeness theorem. Additionally, we include the result, due to Vojtěch David, that the lattice ${}^{\\pm}\\mathcal{L}_2$ is uncountable, in contrast with the countability of the classical Post lattice of Boolean clones. This is established by embedding an uncountable poset of clonoids into ${}^{\\pm}\\mathcal{L}_2$. Finally, we study preimage classes of classical Boolean clones within ${}^{\\pm}\\mathcal{L}_2$, providing complete descriptions for the unary case and for several non-unary minimal clones. We also prove a Baker--Pixley type theorem for $\\pm$-preclones containing the majority operation, showing that such $\\pm$-preclones are determined by their binary $\\pm$-relations.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33046v1",
+        "title": "Undershoot of h-fold sumsets: Apéry spectra, similar ordering and the three-distance theorem",
+        "url": "https://arxiv.org/abs/2611.33046v1",
+        "authors": [
+          "Prashant Chaudhary",
+          "Kapil Khandelwal"
+        ],
+        "published": "2026-11-24",
+        "summary": "For a finite set $A_0\\subset\\mathbb{N}$ with $0\\in A_0$, $\\max A_0=d$ and $\\gcd(A_0)=1$, and a target $T$, the undershoot at level $h$ is the distance from $T$ down to the largest element of the $h$-fold sumset $hA_0$ not above $T$. Its total over $T\\in[0,hd]$ is bounded in $h$: for large $h$ it equals the sum of the masses of two numerical semigroups attached to $A_0$, where the mass adds $L(L+1)/2$ over the maximal runs of $L$ gaps. We describe how the total reaches this limit: it can rise to it, fall to it, or climb past it and return. When the monomial curve of $A_0$ is arithmetically Cohen-Macaulay, two Apéry sets give every undershoot exactly, and partial sums of a fixed spectrum bound the total from below, with equality at every level exactly when two threshold sequences are similarly ordered; the total then rises concavely to its limit, reached exactly at the sumsets regularity. We characterize the similarly ordered four-element sets. For $\\{0,a,b,2b\\}$ with $0<a<b$ coprime, the three-distance theorem gives the total in explicit quadratic pieces. A non-Cohen-Macaulay set exceeds its limit at every failing level $h$ with $hd$ at least the sum of the two conductors; every such four-element set does so, and a five-element example never does. For arbitrary sets, finite corner data give the exact undershoot over any window.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33029v1",
+        "title": "Prismatic construction of crystalline deformation rings up to p-power torsion",
+        "url": "https://arxiv.org/abs/2611.33029v1",
+        "authors": [
+          "Yu Min"
+        ],
+        "published": "2026-11-24",
+        "summary": "We study the deformation of Galois representations which are etale realizations of finitely generated prismatic F-crystals and show the deformation functor is pro-represented by a complete Noetherian local ring whose Z_p-flat quotient coincides with Kisin's crystalline deformation ring. As a consequence, we obtain a universal prismatic F-crystal with coefficients in Kisin's crystalline deformation ring.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33008v1",
+        "title": "Perfect powers with small exponents from products of terms in progression",
+        "url": "https://arxiv.org/abs/2611.33008v1",
+        "authors": [
+          "Kyle Pratt"
+        ],
+        "published": "2026-11-24",
+        "summary": "Let $k$ be a large integer, and let $\\ell$ be an integer with $2 \\leq \\ell \\leq (\\log \\log k)^{1/5}$. We determine all solutions to the Diophantine equation \\begin{align*} n(n+d)\\cdots (n+(k-1)d)=y^\\ell \\end{align*} in nonzero integers $n,d,y$ with $d\\geq 1$ and $\\text{gcd}(n,d)=1$. We also prove results for generalizations where the product $n(n+d)\\cdots (n+(k-1)d)$ is ``almost'' a perfect power, rather than exactly a perfect power, and where some of the terms $n+id$ are dropped from the product.",
+        "source": "arXiv",
+        "pillar": "results"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33001v1",
+        "title": "The local Weil explicit formula and related structures",
+        "url": "https://arxiv.org/abs/2611.33001v1",
+        "authors": [
+          "Masatoshi Suzuki"
+        ],
+        "published": "2026-11-24",
+        "summary": "We study the reproducing kernel Hilbert spaces constructed from the local Weil quadratic form associated with the Riemann zeta function. Wherever this form is positive definite, we prove a local explicit formula expressing the Weil distribution in terms of the discrete spectra of self-adjoint extensions of the differentiation operator. We characterize the Riemann hypothesis by the uniform boundedness of the diagonal values of the reproducing kernels. We then study the chain of de Branges spaces and recover the Hamiltonian of the corresponding canonical system explicitly from these kernels under local positivity, without assuming the Riemann hypothesis. Finally, assuming the Riemann hypothesis, we study the asymptotic behavior of solutions of this system.",
+        "source": "arXiv",
+        "pillar": "results"
+      }
+    ],
+    "architecture": [
+      {
+        "id": "http://arxiv.org/abs/2611.33078v1",
+        "title": "FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics",
+        "url": "https://arxiv.org/abs/2611.33078v1",
+        "authors": [
+          "Yisrael Clark",
+          "Guy Katz"
+        ],
+        "published": "2026-11-24",
+        "summary": "Large Language Models (LLMs) are increasingly used to translate natural-language statements into first-order logic (FOL) to improve reasoning. However, LLMs are prone to errors, and so a semantically unfaithful FOL formula could corrupt downstream reasoning. We present FOL-Proof, a semantic firewall pipeline that validates LLM-generated FOL translations against independently derived linguistic interpretations. FOL-Proof operates by deterministically obtaining a pool of candidate translations via semantic analysis tools, such as the English Resource Grammar and Minimal Recursion Semantics; then applying an SMT solver to check each derived reading for logical equivalence to the LLM-generated formula. If the translation is faithful it is accepted; otherwise, it is rejected, or optionally repaired via repeated invocations to the LLM. The procedure is conservative: incomplete search, unsupported constructions, or inconclusive checks yield abstention rather than false rejection. We evaluated FOL-Proof on established benchmarks (ProofWriter, RuleTaker and PrOntoQA), and also on a new adversarial benchmark (LongFaithCheck). Our experiments show that FOL-Proof attains near perfect selective accuracy, while direct LLM judges and round-trip baselines show substantially worse performance.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32977v1",
+        "title": "On Presburger Arithmetic Expanded with Prime Numbers",
+        "url": "https://arxiv.org/abs/2611.32977v1",
+        "authors": [
+          "Joris Nieuwveld"
+        ],
+        "published": "2026-11-24",
+        "summary": "We prove unconditionally that the first-order theory of Presburger arithmetic expanded by a predicate for the primes is undecidable. Bateman, Jockusch and Woods proved this in 1993 assuming Dickson's conjecture. We use the counter-machine framework of Karimov, Nieuwveld and Ouaknine and their idea of using `arbitrary permutations', and the number-theoretic input comes from Hildebrand and Maier's 1988 proof that the limit points of $k$ consecutive normalised prime gaps have positive measure. We use a discrete version, which they obtain before limits are taken. The key lemma is that although Hildebrand and Maier's result does not seem to give arbitrary permutations of consecutive prime gaps, it gives arbitrary permutations for the differences $p_i - q_i$ for two finite blocks of consecutive primes $p_0 < \\cdots < p_k$ and $q_0 < \\cdots < q_k$. Moreover, with the same key lemma, we show that Presburger arithmetic expanded with the function that maps $n$ to the $n$th prime defines multiplication.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32868v1",
+        "title": "Sound Distributed Runtime Verification under Incomplete Evidence",
+        "url": "https://arxiv.org/abs/2611.32868v1",
+        "authors": [
+          "Nikolaos Kekatos",
+          "Antonio Anastasio Bruto da Costa",
+          "Alexios Lekidis",
+          "Pabitra Mitra",
+          "Hosein Nazarpour",
+          "Priyanka Sinha"
+        ],
+        "published": "2026-11-24",
+        "summary": "Distributed runtime verification often requires combining evidence from several nodes to check properties that cannot be evaluated locally. However, when messages are delayed, lost, or deliberately suppressed, the verifier may not know whether a violation occurred or whether the relevant evidence is missing. This creates a risk of incorrectly reporting compliance. We study the requirements for sound monitoring under these conditions. We first show that a deadline-bounded monitor cannot be simultaneously sound, decisive, and available when an adversary can suppress evidence. The monitor must therefore be able to abstain. We then distinguish two sources of incomplete evidence. Sequence numbers and periodic reports can identify missing events, whereas detecting silent streams requires timing assumptions. We also examine how membership changes and coordinator failures affect verdict soundness and recovery. We implement these mechanisms in a three-tier monitoring architecture using MQTT and NATS JetStream. Experiments with an LLM-planned robot swarm demonstrate the failure modes, show how the proposed mechanisms prevent unsupported compliance verdicts, and measure their runtime and communication costs.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32234v1",
+        "title": "Concurrent Visibility: Higher-Order Concurrency with First-Order Store",
+        "url": "https://arxiv.org/abs/2611.32234v1",
+        "authors": [
+          "Iwan Qu{é}merais",
+          "Guilh{è}me Jaber",
+          "Ken Sakayori",
+          "Davide Sangiorgi"
+        ],
+        "published": "2026-11-24",
+        "summary": "We propose an Operational Game Semantics for a (call-by-value) concurrent higher-order language with first-order store (references may contain other references or first-order values such as integers or booleans; however they may not store higher-order values such as functions). We adapt the game-semantic notion of visibility, which semantically captures the absence of higher-order references and developed for sequential higher-order languages, to a concurrent setting. We thus define a complete-trace preorder, and prove it sound for the contextual preorder, by introducing a synchronization-based composition of semantic configurations and establishing an observational adequacy result. We also prove completeness for the subset of the language in which functions return first-order values. In contrast to the case of sequential visibility, in the labeled transition semantics we have to account for the presence of multiple active threads with possibly different visibilities, and of a tree-like structure for managing the dependencies among the threads so created. Moreover, we have to reason on families of traces, rather than single traces, as in concurrent setting the order among certain actions cannot be enforced.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32141v1",
+        "title": "SAT Solving for Power Peak Minimization in the Parallel--Serial--with--Crossover Assembly Line Balancing Problem",
+        "url": "https://arxiv.org/abs/2611.32141v1",
+        "authors": [
+          "Chi Phong Nguyen",
+          "Khanh Van To"
+        ],
+        "published": "2026-11-24",
+        "summary": "The Parallel--Serial-with-Crossover Assembly Line Balancing Problem with Power Peak Minimization (PSCALB3PM) was introduced by Delorme and Gianessi (2022), who proposed an integer linear programming (ILP) model, and further developed in 2024 with a multi-start local-search matheuristic. This paper presents an exact approach based on Boolean satisfiability (SAT) that combines a compact encoding with incremental SAT solving. Specifically, it develops a compact encoding of task-to-workstation precedence constraints and an incremental SAT-based optimization procedure for power peak minimization. We evaluate the proposed method on 375 benchmark instances and compare it with both reference methods. SAT finds feasible solutions for all 375 instances and certifies optimality for 159, compared with 346 feasible solutions and 126 optimality certificates obtained by the ILP method. Relative to the reference matheuristic, SAT achieves lower power peaks on 130 instances, whereas the matheuristic obtains lower values on only four. These findings establish SAT as a competitive exact method for PSCALB3PM, achieving higher feasible-solution coverage and more optimality proofs than the reference ILP model, while generally outperforming the existing matheuristic in terms of solution quality.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32095v1",
+        "title": "Self-Reference and Relative Incompleteness: From Logical Obstructions to Hardness Hypotheses",
+        "url": "https://arxiv.org/abs/2611.32095v1",
+        "authors": [
+          "Jie Luo",
+          "Ke Xu"
+        ],
+        "published": "2026-11-24",
+        "summary": "We define relative incompleteness and use it to provide a unified framework for Gödelian incompleteness and the limits of local observations in finite SAT. A background is incomplete relative to a target question if two realizations compatible with that background give opposite answers. Gödelian diagonalization yields a sentence whose truth value differs across two models of the same theory, while solution-dependent blocking yields two formulas that agree on the observed clauses but differ in satisfiability. Both constructions realize a common diagonal relation between truth and acceptance that forces a sound partial evaluator to leave the target undecided. For a satisfiable formula, replacing a single unobserved clause without changing its variable support can make the formula unsatisfiable exactly when all solutions remaining after deletion of that clause agree on its support. If the original formula has a unique solution, this condition is equivalent to redundancy of the clause. More generally, an observation of a satisfiable formula determines satisfiability exactly when it includes a position at which the formula differs from each unsatisfiable completion. For uniquely satisfiable formulas, the positions that every sufficient observation must include are precisely the redundant ones. We also arithmetize solution blocking and construct a tagged fixed point that refers to its own blocking data. Finally, we use self-referential $K$-SAT to illustrate how relative incompleteness can provide a logical foundation for formulating a quantitative hardness hypothesis.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31811v1",
+        "title": "How Far Apart Are Two Proofs? Measuring Proof Dissimilarity in a Proof Kernel and in Lean/Mathlib",
+        "url": "https://arxiv.org/abs/2611.31811v1",
+        "authors": [
+          "Nikolaos Nikolaou"
+        ],
+        "published": "2026-11-24",
+        "summary": "We now live in the age of machine-generated mathematics: AI systems produce research-level proofs faster than the human mathematical community can read them. Verification is only part of the challenge. We also need to know whether a \"new proof\" is indeed new, whether a thousand generated proofs contain one idea or many, and where each sits relative to human mathematics. All of these require measuring distances between proofs. Following Hilbert's 24th problem and the identity-of-proofs problem, we ask how far apart two proofs of one theorem are, and what shape the proof space they inhabit has. We define 19 dissimilarity measures in 6 families (syntactic, structural, dependency & resource, semantic, information-theoretic, higher-categorical) and 10 desirable properties, which we argue are the conditions for safely optimising a measure. In a Curry-Howard kernel, 5 machine-checked proofs that the primes are infinite show that raw syntax cannot tell a rewrite from a new argument, that dependency-based and structural measures reproduce the intuitive ordering (Euclid rewritten < Goldbach < Furstenberg), and that semantic measures invert it: Furstenberg's topological proof produces exactly Euclid's witness. A replication in Lean 4/Mathlib (3 theorems, 19 proofs, 18 measures) confirms that dependency-closure measures track intuition best, and shows that equality of normal forms never holds between differently written versions of the same argument, that proofs by citation look unlike the arguments they cite, and that proof irrelevance cannot distinguish any two proofs. We argue for reporting dissimilarity as a multi-level profile, extend the measures to proofs of different theorems, and discuss uses, from detecting duplicated AI proofs and orchestrating prover agents to interpreting AI proofs via their nearest human-understandable counterparts. Code, Lean sources and data are released.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31762v1",
+        "title": "Verified Proof Refactoring with Codex and Qwen",
+        "url": "https://arxiv.org/abs/2611.31762v1",
+        "authors": [
+          "Lazar Milikic",
+          "Gordan Đurić",
+          "Viktor Kunčak"
+        ],
+        "published": "2026-11-24",
+        "summary": "We refactor existing Lean 4 proofs to reduce source length and checking cost while preserving theorem statements and compatibility across Lean versions. A locally served Qwen model uses the open-source Codex CLI to inspect source, retrieve declarations, and test proof replacements. The host keeps a replacement only if it improves the objective and Lean accepts it on every required version. A deterministic CPU pass then refines the verified proofs. On the 60 problems in Lean Refactor Arena, model search achieves a local mean combined score of 82.07, and cleanup raises it to 82.18. The final proofs pass all 127 required proof--version checks. Our system placed first in the open-source LLM track of Lean Refactor Arena at VeriCodeGen.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31571v1",
+        "title": "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs",
+        "url": "https://arxiv.org/abs/2611.31571v1",
+        "authors": [
+          "Umut A. Acar",
+          "Eli Goldweber"
+        ],
+        "published": "2026-11-23",
+        "summary": "Autoformalization translates a natural-language statement into a formula that captures its intent, which depends on the statement's context: the background that disambiguates it. LLMs make autoformalization practical, but their probabilistic output carries no formal guarantees. We propose techniques for safe autoformalization that certify one-sided logical adequacy: a formula sufficient for the intent is safe to enforce, and a formula necessary for it is safe to rely on. We use LLMs to generate candidate formulas and order them by logical strength in an Entailment Graph (EG), an ordering a solver decides. Each edge carries a residual and a co-residual, the two adjoints of the entailment order, all fixed by the candidate pool alone. In a context, two searches return the sufficient frontier, the weakest candidates that entail the statement, and the necessary frontier, the strongest candidates the statement entails; each step is one local check against an edge's residual or co-residual. The frontiers bracket the statement and yield the ambiguity residue, which holds exactly of the situations the candidates certify neither as satisfying nor as violating it; the statement is ambiguous precisely when the residue is satisfiable. For natural-language statements and contexts, an LLM entailment oracle decides the checks; it is sound if it accepts only checks that hold, and complete if it accepts every check that holds. We prove that a sound oracle makes the search safe regardless of pool quality, and that a complete one makes the frontiers tight. On security-critical AWS properties, EGs are safe in all 20 cases of an expert-adjudicated study, where majority vote over equivalence clusters and Universal Self-Consistency are unsafe in 25% and 10%. An ablation with the same oracle but no graph is unsafe in 25% and rejects every candidate in another 30%. We machine-checked our proofs in Lean.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31469v1",
+        "title": "Symbolic Proof Compression and Fractal Universality: A Conditional Non-Constructive Refutation of the Riemann Hypothesis",
+        "url": "https://arxiv.org/abs/2611.31469v1",
+        "authors": [
+          "Andreas Martin Lisewski"
+        ],
+        "published": "2026-11-23",
+        "summary": "Building on S.~C.~Woon's (1994) fractal and symbolic reformulation of Voronin's Universality Theorem, we construct a formal, non-constructive proof-by-contradiction architecture exploring the Riemann Hypothesis ($\\mathsf{RH}$). Woon's Corollary~3 permits arbitrary finite binary strings to be encoded into nowhere-vanishing exponential waveforms on a closed disk inside the critical strip. Combining effective upper bounds for Voronin universality (Good, Garunkštis) with Cauchy-integral Taylor decoding yields an explicit finite rational grid $\\mathcal{G}_{L_0}$ below an effective ceiling $H_{\\mathrm{crit}}(L_0)$ within which every formal proof of bit-length at most $L_0$ is imprinted with zero flipped digits. We introduce a conjectural \\emph{Zeta-Universal Symbolic Proof Compression Hypothesis} ($\\mathsf{SPC}_{\\mathsf{RH}}$), positing that the global regularity implied by $\\mathsf{RH}$ compresses true $Π_1^0$ statements about $ζ(s)$ into $\\mathsf{ZFC}$ derivations of bounded length $L_0$. Assuming classical logic and $\\mathsf{SPC}_{\\mathsf{RH}}$, Gödel--Carnap diagonalization over bounded zeta-encoded provability yields a contradiction. The self-referential result converts a digital encoding framework with any uniform proof-compression principle for RH into an immediate non-constructive refutation of RH. Given that, with human input and computer assistance, $\\mathsf{RH}$ has been formally verified in the Lean theorem prover strictly within constructive logic, this contradiction does not refute $\\mathsf{RH}$. Instead, it falsifies $\\mathsf{SPC}_{\\mathsf{RH}}$. We conclude by isolating the exact proof-theoretic obstruction---Pudlák's lower bound on bounded reflection proofs---showing why the analytic regularity of $\\mathsf{RH}$ cannot compress logical self-reference, and exposing the limits of applying the Law of Excluded Middle to uncomputably bounded searches.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31449v1",
+        "title": "CrossCheck II: A Compiler Plugin for Certified Cost Bounds of Real-Time C and C++ Code, and its Evaluation",
+        "url": "https://arxiv.org/abs/2611.31449v1",
+        "authors": [
+          "Luca Dall'Olio"
+        ],
+        "published": "2026-11-23",
+        "summary": "We describe a plugin for the Clang compiler that bounds the cost of C and C++ functions intended for real-time use, and rejects at compile time the functions that allocate, throw, call through pointers, or contain a loop or a recursion for which no bound is found. Loops are bounded by affine ranking potentials synthesized with an SMT solver through Farkas' Lemma, or by logarithmic ones, recursion by depth and size potentials, and callees are analyzed in the calling context in which they are used. For functions in a linear fragment, the plugin emits a cost certificate that a checker, compiled from a Lean~4 definition proved sound in a companion paper, validates with integer arithmetic only; the bound then depends neither on the analyzer nor on the solver. On the 29 kernels of the TACLeBench collection, without annotations, the plugin bounds 142 of 220 loops in the calling contexts of the programs, 131 of them exactly as the benchmarks' flow facts, and 161 of the 165 bounded functions receive a certificate that the checker accepts, 152 of them also validated against an independent description of the source. On the CMSIS-DSP library for Cortex-M (786 functions), with assumed input ranges, it bounds 616 functions. We compare the loop bounds with loop counts observed by running the kernels and with five existing analyzers (LLVM's ScalarEvolution, KoAT2, CoFloCo, Infer and oRange), and the plugin with KoAT2 and CoFloCo on the C programs of the Termination and Complexity Competition: without annotations, 147 of 553 programs receive a certified bound that holds for all inputs, where the two tools bound 288 and 264. Loop bounds, exported annotations and the checker program are also tested on random programs and on mutated certificates.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31430v1",
+        "title": "CrossCheck I: Cost Bounds of Imperative Programs as Constrained Optimization, with a Sound Cost Logic and a Verified Certificate Checker",
+        "url": "https://arxiv.org/abs/2611.31430v1",
+        "authors": [
+          "Luca Dall'Olio"
+        ],
+        "published": "2026-11-23",
+        "summary": "Static analysis of imperative programs often relies on iterative fixed-point approximations or concrete path exploration. We show that structured imperative control flow---while loops, linear recursion and branching recursion---can be mapped into constrained optimization problems over the free monoid of execution traces and the free algebra of computation trees. Ordering traces and trees by an intensional \\textit{order-by-composition} ($\\sqsubseteq$), halting is characterized as finding the minimal trace or tree that satisfies the exit condition, and we prove that this characterization coincides with the standard big-step semantics. Exact state recurrences are undecidable in general, so we relax them into cost envelopes, using ranking potentials and the tropical $(\\max,+)$ reading of the timing schema, and obtain sound upper bounds on execution cost. The bounds compose over whole programs in a cost logic for a small language with nondeterministic actions, procedures, recursion and assumed contracts, which we prove sound for terminating and non-terminating executions. A linear instance of the logic has certificates---programs annotated with invariants, potentials and Farkas multipliers---and a checker that validates them with integer arithmetic only; an accepted certificate bounds the cost of every execution. All results, the checker and the worked examples are machine-checked in Lean~4. A companion paper describes a Clang plugin that produces such certificates and its evaluation.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31323v1",
+        "title": "Depth of leaves in closed linear $λ$-terms: exact recurrence, limit law and edge window",
+        "url": "https://arxiv.org/abs/2611.31323v1",
+        "authors": [
+          "Olivier Bodini"
+        ],
+        "published": "2026-11-23",
+        "summary": "Let $K_n$ (resp.\\ $D_n$) be the depth of a uniform leaf (resp.\\ node) in a uniform closed linear $λ$-term of size $n$. A bijective \\emph{grafting identity} yields an exact polynomial-time recurrence for the full depth profile. By the method of moments, $K_n/n$ converges in law to the density $3x/\\sqrt{1-2x}$ on $[0,\\frac12]$, i.e.\\ $2K_n/n\\to\\Beta(2,\\frac12)$, with $\\mathbb E[K_n^r]/n^r\\to3(r+1)!/(2r+3)!!$; likewise $1-2D_n/n\\to\\Beta(\\frac12,1)$. A backward Markov chain gives the corresponding local limits for $k\\le(\\frac12-\\varepsilon)n$. The limit density diverges at $\\frac12$, and the profile has a second scale: a window of width $\\sqrt n$ around $n/2$, which carries a fraction of order $n^{-1/4}$ of the nodes, at a density $n^{1/4}$ times larger than in the bulk. We prove that a single explicit function describes both regimes: uniformly in $d$, \\[ n^{3/4}\\,\\mathbb P(D_n=d)=g\\Bigl(\\tfrac{d-n/2}{\\sqrt n}\\Bigr)+O(n^{-1/16}),\\qquad n^{3/4}\\,\\mathbb P(K_n=d)=\\tfrac{3d}{n}\\,g\\Bigl(\\tfrac{d-n/2}{\\sqrt n}\\Bigr)+O(n^{-1/16}), \\] where $g(y)=2^{-1/2}e^{-y^2}D_{-1/2}(2y)$ is a parabolic cylinder function. In particular $\\mathbb P(K_n>n/2)\\sim\\frac34\\,\\mathbb E|Z|^{1/2}\\,n^{-1/4}\\approx0.6166\\,n^{-1/4}$ with $Z$ standard Gaussian. The proofs rest on harmonic functions of the heat equation evaluated along the backward chain.",
+        "source": "arXiv",
+        "pillar": "architecture"
+      }
+    ],
+    "education": [
+      {
+        "id": "http://arxiv.org/abs/2611.33082v1",
+        "title": "Who decides the norms in TCS? Analysing the composition of the STOC 2027 committees and of the Simons Institute \"AI+TCS\" working group",
+        "url": "https://arxiv.org/abs/2611.33082v1",
+        "authors": [
+          "Guillaume Munch-Maccagnoni"
+        ],
+        "published": "2026-11-24",
+        "summary": "A working group organised by the Simons Institute released a report last September containing recommendations aiming to increase the usage of LLMs in theoretical computer science (TCS), including introducing them for communication and evaluation. Most of these recommendations were enacted by the STOC 2027 programme committee and the ACM SIGACT executive committee (as the steering committee of STOC). The composition of the Simons Institute working group is analysed along two axes: country of affiliation, and ties with industry (i.e. affiliated with or funded by). The results show an overwhelming representation of researchers from US institutions and private companies, and a large over-representation of researchers with ties to AI/Big Tech companies (in the present or the recent past). The composition of the STOC 2027 and 2026 programme committees is analysed in terms of country of affiliation. The results show a large over-representation in 2027 of researchers from US institutions/companies, and large under-representation of researchers from EU and Asian institutions, as compared to 2026. The composition of the ACM SIGACT extended executive committee is analysed along the same two axes as the Simons Institute working group: country and industrial ties. The results show the same overwhelming representation of researchers from US institutions/companies, and a large representation of researchers with ties to AI/Big Tech companies.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.33050v1",
+        "title": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
+        "url": "https://arxiv.org/abs/2611.33050v1",
+        "authors": [
+          "Zihan Chen",
+          "Di Zhu",
+          "Lei Nico Zheng"
+        ],
+        "published": "2026-11-24",
+        "summary": "Answers from generative AI chatbots built on large language models (LLMs) now arrive at very different speeds: reasoning models deliberate before replying, while response caches can return a stored answer at once. Blind preference votes, which rank these models, are read as judgments of their text, and if delivery matters, faster answers are expected to gain. Research on the labor illusion and on how text appears on screen suggests instead that an answer which unfolds as it is written is credited over the same answer shown at once. We test these accounts with three sources of variation in natural use. First, compar:IA, a French government chatbot arena, answered repeated prompts, by a random draw, either with a fresh answer streamed as it was written or with a stored earlier answer from the same model, shown at once. Within the same prompt, a replay lowered an answer's chance of winning a decisive blind vote by 25.8 percentage points. The same stored text won 57% of its decisive votes when streamed and 29% when replayed, and voters called it less complete, more superficial and more often incorrect when replayed. Second, provider congestion slowed streamed answers. In 324,029 conversations, slower answers earned no detectable net credit in the vote, but a slower first exchange made visitors less likely to ask a follow-up question. Third, in 4,378,514 WildChat replies from everyday ChatGPT use, replies slowed by congestion made users less likely to continue. Delivery moved blind votes, in the direction opposite to the one the arena's designers expected, while waiting cost follow-up questions that a comparison between two answers cannot register when both are slow. The results bear on how AI services cache and stream answers, how they budget latency, and how preference leaderboards evaluate models.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32869v1",
+        "title": "AI, Bias, and Inclusion: A Two-Phase Mixed-Methods Study of Gender Bias, Awareness, and Trust in Artificial Intelligence",
+        "url": "https://arxiv.org/abs/2611.32869v1",
+        "authors": [
+          "MD Junayed Talukdar",
+          "Khosro Salmani"
+        ],
+        "published": "2026-11-24",
+        "summary": "Artificial Intelligence (AI) systems are widespread across fields such as healthcare, finance, employment, and criminal justice, with a substantial impact on the lives of individuals and society. However, it has been established that AI systems perpetuate existing social inequalities, particularly through biases that are not easily discernible. Such biases are embedded in the technical and social structures of artificial intelligence systems, making them difficult to detect. These biases challenge the concept of Equity, Diversity, and Inclusion (EDI), which recognizes diversity as the acknowledgment of individual differences, equity as fairness and equal access, and inclusion as the value placed on all participants. This study argues that fairness in artificial intelligence systems cannot be achieved by focusing solely on their technical aspects, necessitating a holistic approach. This study employs a two-phase mixed-methods design. Phase 1 applies computational content analysis to 360 occupational narratives generated by ChatGPT across four countries (Canada, Germany, India, and Bangladesh) using gender-neutral prompts to examine whether professions are predominantly associated with one gender and whether these patterns remain consistent across regions. Phase 2 examines the extent to which students recognize potential bias in AI, their trust in AI for consequential decision-making, and how these perceptions relate to themes in EDI and AI ethics scholarship. By combining output-level bias analysis with user perception data, this study identifies the empirical foundations necessary for future EDI-AI co-design frameworks, outlining the sociotechnical dimensions that such frameworks must address to be effective.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32768v1",
+        "title": "Emerging International Best Practices for AI Model Specs",
+        "url": "https://arxiv.org/abs/2611.32768v1",
+        "authors": [
+          "Edward Kembery",
+          "Nathan Lambert",
+          "Robert McCarthy",
+          "Jinge Wang",
+          "Peng Xu",
+          "Naying Hu",
+          "Clement Neo",
+          "Xu Jia",
+          "Miro Pluckebaum",
+          "Seán Ó hÉigeartaigh",
+          "Sören Mindermann",
+          "Christoph Winter",
+          "Lujain Ibrahim",
+          "Yawen Duan",
+          "Saad Siddiqui"
+        ],
+        "published": "2026-11-24",
+        "summary": "Frontier AI developers from around the world have begun to publish documents that describe how their AI models are intended to behave. Although these 'model specifications'-or 'model specs', for short-are increasingly important in AI development and governance, little independent guidance exists for writing them. This paper addresses this gap in five main sections. First, we outline the advantages of writing a model spec for AI developers and society at large. Second, we introduce a taxonomy for model specs that developers can take inspiration from. Third, we propose guidance for writing and implementing a spec in practice. Fourth, we note eight open problems related to writing model specs for safe and desirable behaviour. We conclude with recommendations for frontier AI companies, governments, and research and civil society organisations.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32710v1",
+        "title": "Red-Teaming a Sovereign LLM, Its Reasoning and Its Training Stages",
+        "url": "https://arxiv.org/abs/2611.32710v1",
+        "authors": [
+          "Hatef Otroshi Shahreza"
+        ],
+        "published": "2026-11-24",
+        "summary": "Open-weight large language models (LLMs) are increasingly deployed for applications with sensitive information. We investigate whether confidentiality instructions in system prompt can protect such information. We red-team Apertus v1.5, an open sovereign LLM, and five other model families across six languages and reasoning modes. We use synthetic personal records to evaluate direct disclosure, correction baits, yes/no verification, derived-value queries, reasoning leakage and authorisation checks. We also explore copyright attribution, historical misrepresentation and stereotyping. Despite confidentiality instructions, Apertus 8B and 70B leak information in 96% and 95% of requests, respectively, in correction-bait attacks. Verification and derived-value queries also expose protected information without necessarily revealing identifiers. Moreover, reasoning traces can leak confidential records even when final answers withhold them. Our experiments also show that post-training does not consistently improve safety. Our findings demonstrate that system prompts alone cannot ensure confidentiality and highlight the need for multilingual reasoning-aware safety evaluations.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32464v1",
+        "title": "Gamification in the age of AI: surveying player perceptions of motivation, manipulation, and data protection",
+        "url": "https://arxiv.org/abs/2611.32464v1",
+        "authors": [
+          "Kurt Horvath",
+          "Tom Tucek"
+        ],
+        "published": "2026-11-24",
+        "summary": "Modern games and applications increasingly employ artificial intelligence (AI), user modeling, and gamification to influence user behavior, sustain engagement, and monetize attention. Although these mechanisms can enhance motivation and enjoyment, they also raise concerns about manipulation, personal data usage, and transparency. To examine how players perceive these dynamics, we conducted a survey with 28 adult participants. Respondents expressed strong concerns about the collection and exploitation of personal information in games and gamified applications, while also reporting low awareness and a limited sense of control over how their data is used. They evaluated progression features such as leveling systems and leaderboards as motivating. In contrast, they rated retention-focused mechanics such as daily login rewards and random reward reveals as highly manipulative. Participants reported that these systems can create fear of missing out or resemble gambling. Participants also expressed support for regulatory measures that limit exploitative design and protect vulnerable users. These findings reveal a clear gap between increasingly powerful engagement strategies and user trust, illustrating the need for more responsible and transparent gamification practices.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32348v1",
+        "title": "Explaining intersectional segregation in multi-attribute social networks",
+        "url": "https://arxiv.org/abs/2611.32348v1",
+        "authors": [
+          "Clara Eminente",
+          "Elisa Omodei",
+          "Michele Starnini"
+        ],
+        "published": "2026-11-24",
+        "summary": "Segregation in students' friendships shapes their access to information and opportunities, and schools can reduce it by setting the composition of their classes. Yet segregation is usually measured one attribute at a time, although attributes such as migration background and sex are often correlated, so a preference over one can create segregation on the other. A single-attribute reading then attributes this induced segregation to the wrong preference and cannot identify which part of it a school can remove. In a network model with preferences over two correlated attributes, we derive in closed form the Coleman index, a standard segregation measure, separating the segregation due to each preference from the segregation it induces on the other attribute. In friendship networks of school classes in four European countries, ignoring sex inflates the estimated preference over migration background, increasingly so as the two attributes are more correlated. The closed form also shows what class composition can achieve. When students have no preference over one attribute, the segregation induced on it can be removed, whereas segregation set by a homophilic preference over the other cannot be changed. When both preferences are active, splitting a school with equal-sized groups and independent attributes reduces segregation only if the preferences pull in opposite directions. Judging a split by the school-wide average can hide classes that become more segregated. In the data, the split derived from the closed form removes induced segregation, and splitting does not lower segregation where both preferences are homophilic, as predicted.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32330v1",
+        "title": "An expert consensus on identification likelihood in NeuroImaging data",
+        "url": "https://arxiv.org/abs/2611.32330v1",
+        "authors": [
+          "Cyril R. Pernet",
+          "Mahnaz Arvaneh",
+          "Elise Bannier",
+          "Michael Breakspear",
+          "Vince Calhoun",
+          "Jason da Silva Castanheira",
+          "Arnaud Delorme",
+          "Simon Eickhoff",
+          "Anders Eklund",
+          "Alex Fornito",
+          "Melanie Ganz",
+          "Clara Moreau",
+          "Tom Nichols",
+          "Gustav Nilsonne",
+          "Robert Oostenveld",
+          "Bryan Paton",
+          "Petra Ritter",
+          "Ariel Rokem",
+          "Michael Schirner",
+          "James Mac Shine",
+          "Michel Thiebaut de Schotten",
+          "Bertrand Thirion",
+          "Mattia Veronese",
+          "Natalie Voets",
+          "B. T. Thomas Yeo",
+          "Anita",
+          "Jwa"
+        ],
+        "published": "2026-11-24",
+        "summary": "Guidelines on the anonymity of neuroimaging data help manage research data, inform institutional legal and governance frameworks, and support data-sharing workflows. The question of identifiability is particularly salient in human brain imaging because such data are not only potentially personal (i.e., related to an identifiable person) but also sensitive and thus require extra precautionary and protective processes. The identifiability of brain imaging data is also salient for emerging legal and ethical frameworks regarding rights that emphasise the special status of brain data as closely linked to personal identity, mental privacy, and autonomy. Using a combined nominal group technique and Delphi process, we obtained expert consensus ratings of re-identification and singling-out likelihood across 34 neuroimaging data types, spanning multiple imaging modalities and processing levels, from curated research data to maps, matrices, and summary tables. Expert ratings suggest that 38-67% of the assessed neuroimaging data types could be shared with minimal restrictions based on their intrinsic re-identification likelihood, subject to contextual safeguards. The resulting classification enables researchers to engage with relevant legal teams to guide the appropriate and safe release of data, and to determine the appropriate level of protection (licensing, access controls, governance) in line with domestic and international legal requirements, with the ultimate goal of facilitating international data exchange. A website (https://brainimagingprivacy.github.io/) has been created to facilitate the dissemination of these findings and related evidence among relevant parties.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32266v1",
+        "title": "Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant",
+        "url": "https://arxiv.org/abs/2611.32266v1",
+        "authors": [
+          "Mark Farinas",
+          "Alesandra Garcia",
+          "Maria Reyes",
+          "Jethro Nueva",
+          "Nawaf Qureshi",
+          "Mahmoud Elsaadany",
+          "Shokry Shamseldin"
+        ],
+        "published": "2026-11-24",
+        "summary": "In some educational institutions, workflows such as the exam deferral process can be slow, inconvenient, and inconsistent, which creates the need to implement novel digital systems. This paper presents Schedulater, a mobile app for managing university exam deferrals. JAMN Bot is a Large Language Model (LLM)-powered chatbot integrated into Schedulater that provides context-aware support to help users understand the deferral process. The system features a Retrieval-Augmented Generation (RAG) pipeline using Ollama (Llama 3.2 3B) for self-hosted inference which enables policy-grounded responses without sacrificing privacy. We evaluate the system using a 43-item benchmark spanning Exam Deferral, Privacy, Scheduling, Cross-Policy, and Adversarial & Out-of-Scope questions, and report inter-rater agreement among our human evaluators alongside retrieval hit-rate metrics. Subsequently, we utilize an LLM-as-a-judge approach with GPT-5.4, revealing slight-to-moderate alignment with our raters that improves with answer quality, and check the ranking against a panel including Gemini 3.5 Flash and Qwen3.5 397B. The results of our study display trade-offs between open-weight and frontier models, as well as LLM-human evaluation alignment with answer quality. Schedulater demonstrates the feasibility of integrating lightweight LLMs into university administrative workflows with structured retrieval.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.32050v1",
+        "title": "Do Clinician-Scored Examples Help LLMs Code ADOS-2 from Hour-Long Transcripts?",
+        "url": "https://arxiv.org/abs/2611.32050v1",
+        "authors": [
+          "Zeteng Lin",
+          "Yikang Liu",
+          "Bolin Zeng",
+          "Mengyuan Ding",
+          "Xihui Wu",
+          "Kangyou Li",
+          "Chengzhe Fu",
+          "Xin Wang"
+        ],
+        "published": "2026-11-24",
+        "summary": "Large language models can apply a written rubric to a transcript, making automated coding of the Autism Diagnostic Observation Schedule (ADOS-2) look within reach. A common way to align such a rater with clinicians is to show it expert-scored examples, but whether correct labels improve agreement is rarely tested. We test this for eight speech-based items of hour-long ADOS-2 Module 3 sessions from 48 children, with one local model and a pre-registered, placebo-controlled design. We compare few-shot scoring, an anchored comparison in which the model only judges a child better, similar or worse than scored anchors and a fixed rule gives the score, post-hoc calibration, protocol-based evidence routing and direct scoring of the full transcript. On 40 held-out children, agreement with clinicians was modest, with quadratic weighted kappa between 0.22 and 0.30. Replacing every example's label with a wrong one changed about a third of the few-shot predictions, more often towards the corrupted labels than chance, but did not lower agreement, 0.25 with correct and 0.23 with wrong labels. A larger second model did the same. The anchored comparison did not improve on few-shot scoring, its cross-child judgements were no more accurate than those implied by absolute scores, and routing did not help. Among the registered, uncalibrated arms, direct scoring of the full transcript agreed best at 0.30. Exploratory follow-up analyses found that the model's graded judgements ranked children better than its final scores, that existing batch calibration raised agreement to 0.46 on the same children, and that in controlled synthetic sessions scoring episodes separately did not beat calibrated whole-transcript scoring. Expert-scored examples do not by themselves calibrate model-based clinical raters, and claims of calibration or added pipeline complexity need corrupted-label controls and strong baselines.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31968v1",
+        "title": "Audits Need Access, Data, and Compute. But How Much?",
+        "url": "https://arxiv.org/abs/2611.31968v1",
+        "authors": [
+          "Salil Goyal",
+          "Sarah H. Cen",
+          "Daniel E. Ho"
+        ],
+        "published": "2026-11-24",
+        "summary": "AI audits have garnered significant attention in recent months, as the ability to test and monitor AI models plays a crucial role in safe development and deployment. However, AI audit success hinges on an auditor's authority; in particular, what information and resources they have at their disposal. Ongoing debates have surrounded the question: How much model access is needed to conduct an AI audit? Auditors seek more model access, while companies resist it for reasons related to confidential business information (trade secrets) and privacy. This tug-of-war remains unresolved. Further, this debate misses a related question: How much data and compute do auditors need? In this work, we systematically investigate both questions. We provide a framework that varies each of these three dimensions-model access, data, and compute-and measures their joint effect on audit success. We apply this framework to three tasks. We find that (1) some model access is important, but there can be diminishing returns; (2) data and compute matter more for traditional fairness audits, but model access matters more for manipulation and lie detection; and (3) these three resources can be fungible (i.e., an exchange rate exists between them), meaning that model access is not the only salient factor. These results suggest that audit governance should jointly consider different dimensions of auditor authority (including model access, data, and compute) in relation to audit objectives. These issues are particularly salient as we consider the spectrum of auditing setups, from a small ecosystem of embedded evaluators with significant access to a large body of third-party auditors with greater independence but limited access. Our framework serves as a template that can be applied to different audit tasks and inform the degree of auditor authority.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31960v1",
+        "title": "Typical-query energy figures mislead institutional AI electricity demand",
+        "url": "https://arxiv.org/abs/2611.31960v1",
+        "authors": [
+          "Nathan Garland",
+          "Ryan Heneghan"
+        ],
+        "published": "2026-11-24",
+        "summary": "Institutions increasingly buy large language model services, yet we still often estimate electricity use as single Wh-per-query value. We present the Surrogate Large Language Energy Emulator (SULLEE), an open bottom-up model linking token geometry, serving hardware, and workflow structure to annual institutional electricity, with uncertainty propagated by Monte Carlo simulation. When an institution multiplies a single reported \"typical\" per-query energy figure by its count of visible user prompts our modelling implies that this compounds two separable shortfalls: a right-skewed task-energy distribution not represented by any single scalar, and workflow amplification of each visible prompt into additional agent and tool calls. Together these imply an underestimate of total inference electricity by a factor of approximately 3.4 under present-day observed use, rising to approximately 15 under a 2030 high-integration scenario. Using Australian public universities as a case study, we show how the top 10% of highest-energy requests contributes over half of modelled institution-level energy use. We quantify how institution-level electricity demand may increase across three AI integration scenarios of: 1) a continuation of estimated present-day 2026 usage; 2) a high-uptake present-day 2026 institution, and 3) a potential 2030 uptake scenario - based on present trends of generative AI tools and their uptake. For a representative Australian university, mean annual electricity demand for AI inference purposes is projected to increase from 17.3 MWh (with a 3.1-47.1 MWh uncertainty, within P05-P95 scenario quartile ranges) under the 2026 observed-use scenario to up to 287.4 MWh (41.5-830.7 MWh) by 2030.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31927v1",
+        "title": "(No) Separation of Concerns: Philosophical Concerns about Agent Ethics and Implications for SE Practitioners",
+        "url": "https://arxiv.org/abs/2611.31927v1",
+        "authors": [
+          "Marc Cheong",
+          "Sebastian Baltes",
+          "Joanne Byrne",
+          "Haoyu Gao",
+          "Raula Gaikovina Kula",
+          "Sarita Rosenstock",
+          "Christoph Treude",
+          "Mansooreh Zahedi"
+        ],
+        "published": "2026-11-24",
+        "summary": "The use of AI agents in software engineering (SE) are commonplace, with differing levels of autonomy, a myriad of capabilities, and ability to perform a variety of tasks. Philosophers have begun to examine the ethics of such agents, and SE researchers or practitioners could benefit from them; on the other hand, SE practitioners currently explore most of these concerns through the lens of principlism. We bridge this gap by reviewing the philosophical literature on AI agents indexed in PhilPapers, and translating its ethical concerns into a research agenda for SE researchers and into implications for teams that use coding agents. A systematic mapping study of PhilPapers -- a major philosophy index and open access archive -- yielded 33 peer-reviewed papers by professional philosophers published since 2023. We coded these papers thematically, with cross-disciplinary review of the emerging themes, resulting in eight themes and 85 codes. From these, we derive seven research questions for SE, covering developers' reliance on agents, responsibility for agent-written code, ethical constraints in agent configurations, and benchmark design. For practitioners, we derive five implications: decide which choices an agent must refer to a human, keep agent-written pull requests small enough to review, pair configuration-file instructions with checks, watch for changes to tests, and record who approved what. We argue that ethical concerns cannot be separated from SE concerns into a module of their own: they arise inside code review, configuration, evaluation, and requirements work, and addressing them requires cross-disciplinary work.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31693v1",
+        "title": "Rapid Exploratory Maps and their potential role in supporting evidence-to-policy dialogues and processes",
+        "url": "https://arxiv.org/abs/2611.31693v1",
+        "authors": [
+          "Gareth J. Hollands",
+          "Ian Shemilt",
+          "James Thomas"
+        ],
+        "published": "2026-11-23",
+        "summary": "Producing useful evidence syntheses requires clearly formulated research questions linked to an understanding of their optimal scope. When policymakers (or other end users) commission or steer the production of systematic reviews or other evidence syntheses to fulfil a demand for evidence, these parameters are rarely specified sufficiently for production to proceed. Instead, these details are typically developed via a collaborative dialogic process involving evidence producers and users to ensure the resulting synthesis will meet users' needs. This process is informed by scoping and (more-or-less formally) mapping the existing evidence base, which can take many weeks or months, slowed by applying mostly manual processes to identify and characterise the evidence. Recent developments in artificial intelligence (AI) technologies have opened up new opportunities for more rapid, iterative, and responsive mapping of relevant evidence to support such early-stage evidence-to-policy dialogues and processes. In this article, we outline and characterise this emerging approach, termed Rapid Exploratory Maps (REMs). We also present two illustrative case studies drawn from first-hand experiences within a programme of evidence reviews production to inform government policy in England. While this approach could be transformative for the mapping process, its broader potential is as yet largely unassessed, and it confers important challenges and likely risks, as well as benefits. Determining whether REMs could usefully support more efficient ways of working with end users when developing and designing evidence syntheses will require continued development and careful evaluation.",
+        "source": "arXiv",
+        "pillar": "education"
+      },
+      {
+        "id": "http://arxiv.org/abs/2611.31541v1",
+        "title": "Where Agent Defenses Fail: A Case Study of Policy Compositions and Measurement Limits",
+        "url": "https://arxiv.org/abs/2611.31541v1",
+        "authors": [
+          "Kunwar Singh Sangram",
+          "Krishna Mohan Guda Nagavenkata Srinivasa"
+        ],
+        "published": "2026-11-23",
+        "summary": "A coding agent may need to upload a report while its sandbox blocks network access. A host mediator can restore delivery, but an injected instruction may add a secret to the approved request. We study this interaction using files and HTTP receipts to measure effects independently of control logs. Two prospective frozen-input cohorts comprise 110 and 300 runs on previously explored authored tasks. Restrictive sandboxing produces no observed attack harm but reduces benign utility to 6/8 and 12/24. Mediation restores uploads and admits disclosure; complete-line matching retains full benign utility but misses two value-only disclosures in the expanded cohort. A separate 72-run boundary study identifies encoded disclosure, observer misses, and formatting checks that obscure benign refusals. An 80-run SafeAgents/OpenShell follow-up shows that containment stops the tested guard misses among valid observations, while mediation restores benign uploads and delivers both encoded-attestation attacks. Twelve judge-error rows remain unscored. A separate response-capture diagnostic reproduces their failures at the native token budget. A 12-run exact-publication-contract experiment blocks both attacks but also rejects both benign formatting variants; a 4-run normalized follow-up restores both benign uploads while still rejecting both attacks. These small, single-model studies identify delivery-path and measurement limits; they do not establish general attack resistance.",
+        "source": "arXiv",
+        "pillar": "education"
+      }
+    ]
+  },
+  "editorial_brief": "# ☕ Daily Math-AI Brief — 2026-11-25\n\nToday's preprints feature notable progress in computer-assisted combinatorics alongside strong developments in formal verification architectures, including Lean 4 proof refactoring, entailment-graph autoformalization, and semantic verification of first-order logic translations.\n\n---\n\n### 1. Mathematical Results via AI\n\n* **[Resolution of Multicolor Permutation Wordle Conjecture via Koszul Resolutions]**\n  [Max-degree filtration, Koszul complexes, and Multicolor Permutation Wordle](https://arxiv.org/abs/2611.33113v1) — Lawren M. Smithline\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Resolves Conjecture 4.5 in Kutin and Smithline's work on Multicolor Permutation Wordle by proving that Koszul differentials are strict for max-degree filtrations on ideals generated by multivariate polynomials splitting into linear factors.\n  - **AI Connection:** Unspecified AI assistance claimed in abstract; architecture not detailed.\n\n---\n\n### 2. Theorem Proving & Reasoning Architectures\n\n* **[Lean 4 Machine-Checked Bounds for Safe Autoformalization via Entailment Graphs]**\n  [Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs](https://arxiv.org/abs/2611.31571v1) — Umut A. Acar, Eli Goldweber\n  - **Mathematical Impact:** (Score: 4 — Substantive Mathematical Contribution). Establishes a formal mathematical framework using Entailment Graphs (EGs) to bound autoformalization safety, proving tight sufficiency and necessity frontiers with machine-checked safety guarantees in Lean 4.\n  - **AI Connection:** LLMs generate candidate logic formulas, which are structured into an Entailment Graph and evaluated via an SMT solver or LLM entailment oracle; foundational safety theorems are machine-checked in Lean 4.\n\n* **[Neuro-Symbolic Automated Proof Refactoring in Lean 4]**\n  [Verified Proof Refactoring with Codex and Qwen](https://arxiv.org/abs/2611.31762v1) — Lazar Milikic, Gordan Đurić, Viktor Kunčak\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Implements an automated proof refactoring framework for Lean 4 that minimizes source code length and checking cost while preserving complete theorem statements and cross-version compiler compatibility.\n  - **AI Connection:** A local Qwen model combined with the OpenAI Codex CLI inspects Lean 4 source code, retrieves environment declarations, and generates candidate proof refactorings, which are deterministically checked for acceptance by Lean 4 across required target versions.\n\n* **[Semantic Validation of LLM First-Order Logic Translations via SMT Solvers]**\n  [FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics](https://arxiv.org/abs/2611.33078v1) — Yisrael Clark, Guy Katz\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Introduces a semantic firewall architecture that verifies natural-language-to-First-Order-Logic (FOL) translations by checking logical equivalence between deterministic linguistic readings and model outputs using SMT solvers.\n  - **AI Connection:** An SMT solver verifies the logical equivalence of candidate interpretations produced by deterministic tools (English Resource Grammar and Minimal Recursion Semantics) against LLM-generated FOL formulas, triggerable with iterative LLM repair loops.\n\n* **[Multi-Metric Formal Proof Dissimilarity Framework for Lean 4 and Proof Kernels]**\n  [How Far Apart Are Two Proofs? Measuring Proof Dissimilarity in a Proof Kernel and in Lean/Mathlib](https://arxiv.org/abs/2611.31811v1) — Nikolaos Nikolaou\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Formulates 19 formal dissimilarity metrics across syntactic, structural, semantic, dependency, and information-theoretic dimensions to measure distances between distinct formal proofs of the same theorem in Lean 4 / Mathlib and Curry-Howard kernels.\n  - **AI Connection:** Structural, dependency-closure, and semantic metrics are calculated over Lean 4 / Mathlib proof ASTs and Curry-Howard proof terms to evaluate machine-generated proofs and orchestrate prover agents.\n\n* **[Static Program Execution Cost Certification Verified in Lean 4]**\n  [CrossCheck II: A Compiler Plugin for Certified Cost Bounds of Real-Time C and C++ Code, and its Evaluation](https://arxiv.org/abs/2611.31449v1) — Luca Dall'Olio\n  - **Mathematical Impact:** (Score: 3 — Notable Methodology / Rigorous Tool). Synthesizes affine ranking potentials to establish certified upper bounds on C/C++ execution costs, emitting formal cost certificates verified by an executable Lean 4 checker.\n  - **AI Connection:** Classical symbolic computation / constraint solver (no neural AI).\n\n---\n\n### 3. AI in Mathematics Education\n\nNo qualifying submissions met the threshold today.\n\n---\n*Synthesized with `gemini-3.6-flash` on 2026-11-25 12:30:28 UTC*",
+  "synthesis_metadata": {
+    "model": "gemini-3.6-flash",
+    "generated_at": "2026-11-25T12:30:53.022960+00:00"
+  }
+}
